@@ -9,3 +9,9 @@ desktop.ini
 .tmp.driveupload/
 Thumbs.db
 .DS_Store
+
+# Unapproved outside input stays local until the owner approves it (PROCESS.md v2)
+proposals/pending/
+proposals/sources/
+proposals/declined/
+proposals/state.json

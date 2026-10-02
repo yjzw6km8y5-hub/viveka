@@ -21,5 +21,6 @@ and `PROGRESS.md`). Items that need a human reader of Sanskrit are listed at the
   is kept in DECISIONS.md; the work is in git history (commit 3a8a202).
 
 ## Runner notes
-- Outside input: run `python scripts/proposals.py import` each cycle. Imported items wait in `proposals/pending/` for the owner; never merge them into this file or CONTEXT.md yourself (CLAUDE.md section 11).
+- Do not read or import the AI Review Desk during cycles; outside input reaches this file only through the owner's approval (CLAUDE.md section 11).
+- Log every cycle in `logs/cycles.csv`. After 3 failed cycles in a row, pause and say why here (CLAUDE.md section 12).
 _(the runner writes here if it has to stop the project)_

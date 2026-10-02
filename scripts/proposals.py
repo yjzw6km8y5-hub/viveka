@@ -1,45 +1,62 @@
-"""Owner-approval gate for outside input (AI Review Desk -> proposals/ -> instruction files).
+"""Owner-approval gate for outside input, and the 8 PM health check (PROCESS.md v2).
 
-Nothing from the AI Review Desk is written to STATUS.md, CONTEXT.md or reviews/ until
-the owner approves it. Commands:
+Nothing from the AI Review Desk reaches STATUS.md, CONTEXT.md, PROCESS.md, PROJECT_BRIEF.md
+or reviews/ until the owner approves it. Unapproved items stay local (proposals/pending/ and
+proposals/sources/ are not committed). Every decision is logged in proposals/APPROVALS.md.
 
-  python scripts/proposals.py import            new desk files -> proposals/pending/
-  python scripts/proposals.py summary           plain-language list of pending proposals
-  python scripts/proposals.py approve [--except 2 5] [--push]
-                                                merge the proposals shown in the last summary
-                                                (except those numbers, which are declined)
-  python scripts/proposals.py restore 2         move a declined proposal back to pending
+  python scripts/proposals.py import            new or changed desk files -> local pending items
+  python scripts/proposals.py summary           Health section, then pending items in plain language
+  python scripts/proposals.py approve [--only 2] [--except 3 5] [--push]
+                                                merge items shown in the last summary; --except
+                                                declines those numbers; --only leaves the rest pending
+  python scripts/proposals.py decline 1 --reason "superseded"
+  python scripts/proposals.py restore 2         move a declined item back to pending
+  python scripts/proposals.py health            the Health section only
 
 The desk folder defaults to '../AI Review Desk/Viveka' next to the repo; set
-VIVEKA_REVIEW_DESK to override.
+VIVEKA_REVIEW_DESK to override. Times are local (America/Toronto on the owner's PC).
 """
-import argparse, datetime, difflib, hashlib, json, os, re, shutil, subprocess, sys
+import argparse, csv, datetime, difflib, hashlib, json, os, re, shutil, subprocess, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DESK = Path(os.environ.get("VIVEKA_REVIEW_DESK", ROOT.parent / "AI Review Desk" / "Viveka"))
 PROP = ROOT / "proposals"
 PENDING, APPROVED, DECLINED, SOURCES = (PROP / d for d in ("pending", "approved", "declined", "sources"))
-STATE = PROP / "state.json"
+STATE = PROP / "state.json"          # local
+APPROVALS = PROP / "APPROVALS.md"    # committed log of every decision
+CYCLES = ROOT / "logs" / "cycles.csv"
 
-TARGETS = {  # proposal kind -> (file, section heading)
+TARGETS = {  # kind -> (file, section heading)
     "must-fix": ("STATUS.md", "## Must-fix (from approved reviews; do these first)"),
     "should-fix": ("STATUS.md", "## Should-fix (from approved reviews)"),
     "idea": ("CONTEXT.md", "## Approved ideas from reviews"),
     "context": ("CONTEXT.md", "## Approved context updates"),
-    "file": ("reviews/", None),
     "doc": ("repo root", None),
+    "file": ("reviews/", None),
 }
-ROOT_DOCS = ("PROCESS.md", "PROJECT_BRIEF.md")  # shared documents that live at the repo root
-KIND_WORDS = {"must-fix": "must fix", "should-fix": "should fix", "idea": "idea",
-              "context": "context update", "file": "file to archive in reviews/",
-              "doc": "shared document"}
+KIND_WORDS = {"must-fix": "must fix", "should-fix": "should fix", "idea": "idea", "context": "context update",
+              "doc": "shared document", "file": "file to archive in reviews/"}
+ROOT_DOCS = ("PROCESS.md", "PROJECT_BRIEF.md")
+KINDS = {"must-fix": "must-fix", "must fix": "must-fix", "should-fix": "should-fix", "should fix": "should-fix",
+         "idea": "idea", "ideas": "idea"}
+
+# Health thresholds (PROCESS.md v2, gap 4)
+RUNNER_MAX_H, CODEX_MAX_H, OBSERVER_MAX_H, SUMMARY_MAX_H = 3, 3, 6, 26
+FAILED_IN_A_ROW = 3
+
+
+# ---------------------------------------------------------------- helpers
+def now():
+    return datetime.datetime.now().astimezone()
 
 
 def load_state():
-    if STATE.exists():
-        return json.loads(STATE.read_text(encoding="utf-8"))
-    return {"next_id": 1, "imported": {}, "last_listed": []}
+    st = json.loads(STATE.read_text(encoding="utf-8")) if STATE.exists() else {}
+    st.setdefault("imported", {}); st.setdefault("last_listed", []); st.setdefault("last_summary", None)
+    used = [int(p.name[:3]) for d in (PENDING, APPROVED, DECLINED) if d.exists() for p in d.glob("[0-9][0-9][0-9]-*.md")]
+    st["next_id"] = max([st.get("next_id", 1)] + [u + 1 for u in used])
+    return st
 
 
 def save_state(st):
@@ -51,23 +68,9 @@ def sha(text):
     return hashlib.sha256(text.encode("utf-8")).hexdigest()
 
 
-def write_proposal(st, kind, title, summary, body, source, extra=None):
-    pid = st["next_id"]
-    st["next_id"] += 1
-    meta = {"id": pid, "kind": kind, "target": TARGETS[kind][0], "title": title, "summary": summary,
-            "source": source, "imported": datetime.date.today().isoformat(), **(extra or {})}
-    PENDING.mkdir(parents=True, exist_ok=True)
-    slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")[:50] or "proposal"
-    path = PENDING / f"{pid:03d}-{slug}.md"
-    path.write_text("```json\n" + json.dumps(meta, ensure_ascii=False, indent=2) + "\n```\n\n" + body.strip() + "\n",
-                    encoding="utf-8", newline="\n")
-    return path
-
-
-def read_proposal(path):
-    text = path.read_text(encoding="utf-8")
-    m = re.match(r"```json\n(.*?)\n```\n\n(.*)", text, re.S)
-    return json.loads(m.group(1)), m.group(2)
+def canonical(name):
+    """'PROCESS (1).md' (a Drive re-upload) -> 'PROCESS.md'."""
+    return re.sub(r" \(\d+\)(?=\.\w+$)", "", name)
 
 
 def first_sentence(text, limit=160):
@@ -78,8 +81,33 @@ def first_sentence(text, limit=160):
     return s if len(s) <= limit else s[: limit - 1].rstrip() + "…"
 
 
+def write_proposal(st, kind, title, summary, body, source, extra=None):
+    pid = st["next_id"]
+    st["next_id"] += 1
+    meta = {"id": pid, "kind": kind, "target": TARGETS[kind][0], "title": title, "summary": summary,
+            "source": source, "imported": now().strftime("%Y-%m-%d %H:%M"), **(extra or {})}
+    PENDING.mkdir(parents=True, exist_ok=True)
+    slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")[:50] or "proposal"
+    path = PENDING / f"{pid:03d}-{slug}.md"
+    path.write_text("```json\n" + json.dumps(meta, ensure_ascii=False, indent=2) + "\n```\n\n" + body.strip() + "\n",
+                    encoding="utf-8", newline="\n")
+    return path
+
+
+def read_proposal(path):
+    m = re.match(r"```json\n(.*?)\n```\n\n(.*)", path.read_text(encoding="utf-8"), re.S)
+    return json.loads(m.group(1)), m.group(2)
+
+
+def pending():
+    if not PENDING.exists():
+        return []
+    return sorted((read_proposal(p) + (p,) for p in PENDING.glob("*.md")), key=lambda t: t[0]["id"])
+
+
 def split_review(text):
-    """Observer review -> [(kind, title, body)] from its must-fix / should-fix / idea sections."""
+    """Review -> [(kind, title, body)]. Understands '## must-fix' sections with '### Title' items,
+    and bullet items like '- **Must-fix — Title.** body'."""
     items, kind, title, buf = [], None, None, []
 
     def flush():
@@ -90,102 +118,196 @@ def split_review(text):
     for line in text.splitlines():
         h2 = re.match(r"##\s+(.+?)\s*$", line)
         h3 = re.match(r"###\s+(.+?)\s*$", line)
-        if h2 and not line.startswith("###"):
+        bullet = re.match(r"-\s+\*\*(must[- ]fix|should[- ]fix|ideas?)\s*[—–:-]\s*(.+?)\*\*\s*(.*)$", line, re.I)
+        if bullet:
             flush()
-            name = h2.group(1).strip().lower()
-            kind = {"must-fix": "must-fix", "must fix": "must-fix", "should-fix": "should-fix",
-                    "should fix": "should-fix", "idea": "idea", "ideas": "idea"}.get(name)
-            title, buf = None, []
+            kind, title, buf = KINDS[bullet.group(1).lower()], bullet.group(2).strip().rstrip("."), [bullet.group(3)]
+        elif h2 and not line.startswith("###"):
+            flush()
+            kind, title, buf = KINDS.get(h2.group(1).strip().lower()), None, []
         elif h3 and kind:
             flush()
             title, buf = h3.group(1).strip(), []
         elif kind:
-            buf.append(line)
+            if title and buf and re.match(r"-\s+\*\*", line):  # next bullet of another type ends the item
+                flush()
+                kind, title, buf = None, None, []
+            else:
+                buf.append(line)
     flush()
     return items
 
 
 def item_summary(body):
-    m = re.search(r"Next action:\s*(.+)", body)
+    m = re.search(r"(?:Next action|Proposed action):\s*(.+)", body)
     return first_sentence(m.group(1) if m else body)
 
 
+def log_decision(rows):
+    """rows: [(date, source, id, title, decision)] -> proposals/APPROVALS.md"""
+    if not APPROVALS.exists():
+        APPROVALS.write_text("# Approvals\n\nEvery owner decision on outside input (PROCESS.md v2, gap 2).\n\n"
+                             "| Date | Source file | # | Finding | Decision |\n|---|---|---:|---|---|\n",
+                             encoding="utf-8", newline="\n")
+    with APPROVALS.open("a", encoding="utf-8", newline="\n") as f:
+        for d, src, pid, title, dec in rows:
+            f.write(f"| {d} | {src} | {pid} | {title.replace('|', '/')} | {dec} |\n")
+
+
+# ---------------------------------------------------------------- import
 def cmd_import(args):
     if not DESK.is_dir():
-        sys.exit(f"Review Desk folder not found ({DESK.name}); set VIVEKA_REVIEW_DESK.")
+        sys.exit("Review Desk folder not found; set VIVEKA_REVIEW_DESK.")
     st = load_state()
     made = []
-    for f in sorted(DESK.iterdir()):
+    for f in sorted(DESK.iterdir(), key=lambda p: p.stat().st_mtime):
         if not f.is_file() or f.suffix.lower() not in (".md", ".txt"):
             continue
         text = f.read_text(encoding="utf-8", errors="replace")
         digest = sha(text)
         if st["imported"].get(f.name) == digest:
             continue
-        source = f"AI Review Desk/Viveka/{f.name}"
+        name, source = canonical(f.name), f"AI Review Desk/Viveka/{f.name}"
+        SOURCES.mkdir(parents=True, exist_ok=True)
+        snap = SOURCES / name
+        old = snap.read_text(encoding="utf-8") if snap.exists() else None
         if f.name in (args.baseline or []):  # already handled by the owner: only later changes are proposed
-            SOURCES.mkdir(parents=True, exist_ok=True)
-            (SOURCES / f.name).write_text(text, encoding="utf-8", newline="\n")
-        elif "_observer_" in f.name or "review" in f.name.lower():
-            snap = SOURCES / f.name
-            SOURCES.mkdir(parents=True, exist_ok=True)
+            snap.write_text(text, encoding="utf-8", newline="\n")
+        elif name in ROOT_DOCS:
+            snap.write_text(text, encoding="utf-8", newline="\n")
+            heading = first_sentence(text.lstrip("# "), 100)
+            diff = "\n".join(difflib.unified_diff((old or "").splitlines(), text.splitlines(),
+                                                  f"previous {name}", f"new {name}", lineterm=""))
+            made.append(write_proposal(st, "doc", f"{'Update' if old else 'Add'} {name}",
+                                       f"{'Replace' if old else 'Add'} {name} at the repo root: \"{heading}\"",
+                                       text + "\n\nChange:\n\n```diff\n" + diff + "\n```", source, {"doc_file": name}))
+        elif name.upper().startswith("CONTEXT"):
+            new = text.splitlines()
+            added = [l[1:] for l in difflib.unified_diff((old or "").splitlines(), new, lineterm="", n=0)
+                     if l.startswith("+") and not l.startswith("+++") and l[1:].strip()]
+            snap.write_text(text, encoding="utf-8", newline="\n")
+            if added:
+                diff = "\n".join(difflib.unified_diff((old or "").splitlines(), new, f"previous {name}", f"new {name}", lineterm=""))
+                body = "Lines to add to CONTEXT.md:\n\n" + "\n".join(added) + "\n\nFull change:\n\n```diff\n" + diff + "\n```"
+                made.append(write_proposal(st, "context", f"Context update from {name}",
+                                           f"{len(added)} new or changed lines, e.g. \"{first_sentence(added[0].lstrip('-# '), 100)}\"",
+                                           body, source))
+        else:
             snap.write_text(text, encoding="utf-8", newline="\n")
             items = split_review(text)
             for kind, title, body in items:
-                made.append(write_proposal(st, kind, title, item_summary(body), body, source,
-                                           {"review_file": f.name}))
+                made.append(write_proposal(st, kind, title, item_summary(body), body, source, {"review_file": name}))
             if not items:
-                made.append(write_proposal(st, "file", f"Archive {f.name}", "No must-fix, should-fix or idea "
-                                           "sections found; approving archives it in reviews/.", text, source,
-                                           {"review_file": f.name}))
-        elif f.name.upper().startswith("CONTEXT"):
-            snap = SOURCES / f.name
-            old = snap.read_text(encoding="utf-8").splitlines() if snap.exists() else []
-            new = text.splitlines()
-            added = [l[1:] for l in difflib.unified_diff(old, new, lineterm="", n=0)
-                     if l.startswith("+") and not l.startswith("+++") and l[1:].strip()]
-            SOURCES.mkdir(parents=True, exist_ok=True)
-            snap.write_text(text, encoding="utf-8", newline="\n")
-            if added:
-                diff = "\n".join(difflib.unified_diff(old, new, f"previous {f.name}", f"new {f.name}", lineterm=""))
-                body = "Lines to add to CONTEXT.md:\n\n" + "\n".join(added) + "\n\nFull change:\n\n```diff\n" + diff + "\n```"
-                made.append(write_proposal(st, "context", f"Context update from {f.name}",
-                                           f"{len(added)} new or changed lines from {f.name}, e.g. "
-                                           f"\"{first_sentence(added[0].lstrip('-# '), 100)}\"", body, source))
-        elif f.name in ROOT_DOCS:
-            snap = SOURCES / f.name
-            old = snap.read_text(encoding="utf-8").splitlines() if snap.exists() else []
-            SOURCES.mkdir(parents=True, exist_ok=True)
-            snap.write_text(text, encoding="utf-8", newline="\n")
-            diff = "\n".join(difflib.unified_diff(old, text.splitlines(), f"previous {f.name}", f"new {f.name}", lineterm=""))
-            made.append(write_proposal(st, "doc", f"{'Update' if old else 'Add'} {f.name}",
-                                       f"{'Replace' if old else 'Add'} {f.name} at the repo root: \"{first_sentence(text.lstrip('# '), 100)}\"",
-                                       text + "\n\nChange:\n\n```diff\n" + diff + "\n```", source, {"doc_file": f.name}))
-        else:
-            made.append(write_proposal(st, "file", f"Archive {f.name}", f"Unrecognised desk file; approving "
-                                       "archives it in reviews/.", text, source, {"review_file": f.name}))
+                made.append(write_proposal(st, "file", f"Archive {name}", "No must-fix, should-fix or idea items "
+                                           "found; approving archives it in reviews/.", text, source, {"review_file": name}))
         st["imported"][f.name] = digest
     save_state(st)
-    print(f"{len(made)} new proposal(s) imported." + "".join(f"\n  {p.name}" for p in made))
+    print(f"{len(made)} new item(s) imported." + "".join(f"\n  {p.name}" for p in made))
 
 
-def pending():
-    return sorted((read_proposal(p) + (p,) for p in PENDING.glob("*.md")), key=lambda t: t[0]["id"])
+# ---------------------------------------------------------------- health
+def when(t):
+    if t is None:
+        return "never"
+    d = (now().date() - t.date()).days
+    day = "today" if d == 0 else "yesterday" if d == 1 else t.strftime("%Y-%m-%d")
+    return f"{day} {t.strftime('%H:%M')}"
 
 
+def mtime(p):
+    return datetime.datetime.fromtimestamp(p.stat().st_mtime).astimezone()
+
+
+def hours_since(t):
+    return (now() - t).total_seconds() / 3600 if t else None
+
+
+def read_cycles():
+    if not CYCLES.exists():
+        return []
+    with CYCLES.open(encoding="utf-8", newline="") as f:
+        return [r for r in csv.DictReader(f) if r.get("time")]
+
+
+def health_rows(st):
+    rows = []  # (ok, label, last_worked, why_if_cross)
+    cycles = read_cycles()
+    parse = lambda s: datetime.datetime.fromisoformat(s).astimezone()
+    oks = [parse(r["time"]) for r in cycles if r["result"] == "ok"]
+    last_ok = max(oks) if oks else None
+    streak = 0
+    for r in reversed(cycles):
+        if r["result"] == "failed":
+            streak += 1
+        elif r["result"] in ("ok", "resume"):
+            break
+    paused = cycles and cycles[-1]["result"] == "paused"
+    if not cycles:
+        rows.append((False, "Runner cycle", "never", "No cycle has been logged in logs/cycles.csv yet."))
+    elif paused or streak >= FAILED_IN_A_ROW:
+        last = cycles[-1]
+        rows.append((False, "Runner cycle", when(last_ok),
+                     f"Paused after {max(streak, FAILED_IN_A_ROW)} failed cycles in a row ({last.get('reason') or 'see STATUS.md'}); reply \"resume\" to restart."))
+    elif hours_since(last_ok) is None or hours_since(last_ok) > RUNNER_MAX_H:
+        rows.append((False, "Runner cycle", when(last_ok), f"No successful cycle in the last {RUNNER_MAX_H} hours."))
+    else:
+        rows.append((True, "Runner cycle", when(last_ok), ""))
+
+    reviews = [p for p in (ROOT / "reviews").glob("*cycle*.md")] if (ROOT / "reviews").exists() else []
+    last_codex = max((mtime(p) for p in reviews), default=None)
+    ok = last_codex is not None and hours_since(last_codex) <= CODEX_MAX_H
+    rows.append((ok, "Codex review", when(last_codex), "" if ok else f"No Codex review saved in reviews/ in the last {CODEX_MAX_H} hours."))
+
+    desk_ok = DESK.is_dir()
+    obs = [p for p in DESK.glob("*_observer_*.md")] if desk_ok else []
+    last_obs = max((mtime(p) for p in obs), default=None)
+    ok = last_obs is not None and hours_since(last_obs) <= OBSERVER_MAX_H
+    why = "The AI Review Desk folder cannot be read." if not desk_ok else f"No observer review has arrived in the last {OBSERVER_MAX_H} hours."
+    rows.append((ok, "ChatGPT observer review received", when(last_obs), "" if ok else why))
+
+    items = pending()
+    oldest = min((m["imported"] for m, _, _ in items), default=None)
+    rows.append((desk_ok, "Pending proposals", f"{len(items)} pending" + (f", oldest imported {oldest}" if oldest else ""),
+                 "" if desk_ok else "The AI Review Desk folder cannot be read, so new items cannot be imported."))
+
+    rows.append((ok, "Scheduled task: ChatGPT observer (every 2 hours)", when(last_obs),
+                 "" if ok else f"Judged by its saved reviews: none in the last {OBSERVER_MAX_H} hours."))
+    prev = datetime.datetime.fromisoformat(st["last_summary"]) if st.get("last_summary") else None
+    ok = prev is None or hours_since(prev) <= SUMMARY_MAX_H
+    rows.append((ok, "Scheduled task: 8 PM summary", when(prev) if prev else "first run",
+                 "" if ok else f"The previous summary ran more than {SUMMARY_MAX_H} hours ago, so at least one evening was missed."))
+    return rows
+
+
+def print_health(st):
+    print("Health")
+    for ok, label, last, why in health_rows(st):
+        print(f"{'✔' if ok else '✘'} {label}: last worked {last}" if "pending" not in last else f"{'✔' if ok else '✘'} {label}: {last}")
+        if not ok:
+            print(f"   Why: {why}")
+
+
+def cmd_health(_):
+    print_health(load_state())
+
+
+# ---------------------------------------------------------------- summary and approval
 def cmd_summary(_):
     st = load_state()
+    print_health(st)
+    print()
     items = pending()
     st["last_listed"] = [m["id"] for m, _, _ in items]
+    st["last_summary"] = now().isoformat(timespec="minutes")
     save_state(st)
     if not items:
-        print("No pending proposals.")
+        print("No pending proposals tonight.")
         return
     print(f"{len(items)} pending proposal(s) from the AI Review Desk. Nothing has been merged yet.\n")
     for m, _, _ in items:
         print(f"{m['id']}. {m['title']} ({KIND_WORDS[m['kind']]}, would go into {m['target']}; from {m['source'].split('/')[-1]})")
         print(f"   {m['summary']}")
-    print('\nReply "approve" to merge all of these, or "approve except 2" to decline some.')
+    print('\nReply "approve" to merge all of these, or "approve except 2" to leave some out.')
 
 
 def insert_under(path, heading, block):
@@ -204,37 +326,42 @@ def insert_under(path, heading, block):
     path.write_text(text, encoding="utf-8", newline="\n")
 
 
+def git(*a):
+    exe = shutil.which("git") or r"C:\Program Files\Git\cmd\git.exe"
+    subprocess.run([exe, *a], cwd=ROOT, check=True)
+
+
 def cmd_approve(args):
     st = load_state()
     listed = set(st.get("last_listed", []))
     if not listed:
         sys.exit("Nothing to approve: run 'summary' first so the owner sees exactly what is being approved.")
-    declined = set(args.except_ or [])
-    bad = declined - listed
+    declined, only = set(args.except_ or []), set(args.only or [])
+    bad = (declined | only) - listed
     if bad:
         sys.exit(f"Not in the last summary: {sorted(bad)}")
-    today = datetime.date.today().isoformat()
-    touched, merged, refused, reviews = set(), [], [], {}
+    today = now().strftime("%Y-%m-%d")
+    touched, merged, refused, reviews, log = set(), [], [], {}, []
     APPROVED.mkdir(parents=True, exist_ok=True)
     DECLINED.mkdir(parents=True, exist_ok=True)
     for m, body, path in pending():
-        if m["id"] not in listed:
-            continue  # arrived after the summary; waits for the next one
+        if m["id"] not in listed or (only and m["id"] not in only and m["id"] not in declined):
+            continue  # arrived after the summary, or not part of this decision: stays pending
+        src = m["source"].split("/")[-1]
         if m["id"] in declined:
             shutil.move(str(path), DECLINED / path.name)
             refused.append(m["id"])
+            log.append((today, src, m["id"], m["title"], "rejected"))
             continue
         target, heading = TARGETS[m["kind"]]
-        src = m["source"].split("/")[-1]
         if m["kind"] in ("must-fix", "should-fix", "idea"):
-            na = re.search(r"Next action:\s*(.+)", body)
-            block = f"- **{m['title']}** ({src}, approved {today}): {first_sentence(na.group(1), 400) if na else m['summary']}"
-            insert_under(ROOT / target, heading, block)
+            na = re.search(r"(?:Next action|Proposed action):\s*(.+)", body)
+            text = first_sentence(na.group(1), 400) if na else m["summary"]
+            insert_under(ROOT / target, heading, f"- **{m['title']}** ({src}, approved {today}): {text}")
             touched.add(target)
         elif m["kind"] == "context":
             lines = body.split("Lines to add to CONTEXT.md:\n\n", 1)[1].split("\n\nFull change:", 1)[0]
-            # outside headings must not restructure CONTEXT.md; keep them as bold lines
-            lines = re.sub(r"(?m)^#+\s*(.+)$", r"**\1**", lines)
+            lines = re.sub(r"(?m)^#+\s*(.+)$", r"**\1**", lines)  # outside headings must not restructure CONTEXT.md
             insert_under(ROOT / target, heading, f"### From {src} (approved {today})\n{lines}")
             touched.add(target)
         elif m["kind"] == "doc":
@@ -244,26 +371,39 @@ def cmd_approve(args):
         if m.get("review_file"):
             reviews.setdefault(m["review_file"], []).append(m["id"])
         shutil.move(str(path), APPROVED / path.name)
+        touched.add(f"proposals/approved/{path.name}")
         merged.append(m["id"])
+        log.append((today, src, m["id"], m["title"], "approved"))
     for name, ids in reviews.items():  # archive the full review once any of its items is approved
-        snap = SOURCES / name
-        if not snap.exists():
-            snap = DESK / name
         dest = ROOT / "reviews" / name
         dest.parent.mkdir(exist_ok=True)
-        dest.write_text(f"_Imported from the AI Review Desk; owner approved proposals {ids} on {today}._\n\n"
-                        + snap.read_text(encoding="utf-8"), encoding="utf-8", newline="\n")
+        dest.write_text(f"_Imported from the AI Review Desk; owner approved items {ids} on {today}._\n\n"
+                        + (SOURCES / name).read_text(encoding="utf-8"), encoding="utf-8", newline="\n")
         touched.add(f"reviews/{name}")
-    st["last_listed"] = []
+    if log:
+        log_decision(log)
+        touched.add("proposals/APPROVALS.md")
+    st["last_listed"] = [i for i in st["last_listed"] if i not in merged and i not in refused] if only else []
     save_state(st)
-    print(f"Approved and merged: {merged or 'none'}. Declined: {refused or 'none'}. Files changed: {sorted(touched) or 'none'}")
-    if args.push and (merged or refused):
-        git = shutil.which("git") or r"C:\Program Files\Git\cmd\git.exe"
-        msg = f"Merge owner-approved proposals {merged}" + (f"; declined {refused}" if refused else "")
-        subprocess.run([git, "add", "proposals", *sorted(touched)], cwd=ROOT, check=True)
-        subprocess.run([git, "commit", "-q", "-m", msg], cwd=ROOT, check=True)
-        subprocess.run([git, "push", "-q", "origin", "HEAD"], cwd=ROOT, check=True)
+    print(f"Approved and merged: {merged or 'none'}. Rejected: {refused or 'none'}. Files changed: {sorted(touched) or 'none'}")
+    if args.push and log:
+        git("add", *sorted(touched))
+        git("commit", "-q", "-m", f"Merge owner-approved proposals {merged}" + (f"; rejected {refused}" if refused else ""))
+        git("push", "-q", "origin", "HEAD")
         print("Committed and pushed.")
+
+
+def cmd_decline(args):
+    today = now().strftime("%Y-%m-%d")
+    DECLINED.mkdir(parents=True, exist_ok=True)
+    for pid in args.ids:
+        hits = list(PENDING.glob(f"{pid:03d}-*.md"))
+        if not hits:
+            sys.exit(f"No pending proposal {pid}.")
+        m, _ = read_proposal(hits[0])
+        shutil.move(str(hits[0]), DECLINED / hits[0].name)
+        log_decision([(today, m["source"].split("/")[-1], pid, m["title"], f"rejected: {args.reason}")])
+        print(f"Declined {pid}: {m['title']}")
 
 
 def cmd_restore(args):
@@ -275,16 +415,23 @@ def cmd_restore(args):
 
 
 def main():
+    sys.stdout.reconfigure(encoding="utf-8")  # ticks and crosses survive Windows pipes
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = ap.add_subparsers(dest="cmd", required=True)
     i = sub.add_parser("import")
     i.add_argument("--baseline", nargs="+", metavar="FILE", help="desk files the owner has already handled")
     i.set_defaults(fn=cmd_import)
     sub.add_parser("summary").set_defaults(fn=cmd_summary)
+    sub.add_parser("health").set_defaults(fn=cmd_health)
     a = sub.add_parser("approve")
     a.add_argument("--except", dest="except_", type=int, nargs="*")
+    a.add_argument("--only", type=int, nargs="*")
     a.add_argument("--push", action="store_true")
     a.set_defaults(fn=cmd_approve)
+    d = sub.add_parser("decline")
+    d.add_argument("ids", type=int, nargs="+")
+    d.add_argument("--reason", required=True)
+    d.set_defaults(fn=cmd_decline)
     r = sub.add_parser("restore")
     r.add_argument("id", type=int)
     r.set_defaults(fn=cmd_restore)

@@ -53,6 +53,9 @@ Owner decisions are marked as decisions. Reviewer suggestions stay proposals unt
 - PROJECT_BRIEF.md does not exist yet. Until it does, this file and CLAUDE.md section 10 are the brief.
 
 ## Review process
+- The build-and-review loop is in PROCESS.md (v2, approved 2026-10-02).
+- Order of authority, highest first: the owner's latest approved decision, DECISIONS.md, CONTEXT.md, PROCESS.md, STATUS.md. PROGRESS.md is history only.
+- Outside input waits in proposals/ for the owner's approval; every decision is logged in proposals/APPROVALS.md.
 - All reviews are stored in `reviews/` (builder-cycle reviews) or `AI Review Desk/Viveka/` (observer reviews), labelled must-fix / should-fix / idea.
 - Before every review, read PROJECT_BRIEF.md (if present), CONTEXT.md, DECISIONS.md, STATUS.md and the latest reviews.
 - Update this file only for newly confirmed owner decisions.

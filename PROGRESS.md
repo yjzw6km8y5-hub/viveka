@@ -211,3 +211,6 @@ Every record is `review_status: "draft"`. Nothing has been reviewed by a person 
    - chapter 13's realigned Rāmānuja commentary
 3. Optionally, a second openly licensed commentary source to fill the gaps in
    school notes (2.59-2.72, 18.78, and the verses where Madhva is sparse).
+
+## Process (2026-10-02)
+- PROCESS.md v2 adopted; proposals gate with APPROVALS.md; Health section in the 8 PM summary; cycle log and pause rule (CLAUDE.md sections 11-12). Pending for the owner tonight: PROCESS.md v3, six findings from PROCESS_AGREEMENT_chatgpt.md, and two re-queued observer items.
