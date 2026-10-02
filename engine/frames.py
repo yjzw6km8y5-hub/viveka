@@ -93,7 +93,8 @@ FRAMES = {
          r"\bspiritual life\b", r"\bgive up everything\b"],
         ["renounce-selfishness-not-the-world", "two-paths-both-lead", "hold-both-together", "full-renunciation-path"]),
     "witness_wrong": (
-        [r"\bcorrupt", r"\bfraud\b", r"\bbribe", r"\bunethical\b", r"\bcover(?:ing)? up\b", r"\bwhistle", r"\breport (?:it|him|her|them)\b",
+        [r"\bcorrupt", r"\bfraud\b", r"\bbribe", r"\bunethical\b", r"\boffered me a gift\b", r"\bto raise (?:his|her|their) grade\b",
+         r"\bfeels wrong\b", r"\bcover(?:ing)? up\b", r"\bwhistle", r"\breport (?:it|him|her|them)\b",
          r"\bbully(?:ing)?\b"],
         ["duty-of-protection", "honesty", "clear-understanding", "fearlessness"]),
     "peer_pressure": (
@@ -177,6 +178,49 @@ FRAMES = {
         [r"\bin jail\b", r"\bin prison\b", r"\barrested\b", r"\bconvicted\b", r"\bfamily (?:is )?ashamed\b",
          r"\bdisgrace(?:d)? (?:the|our) family\b"],
         ["even-the-wrongdoer-can-cross", "same-regard-for-all", "no-hatred", "reflect-then-choose", "name-the-confusion"]),
+    "existential": (
+        [r"\bgod exists?\b", r"\bis there a god\b", r"\bmeaning of life\b", r"\bwhy are we here\b", r"\bwhat is the self\b",
+         r"\bwho am i\b"],
+        ["persist-in-the-real-question", "humility-before-the-unknown", "not-knowing-is-part-of-knowing",
+         "reasoning-alone-is-not-enough", "respect-different-paths"]),
+    "unappreciated": (
+        [r"\bnobody thanks\b", r"\bno one thanks\b", r"\bunappreciated\b", r"\btaken for granted\b", r"\bno recognition\b",
+         r"\bnot appreciated\b"],
+        ["no-recognition-seeking", "give-without-expecting-return", "purity-of-intention", "work-not-results"]),
+    "selfishness": (
+        [r"\bselfish\b", r"\bput myself first\b", r"\bself-care\b", r"\bmy own needs\b"],
+        ["self-as-friend", "moderation-in-living", "dharmic-desire-is-legitimate", "renounce-selfishness-not-the-world",
+         "work-for-the-good-of-all"]),
+    "worry_control": (
+        [r"\bcan'?t control\b", r"\bcannot control\b", r"\bout of my control\b", r"\bstop worrying\b", r"\bworry(?:ing)? about\b"],
+        ["work-not-results", "giving-up-fruit-brings-peace", "not-the-sole-doer", "calm-before-clarity", "trust-alongside-effort"]),
+    "criticised": (
+        [r"\bcritici[sz]", r"\bblames? me\b", r"\beveryone blames\b", r"\bfreeze\b"],
+        ["honour-and-dishonour-alike", "praise-and-blame-alike", "not-the-sole-doer", "steadiness-under-pressure",
+         "calm-before-clarity"]),
+    "relapse": (
+        [r"\bsober\b", r"\brelaps", r"\bhad a drink\b", r"\bfell off the wagon\b", r"\bslipped (?:up|back)\b", r"\bthrown everything away\b"],
+        ["effort-never-wasted", "guard-your-gains", "even-the-wrongdoer-can-cross", "graded-practice", "steady-practice"]),
+    "spending": (
+        [r"\bshopping\b", r"\bcredit card\b", r"\bimpulse buy", r"\bbuy(?:ing)? things\b", r"\bspend(?:ing)? too much\b"],
+        ["contact-pleasures-end", "withstand-the-surge", "chariot-of-the-mind", "wealth-never-satisfies", "pleasant-versus-good"]),
+    "health_limits": (
+        [r"\bmy doctor (?:says|said|told)\b", r"\bslow down\b", r"\bmy health\b", r"\bheart attack\b"],
+        ["moderation-in-living", "more-than-body-and-roles", "keep-contributing", "see-the-pain-of-ageing-clearly"]),
+    "prejudice": (
+        [r"\bcaste\b", r"\bdifferent community\b", r"\bdiscriminat", r"\bprejudice\b", r"\bdisability\b", r"\bbad karma\b"],
+        ["equal-dignity", "respect-different-paths", "seeing-oneness", "more-than-body-and-roles", "meet-people-where-they-are"]),
+    "violence_justification": (
+        [r"\bkrishna told\b", r"\bgita says\b", r"\bshould i fight\b", r"\bfight my (?:cousins?|brothers?|relatives|family|neighbou?rs?)\b",
+         r"\bjustif(?:y|ied) (?:violence|hurting)\b"],
+        ["non-violence", "weigh-consequences-and-capacity", "clear-understanding", "three-gates", "desire-anger-chain"]),
+    "parting": (
+        [r"\bmoving (?:abroad|away)\b", r"\bfor good\b", r"\bleaving (?:the country|for good)\b", r"\bsaying goodbye\b"],
+        ["honour-the-grief-first", "impermanence", "nourish-one-another", "bear-what-comes-and-goes"]),
+    "distress": (
+        [],  # set when the person shows distress: gentle, non-demanding principles first
+        ["honour-the-grief-first", "ask-for-help-when-lost", "states-arise-and-pass", "every-reason-to-seek-is-valid",
+         "small-practice-protects"]),
     "danger": (
         [],  # set by understand(): danger cues
         # Lead with the person's own choice and courage; avoid verses of self-reproach.
@@ -184,12 +228,14 @@ FRAMES = {
 }
 
 
-def detect_frames(text, danger=False):
+def detect_frames(text, danger=False, distress=False):
     t = text.lower().replace("’", "'")
     found = []
     for fid, (cues, _) in FRAMES.items():
         if any(re.search(c, t) for c in cues):
             found.append(fid)
+    if distress and not danger:
+        found = ["distress"] + found
     if danger:
         found = ["danger"] + [f for f in found if f not in ("danger",)]
     return found
@@ -201,9 +247,15 @@ PRIMARY = {"decision": 1.4, "danger": 2.0, "fatalism": 1.4, "burnout": 1.3, "dea
            "impostor": 1.2, "loneliness": 1.2, "renounce_wish": 1.3, "witness_wrong": 1.3, "spiritual_doubt": 1.4,
            "coercive_authority": 2.0, "friendship_hurt": 1.3, "controlling": 1.4, "lending": 1.3,
            "i_hurt_someone": 1.3, "revenge": 1.5, "risky_choice": 1.5, "difficult_conversation": 1.3,
-           "parent_child": 1.3}
+           "parent_child": 1.3, "existential": 1.4, "unappreciated": 1.4, "selfishness": 1.4, "worry_control": 1.3,
+           "criticised": 1.3, "relapse": 1.5, "spending": 1.4, "health_limits": 1.3, "prejudice": 1.4,
+           "violence_justification": 2.0, "parting": 1.2, "distress": 1.6}
 # Principles that must not be offered when a frame is present (they would serve the wrong party).
-FRAME_EXCLUDE = {"coercive_authority": {"learn-from-those-who-know", "loving-without-clinging", "full-renunciation-path",
+FRAME_EXCLUDE = {"distress": {"dont-quit-because-its-hard", "arise-and-awake", "procrastination-as-a-state",
+                              "fortitude-that-holds", "self-as-friend", "know-it-in-this-life"},
+                 "violence_justification": {"duty-of-protection", "nature-and-the-inner-controller", "your-nature-shapes-you"},
+                 "prejudice": {"your-nature-shapes-you", "nature-and-the-inner-controller", "own-path-over-imitation"},
+                 "coercive_authority": {"learn-from-those-who-know", "loving-without-clinging", "full-renunciation-path",
                                         "faith-and-doubt", "ego-that-will-not-listen"}}
 
 

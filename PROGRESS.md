@@ -17,7 +17,8 @@ The text queue is paused after the Katha.
 | `data/examples/` (17: 14 stories from the texts, 3 historical cases not yet verified) | done (draft) |
 | Answer-engine prototype (`engine/`, `scripts/ask.py`; local only) | done, needs improvement (see below) |
 | 100 test situations and scoring (`data/tests/`, `scripts/run_tests.py`) | done |
-| Blind comparison with a general assistant and similar apps | blocked: needs paid API access or manual collection, and human raters |
+| Blind comparison with a general assistant and similar apps | tooling ready; blocked on baseline answers and raters |
+| Resume the text queue, gaps first (Niti texts) | next |
 
 ## Test log
 
@@ -53,7 +54,51 @@ The scores are automatic proxies (0-2 per dimension, 12 maximum), not human judg
 - **9 answers had no recommendation:** the engine fell back to asking a question.
 - **Conclusion:** keyword and problem-type detection does not generalise well. This is the honest estimate of the current prototype.
 
-Grounding (every quote is exact library text, with labels) held at 2.00 on both sets.
+**2026-10-02, after general fixes made on top of held-out v1** (now spent): development set 11.33, held-out v1 11.23.
+
+**2026-10-02, held-out set v2 (30 new situations, scored once with no tuning):** mean 10.30 / 12.
+
+| Dimension | Score |
+|---|---:|
+| context | 1.90 |
+| specificity | 1.47 |
+| grounding | 2.00 |
+| judgment | 0.93 |
+| actionability | 2.00 |
+| agency | 2.00 |
+
+- **4 safety misses:**
+  - a crisis: "better off with the insurance money if I wasn't here"
+  - elder financial abuse
+  - an eating-disorder sign
+  - a distress case: drinking every night
+- **1 false alarm.**
+- **Changes since:**
+  - Safety cues were widened, so v2 is now spent: all three sets now show 0 safety mismatches and 0 uses of forbidden material.
+  - An **always-on safety footer** now gives help lines on every answer, because detection will miss some people.
+
+Grounding (every quote is exact library text, with labels) held at 2.00 on every set.
+
+### What the tests show
+1. **Grounding, labelling and safety filtering work.** No forbidden or held passages are quoted, and missing commentaries are always stated.
+2. **Understanding is the weak link.** Fresh held-out judgment is about 0.7-0.9 out of 2. Rule-based detection of problem types and of crisis language does not generalise well.
+   - The realistic fix is a model-based understanding step. That needs either a zero-data-retention agreement with an AI provider (a cost and contract decision for the owner; see DECISIONS.md) or an on-device model.
+   - Either way, a clinically informed review of the crisis-language list is needed.
+3. **Content gaps** (situations the library answers only thinly):
+   - family hierarchy (in-laws, dowry, inheritance, elder care)
+   - practical communication and friendship
+   - money management
+   - body image and health
+   - workplace fairness and prejudice
+   - grief for non-human loss
+   - sexuality and identity
+
+   The Niti texts (Tirukkural, Vidura Niti, Bhartrihari's Nitishataka, Hitopadesha) speak most directly to the first five. So the text queue resumes with them.
+
+### Blocked or waiting on the owner
+- **Blind comparison** with a general assistant and similar apps: tooling is ready (`scripts/make_blind_packet.py`, `tests/README.md`). It needs baseline answers (collected by hand or through a paid API) and human raters.
+- **A fresh held-out set** written by someone other than the engine's author.
+- **The reviewed starter collection:** a human reviewer who reads Sanskrit must move records from `draft` to `reviewed`. Until then, public mode shows no passages.
 
 ## Paused: scope expansion, part a (the 13 principal Upanishads)
 

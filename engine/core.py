@@ -189,7 +189,7 @@ def excluded_by_frames(frames):
 
 def retrieve(sit, lib, mode, k=8):
     qtoks = set(tokens(sit.text))
-    frames = detect_frames(sit.text, danger=sit.danger)
+    frames = detect_frames(sit.text, danger=sit.danger, distress=sit.distress)
     # In danger, only the safety-and-agency set is considered, whatever else is mentioned.
     boosts = frame_boosts(["danger"] if sit.danger else frames)
     if "renounce_wish" in frames and sit.life_stage in ("elder", "renunciant") and not sit.distress:
@@ -311,9 +311,14 @@ def clarifying_questions(sit, shortlist, lib, mode):
             qs.append("Are you 18 or older? The answer changes which passages fit.")
     if "conflict_of_duties" in sit.situations and len(sit.options) < 2 and "?" in sit.text:
         qs.append("What are the main options you are choosing between?")
-    if not detect_frames(sit.text) and (not sit.situations or len(sit.text.split()) < 6) and not sit.danger:
+    if not detect_frames(sit.text) and (not sit.situations or len(sit.text.split()) < 8) and not sit.danger:
         qs.append("Could you tell me a little more about what is happening? A few details would let me answer for your situation.")
     return qs[:2]
+
+
+SAFETY_FOOTER = ("If you are in crisis, thinking of harming yourself, or not safe where you are, please contact a "
+                 "help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). "
+                 "Children: 1098. Women: 181. US: 988. UK: 116 123.")
 
 
 def answer(question, profile=None, mode="internal", region=None):
@@ -334,6 +339,8 @@ def answer(question, profile=None, mode="internal", region=None):
         "clarifying_questions": [], "safety": None, "shortlist": [], "comparison": [],
         "recommendation": None, "sources": [], "commentary": [], "example": None,
         "challenge": None, "next_step": None,
+        # Shown on every answer, because detection can miss people in crisis (see PROGRESS.md test log).
+        "safety_footer": {"label": "Viveka's application", "text": SAFETY_FOOTER},
     }
 
     # Safety first. Self-harm (the person or someone they know): no philosophy, only care and help.
@@ -377,7 +384,7 @@ def answer(question, profile=None, mode="internal", region=None):
     shortlist, frames = retrieve(sit, lib, mode)
     out["understanding"]["frames"] = frames
     out["clarifying_questions"] = clarifying_questions(sit, shortlist, lib, mode)
-    if not frames and (not sit.situations or len(sit.text.split()) < 6) and not sit.danger and not sit.distress:
+    if (not shortlist or (not [f for f in frames if f != 'distress'] and len(sit.text.split()) < 8 and not sit.distress)) and not sit.danger and not sit.distress:
         # Too little to go on: ask instead of guessing.
         out["recommendation"] = {"label": "Viveka's application",
                                  "text": "I'd like to understand a little more before suggesting anything."}
@@ -490,4 +497,6 @@ def render(a):
               f"  When the recommended principle misleads: {c['when_the_recommendation_misleads']}"]
     if a["next_step"]:
         L += ["", f"{a['next_step']['label']} - One next step: {a['next_step']['text']}"]
+    if a.get("safety_footer"):
+        L += ["", a["safety_footer"]["text"]]
     return "\n".join(L)

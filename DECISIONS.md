@@ -256,3 +256,14 @@ Technical choices made without asking, newest last. Format: date, decision, why.
 - **Drafts stay internal.**
   - The engine has two modes: `public` (only records with `review_status` reviewed or approved) and `internal` (drafts allowed, every answer marked DRAFT).
   - No record is reviewed yet, so tests run in internal mode. Public mode currently returns an honest "no reviewed material yet" answer.
+- **Answer engine design (2026-10-02):**
+  - Problem types ("frames", in `engine/frames.py`) pick candidate principles, then situation tags and word overlap rank them.
+  - Danger restricts the candidates to safety-and-agency principles.
+  - Self-harm (the person's own or someone else's) skips philosophy entirely, giving care and help lines only.
+  - Distress adds a support note and gentle principles.
+  - Restricted principles and held verses are never shown to anyone not known to be an adult, or to anyone in distress.
+  - A clarifying question is asked only if re-running the engine as if for an adult would change the top recommendation, or when the person gave too little to go on.
+- **Always-on safety footer (2026-10-02):** every answer ends with help lines. Detection missed crisis language in held-out tests, so a safety net that does not depend on detection is required.
+- **Test integrity:**
+  - The engine's author also wrote the tests, so every held-out set is scored once before any changes, and that first score is the one reported.
+  - Sets used for tuning are marked as spent in `tests/README.md`.
