@@ -285,3 +285,8 @@ Technical choices made without asking, newest last. Format: date, decision, why.
   - **Two new frames:** `family_rift` (sibling, in-law and property quarrels) and `managing` (people who employ or lead others).
   - **Engine fix:** a parent mentioned only as an owner ("my father's property") is no longer described as holding power over the person.
 - **Build fix (2026-10-02):** joining `।।` into `॥` is now applied only to verse text. Applying it to commentary broke the parsers' `।।N।।` anchors and silently dropped the Kena 2.1 and Katha commentaries. The validator caught it before any commit.
+- **AI Project Runner (2026-10-02):**
+  - An external scheduler (kept outside this repo) runs one cycle per interval: Claude Code builds the next step in `STATUS.md`, tests run, the runner pushes, Codex reviews the changes against `CLAUDE.md`, Claude Code fixes, tests run again, and the runner pushes.
+  - `STATUS.md` is the runner's control file (next step, and a note if the runner stops the project). `PROGRESS.md` stays the detailed history.
+  - Only the runner pushes, and only after checking that `origin` is this repo and that the added lines contain no local paths. Reviews are saved in `reviews/` with local paths replaced by placeholders.
+  - A cycle is one batch; the "keep going until all 700 are done" rule is met across cycles, not within one.
