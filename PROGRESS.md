@@ -25,7 +25,7 @@ The text queue is paused after the Katha.
 |---|---:|---|
 | Nitishataka (Bhartrihari) | 109 | done: strict VALID, 9 new principles linked; source lacks verse 7 |
 | Vidura Niti | 557 | done: strict VALID; 7 new principles, 2 new frames (family rift, managing people); 2 speaker fixes |
-| Chanakya Niti | | next |
+| Chanakya Niti | 343 | source, parser and registry done; annotation in progress (0 of 343) |
 | Hitopadesha (stories, as examples) | | |
 | Tirukkural | | needs Tamil-script support |
 

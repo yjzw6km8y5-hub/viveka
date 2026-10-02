@@ -387,7 +387,39 @@ def parse_vidura(raw):
     return out
 
 
+CN_ORDINALS = {**ORDINALS, "त्रयोदश": 13, "चतुर्दश": 14, "पञ्चदश": 15, "षोडश": 16, "सप्तदश": 17}
+CN_ORDINAL_RE = "|".join(sorted(CN_ORDINALS, key=len, reverse=True))
+
+
+def parse_chanakya(raw):
+    """Chanakya Niti (Cāṇakyanītidarpaṇa, 17 chapters). Verses are numbered in order
+    within each chapter; the source's own marker (a few are irregular, e.g. '१.१०')
+    is kept in source.marker. The unreliable appendix 'प्रकीर्णश्लोकाः' is left out."""
+    page = raw["text"][0]
+    out, chapter, n, current = [], 0, 0, []
+    for ln in clean_lines(page["wikitext"]):
+        if ln.startswith("प्रकीर्णश्लोकाः"):
+            break
+        m = re.fullmatch(rf"({CN_ORDINAL_RE})ोऽध्यायः(?:\s*\.|\s+\S.*)?", ln)  # ch. 1 carries a Bengali gloss
+        if m:
+            chapter, n, current = CN_ORDINALS[m.group(1)], 0, []
+            continue
+        if chapter == 0 or ln.startswith("इति ") or re.fullmatch(r"\(?[०-९]+\)?|॥\s*[०-९]+\s*॥", ln):
+            current = []  # title, colophons, chapter-number lines
+            continue
+        current.append(ln)
+        em = re.search(r"॥\s*([०-९0-9.]*)\s*॥?\s*$", ln)
+        if em:
+            n += 1
+            out.append(([chapter, n], current, page, {"marker": em.group(1)}))
+            current = []
+    if current:
+        raise ValueError(f"unterminated unit: {current}")
+    return out
+
+
 PARSERS = {
+    "chanakya_niti": (parse_chanakya, None),
     "isha_upanishad": (parse_isha, bhashya_isha),
     "kena_upanishad": (parse_kena, bhashya_kena),
     "katha_upanishad": (parse_katha, bhashya_katha),

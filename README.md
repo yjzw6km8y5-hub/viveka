@@ -92,6 +92,7 @@ public domain and the digital edition we copy from is openly licensed.
 | 13 principal Upanishads | `<name>_upanishad.json` | Sanskrit Wikisource (pinned revisions, `data/raw/upanishads/`) | CC BY-SA 4.0 | Public domain (ancient) | 2026-10-01 |
 | Nitishataka of Bhartrihari (109 verses) | `nitishataka.json` | Sanskrit Wikisource, `नीतिशतकम्` (pinned revision, `data/raw/niti/`) | CC BY-SA 4.0 | Public domain (c. 5th century) | 2026-10-02 |
 | Vidura Niti (Mahabharata, Udyoga Parva; 557 verses) | `vidura_niti.json` | Sanskrit Wikisource, `विदुरनीतिः` (revision 37534, `data/raw/niti/`) | CC BY-SA 4.0 | Public domain (ancient) | 2026-10-02 |
+| Chanakya Niti (Cāṇakyanītidarpaṇa; 343 verses) | `chanakya_niti.json` | Sanskrit Wikisource, `चाणक्यनीतिदर्पणः` (revision 330162, `data/raw/niti/`) | CC BY-SA 4.0 | Public domain (attributed to Chanakya, c. 3rd century BCE to 3rd century CE; this recension is a medieval compilation) | 2026-10-02 |
 | Śaṅkara's Upanishad bhāṣyas | `commentaries/<name>_upanishad.json` | Sanskrit Wikisource, `उपनिषद्भाष्यम्` pages | CC BY-SA 4.0 | Public domain (8th century) | 2026-10-01 |
 
 **Not used:**

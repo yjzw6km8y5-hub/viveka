@@ -161,5 +161,45 @@
         "evidence": "Snapshot rev 37534 heads this verse 'विदुर उवाच', but the verse addresses Virochana as 'प्राह्रादे' (son of Prahlada) and refuses to share his seat; Virochana's reply (VN.3.11) addresses 'सुधन्वन्'. The speaker is Sudhanva."
       }
     }
+  },
+  "chanakya_niti": {
+    "title": "Chanakya Niti",
+    "title_devanagari": "चाणक्यनीतिदर्पणः",
+    "group": "niti",
+    "id_prefix": "CN",
+    "levels": [
+      "adhyaya",
+      "verse"
+    ],
+    "raw": "data/raw/niti/chanakya_niti.json",
+    "source_pages": {
+      "text": [
+        "चाणक्यनीतिदर्पणः"
+      ],
+      "bhashya": []
+    },
+    "expected_units": {
+      "1": 17,
+      "2": 20,
+      "3": 21,
+      "4": 19,
+      "5": 23,
+      "6": 22,
+      "7": 21,
+      "8": 23,
+      "9": 14,
+      "10": 20,
+      "11": 18,
+      "12": 23,
+      "13": 21,
+      "14": 20,
+      "15": 19,
+      "16": 20,
+      "17": 22
+    },
+    "count_basis": "Verses numbered in order within each of 17 chapters (Cāṇakyanītidarpaṇa, 343 verses). The source's own markers are irregular in places ('१.१०', '१७.२०'); each record keeps it in source.marker. The appendix 'प्रकीर्णश्लोकाः' (unnumbered or doubtful verses) is excluded.",
+    "speakers": [
+      "Chanakya"
+    ]
   }
 }
