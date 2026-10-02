@@ -1679,15 +1679,31 @@
       2,
       12
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says that the wise, realising the hidden Self through inward meditation, leave both joy and sorrow behind.",
     "devanagari": "तं दुर्दर्शं गूढमनुप्रविष्टं\nगुहाहितं गह्वरेष्ठं पुराणम् ।\nअध्यात्मयोगाधिगमेन देवं\nमत्वा धीरो हर्षशोकौ जहाति ॥",
     "iast": "taṃ durdarśaṃ gūḍhamanupraviṣṭaṃ\nguhāhitaṃ gahvareṣṭhaṃ purāṇam |\nadhyātmayogādhigamena devaṃ\nmatvā dhīro harṣaśokau jahāti ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "That god, hard to see, hidden deep, set in the secret place, dwelling in the depths, ancient: realising him through the yoga of the inner self, the wise leave joy and sorrow behind.",
+    "situations": [
+      "grief_loss",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The Self is hard to see because it is subtle and hidden by knowledge of sense objects; it is found in the intellect. The 'yoga of the inner self' is withdrawing the mind from objects and fixing it on the Self; knowing it, the wise drop joy and sorrow, since the Self neither gains nor loses."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -1709,15 +1725,30 @@
       2,
       13
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death tells Nachiketas that whoever grasps the subtle Self finds true joy, and that the way is open for him.",
     "devanagari": "एतच्छ्रुत्वा सम्परिगृह्य मर्त्यः\nप्रवृह्य धर्म्यमणुमेतमाप्य ।\nस मोदते मोदनीयँ हि लब्ध्वा\nविवृतँ सद्म नचिकेतसं मन्ये ॥",
     "iast": "etacchrutvā samparigṛhya martyaḥ\npravṛhya dharmyamaṇumetamāpya |\nsa modate modanīyam̐ hi labdhvā\nvivṛtam̐ sadma naciketasaṃ manye ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "A mortal who has heard this, grasped it fully, drawn out this subtle Self that is true to dharma, and reached it, rejoices, having found what is truly worth rejoicing in. I think the house stands open for Nachiketas.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Having heard it from the teacher and separated the subtle Self from the body, the wise rejoice in it. The house of Brahman stands open to you: Death considers Nachiketas fit for liberation."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -1739,15 +1770,30 @@
       2,
       14
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Nachiketas",
+    "context": "Nachiketas asks Death to describe what lies beyond right and wrong, cause and effect, past and future.",
     "devanagari": "अन्यत्र धर्मादन्यत्राधर्मा-\nदन्यत्रास्मात्कृताकृतात् ।\nअन्यत्र भूताच्च भव्याच्च\nयत्तत्पश्यसि तद्वद ॥",
     "iast": "anyatra dharmādanyatrādharmā-\ndanyatrāsmātkṛtākṛtāt |\nanyatra bhūtācca bhavyācca\nyattatpaśyasi tadvada ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "Tell me what you see as other than dharma and other than adharma, other than what is done and not done, other than what has been and what is to be.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "He asks for what is beyond scriptural duty, its fruits and its agents, beyond wrongdoing, beyond effect and cause, and not limited by past, future or present: whatever lies beyond all ordinary dealings."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -1769,17 +1815,34 @@
       2,
       15
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death names the goal that all the Vedas point to: the syllable Om.",
     "devanagari": "सर्वे वेदा यत्पदमामनन्ति\nतपाँसि सर्वाणि च यद्वदन्ति ।\nयदिच्छन्तो ब्रह्मचर्यं चरन्ति\nतत्ते पदँ संग्रहेण ब्रवीम्योमित्येतत् ॥",
     "iast": "sarve vedā yatpadamāmananti\ntapām̐si sarvāṇi ca yadvadanti |\nyadicchanto brahmacaryaṃ caranti\ntatte padam̐ saṃgraheṇa bravīmyomityetat ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "The goal that all the Vedas declare, that all austerities speak of, desiring which people live as celibate students: that goal I tell you briefly. It is Om.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The goal all the Vedas teach and all austerities aim at, for which people live at their teacher's house, is what the word Om names and also what Om stands for as a symbol."
+      }
+    ],
     "safety_flags": [],
-    "cross_refs": [],
+    "cross_refs": [
+      "BG.8.13"
+    ],
     "source": {
       "name": "Sanskrit Wikisource",
       "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
@@ -1799,15 +1862,30 @@
       2,
       16
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says the syllable Om is Brahman itself, and knowing it brings whatever one seeks.",
     "devanagari": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् ।\nएतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छति तस्य तत् ॥",
     "iast": "etaddhyevākṣaraṃ brahma etaddhyevākṣaraṃ param |\netaddhyevākṣaraṃ jñātvā yo yadicchati tasya tat ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "This syllable is Brahman; this syllable is the highest. Knowing this syllable, whatever one wants becomes one's own.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Om is the symbol of both the lower and the higher Brahman. Worshipping it as Brahman, one gains whichever one seeks: the higher is to be known, the lower to be reached."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -1829,15 +1907,30 @@
       2,
       17
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death calls Om the best support for reaching Brahman.",
     "devanagari": "एतदालम्बनँ श्रेष्ठमेतदालम्बनं परम् ।\nएतदालम्बनं ज्ञात्वा ब्रह्मलोके महीयते ॥",
     "iast": "etadālambanam̐ śreṣṭhametadālambanaṃ param |\netadālambanaṃ jñātvā brahmaloke mahīyate ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "This support is the best; this support is the highest. Knowing this support, one is honoured in the world of Brahman.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Of all supports for reaching Brahman, Om is the best. Om has been given as a symbol for those of slow or middling understanding; next the Upanishad describes the Self directly."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -1859,17 +1952,38 @@
       2,
       18
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death describes the Self directly: never born, never dying, untouched when the body is killed (compare Gita 2.20).",
     "devanagari": "न जायते म्रियते वा विपश्चिन्\nनायं कुतश्चिन्न बभूव कश्चित् ।\nअजो नित्यः शाश्वतोऽयं पुराणो\nन हन्यते हन्यमाने शरीरे ॥",
     "iast": "na jāyate mriyate vā vipaścin\nnāyaṃ kutaścinna babhūva kaścit |\najo nityaḥ śāśvato'yaṃ purāṇo\nna hanyate hanyamāne śarīre ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
-    "safety_flags": [],
-    "cross_refs": [],
+    "english": "The wise one is not born and does not die. It did not come from anywhere, and nothing came from it. Unborn, eternal, everlasting, ancient, it is not killed when the body is killed.",
+    "situations": [
+      "grief_loss",
+      "ageing_death_impermanence",
+      "fear_anxiety"
+    ],
+    "life_stages": [
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Birth and death, the first and last of all changes, are denied of the Self, and with them every change. It has no cause and produces nothing other than itself; it does not decline and does not grow, being 'ancient' yet always new. So it is not harmed when weapons strike the body, any more than space is."
+      }
+    ],
+    "safety_flags": [
+      "death",
+      "under18_hold"
+    ],
+    "cross_refs": [
+      "BG.2.20"
+    ],
     "source": {
       "name": "Sanskrit Wikisource",
       "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
@@ -1889,17 +2003,38 @@
       2,
       19
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says the one who thinks he kills and the one who thinks he is killed both misunderstand the Self (compare Gita 2.19).",
     "devanagari": "हन्ता चेन्मन्यते हन्तुँ हतश्चेन्मन्यते हतम् ।\nउभौ तौ न विजानीतो नायँ हन्ति न हन्यते ॥",
     "iast": "hantā cenmanyate hantum̐ hataścenmanyate hatam |\nubhau tau na vijānīto nāyam̐ hanti na hanyate ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
-    "safety_flags": [],
-    "cross_refs": [],
+    "english": "If the killer thinks he kills, and if the one killed thinks he is killed, neither of them understands: this does not kill, and is not killed.",
+    "situations": [
+      "ageing_death_impermanence",
+      "grief_loss"
+    ],
+    "life_stages": [
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Whoever takes the body for the Self and thinks 'I will kill him' or 'I am killed' does not know the Self, which, unchanging like space, neither kills nor is killed. So the round of merit and demerit belongs only to those who do not know the Self, not to the knower of Brahman."
+      }
+    ],
+    "safety_flags": [
+      "war",
+      "death",
+      "under18_hold"
+    ],
+    "cross_refs": [
+      "BG.2.19"
+    ],
     "source": {
       "name": "Sanskrit Wikisource",
       "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
@@ -1919,15 +2054,32 @@
       2,
       20
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says the Self, smaller than the smallest and greater than the greatest, is seen by one free of desire.",
     "devanagari": "अणोरणीयान्महतो महीया-\nनात्माऽस्य जन्तोर्निहितो गुहायाम् ।\nतमक्रतुः पश्यति वीतशोको\nधातुप्रसादान्महिमानमात्मनः ॥",
     "iast": "aṇoraṇīyānmahato mahīyā-\nnātmā'sya jantornihito guhāyām |\ntamakratuḥ paśyati vītaśoko\ndhātuprasādānmahimānamātmanaḥ ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "Smaller than the small, greater than the great, the Self is set in the heart of every creature. One free of desire sees it, and is free of sorrow: through the clarity of the faculties, one sees the greatness of the Self.",
+    "situations": [
+      "grief_loss",
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Whatever is small or great exists only through the Self, so the Self is smaller than the smallest and greater than the greatest. One without desire, whose mind has turned from all objects, finds the faculties grow clear, sees the Self's greatness, untouched by growth or decline, as 'I am this', and is free of grief."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -1949,15 +2101,30 @@
       2,
       21
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death describes the Self in paradoxes and says few can know it.",
     "devanagari": "आसीनो दूरं व्रजति शयानो याति सर्वतः ।\nकस्तं मदामदं देवं मदन्यो ज्ञातुमर्हति ॥",
     "iast": "āsīno dūraṃ vrajati śayāno yāti sarvataḥ |\nkastaṃ madāmadaṃ devaṃ madanyo jñātumarhati ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "Sitting still, it travels far; lying down, it goes everywhere. Who but me can know that god, who rejoices and does not rejoice?",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The Self seems to have contradictory qualities, moving and unmoving, joyful and not, through its limiting conditions, so it is hard to know except for the subtle-minded. In sleep, when the senses rest, it seems to go everywhere; in waking, it seems to travel far with the mind."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -1979,17 +2146,36 @@
       2,
       22
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says the wise, knowing the bodiless, all-pervading Self within changing bodies, do not grieve.",
     "devanagari": "अशरीरँ शरीरेष्वनवस्थेष्ववस्थितम् ।\nमहान्तं विभुमात्मानं मत्वा धीरो न शोचति ॥",
     "iast": "aśarīram̐ śarīreṣvanavastheṣvavasthitam |\nmahāntaṃ vibhumātmānaṃ matvā dhīro na śocati ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "Bodiless within bodies, steady among the unsteady, great and all-pervading: knowing the Self this way, the wise do not grieve.",
+    "situations": [
+      "grief_loss",
+      "ageing_death_impermanence",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The Self is bodiless like space, yet dwells unchanging in the bodies of gods, ancestors and humans, which never stay the same. Knowing it as 'I am this', the wise have no ground for grief."
+      }
+    ],
     "safety_flags": [],
-    "cross_refs": [],
+    "cross_refs": [
+      "BG.2.22"
+    ],
     "source": {
       "name": "Sanskrit Wikisource",
       "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
@@ -2009,15 +2195,31 @@
       2,
       23
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says the Self is not won by learning or cleverness, but reveals itself to the one it chooses.",
     "devanagari": "नायमात्मा प्रवचनेन लभ्यो\nन मेधया न बहुना श्रुतेन ।\nयमेवैष वृणुते तेन लभ्यः\nतस्यैष आत्मा विवृणुते तनूँ स्वाम् ॥",
     "iast": "nāyamātmā pravacanena labhyo\nna medhayā na bahunā śrutena |\nyamevaiṣa vṛṇute tena labhyaḥ\ntasyaiṣa ātmā vivṛṇute tanūm̐ svām ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "This Self is not won by teaching, nor by intellect, nor by much learning. It is won only by the one whom it chooses; to that one the Self reveals its own form.",
+    "situations": [
+      "ego_pride_envy",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Not by mastering many Vedas, nor by the power to retain texts, nor by much hearing alone. He reads the choosing the other way round: the Self is won by the one who chooses the Self alone, so it is won through the Self, and to one who desires only the Self, it reveals its true nature."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -2039,16 +2241,35 @@
       2,
       24
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death names the conditions for knowing the Self: turning from wrongdoing and having a calm, collected mind.",
     "devanagari": "नाविरतो दुश्चरितान्नाशान्तो नासमाहितः ।\nनाशान्तमानसो वाऽपि प्रज्ञानेनैनमाप्नुयात् ॥",
     "iast": "nāvirato duścaritānnāśānto nāsamāhitaḥ |\nnāśāntamānaso vā'pi prajñānenainamāpnuyāt ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
-    "safety_flags": [],
+    "english": "One who has not turned away from wrongdoing, who is not calm, not collected, whose mind is not at peace, cannot reach it through knowledge.",
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "One who has not stopped forbidden acts, whose senses are restless, whose mind is scattered, or who is collected but still anxious for the fruit of concentration, does not reach the Self. One who has turned from wrongdoing and sense-craving, is collected and at peace, and has a teacher, does."
+      }
+    ],
+    "safety_flags": [
+      "distress_gentle"
+    ],
     "cross_refs": [],
     "source": {
       "name": "Sanskrit Wikisource",
@@ -2069,16 +2290,33 @@
       2,
       25
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death ends the section with an image: the Self consumes even the highest powers, so how can an unprepared person know it?",
     "devanagari": "यस्य ब्रह्म च क्षत्रं च उभे भवत ओदनः ।\nमृत्युर्यस्योपसेचनं क इत्था वेद यत्र सः ॥",
     "iast": "yasya brahma ca kṣatraṃ ca ubhe bhavata odanaḥ |\nmṛtyuryasyopasecanaṃ ka itthā veda yatra saḥ ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
-    "safety_flags": [],
+    "english": "For whom priesthood and kingship are both just rice, and death is the sauce poured on it: who, like this, knows where it is?",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The Self consumes even the brahmin and the kshatriya, upholders and protectors of dharma, as food, with death, which takes everything, as a mere sauce. How could an ordinary person, lacking the means just described, know where that Self is?"
+      }
+    ],
+    "safety_flags": [
+      "death"
+    ],
     "cross_refs": [],
     "source": {
       "name": "Sanskrit Wikisource",
@@ -2099,15 +2337,30 @@
       3,
       1
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death begins a new section with an image of two selves in the heart, as different as shadow and sunlight.",
     "devanagari": "ऋतं पिबन्तौ सुकृतस्य लोके\nगुहां प्रविष्टौ परमे परार्धे ।\nछायातपौ ब्रह्मविदो वदन्ति\nपञ्चाग्नयो ये च त्रिणाचिकेताः ॥",
     "iast": "ṛtaṃ pibantau sukṛtasya loke\nguhāṃ praviṣṭau parame parārdhe |\nchāyātapau brahmavido vadanti\npañcāgnayo ye ca triṇāciketāḥ ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "Two drink the truth of their deeds in the world of good works, having entered the secret place, the highest seat. Knowers of Brahman call them shadow and light, as do householders who keep the five fires and those who have thrice kindled the Nachiketa fire.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Only one, the individual self, experiences the fruits of action; the other is said to 'drink' only by association. Both dwell in the cave of the intellect in the heart, yet differ like shadow and sunlight, one bound in worldly life, the other free; not only renunciants but householders say so."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -2129,15 +2382,29 @@
       3,
       2
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death prays to master both the ritual fire and the imperishable Brahman beyond fear.",
     "devanagari": "यः सेतुरीजानानामक्षरं ब्रह्म यत् परम् ।\nअभयं तितीर्षतां पारं [https://puranastudy.000space.com/pur_index15/nachiketa.htm नाचिकेतँ] शकेमहि ॥",
     "iast": "yaḥ seturījānānāmakṣaraṃ brahma yat param |\nabhayaṃ titīrṣatāṃ pāraṃ [https://puranastudy.000space.com/pur_index15/nachiketa.htm nāciketam̐] śakemahi ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "May we be able to master the Nachiketa fire, the bridge for those who sacrifice, and the imperishable, highest Brahman, the fearless far shore for those who wish to cross over.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The Nachiketa fire is a bridge across suffering for ritualists; the imperishable Brahman is the fearless shore beyond worldly life for those who seek to cross. Both, the lower and the higher Brahman, are to be known."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -2159,17 +2426,35 @@
       3,
       3
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death gives the image of the chariot: the Self rides in the body, with the intellect as driver and the mind as reins (1.3.3-1.3.9).",
     "devanagari": "आत्मानँ रथिनं विद्धि शरीरँ रथमेव तु ।\nबुद्धिं तु सारथिं विद्धि मनः प्रग्रहमेव च ॥",
     "iast": "ātmānam̐ rathinaṃ viddhi śarīram̐ rathameva tu |\nbuddhiṃ tu sārathiṃ viddhi manaḥ pragrahameva ca ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "Know the Self as the rider in the chariot, the body as the chariot, the intellect as the charioteer, and the mind as the reins.",
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The individual self is the owner of the chariot; the body is the chariot, pulled by the senses; the deciding intellect is the driver, since most bodily action is directed by it; the mind, which forms intentions, is the reins by which the senses are guided."
+      }
+    ],
     "safety_flags": [],
-    "cross_refs": [],
+    "cross_refs": [
+      "BG.6.26"
+    ],
     "source": {
       "name": "Sanskrit Wikisource",
       "page": "कठोपनिषत्/प्रथमोध्यायः/तृतीयवल्ली",
@@ -2189,15 +2474,31 @@
       3,
       4
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death continues the chariot image: the senses are horses and their objects the roads.",
     "devanagari": "इन्द्रियाणि हयानाहुर्विषयाँ स्तेषु गोचरान् ।\nआत्मेन्द्रियमनोयुक्तं भोक्तेत्याहुर्मनीषिणः ॥",
     "iast": "indriyāṇi hayānāhurviṣayām̐ steṣu gocarān |\nātmendriyamanoyuktaṃ bhoktetyāhurmanīṣiṇaḥ ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "The senses, they say, are the horses, and the objects of sense are the roads they run on. The Self joined with body, senses and mind is the one who experiences, so the wise say.",
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The Self alone does not experience anything; being an experiencer comes from its limiting conditions, the intellect and the rest. Only on this understanding can the 'highest place of Viṣṇu' later be recognised as one's own Self."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -2219,15 +2520,31 @@
       3,
       5
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says a person without understanding and an undisciplined mind has senses like wild horses.",
     "devanagari": "यस्त्वविज्ञानवान्भवत्ययुक्तेन मनसा सदा ।\nतस्येन्द्रियाण्यवश्यानि दुष्टाश्वा इव सारथेः ॥",
     "iast": "yastvavijñānavānbhavatyayuktena manasā sadā |\ntasyendriyāṇyavaśyāni duṣṭāśvā iva sāratheḥ ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "Whoever lacks understanding, with a mind never held steady, has senses out of control, like a charioteer's unruly horses.",
+    "situations": [
+      "temptation_self_control",
+      "anger_resentment"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "When the intellect, the driver, lacks skill and discernment and the mind, the reins, is never held firm, the senses cannot be checked, like untrained horses under a poor driver."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -2249,15 +2566,31 @@
       3,
       6
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says a person with understanding and a steady mind has senses like well-trained horses.",
     "devanagari": "यस्तु विज्ञानवान्भवति युक्तेन मनसा सदा ।\nतस्येन्द्रियाणि वश्यानि सदश्वा इव सारथेः ॥",
     "iast": "yastu vijñānavānbhavati yuktena manasā sadā |\ntasyendriyāṇi vaśyāni sadaśvā iva sāratheḥ ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "But whoever has understanding, with a mind always held steady, has senses under control, like a charioteer's good horses.",
+    "situations": [
+      "temptation_self_control",
+      "lack_of_motivation"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "A skilled driver with a steady mind can urge on or hold back the senses at will, like a good driver with well-trained horses."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -2279,16 +2612,33 @@
       3,
       7
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says one without understanding or self-control does not reach the goal but stays in the cycle of birth and death.",
     "devanagari": "यस्त्वविज्ञानवान्भवत्यमनस्कः सदाऽशुचिः ।\nन स तत्पदमाप्नोति संसारं चाधिगच्छति ॥",
     "iast": "yastvavijñānavānbhavatyamanaskaḥ sadā'śuciḥ |\nna sa tatpadamāpnoti saṃsāraṃ cādhigacchati ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
-    "safety_flags": [],
+    "english": "Whoever lacks understanding, is unmindful and always impure, does not reach that goal, but goes on into the round of rebirth.",
+    "situations": [
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "With such a driver the rider does not reach the imperishable goal; not only does he miss liberation, he goes on through birth and death."
+      }
+    ],
+    "safety_flags": [
+      "distress_gentle"
+    ],
     "cross_refs": [],
     "source": {
       "name": "Sanskrit Wikisource",
@@ -2309,15 +2659,31 @@
       3,
       8
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says one with understanding and self-control reaches the goal from which there is no return.",
     "devanagari": "यस्तु विज्ञानवान्भवति समनस्कः सदा शुचिः ।\nस तु तत्पदमाप्नोति यस्माद्भूयो न जायते ॥",
     "iast": "yastu vijñānavānbhavati samanaskaḥ sadā śuciḥ |\nsa tu tatpadamāpnoti yasmādbhūyo na jāyate ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "But whoever has understanding, is mindful and always pure, reaches that goal from which one is not born again.",
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The rider with a discerning driver and a steady mind is always pure, reaches the goal, and, never slipping from it, is not born again into worldly life."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -2339,15 +2705,30 @@
       3,
       9
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death completes the chariot image: with understanding as driver and the mind as reins, one reaches the highest place.",
     "devanagari": "विज्ञानसारथिर्यस्तु मनः प्रग्रहवान्नरः ।\nसोऽध्वनः पारमाप्नोति तद्विष्णोः परमं पदम् ॥",
     "iast": "vijñānasārathiryastu manaḥ pragrahavānnaraḥ |\nso'dhvanaḥ pāramāpnoti tadviṣṇoḥ paramaṃ padam ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "The person whose charioteer is understanding, who holds the reins of the mind, reaches the end of the road: that highest place of Vishnu.",
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Such a person reaches the end of the journey of worldly life and is freed from all bonds. 'Viṣṇu' is the all-pervading Brahman, the supreme Self called Vāsudeva; its highest place is its true nature, to be reached by moving inward from the gross to the subtle."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -2369,17 +2750,34 @@
       3,
       10
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death lays out a ladder inward: beyond the senses are their objects, then mind, intellect and the great self.",
     "devanagari": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः ।\nमनसस्तु परा बुद्धिर्बुद्धेरात्मा महान्परः ॥",
     "iast": "indriyebhyaḥ parā hyarthā arthebhyaśca paraṃ manaḥ |\nmanasastu parā buddhirbuddherātmā mahānparaḥ ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "Beyond the senses are their objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great self.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Each is subtler, greater and more inward than the one before. The 'great self' is the first-born Hiraṇyagarbha, born from the unmanifest, the inner self of all beings' intellects."
+      }
+    ],
     "safety_flags": [],
-    "cross_refs": [],
+    "cross_refs": [
+      "BG.3.42"
+    ],
     "source": {
       "name": "Sanskrit Wikisource",
       "page": "कठोपनिषत्/प्रथमोध्यायः/तृतीयवल्ली",
@@ -2399,15 +2797,30 @@
       3,
       11
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death completes the ladder: beyond the great self is the unmanifest, and beyond that the Person, the highest goal.",
     "devanagari": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः ।\nपुरुषान्न परं किंचित्सा [https://sa.wikisource.org/s/3gst काष्ठा] सा परा गतिः ॥",
     "iast": "mahataḥ paramavyaktamavyaktātpuruṣaḥ paraḥ |\npuruṣānna paraṃ kiṃcitsā [https://sa.wikisource.org/s/3gst kāṣṭhā] sā parā gatiḥ ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "Beyond the great is the unmanifest; beyond the unmanifest is the Person. Beyond the Person there is nothing: that is the end, that is the highest goal.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The unmanifest is the seed of the whole world, resting in the supreme Self as a banyan rests in its seed. Beyond it is the Person, pure consciousness, beyond which there is nothing; reaching it is called 'going' only figuratively, since it is one's own inner Self."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -2429,17 +2842,34 @@
       3,
       12
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says the Self is hidden in all beings but can be seen by a focused, subtle mind.",
     "devanagari": "एष सर्वेषु भूतेषु गूढोऽऽत्मा न प्रकाशते ।\nदृश्यते त्वग्र्यया बुद्ध्या सूक्ष्मया सूक्ष्मदर्शिभिः ॥",
     "iast": "eṣa sarveṣu bhūteṣu gūḍho''tmā na prakāśate |\ndṛśyate tvagryayā buddhyā sūkṣmayā sūkṣmadarśibhiḥ ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "This Self, hidden in all beings, does not shine forth; but it is seen by those of subtle sight, with a sharp and subtle intellect.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The Self is hidden by ignorance and māyā: people are told 'you are the supreme Self' and do not accept it, yet take the body to be themselves without being told (compare Gita 7.25). It is seen by a refined, one-pointed intellect that has learned to see ever subtler things."
+      }
+    ],
     "safety_flags": [],
-    "cross_refs": [],
+    "cross_refs": [
+      "BG.7.25"
+    ],
     "source": {
       "name": "Sanskrit Wikisource",
       "page": "कठोपनिषत्/प्रथमोध्यायः/तृतीयवल्ली",
@@ -2459,15 +2889,32 @@
       3,
       13
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death gives a method of meditation: draw speech into mind, mind into intellect, and so on into the peaceful Self.",
     "devanagari": "यच्छेद्वाङ्मनसी प्राज्ञस्तद्यच्छेज्ज्ञान आत्मनि ।\nज्ञानमात्मनि महति नियच्छेत्तद्यच्छेच्छान्त आत्मनि ॥",
     "iast": "yacchedvāṅmanasī prājñastadyacchejjñāna ātmani |\njñānamātmani mahati niyacchettadyacchecchānta ātmani ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "The wise should draw speech into the mind, the mind into the knowing self, the knowing self into the great self, and that into the peaceful Self.",
+    "situations": [
+      "fear_anxiety",
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "'Speech' stands for all the senses. Withdraw them into the mind, the mind into the intellect, the intellect into the first-born great self, and that into the peaceful, unchanging Self, the witness of all; then, as a mirage vanishes when seen for what it is, one rests in oneself, at peace."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -2489,15 +2936,31 @@
       3,
       14
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death's call to action: wake up, seek out the wise and learn, for the path is as narrow as a razor's edge.",
     "devanagari": "उत्तिष्ठत जाग्रत\nप्राप्य वरान्निबोधत ।\nक्षुरस्य धारा निशिता दुरत्यया\nदुर्गं पथस्तत्कवयो वदन्ति ॥",
     "iast": "uttiṣṭhata jāgrata\nprāpya varānnibodhata |\nkṣurasya dhārā niśitā duratyayā\ndurgaṃ pathastatkavayo vadanti ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "Arise! Awake! Find the great ones and learn. Sharp as a razor's edge and hard to cross: so the wise describe this path.",
+    "situations": [
+      "lack_of_motivation",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Rise from the sleep of beginningless ignorance; go to excellent teachers who know the Self and understand 'I am that'. Scripture says this with a mother's compassion. The path is hard to tread, like a razor's edge, because what is to be known is so subtle."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -2519,15 +2982,31 @@
       3,
       15
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death describes Brahman as beyond all the senses and without beginning or end; realising it frees one from death.",
     "devanagari": "अशब्दमस्पर्शमरूपमव्ययं\nतथाऽरसं नित्यमगन्धवच्च यत् ।\nअनाद्यनन्तं महतः परं ध्रुवं\nनिचाय्य तन्मृत्युमुखात् प्रमुच्यते ॥",
     "iast": "aśabdamasparśamarūpamavyayaṃ\ntathā'rasaṃ nityamagandhavacca yat |\nanādyanantaṃ mahataḥ paraṃ dhruvaṃ\nnicāyya tanmṛtyumukhāt pramucyate ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "Without sound, touch, form, taste or smell, imperishable, eternal, without beginning or end, beyond the great, unchanging: realising that, one is freed from the jaws of death.",
+    "situations": [
+      "ageing_death_impermanence",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "What has sound and the other qualities decays; Brahman, lacking them, does not, and so is eternal; having no cause and no effect into which it dissolves, it has neither beginning nor end. Realising it, one is freed from death, meaning ignorance, desire and action."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -2549,15 +3028,21 @@
       3,
       16
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Upanishad",
+    "context": "The Upanishad praises the telling and hearing of Nachiketas's story.",
     "devanagari": "नाचिकेतमुपाख्यानं मृत्युप्रोक्तँ सनातनम् ।\nउक्त्वा श्रुत्वा च मेधावी ब्रह्मलोके महीयते ॥",
     "iast": "nāciketamupākhyānaṃ mṛtyuproktam̐ sanātanam |\nuktvā śrutvā ca medhāvī brahmaloke mahīyate ||",
-    "english": "",
+    "english": "Having told and heard this ancient story of Nachiketas, told by Death, the wise are honoured in the world of Brahman.",
     "situations": [],
     "life_stages": [],
     "aims": [],
-    "school_notes": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The story of the three vallīs, received by Nachiketas and taught by Death, is ancient because it is Vedic; whoever tells it to brahmins or hears it from teachers is honoured in Brahman, the world that is Brahman."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -2579,15 +3064,21 @@
       3,
       17
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Upanishad",
+    "context": "The first chapter closes by praising the recitation of this teaching.",
     "devanagari": "य इमं परमं गुह्यं श्रावयेद् ब्रह्मसंसदि ।\nप्रयतः श्राद्धकाले वा तदानन्त्याय कल्पते ।\nतदानन्त्याय कल्पत इति ॥",
     "iast": "ya imaṃ paramaṃ guhyaṃ śrāvayed brahmasaṃsadi |\nprayataḥ śrāddhakāle vā tadānantyāya kalpate |\ntadānantyāya kalpata iti ||",
-    "english": "",
+    "english": "Whoever, purified, recites this supreme secret in an assembly of brahmins or at the time of the rites for the dead, gains what is endless; gains what is endless.",
     "situations": [],
     "life_stages": [],
     "aims": [],
-    "school_notes": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Whoever recites the text and its meaning before an assembly of brahmins, or to those eating at a memorial rite, makes that rite yield endless fruit. The repetition marks the end of the chapter."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -2609,15 +3100,31 @@
       1,
       1
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Opening the second chapter, Death says the senses are made to look outward, and only a rare person turns within.",
     "devanagari": "पराञ्चि खानि व्यतृणत् स्वयम्भू-\nस्तस्मात्पराङ्पश्यति नान्तरात्मन् ।\nकश्चिद्धीरः प्रत्यगात्मानमैक्ष-\nदावृत्तचक्षुरमृतत्वमिच्छन् ॥",
     "iast": "parāñci khāni vyatṛṇat svayambhū-\nstasmātparāṅpaśyati nāntarātman |\nkaściddhīraḥ pratyagātmānamaikṣa-\ndāvṛttacakṣuramṛtatvamicchan ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "The Self-existent pierced the openings of the senses outward, so one looks outward, not within. A certain wise one, seeking immortality, turned his eyes inward and saw the Self within.",
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The Lord made the senses face outward to sound and the other objects, so people perceive what is not the Self. Rarely, like turning back against a river's current, a discerning person withdraws the senses and sees the inner Self."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -2639,15 +3146,33 @@
       1,
       2
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death contrasts the childish, who chase outward pleasures into death's net, with the wise, who seek nothing unstable.",
     "devanagari": "पराचः कामाननुयन्ति बाला-\nस्ते मृत्योर्यन्ति विततस्य पाशम् ।\nअथ धीरा अमृतत्वं विदित्वा\nध्रुवमध्रुवेष्विह न प्रार्थयन्ते ॥",
     "iast": "parācaḥ kāmānanuyanti bālā-\nste mṛtyoryanti vitatasya pāśam |\natha dhīrā amṛtatvaṃ viditvā\ndhruvamadhruveṣviha na prārthayante ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "The childish run after outward pleasures and walk into the wide-spread net of death. But the wise, knowing what is truly immortal, seek nothing here among the unstable things.",
+    "situations": [
+      "temptation_self_control",
+      "success_wealth",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "kama",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Those who chase external desires fall into the net of repeated birth, death, old age and disease. The wise, knowing the unshakeable immortality of resting in the Self, seek nothing among impermanent things and rise above the desires for sons, wealth and worlds."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -2669,15 +3194,30 @@
       1,
       3
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says the Self is that by which we know every sense experience; nothing is beyond it.",
     "devanagari": "येन रूपं रसं गन्धं शब्दान् स्पर्शाँश्च मैथुनान् ।\nएतेनैव विजानाति किमत्र परिशिष्यते ।\nएतद्वै तत् ॥",
     "iast": "yena rūpaṃ rasaṃ gandhaṃ śabdān sparśām̐śca maithunān |\netenaiva vijānāti kimatra pariśiṣyate |\netadvai tat ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "That by which one knows form, taste, smell, sounds, touches and the pleasures of love: by this alone one knows. What remains here? This, truly, is that.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "People think the body knows, but the body is itself made of form and the rest and is known like them. Everything is known by the Self, distinct from the body, as iron burns by the fire in it; nothing remains unknown to it, so it is all-knowing. 'This is that' which Nachiketas asked about."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -2699,15 +3239,31 @@
       1,
       4
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says the wise, knowing the Self that witnesses both dreaming and waking, do not grieve.",
     "devanagari": "स्वप्नान्तं जागरितान्तं चोभौ येनानुपश्यति ।\nमहान्तं विभुमात्मानं मत्वा धीरो न शोचति ॥",
     "iast": "svapnāntaṃ jāgaritāntaṃ cobhau yenānupaśyati |\nmahāntaṃ vibhumātmānaṃ matvā dhīro na śocati ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "That by which one perceives both dreaming and waking: knowing it as the great, all-pervading Self, the wise do not grieve.",
+    "situations": [
+      "grief_loss",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The Self by which people perceive what appears in dream and in waking: realising it directly as 'I am the supreme Self', the wise do not grieve."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -2729,15 +3285,31 @@
       1,
       5
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says one who knows the Self as close at hand and lord of past and future no longer needs to guard himself.",
     "devanagari": "य इमं मध्वदं वेद आत्मानं जीवमन्तिकात् ।\nईशानं भूतभव्यस्य न ततो विजुगुप्सते ।\nएतद्वै तत् ॥",
     "iast": "ya imaṃ madhvadaṃ veda ātmānaṃ jīvamantikāt |\nīśānaṃ bhūtabhavyasya na tato vijugupsate |\netadvai tat ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "Whoever knows this Self, the one who tastes the honey, the living one, close at hand, lord of past and future, no longer seeks to shield himself. This, truly, is that.",
+    "situations": [
+      "fear_anxiety",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "As long as one stands amid fear and thinks oneself impermanent, one wants to protect oneself; once one knows the Self as eternal and non-dual, who would guard what, and against whom?"
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -2759,15 +3331,21 @@
       1,
       6
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death identifies the first-born of creation, dwelling in the heart, with Brahman.",
     "devanagari": "यः पूर्वं तपसो जातमद्भ्यः पूर्वमजायत ।\nगुहां प्रविश्य तिष्ठन्तं यो भूतेभिर्व्यपश्यत ।\nएतद्वै तत् ॥",
     "iast": "yaḥ pūrvaṃ tapaso jātamadbhyaḥ pūrvamajāyata |\nguhāṃ praviśya tiṣṭhantaṃ yo bhūtebhirvyapaśyata |\netadvai tat ||",
-    "english": "",
+    "english": "The one born first from austerity, born before the waters, who entered the secret place and dwells there with the elements: whoever sees him sees this. This, truly, is that.",
     "situations": [],
     "life_stages": [],
     "aims": [],
-    "school_notes": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The first-born is Hiraṇyagarbha, born from Brahman's knowledge before the five elements. Whoever sees him dwelling in the heart of every being, with body and senses, sees Brahman itself."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -2789,15 +3367,21 @@
       1,
       7
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death identifies Aditi, made of all the gods and dwelling in the heart, with Brahman.",
     "devanagari": "या प्राणेन संभवत्यदितिर्देवतामयी ।\nगुहां प्रविश्य तिष्ठन्तीं या भूतेभिर्व्यजायत ।\nएतद्वै तत् ॥",
     "iast": "yā prāṇena saṃbhavatyaditirdevatāmayī |\nguhāṃ praviśya tiṣṭhantīṃ yā bhūtebhirvyajāyata |\netadvai tat ||",
-    "english": "",
+    "english": "Aditi, made of all the gods, who comes forth with the breath of life, who entered the secret place and dwells there, who was born with the elements: this, truly, is that.",
     "situations": [],
     "life_stages": [],
     "aims": [],
-    "school_notes": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Aditi, so called because she 'eats' sound and the other objects, embodies all the deities and arises from Brahman as life-breath, that is, as Hiraṇyagarbha; she too dwells in the heart."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -2819,15 +3403,21 @@
       1,
       8
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death identifies Agni, the sacred fire hidden in the fire-sticks and worshipped daily, with Brahman.",
     "devanagari": "अरण्योर्निहितो जातवेदा गर्भ इव सुभृतो गर्भिणीभिः ।\nदिवे दिवे ईड्यो जागृवद्भिर्हविष्मद्भिर्मनुष्येभिरग्निः ।\nएतद्वै तत् ॥",
     "iast": "araṇyornihito jātavedā garbha iva subhṛto garbhiṇībhiḥ |\ndive dive īḍyo jāgṛvadbhirhaviṣmadbhirmanuṣyebhiragniḥ |\netadvai tat ||",
-    "english": "",
+    "english": "Agni, the knower of all, hidden in the two fire-sticks like an unborn child well cared for by expectant mothers, is to be praised day after day by watchful people bringing offerings. This, truly, is that.",
     "situations": [],
     "life_stages": [],
     "aims": [],
-    "school_notes": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Agni is hidden in the fire-sticks of the ritual and, for yogis, in the heart; ritualists and meditators, vigilant and bringing offerings or meditation, praise him daily. That too is Brahman."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -2849,15 +3439,21 @@
       1,
       9
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says that from which the sun rises and into which it sets is Brahman, beyond which nothing goes.",
     "devanagari": "यतश्चोदेति सूर्योऽस्तं यत्र च गच्छति ।\nतं देवाः सर्वेऽर्पितास्तदु नात्येति कश्चन ।\nएतद्वै तत् ॥",
     "iast": "yataścodeti sūryo'staṃ yatra ca gacchati |\ntaṃ devāḥ sarve'rpitāstadu nātyeti kaścana |\netadvai tat ||",
-    "english": "",
+    "english": "That from which the sun rises and into which it sets; in it all the gods are fixed, and no one ever goes beyond it. This, truly, is that.",
     "situations": [],
     "life_stages": [],
     "aims": [],
-    "school_notes": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The sun rises from and sets into prāṇa, in which all the gods, outer and inner, are fixed like spokes in a hub; that too is Brahman, and nothing passes beyond being it."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -2879,16 +3475,33 @@
       1,
       10
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death warns that whoever sees separateness in the one reality goes from death to death.",
     "devanagari": "यदेवेह तदमुत्र यदमुत्र तदन्विह ।\nमृत्योः स मृत्युमाप्नोति य इह नानेव पश्यति ॥",
     "iast": "yadeveha tadamutra yadamutra tadanviha |\nmṛtyoḥ sa mṛtyumāpnoti ya iha nāneva paśyati ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
-    "safety_flags": [],
+    "english": "What is here is there; what is there is here. Whoever sees difference here goes from death to death.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "What appears here with body and senses is the same as the pure Brahman 'there', and vice versa. One deluded into thinking 'I am other than Brahman' goes through death after death; so one should see 'I am Brahman, full like space'."
+      }
+    ],
+    "safety_flags": [
+      "death"
+    ],
     "cross_refs": [],
     "source": {
       "name": "Sanskrit Wikisource",
@@ -2909,16 +3522,33 @@
       1,
       11
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death repeats that the oneness of reality is grasped by the mind, and seeing difference leads from death to death.",
     "devanagari": "मनसैवेदमाप्तव्यं नेह नानाऽस्ति किंचन ।\nमृत्योः स मृत्युं गच्छति य इह नानेव पश्यति ॥",
     "iast": "manasaivedamāptavyaṃ neha nānā'sti kiṃcana |\nmṛtyoḥ sa mṛtyuṃ gacchati ya iha nāneva paśyati ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
-    "safety_flags": [],
+    "english": "By the mind alone is this to be reached: there is no difference here at all. Whoever sees difference here goes from death to death.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Brahman, of one nature, is to be reached by a mind refined by teacher and scripture as 'the Self alone exists'. Once reached, the ignorance that shows diversity is gone; whoever still imposes even the slightest difference goes from death to death."
+      }
+    ],
+    "safety_flags": [
+      "death"
+    ],
     "cross_refs": [],
     "source": {
       "name": "Sanskrit Wikisource",
@@ -2939,15 +3569,31 @@
       1,
       12
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death describes the Self dwelling in the heart, the size of a thumb, lord of past and future.",
     "devanagari": "अङ्गुष्ठमात्रः पुरुषो मध्य आत्मनि तिष्ठति ।\nईशानं भूतभव्यस्य न ततो विजुगुप्सते ।\nएतद्वै तत् ॥",
     "iast": "aṅguṣṭhamātraḥ puruṣo madhya ātmani tiṣṭhati |\nīśānaṃ bhūtabhavyasya na tato vijugupsate |\netadvai tat ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "A person the size of a thumb dwells in the middle of the body, lord of past and future. Knowing him, one no longer seeks to shield oneself. This, truly, is that.",
+    "situations": [
+      "fear_anxiety",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "'The size of a thumb' refers to the space of the heart, which is about that size; the Person who fills everything seems so through the mind dwelling there, as space seems the size of the hollow in a bamboo joint. Knowing him, one has no more fear, as before."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -2969,15 +3615,32 @@
       1,
       13
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says the Self in the heart is like a smokeless flame, the same today and tomorrow.",
     "devanagari": "अङ्गुष्ठमात्रः पुरुषो ज्योतिरिवाधूमकः ।\nईशानो भूतभव्यस्य स एवाद्य स उ श्वः ।\nएतद्वै तत् ॥",
     "iast": "aṅguṣṭhamātraḥ puruṣo jyotirivādhūmakaḥ |\nīśāno bhūtabhavyasya sa evādya sa u śvaḥ |\netadvai tat ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "The person the size of a thumb is like a flame without smoke, lord of past and future. He is the same today, and he will be tomorrow. This, truly, is that.",
+    "situations": [
+      "ageing_death_impermanence",
+      "fear_anxiety",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "He is eternal and unchanging, present in beings today and tomorrow alike, with none like him born again. This answers the view 'he does not exist' raised in Nachiketas's question, and also refutes the doctrine that everything lasts only a moment."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -2999,15 +3662,30 @@
       1,
       14
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death gives an image of seeing things as separate: like rain scattering down a mountain.",
     "devanagari": "यथोदकं दुर्गे वृष्टं पर्वतेषु विधावति ।\nएवं धर्मान् पृथक् पश्यंस्तानेवानुविधावति ॥",
     "iast": "yathodakaṃ durge vṛṣṭaṃ parvateṣu vidhāvati |\nevaṃ dharmān pṛthak paśyaṃstānevānuvidhāvati ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "As rain falling on high ground runs off in all directions down the hills, so one who sees things as separate runs after them.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "As rain on a high place scatters and is lost in the valleys, one who sees selves as different in each body follows those differences, taking body after body."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -3029,15 +3707,30 @@
       1,
       15
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death gives the opposite image: the knower's self becomes one with reality, like pure water poured into pure water.",
     "devanagari": "यथोदकं शुद्धे शुद्धमासिक्तं तादृगेव भवति ।\nएवं मुनेर्विजानत आत्मा भवति गौतम ॥",
     "iast": "yathodakaṃ śuddhe śuddhamāsiktaṃ tādṛgeva bhavati |\nevaṃ munervijānata ātmā bhavati gautama ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "As pure water poured into pure water becomes just like it, so, Gautama, becomes the self of the sage who knows.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "So the Self becomes one for the knowing sage. Therefore one should give up the divisive views of bad logicians and nihilists and, with pride subdued, honour the vision of oneness taught by the Veda, which cares for us more than a thousand mothers and fathers."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -3059,15 +3752,31 @@
       2,
       1
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death compares the body to a city with eleven gates whose ruler is the unborn Self; meditating on him ends grief.",
     "devanagari": "पुरमेकादशद्वारमजस्यावक्रचेतसः ।\nअनुष्ठाय न शोचति विमुक्तश्च विमुच्यते ।\nएतद्वै तत् ॥",
     "iast": "puramekādaśadvāramajasyāvakracetasaḥ |\nanuṣṭhāya na śocati vimuktaśca vimucyate |\netadvai tat ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "There is a city with eleven gates belonging to the unborn one whose awareness is never crooked. Meditating on him, one grieves no more, and, freed, is set free. This, truly, is that.",
+    "situations": [
+      "grief_loss",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The body is a city with eleven openings, seven in the head, the navel, two below and one at the crown, serving a ruler distinct from it. Its lord is the unborn, unchanging Self; meditating on him with right knowledge, free of all desires, one has no occasion for grief or fear."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -3089,15 +3798,21 @@
       2,
       2
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death names the one Self in many forms: sun, air, fire, guest, and all that is born.",
     "devanagari": "हँसः शुचिषद्वसुरान्तरिक्षसद्-\nहोता वेदिषदतिथिर्दुरोणसत् ।\nनृषद्वरसदृतसद्व्योमसद्\nअब्जा गोजा ऋतजा अद्रिजा ऋतं बृहत् ॥",
     "iast": "ham̐saḥ śuciṣadvasurāntarikṣasad-\nhotā vediṣadatithirduroṇasat |\nnṛṣadvarasadṛtasadvyomasad\nabjā gojā ṛtajā adrijā ṛtaṃ bṛhat ||",
-    "english": "",
+    "english": "He is the swan in the bright sky, the bright one in the middle air, the priest at the altar, the guest in the house; he dwells in people, in the best, in truth, in the sky; born from water, from cattle, from truth, from mountains; he is truth, the great.",
     "situations": [],
     "life_stages": [],
     "aims": [],
-    "school_notes": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The Self is the sun moving in the sky, the wind in the middle air, fire on the altar, soma in its vessel or a guest in the house, and is born as creatures of water, grain from the earth, parts of the sacrifice and rivers from mountains. Though it is all things, it is truth and great, being the cause of all."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -3119,15 +3834,21 @@
       2,
       3
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says the Self moves the breath and all the senses serve it, like subjects serving a king.",
     "devanagari": "ऊर्ध्वं प्राणमुन्नयत्यपानं प्रत्यगस्यति ।\nमध्ये वामनमासीनं विश्वे देवा उपासते ॥",
     "iast": "ūrdhvaṃ prāṇamunnayatyapānaṃ pratyagasyati |\nmadhye vāmanamāsīnaṃ viśve devā upāsate ||",
-    "english": "",
+    "english": "He leads the in-breath upward and drives the out-breath down. All the gods serve that dwarf seated in the middle.",
     "situations": [],
     "life_stages": [],
     "aims": [],
-    "school_notes": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The one who moves the breaths sits in the space of the heart, revealed in the intellect; 'dwarf' means the one worthy of devotion. The senses, the 'gods', bring him their perceptions as subjects bring tribute to a king, so he is other than them."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -3149,16 +3870,33 @@
       2,
       4
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death asks what remains in the body when the embodied Self leaves it, pointing to the Self as distinct.",
     "devanagari": "अस्य विस्रंसमानस्य शरीरस्थस्य देहिनः ।\nदेहाद्विमुच्यमानस्य किमत्र परिशिष्यते ।\nएतद्वै तत् ॥",
     "iast": "asya visraṃsamānasya śarīrasthasya dehinaḥ |\ndehādvimucyamānasya kimatra pariśiṣyate |\netadvai tat ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
-    "safety_flags": [],
+    "english": "When this embodied one, dwelling in the body, slips away and is freed from the body, what remains here? This, truly, is that.",
+    "situations": [
+      "ageing_death_impermanence",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "When the Self departs, the whole complex of body and senses loses its power and falls apart at once, like a city whose lord has fled; so the Self is something other than them."
+      }
+    ],
+    "safety_flags": [
+      "death"
+    ],
     "cross_refs": [],
     "source": {
       "name": "Sanskrit Wikisource",
@@ -3179,15 +3917,30 @@
       2,
       5
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says people live not by their breath but by something else on which the breath depends.",
     "devanagari": "न प्राणेन नापानेन मर्त्यो जीवति कश्चन ।\nइतरेण तु जीवन्ति यस्मिन्नेतावुपाश्रितौ ॥",
     "iast": "na prāṇena nāpānena martyo jīvati kaścana |\nitareṇa tu jīvanti yasminnetāvupāśritau ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "No mortal lives by the in-breath or the out-breath. People live by something else, on which these two depend.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Things that work together, like the parts of a house, serve something other than themselves; so the breaths and senses, working together, depend on a Self that is not a compound, for whose sake they act."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -3209,16 +3962,34 @@
       2,
       6
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death promises to teach the secret, eternal Brahman, and what happens to the self after death.",
     "devanagari": "हन्त त इदं प्रवक्ष्यामि गुह्यं ब्रह्म सनातनम् ।\nयथा च मरणं प्राप्य आत्मा भवति गौतम ॥",
     "iast": "hanta ta idaṃ pravakṣyāmi guhyaṃ brahma sanātanam |\nyathā ca maraṇaṃ prāpya ātmā bhavati gautama ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
-    "safety_flags": [],
+    "english": "Now, Gautama, I will tell you this secret, eternal Brahman, and what becomes of the self after reaching death.",
+    "situations": [
+      "ageing_death_impermanence",
+      "grief_loss",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Death will teach the hidden, ancient Brahman, by knowing which all worldly existence ends, and, for one who does not know it, how the self goes on after death."
+      }
+    ],
+    "safety_flags": [
+      "death"
+    ],
     "cross_refs": [],
     "source": {
       "name": "Sanskrit Wikisource",
@@ -3239,16 +4010,33 @@
       2,
       7
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says that after death some take new bodies and others become immobile things, according to their deeds and knowledge.",
     "devanagari": "योनिमन्ये प्रपद्यन्ते शरीरत्वाय देहिनः ।\nस्थाणुमन्येऽनुसंयन्ति यथाकर्म यथाश्रुतम् ॥",
     "iast": "yonimanye prapadyante śarīratvāya dehinaḥ |\nsthāṇumanye'nusaṃyanti yathākarma yathāśrutam ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
-    "safety_flags": [],
+    "english": "Some embodied beings enter a womb to take on a body; others pass into a stationary thing, according to their deeds and according to their knowledge.",
+    "situations": [
+      "ageing_death_impermanence"
+    ],
+    "life_stages": [
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The ignorant re-enter a womb to take a body; the lowest become trees and other unmoving things. Each takes a body in keeping with the deeds done and the knowledge gained in this life."
+      }
+    ],
+    "safety_flags": [
+      "death"
+    ],
     "cross_refs": [],
     "source": {
       "name": "Sanskrit Wikisource",
@@ -3269,15 +4057,30 @@
       2,
       8
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death identifies the secret Brahman as the person awake in sleepers, shaping desire after desire.",
     "devanagari": "य एष सुप्तेषु जागर्ति कामं कामं पुरुषो निर्मिमाणः ।\nतदेव शुक्रं तद्ब्रह्म तदेवामृतमुच्यते ।\nतस्मिँल्लोकाः श्रिताः सर्वे तदु नात्येति कश्चन ।\nएतद्वै तत् ॥",
     "iast": "ya eṣa supteṣu jāgarti kāmaṃ kāmaṃ puruṣo nirmimāṇaḥ |\ntadeva śukraṃ tadbrahma tadevāmṛtamucyate |\ntasmim̐llokāḥ śritāḥ sarve tadu nātyeti kaścana |\netadvai tat ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "That person who is awake in those who sleep, shaping one desire after another: that is the bright, that is Brahman, that alone is called immortal. In it all the worlds rest, and no one goes beyond it. This, truly, is that.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "When the breath and senses sleep, this Person stays awake, creating the objects of dream through ignorance; that pure one is Brahman, the support of all worlds. Because the teaching of oneness does not stay in minds disturbed by bad logic, scripture repeats it again and again."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -3299,17 +4102,35 @@
       2,
       9
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death gives the image of fire: one fire takes the shape of whatever it burns, as the one Self takes every form.",
     "devanagari": "अग्निर्यथैको भुवनं प्रविष्टो\nरूपं रूपं प्रतिरूपो बभूव ।\nएकस्तथा सर्वभूतान्तरात्मा\nरूपं रूपं प्रतिरूपो बहिश्च ॥",
     "iast": "agniryathaiko bhuvanaṃ praviṣṭo\nrūpaṃ rūpaṃ pratirūpo babhūva |\nekastathā sarvabhūtāntarātmā\nrūpaṃ rūpaṃ pratirūpo bahiśca ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "As the one fire, entering the world, takes the form of each thing it meets, so the one Self within all beings takes the form of each, and is also outside.",
+    "situations": [
+      "relationships_forgiveness",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "As one fire seems many by burning different kinds of wood, the one Self, very subtle, has entered every body and seems to have each form; yet it remains outside, unchanged, like space."
+      }
+    ],
     "safety_flags": [],
-    "cross_refs": [],
+    "cross_refs": [
+      "BG.13.27"
+    ],
     "source": {
       "name": "Sanskrit Wikisource",
       "page": "कठोपनिषत्/द्वितीयोध्यायः/द्वितीयवल्ली",
@@ -3329,15 +4150,31 @@
       2,
       10
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death repeats the image with the wind: one air takes every shape, as the one Self dwells in all.",
     "devanagari": "वायुर्यथैको भुवनं प्रविष्टो\nरूपं रूपं प्रतिरूपो बभूव ।\nएकस्तथा सर्वभूतान्तरात्मा\nरूपं रूपं प्रतिरूपो बहिश्च ॥",
     "iast": "vāyuryathaiko bhuvanaṃ praviṣṭo\nrūpaṃ rūpaṃ pratirūpo babhūva |\nekastathā sarvabhūtāntarātmā\nrūpaṃ rūpaṃ pratirūpo bahiśca ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "As the one wind, entering the world, takes the form of each thing it meets, so the one Self within all beings takes the form of each, and is also outside.",
+    "situations": [
+      "relationships_forgiveness",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The same as before: the wind, entering bodies as breath, takes the form of each; then comes the question whether the one Self must suffer the world's pains."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -3359,15 +4196,32 @@
       2,
       11
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says the one Self in all beings is untouched by the world's suffering, as the sun is untouched by what it shows.",
     "devanagari": "सूर्यो यथा सर्वलोकस्य चक्षुः\nन लिप्यते चाक्षुषैर्बाह्यदोषैः ।\nएकस्तथा सर्वभूतान्तरात्मा\nन लिप्यते लोकदुःखेन बाह्यः ॥",
     "iast": "sūryo yathā sarvalokasya cakṣuḥ\nna lipyate cākṣuṣairbāhyadoṣaiḥ |\nekastathā sarvabhūtāntarātmā\nna lipyate lokaduḥkhena bāhyaḥ ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "As the sun, the eye of the whole world, is not stained by the faults that eyes see, so the one Self within all beings is not stained by the world's suffering, being outside it.",
+    "situations": [
+      "grief_loss",
+      "failure_setback",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The sun lights up impure things without being made impure. People suffer through ignorance superimposed on the Self, as a snake is imagined on a rope; the Self, like the rope, is untouched by what is imagined on it."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -3389,15 +4243,31 @@
       2,
       12
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says lasting happiness belongs to those who see the one controller of all within themselves.",
     "devanagari": "एको वशी सर्वभूतान्तरात्मा\nएकं रूपं बहुधा यः करोति ।\nतमात्मस्थं येऽनुपश्यन्ति धीराः\nतेषां सुखं शाश्वतं नेतरेषाम् ॥",
     "iast": "eko vaśī sarvabhūtāntarātmā\nekaṃ rūpaṃ bahudhā yaḥ karoti |\ntamātmasthaṃ ye'nupaśyanti dhīrāḥ\nteṣāṃ sukhaṃ śāśvataṃ netareṣām ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "The one controller, the Self within all beings, who makes his one form many: the wise who see him dwelling within themselves have lasting happiness, and no one else.",
+    "situations": [
+      "purpose_meaning",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The supreme Lord, with none equal or greater, makes his one pure nature appear many through name and form. Those who turn from outward things and see him within, as a face is seen in a mirror, have the eternal joy of the Self; those attached to outward things do not."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -3419,15 +4289,32 @@
       2,
       13
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says lasting peace belongs to those who see within themselves the eternal among the impermanent.",
     "devanagari": "नित्योऽनित्यानां चेतनश्चेतनानाम्\nएको बहूनां यो विदधाति कामान् ।\nतमात्मस्थं येऽनुपश्यन्ति धीराः\nतेषां शान्तिः शाश्वती नेतरेषाम् ॥",
     "iast": "nityo'nityānāṃ cetanaścetanānām\neko bahūnāṃ yo vidadhāti kāmān |\ntamātmasthaṃ ye'nupaśyanti dhīrāḥ\nteṣāṃ śāntiḥ śāśvatī netareṣām ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "The eternal among the impermanent, the consciousness of all that is conscious, the one who grants the desires of many: the wise who see him dwelling within themselves have lasting peace, and no one else.",
+    "situations": [
+      "fear_anxiety",
+      "ageing_death_impermanence",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "As water burns only through fire, beings are conscious only through the Self's consciousness. The all-knowing Lord effortlessly grants the fruits of their actions to many; those who see him within have eternal peace."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -3449,15 +4336,30 @@
       2,
       14
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Upanishad",
+    "context": "The Upanishad voices a seeker's question: how can one know this supreme joy that cannot be described, and does it shine by itself?",
     "devanagari": "तदेतदिति मन्यन्तेऽनिर्देश्यं परमं सुखम् ।\nकथं नु तद्विजानीयां किमु भाति विभाति वा ॥",
     "iast": "tadetaditi manyante'nirdeśyaṃ paramaṃ sukham |\nkathaṃ nu tadvijānīyāṃ kimu bhāti vibhāti vā ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "'This is that,' they feel: the highest joy, which cannot be described. How can I come to know it? Does it shine by itself, or shine in reflection?",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Renunciants free of desire experience this indescribable joy of self-knowledge as directly present. The seeker asks how they too might know it as 'this', and whether it shines in a way the intellect can grasp; the answer follows: it shines and makes everything shine."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -3479,17 +4381,34 @@
       2,
       15
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death answers: Brahman is the light by which sun, moon, stars and fire shine.",
     "devanagari": "न तत्र सूर्यो भाति न चन्द्रतारकं\nनेमा विद्युतो भान्ति कुतोऽयमग्निः ।\nतमेव भान्तमनुभाति सर्वं\nतस्य भासा सर्वमिदं विभाति ॥",
     "iast": "na tatra sūryo bhāti na candratārakaṃ\nnemā vidyuto bhānti kuto'yamagniḥ |\ntameva bhāntamanubhāti sarvaṃ\ntasya bhāsā sarvamidaṃ vibhāti ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "There the sun does not shine, nor the moon and stars; these lightnings do not shine, let alone this fire. Everything shines after it as it shines; by its light all this is lit.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The sun, which reveals everything, does not reveal Brahman, let alone fire. All things shine only after Brahman shines, as a hot coal burns only by the fire in it; so Brahman's own nature is light, for what has no light of its own cannot give light to others."
+      }
+    ],
     "safety_flags": [],
-    "cross_refs": [],
+    "cross_refs": [
+      "BG.15.6"
+    ],
     "source": {
       "name": "Sanskrit Wikisource",
       "page": "कठोपनिषत्/द्वितीयोध्यायः/द्वितीयवल्ली",
@@ -3509,17 +4428,35 @@
       3,
       1
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death describes the world as an ancient fig tree rooted above, whose root is Brahman (compare Gita 15.1).",
     "devanagari": "ऊर्ध्वमूलोऽवाक्शाख एषोऽश्वत्थः सनातनः ।\nतदेव शुक्रं तद्ब्रह्म तदेवामृतमुच्यते ।\nतस्मिँल्लोकाः श्रिताः सर्वे तदु नात्येति कश्चन ।\nएतद्वै तत् ॥",
     "iast": "ūrdhvamūlo'vākśākha eṣo'śvatthaḥ sanātanaḥ |\ntadeva śukraṃ tadbrahma tadevāmṛtamucyate |\ntasmim̐llokāḥ śritāḥ sarve tadu nātyeti kaścana |\netadvai tat ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "This is the ancient fig tree, with roots above and branches below. That is the bright, that is Brahman, that alone is called immortal. In it all the worlds rest, and no one goes beyond it. This, truly, is that.",
+    "situations": [
+      "purpose_meaning",
+      "ageing_death_impermanence"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The tree of worldly existence, from the unmanifest down to plants, is called a tree because it is cut down; it is full of birth, ageing, death and grief, changing every moment, hollow like a plantain stem, yet rooted in the highest place of Viṣṇu, Brahman, which is its real essence."
+      }
+    ],
     "safety_flags": [],
-    "cross_refs": [],
+    "cross_refs": [
+      "BG.15.1"
+    ],
     "source": {
       "name": "Sanskrit Wikisource",
       "page": "कठोपनिषत्/द्वितीयोध्यायः/तृतीयवल्ली",
@@ -3539,15 +4476,30 @@
       3,
       2
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says the whole world moves within Brahman, which keeps all in order like a raised thunderbolt.",
     "devanagari": "यदिदं किं च जगत् सर्वं प्राण एजति निःसृतम् ।\nमहद्भयं वज्रमुद्यतं य एतद्विदुरमृतास्ते भवन्ति ॥",
     "iast": "yadidaṃ kiṃ ca jagat sarvaṃ prāṇa ejati niḥsṛtam |\nmahadbhayaṃ vajramudyataṃ ya etadviduramṛtāste bhavanti ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "All this world, whatever there is, has come forth from the breath of life and moves in it. It is a great terror, a raised thunderbolt. Those who know this become immortal.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The 'breath of life' is the supreme Brahman, from which the world comes and in which it moves. Like servants before a master with raised thunderbolt, sun, moon and stars keep their order without pause; knowing this one witness, people become immortal."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -3569,15 +4521,21 @@
       3,
       3
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says the powers of nature keep their order out of awe of Brahman.",
     "devanagari": "भयादस्याग्निस्तपति भयात्तपति सूर्यः ।\nभयादिन्द्रश्च वायुश्च मृत्युर्धावति पञ्चमः ॥",
     "iast": "bhayādasyāgnistapati bhayāttapati sūryaḥ |\nbhayādindraśca vāyuśca mṛtyurdhāvati pañcamaḥ ||",
-    "english": "",
+    "english": "From fear of it fire burns; from fear the sun gives heat; from fear Indra and the Wind, and Death as the fifth, run their course.",
     "situations": [],
     "life_stages": [],
     "aims": [],
-    "school_notes": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "If the powerful guardians of the world had no ruler over them, like a master with a raised thunderbolt, their activity would not be so regular, like that of servants who fear their master."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -3599,16 +4557,35 @@
       3,
       4
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death urges knowing Brahman in this life, before the body falls away; otherwise one takes another body.",
     "devanagari": "इह चेदशकद्बोद्धुं प्राक्षरीरस्य विस्रसः ।\nततः सर्गेषु लोकेषु शरीरत्वाय कल्पते ॥",
     "iast": "iha cedaśakadboddhuṃ prākṣarīrasya visrasaḥ |\ntataḥ sargeṣu lokeṣu śarīratvāya kalpate ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
-    "safety_flags": [],
+    "english": "If one can come to know it here, before the body falls away, [one is freed]; otherwise one becomes fit to take a body again in the created worlds.",
+    "situations": [
+      "lack_of_motivation",
+      "purpose_meaning",
+      "ageing_death_impermanence"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "He supplies the missing words: if, while living, one knows Brahman before the body falls, one is freed from bondage; if not, one takes a body in the created worlds. So one should strive for self-knowledge before the body falls."
+      }
+    ],
+    "safety_flags": [
+      "death"
+    ],
     "cross_refs": [],
     "source": {
       "name": "Sanskrit Wikisource",
@@ -3629,15 +4606,31 @@
       3,
       5
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says the Self is seen clearly here, as in a mirror, but only dimly in other worlds.",
     "devanagari": "यथाऽऽदर्शे तथाऽऽत्मनि यथा स्वप्ने तथा पितृलोके ।\nयथाऽप्सु परीव ददृशे तथा गन्धर्वलोके\nछायातपयोरिव ब्रह्मलोके ॥",
     "iast": "yathā''darśe tathā''tmani yathā svapne tathā pitṛloke |\nyathā'psu parīva dadṛśe tathā gandharvaloke\nchāyātapayoriva brahmaloke ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "As in a mirror, so in oneself; as in a dream, so in the world of the ancestors; as in water, so it appears in the world of the gandharvas; as shade and light, so in the world of Brahman.",
+    "situations": [
+      "purpose_meaning",
+      "lack_of_motivation"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "In a clear intellect the Self is seen distinctly, like a face in a mirror; in the world of the ancestors only dimly, as in a dream; in other worlds as a blurred reflection in water; clearly again only in Brahmā's world, which is hard to reach. So one should strive here."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -3659,15 +4652,32 @@
       3,
       6
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says that knowing the senses are separate from the Self, rising and setting on their own, the wise do not grieve.",
     "devanagari": "इन्द्रियाणां पृथग्भावमुदयास्तमयौ च यत् ।\nपृथगुत्पद्यमानानां मत्वा धीरो न शोचति ॥",
     "iast": "indriyāṇāṃ pṛthagbhāvamudayāstamayau ca yat |\npṛthagutpadyamānānāṃ matvā dhīro na śocati ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "Knowing that the senses are separate, arising separately, and that their rising and setting are their own, the wise do not grieve.",
+    "situations": [
+      "grief_loss",
+      "ageing_death_impermanence",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The senses arise from the elements to grasp their objects and are of a different nature from the pure Self; their rising and setting in waking and sleep belong to them, not to the Self. Knowing this, the wise do not grieve, since the Self never changes; as another scripture says, 'the knower of the Self crosses sorrow'."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -3689,17 +4699,34 @@
       3,
       7
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death repeats the inward ladder: senses, mind, intellect, the great self, the unmanifest.",
     "devanagari": "इन्द्रियेभ्यः परं मनो मनसः सत्त्वमुत्तमम् ।\nसत्त्वादधि महानात्मा महतोऽव्यक्तमुत्तमम् ॥",
     "iast": "indriyebhyaḥ paraṃ mano manasaḥ sattvamuttamam |\nsattvādadhi mahānātmā mahato'vyaktamuttamam ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "Beyond the senses is the mind; beyond the mind is the intellect, the highest; beyond the intellect is the great self; beyond the great is the unmanifest, the highest.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "As explained earlier (1.3.10); the objects are included with the senses here, and 'sattva' means the intellect."
+      }
+    ],
     "safety_flags": [],
-    "cross_refs": [],
+    "cross_refs": [
+      "BG.3.42"
+    ],
     "source": {
       "name": "Sanskrit Wikisource",
       "page": "कठोपनिषत्/द्वितीयोध्यायः/तृतीयवल्ली",
@@ -3719,15 +4746,30 @@
       3,
       8
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says beyond the unmanifest is the all-pervading Person; knowing him, one is freed.",
     "devanagari": "अव्यक्तात्तु परः पुरुषो व्यापकोऽलिङ्ग एव च ।\nयं ज्ञात्वा मुच्यते जन्तुरमृतत्वं च गच्छति ॥",
     "iast": "avyaktāttu paraḥ puruṣo vyāpako'liṅga eva ca |\nyaṃ jñātvā mucyate janturamṛtatvaṃ ca gacchati ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "Beyond the unmanifest is the Person, all-pervading and without any mark. Knowing him, a creature is freed and reaches immortality.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The Person pervades even space, being the cause of all, and has no mark such as the intellect by which it could be inferred. Knowing him through teacher and scripture, one is freed from the knots of ignorance while living, and reaches immortality when the body falls."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -3749,15 +4791,30 @@
       3,
       9
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says the Person cannot be seen with the eye but is grasped by heart and mind.",
     "devanagari": "न संदृशे तिष्ठति रूपमस्य\nन चक्षुषा पश्यति कश्चनैनम् ।\nहृदा मनीषा मनसाऽभिक्लृप्तो\nय एतद्विदुरमृतास्ते भवन्ति ॥",
     "iast": "na saṃdṛśe tiṣṭhati rūpamasya\nna cakṣuṣā paśyati kaścanainam |\nhṛdā manīṣā manasā'bhiklṛpto\nya etadviduramṛtāste bhavanti ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "His form is not within the range of sight; no one sees him with the eye. He is grasped by the heart, by insight, by the mind. Those who know this become immortal.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "No sense can perceive the inner Self; it is revealed to the intellect in the heart, the controller of the mind, through right reflection. Next comes the yoga by which that intellect is gained."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -3779,15 +4836,32 @@
       3,
       10
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death describes the highest state of meditation: senses and mind at rest, intellect still.",
     "devanagari": "यदा पञ्चावतिष्ठन्ते ज्ञानानि मनसा सह ।\nबुद्धिश्च न विचेष्टते तामाहुः परमां गतिम् ॥",
     "iast": "yadā pañcāvatiṣṭhante jñānāni manasā saha |\nbuddhiśca na viceṣṭate tāmāhuḥ paramāṃ gatim ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "When the five senses come to rest together with the mind, and the intellect does not stir, that, they say, is the highest state.",
+    "situations": [
+      "fear_anxiety",
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "When the senses, turned back from their objects, rest in the Self together with the mind, and the deciding intellect does not act, that is called the highest state."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -3809,15 +4883,32 @@
       3,
       11
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death defines yoga as the steady holding of the senses and warns that it must be guarded, since it comes and goes.",
     "devanagari": "तां योगमिति मन्यन्ते स्थिरामिन्द्रियधारणाम् ।\nअप्रमत्तस्तदा भवति योगो हि प्रभवाप्ययौ ॥",
     "iast": "tāṃ yogamiti manyante sthirāmindriyadhāraṇām |\napramattastadā bhavati yogo hi prabhavāpyayau ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "This firm holding of the senses is what they call yoga. Then one must be vigilant, for yoga comes and goes.",
+    "situations": [
+      "temptation_self_control",
+      "lack_of_motivation",
+      "failure_setback"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "This state is called yoga, though it is really separation from all ills; in it the Self rests in its own nature. Because yoga arises and fades, one must take constant care, being vigilant even before the mind's activity ceases."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -3839,15 +4930,30 @@
       3,
       12
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says the Self cannot be reached by speech, mind or eye; it is grasped only by affirming that it is.",
     "devanagari": "नैव वाचा न मनसा प्राप्तुं शक्यो न चक्षुषा ।\nअस्तीति ब्रुवतोऽन्यत्र कथं तदुपलभ्यते ॥",
     "iast": "naiva vācā na manasā prāptuṃ śakyo na cakṣuṣā |\nastīti bruvato'nyatra kathaṃ tadupalabhyate ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "It cannot be reached by speech, nor by the mind, nor by the eye. How can it be grasped except by one who says, 'It is'?",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Though beyond the senses, the Self exists as the root of the world: when effects are traced back, they end in being, not nothing. One who follows scripture with faith grasps it as 'it is'; one who holds that the world has no root cannot grasp it at all."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -3869,15 +4975,30 @@
       3,
       13
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says the Self is first grasped as existing, and then its true nature becomes clear.",
     "devanagari": "अस्तीत्येवोपलब्धव्यस्तत्त्वभावेन चोभयोः ।\nअस्तीत्येवोपलब्धस्य तत्त्वभावः प्रसीदति ॥",
     "iast": "astītyevopalabdhavyastattvabhāvena cobhayoḥ |\nastītyevopalabdhasya tattvabhāvaḥ prasīdati ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "It should be grasped as 'It is', and also in its true nature. For one who has grasped it as 'It is', its true nature becomes clear.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "First the Self is grasped as existing, through its limiting conditions; then its true nature, free of all conditions and beyond 'is' and 'is not', reveals itself to the one who first grasped it as existing."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -3899,15 +5020,31 @@
       3,
       14
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says that when all the desires lodged in the heart fall away, a mortal becomes immortal here and now.",
     "devanagari": "यदा सर्वे प्रमुच्यन्ते कामा येऽस्य हृदि श्रिताः ।\nअथ मर्त्योऽमृतो भवत्यत्र ब्रह्म समश्नुते ॥",
     "iast": "yadā sarve pramucyante kāmā ye'sya hṛdi śritāḥ |\natha martyo'mṛto bhavatyatra brahma samaśnute ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "When all the desires that dwell in one's heart are let go, then a mortal becomes immortal and reaches Brahman here.",
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Desires rest in the intellect, not the Self; when they fall away, because nothing else remains to be desired, death, which is ignorance, desire and action, is destroyed, and one becomes Brahman right here, like a lamp going out."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -3929,15 +5066,31 @@
       3,
       15
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death says that when all the knots of the heart are cut, a mortal becomes immortal; this is the whole teaching.",
     "devanagari": "यथा सर्वे प्रभिद्यन्ते हृदयस्येह ग्रन्थयः ।\nअथ मर्त्योऽमृतो भवत्येतावद्ध्यनुशासनम् ॥",
     "iast": "yathā sarve prabhidyante hṛdayasyeha granthayaḥ |\natha martyo'mṛto bhavatyetāvaddhyanuśāsanam ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "When all the knots of the heart are cut here, then a mortal becomes immortal. This much is the teaching.",
+    "situations": [
+      "ego_pride_envy",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The knots are ignorant notions like 'I am this body', 'this wealth is mine', 'I am happy' or 'I am miserable'. When they are cut by knowing 'I am Brahman', the desires they cause perish at the root; this is the whole teaching of the Upanishads, with nothing more to add."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -3959,17 +5112,27 @@
       3,
       16
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death describes the channels of the heart and the path upward through the crown of the head at death.",
     "devanagari": "शतं चैका च हृदयस्य नाड्य-\nस्तासां मूर्धानमभिनिःसृतैका ।\nतयोर्ध्वमायन्नमृतत्वमेति\nविष्वङ्ङन्या उत्क्रमणे भवन्ति ॥",
     "iast": "śataṃ caikā ca hṛdayasya nāḍya-\nstāsāṃ mūrdhānamabhiniḥsṛtaikā |\ntayordhvamāyannamṛtatvameti\nviṣvaṅṅanyā utkramaṇe bhavanti ||",
-    "english": "",
+    "english": "A hundred and one are the channels of the heart; one of them goes up to the crown of the head. Going up by it, one reaches immortality; the others lead in every direction at the time of departure.",
     "situations": [],
     "life_stages": [],
     "aims": [],
-    "school_notes": [],
-    "safety_flags": [],
-    "cross_refs": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "One channel, suṣumnā, passes through the crown; directing the self into it at death, one goes up through the sun to a relative immortality, or reaches full immortality with Brahmā later. The other channels lead back into worldly life. This concerns those who know Brahman only partly, since the full knower goes nowhere."
+      }
+    ],
+    "safety_flags": [
+      "death"
+    ],
+    "cross_refs": [
+      "BG.8.13"
+    ],
     "source": {
       "name": "Sanskrit Wikisource",
       "page": "कठोपनिषत्/द्वितीयोध्यायः/तृतीयवल्ली",
@@ -3989,15 +5152,30 @@
       3,
       17
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Yama",
+    "context": "Death sums up the teaching: draw out the inner Self from the body as a reed's stalk is drawn from its sheath.",
     "devanagari": "अङ्गुष्ठमात्रः पुरुषोऽन्तरात्मा\nसदा जनानां हृदये संनिविष्टः ।\nतं स्वाच्छरीरात्प्रवृहेन्मुञ्जादिवेषीकां धैर्येण ।\nतं विद्याच्छुक्रममृतं तं विद्याच्छुक्रममृतमिति ॥",
     "iast": "aṅguṣṭhamātraḥ puruṣo'ntarātmā\nsadā janānāṃ hṛdaye saṃniviṣṭaḥ |\ntaṃ svāccharīrātpravṛhenmuñjādiveṣīkāṃ dhairyeṇa |\ntaṃ vidyācchukramamṛtaṃ taṃ vidyācchukramamṛtamiti ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "The Person the size of a thumb, the inner Self, always dwells in the heart of people. One should draw him out from one's own body with steadiness, as the stalk is drawn from a reed. One should know him as the bright, the immortal; one should know him as the bright, the immortal.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "'Draw out' means separate in understanding: distinguish the Self from the body with steady care, as the inner stalk is pulled from a reed, and know that pure consciousness as the immortal Brahman. The repetition marks the end of the Upanishad."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -4019,15 +5197,30 @@
       3,
       18
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "Upanishad",
+    "context": "The Upanishad concludes the story: Nachiketas, taught by Death, reached Brahman, and so can anyone who knows the Self.",
     "devanagari": "मृत्युप्रोक्तां नचिकेतोऽथ लब्ध्वा\nविद्यामेतां योगविधिं च कृत्स्नम् ।\nब्रह्मप्राप्तो विरजोऽभूद्विमृत्यु-\nरन्योऽप्येवं यो विदध्यात्ममेव ॥",
     "iast": "mṛtyuproktāṃ naciketo'tha labdhvā\nvidyāmetāṃ yogavidhiṃ ca kṛtsnam |\nbrahmaprāpto virajo'bhūdvimṛtyu-\nranyo'pyevaṃ yo vidadhyātmameva ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "Having received this knowledge taught by Death, and the whole practice of yoga, Nachiketas reached Brahman, free of stain and free of death; and so will anyone else who knows the inner Self in this way.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "This conclusion of the story praises the knowledge. Nachiketas, freed from merit and demerit, desire and ignorance, reached Brahman; anyone else who knows the inner Self as Nachiketas did becomes the same."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {
@@ -4049,15 +5242,28 @@
       3,
       19
     ],
-    "speaker": "",
-    "context": "",
+    "speaker": "teacher and student",
+    "context": "The Upanishad closes with the traditional peace chant for teacher and student, asking that they never turn against each other.",
     "devanagari": "सह नाववतु ।\nसह नौ भुनक्तु ।\nसह वीर्यं करवावहै ।\nतेजस्विनावधीतमस्तु मा विद्विषावहै ॥",
     "iast": "saha nāvavatu |\nsaha nau bhunaktu |\nsaha vīryaṃ karavāvahai |\ntejasvināvadhītamastu mā vidviṣāvahai ||",
-    "english": "",
-    "situations": [],
-    "life_stages": [],
-    "aims": [],
-    "school_notes": [],
+    "english": "May he protect us both together. May he nourish us both together. May we work together with vigour. May our study be full of light. May we not hate each other.",
+    "situations": [
+      "relationships_forgiveness",
+      "anger_resentment"
+    ],
+    "life_stages": [
+      "student"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "This peace chant removes faults arising from careless teaching or study. May the Lord revealed by the Upanishad protect us by revealing knowledge and nourish us with its fruit; may teacher and student never bear ill will towards each other through faults in teaching or learning; 'peace' is said three times to quiet every fault."
+      }
+    ],
     "safety_flags": [],
     "cross_refs": [],
     "source": {

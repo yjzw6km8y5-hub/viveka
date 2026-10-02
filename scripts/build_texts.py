@@ -147,7 +147,13 @@ def bhashya_labelled(text, label_re, comment_re=r"ए\.?\d[\d.\-]*", section_bre
         pending.append(ref)
         parts = re.split(rf"^{comment_re}\s*$", body, maxsplit=1, flags=re.M)
         if len(parts) < 2:
-            continue
+            # No comment label: a comment may still follow the mantra's closing
+            # '।।N।।' (e.g. Katha 1.2.18). Only an empty remainder means a joint comment.
+            m = re.search(r"।।\s*\d+\s*।।", body)
+            rest = body[m.end():].strip() if m else ""
+            if len(rest) < 80:
+                continue
+            parts = [body[:m.end()], rest]
         comment = parts[1]
         if section_break:
             comment = re.split(section_break, comment, flags=re.M)[0]

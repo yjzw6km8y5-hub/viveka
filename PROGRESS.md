@@ -13,7 +13,7 @@ Snapshots of all 13 Upanishads and 10 Śaṅkara bhāṣyas are in `data/raw/upa
 |---|---:|---|
 | Isha | 18 | done (strict VALID) |
 | Kena | 35 | done (strict VALID) |
-| Katha | 120 | in progress: 1.1.1-1.2.11 annotated (40/120). Next: 1.2.12 onward. Fix: Śaṅkara's comment on 1.2.18 has no 'ए' label, so the parser files the 1.2.19 comment under 1.2.18; split it before writing that note |
+| Katha | 120 | done (strict VALID) |
 | Prashna | | |
 | Mundaka | | |
 | Mandukya | | |

@@ -3,400 +3,3118 @@
     "speaker": "narrator",
     "context": "The Upanishad opens with a story: a father performing a sacrifice gives away everything he owns, while his young son watches.",
     "english": "Om. Wanting its reward, the son of Vajashravas, it is told, gave away all he owned. He had a son named Nachiketas.",
-    "situations": [], "life_stages": [], "aims": [],
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
     "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "The story serves to praise the knowledge that follows. Vājaśravasa performed the Viśvajit sacrifice, in which one gives away everything, wanting its reward."}
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The story serves to praise the knowledge that follows. Vājaśravasa performed the Viśvajit sacrifice, in which one gives away everything, wanting its reward."
+      }
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.2": {
     "speaker": "narrator",
     "context": "As the cows are led away as gifts for the priests, faith stirs in the boy Nachiketas.",
     "english": "Though he was only a boy, faith entered him as the gifts were being led away, and he thought:",
-    "situations": [], "life_stages": [], "aims": [],
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
     "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "Faith, a sense of what is right, prompted by concern for his father's welfare, entered the young boy as the cows were being taken to the priests as their fee."}
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Faith, a sense of what is right, prompted by concern for his father's welfare, entered the young boy as the cows were being taken to the priests as their fee."
+      }
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.3": {
     "speaker": "Nachiketas",
     "context": "Nachiketas sees that the cows his father gives away are old and useless, and worries about the result for his father.",
     "english": "'They have drunk their water, eaten their grass, given their milk, and are barren. Joyless are the worlds he goes to who gives such cows.'",
-    "situations": [], "life_stages": [], "aims": [],
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
     "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "The cows given as the fee are old and useless; the sacrificer who gives them goes to the worlds called 'joyless'."}
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The cows given as the fee are old and useless; the sacrificer who gives them goes to the worlds called 'joyless'."
+      }
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.4": {
     "speaker": "narrator",
     "context": "Wanting to save his father's sacrifice, Nachiketas offers himself; his father, angered, says he gives him to Death.",
     "english": "He said to his father, 'Father, to whom will you give me?' He said it a second time, and a third. His father said to him, 'To Death I give you!'",
-    "situations": [], "life_stages": [], "aims": [],
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
     "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "Thinking a son should prevent the bad result of his father's flawed sacrifice, even by giving himself, Nachiketas asked. Ignored, he asked again; his father, angry that this was not how a boy behaves, said, 'I give you to Death.'"}
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Thinking a son should prevent the bad result of his father's flawed sacrifice, even by giving himself, Nachiketas asked. Ignored, he asked again; his father, angry that this was not how a boy behaves, said, 'I give you to Death.'"
+      }
     ],
-    "safety_flags": ["death"], "cross_refs": [], "review_status": "draft"
+    "safety_flags": [
+      "death"
+    ],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.5": {
     "speaker": "Nachiketas",
     "context": "Alone, Nachiketas reflects on his father's angry words and wonders what Death could want with him.",
     "english": "Among many I go as the first; among many I go as one of the middle. What work does Yama have that he will do through me today?",
-    "situations": ["relationships_forgiveness"], "life_stages": ["student"], "aims": ["dharma"],
-    "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "Among many disciples or sons I rank first or middle, never last; my father spoke in anger, without purpose. Still, so that his word is not false, Nachiketas speaks to his father, who now grieves over what he said."}
+    "situations": [
+      "relationships_forgiveness"
     ],
-    "safety_flags": ["death", "distress_gentle"], "cross_refs": [], "review_status": "draft"
+    "life_stages": [
+      "student"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Among many disciples or sons I rank first or middle, never last; my father spoke in anger, without purpose. Still, so that his word is not false, Nachiketas speaks to his father, who now grieves over what he said."
+      }
+    ],
+    "safety_flags": [
+      "death",
+      "distress_gentle"
+    ],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.6": {
     "speaker": "Nachiketas",
     "context": "Nachiketas urges his grieving father to keep his word as good people always have, since mortal life passes like a crop.",
     "english": "Look back at how those before us acted; look around at how others act now. A mortal ripens like grain, and like grain is born again.",
-    "situations": ["ageing_death_impermanence"], "life_stages": ["householder", "elder"], "aims": ["dharma"],
-    "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "Consider how your forefathers acted and how good people act now: none made their word false, and no one becomes ageless by breaking it. Mortals ripen and die like grain and are born again, so keep your truth and send me to Yama. The father sent him, and Yama was away for three nights."}
+    "situations": [
+      "ageing_death_impermanence"
     ],
-    "safety_flags": ["death", "under18_hold"], "cross_refs": ["BG.2.27"], "review_status": "draft"
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Consider how your forefathers acted and how good people act now: none made their word false, and no one becomes ageless by breaking it. Mortals ripen and die like grain and are born again, so keep your truth and send me to Yama. The father sent him, and Yama was away for three nights."
+      }
+    ],
+    "safety_flags": [
+      "death",
+      "under18_hold"
+    ],
+    "cross_refs": [
+      "BG.2.27"
+    ],
+    "review_status": "draft"
   },
   "KaU.1.1.7": {
     "speaker": "Yama's household",
     "context": "Nachiketas waits three nights at Death's house; when Yama returns, his household urges him to honour the guest.",
     "english": "A brahmin guest enters houses like fire itself. People make this offering of peace to him: bring water, son of Vivasvat!",
-    "situations": [], "life_stages": [], "aims": [],
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
     "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "A brahmin guest enters as the fire Vaiśvānara, as if burning; good people calm him with water for the feet and a seat. So bring water, Yama, for neglecting a guest brings harm."}
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "A brahmin guest enters as the fire Vaiśvānara, as if burning; good people calm him with water for the feet and a seat. So bring water, Yama, for neglecting a guest brings harm."
+      }
     ],
-    "safety_flags": ["caste_gender"], "cross_refs": [], "review_status": "draft"
+    "safety_flags": [
+      "caste_gender"
+    ],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.8": {
     "speaker": "Yama's household",
     "context": "Yama's household warns of what is lost when a guest goes unfed.",
     "english": "Hopes and expectations, the fruit of good company, kind speech, sacrifices and good works, sons and cattle: all these are taken from the person of little understanding in whose house a brahmin stays without food.",
-    "situations": [], "life_stages": [], "aims": [],
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
     "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "All these are destroyed for one who lets a brahmin guest stay unfed; so a guest must never be neglected, in any circumstance."}
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "All these are destroyed for one who lets a brahmin guest stay unfed; so a guest must never be neglected, in any circumstance."
+      }
     ],
-    "safety_flags": ["caste_gender"], "cross_refs": [], "review_status": "draft"
+    "safety_flags": [
+      "caste_gender"
+    ],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.9": {
     "speaker": "Yama",
     "context": "Yama honours Nachiketas, who waited three nights without food, and offers him three boons.",
     "english": "Brahmin, since you, a guest worthy of honour, have stayed three nights in my house without eating, homage to you, brahmin, and may all go well for me. So choose three boons in return.",
-    "situations": [], "life_stages": [], "aims": [],
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
     "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "To make amends for the fault of a guest's fasting in his house, and to please Nachiketas further, Yama offers one boon for each night he waited."}
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "To make amends for the fault of a guest's fasting in his house, and to please Nachiketas further, Yama offers one boon for each night he waited."
+      }
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.10": {
     "speaker": "Nachiketas",
     "context": "For his first boon, Nachiketas asks that his father be at peace, free of anger, and welcome him home.",
     "english": "That Gautama, my father, may be calm in mind, cheerful, and free of anger towards me, O Death; that he may recognise and greet me when you send me back: this I choose as the first of the three boons.",
-    "situations": ["relationships_forgiveness", "anger_resentment"], "life_stages": ["student", "householder"], "aims": ["dharma"],
-    "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "That my father stop worrying about what has become of me, be cheerful and free of anger, and recognise me as his son returned: the first boon is my father's contentment."}
+    "situations": [
+      "relationships_forgiveness",
+      "anger_resentment"
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "life_stages": [
+      "student",
+      "householder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "That my father stop worrying about what has become of me, be cheerful and free of anger, and recognise me as his son returned: the first boon is my father's contentment."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.11": {
     "speaker": "Yama",
     "context": "Yama grants the first boon: the father will welcome his son back, his anger gone.",
     "english": "Auddalaki Aruni, released by me, will recognise you and be as he was before. Seeing you freed from the jaws of death, he will sleep peacefully at night, his anger gone.",
-    "situations": ["relationships_forgiveness", "anger_resentment"], "life_stages": ["student", "householder"], "aims": ["dharma"],
-    "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "Your father will be as affectionate towards you as before; with my permission he will sleep happily, free of anger, having seen you freed from death."}
+    "situations": [
+      "relationships_forgiveness",
+      "anger_resentment"
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "life_stages": [
+      "student",
+      "householder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Your father will be as affectionate towards you as before; with my permission he will sleep happily, free of anger, having seen you freed from death."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.12": {
     "speaker": "Nachiketas",
     "context": "Nachiketas describes the heaven-world, free of fear, age and sorrow, before asking his second boon.",
     "english": "In the heaven-world there is no fear at all; you are not there, and no one fears old age. Having crossed beyond both hunger and thirst, free of sorrow, one rejoices in the heaven-world.",
-    "situations": [], "life_stages": [], "aims": [],
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
     "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "In heaven there is no fear from disease or the like, and Death does not strike suddenly as here; beyond hunger, thirst and sorrow, one rejoices."}
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "In heaven there is no fear from disease or the like, and Death does not strike suddenly as here; beyond hunger, thirst and sorrow, one rejoices."
+      }
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.13": {
     "speaker": "Nachiketas",
     "context": "For his second boon, Nachiketas asks Death to teach him the sacred fire that leads to heaven.",
     "english": "You know, Death, the fire that leads to heaven; explain it to me, for I have faith. Those who reach heaven gain immortality. This I choose as my second boon.",
-    "situations": [], "life_stages": [], "aims": [],
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
     "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "Those who build this fire reach heaven and gain 'immortality', meaning the state of the gods; Nachiketas asks for knowledge of the fire as his second boon."}
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Those who build this fire reach heaven and gain 'immortality', meaning the state of the gods; Nachiketas asks for knowledge of the fire as his second boon."
+      }
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.14": {
     "speaker": "Yama",
     "context": "Death agrees to teach the fire that leads to heaven.",
     "english": "I will explain it to you; learn it from me, Nachiketas, for I know the fire that leads to heaven. Know this fire, the way to the endless world and its foundation, as hidden in the secret place.",
-    "situations": [], "life_stages": [], "aims": [],
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
     "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "The fire is the means to heaven and also the support of the world as Virāj; 'hidden in the secret place' means set in the intellect of the wise."}
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The fire is the means to heaven and also the support of the world as Virāj; 'hidden in the secret place' means set in the intellect of the wise."
+      }
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.15": {
     "speaker": "narrator",
     "context": "The Upanishad reports that Death taught the fire ritual in detail and Nachiketas repeated it back correctly.",
     "english": "He told him of that fire, the beginning of the worlds: what bricks, how many, and how they are laid. And Nachiketas repeated it back just as it was told. Then Death, pleased, spoke again.",
-    "situations": [], "life_stages": [], "aims": [],
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
     "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "These are the Upanishad's own words. Death taught the fire, the first embodied being, with the bricks, their number and arrangement; pleased with the repetition, he wished to give a boon beyond the three."}
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "These are the Upanishad's own words. Death taught the fire, the first embodied being, with the bricks, their number and arrangement; pleased with the repetition, he wished to give a boon beyond the three."
+      }
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.16": {
     "speaker": "Yama",
     "context": "Pleased with his student, Death gives Nachiketas an extra boon: the fire will bear his name.",
     "english": "The great-souled one, delighted, said to him: 'I give you another boon here and now: this fire shall be known by your name. And take this many-coloured chain.'",
-    "situations": [], "life_stages": [], "aims": [],
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
     "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "Seeing the student's fitness, Death gives a fourth boon: the fire named after Nachiketas, and a precious, many-coloured necklace; or, alternatively, the path of ritual action with its many results."}
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Seeing the student's fitness, Death gives a fourth boon: the fire named after Nachiketas, and a precious, many-coloured necklace; or, alternatively, the path of ritual action with its many results."
+      }
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.17": {
     "speaker": "Yama",
     "context": "Death praises the fire ritual and the peace it brings to one who performs it fully.",
     "english": "One who has kindled the Nachiketa fire three times, joined with the three, doing the three works, crosses over birth and death. Knowing the god born of Brahman, all-knowing and worthy of praise, and realising him, one reaches this peace for ever.",
-    "situations": [], "life_stages": [], "aims": [],
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
     "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "'The three' are mother, father and teacher, or alternatively scripture, tradition and the virtuous; 'the three works' are sacrifice, study and giving. Knowing Virāj, born of Hiraṇyagarbha, one reaches the state of Virāj by combining ritual and meditation."}
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "'The three' are mother, father and teacher, or alternatively scripture, tradition and the virtuous; 'the three works' are sacrifice, study and giving. Knowing Virāj, born of Hiraṇyagarbha, one reaches the state of Virāj by combining ritual and meditation."
+      }
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.18": {
     "speaker": "Yama",
     "context": "Death concludes his praise of the fire ritual and its reward in heaven.",
     "english": "One who knows these three and, knowing this, builds the Nachiketa fire, casts off the nooses of death beforehand and, beyond sorrow, rejoices in the heaven-world.",
-    "situations": [], "life_stages": [], "aims": [],
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
     "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "The 'nooses of death' are wrongdoing, ignorance, passion and hatred; such a person casts them off even before the body falls and rejoices in the world of Virāj."}
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The 'nooses of death' are wrongdoing, ignorance, passion and hatred; such a person casts them off even before the body falls and rejoices in the world of Virāj."
+      }
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.19": {
     "speaker": "Yama",
     "context": "Death closes the second boon and invites Nachiketas to choose his third.",
     "english": "This is your fire that leads to heaven, Nachiketas, which you chose with your second boon. People will call this fire by your name. Choose your third boon, Nachiketas.",
-    "situations": [], "life_stages": [], "aims": [],
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
     "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "Until the third boon is given, Death remains in debt. What has been taught so far concerns ritual; what follows teaches knowledge of the Self, which alone removes the ignorance at the root of rebirth, and the coming temptations test Nachiketas's detachment."}
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Until the third boon is given, Death remains in debt. What has been taught so far concerns ritual; what follows teaches knowledge of the Self, which alone removes the ignorance at the root of rebirth, and the coming temptations test Nachiketas's detachment."
+      }
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.20": {
     "speaker": "Nachiketas",
     "context": "For his third boon, Nachiketas asks the great question: does a person still exist after death?",
     "english": "There is this doubt about a person who has died: some say 'he is', others say 'he is not'. Taught by you, I would know this. This is the third of my boons.",
-    "situations": ["ageing_death_impermanence", "grief_loss", "purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
-    "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "Some say there is a Self, distinct from body, senses, mind and intellect, that goes on to another body; others deny it. Neither perception nor inference settles the question, and the highest human good depends on knowing the answer."}
+    "situations": [
+      "ageing_death_impermanence",
+      "grief_loss",
+      "purpose_meaning"
     ],
-    "safety_flags": ["death"], "cross_refs": ["BG.2.20"], "review_status": "draft"
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Some say there is a Self, distinct from body, senses, mind and intellect, that goes on to another body; others deny it. Neither perception nor inference settles the question, and the highest human good depends on knowing the answer."
+      }
+    ],
+    "safety_flags": [
+      "death"
+    ],
+    "cross_refs": [
+      "BG.2.20"
+    ],
+    "review_status": "draft"
   },
   "KaU.1.1.21": {
     "speaker": "Yama",
     "context": "To test Nachiketas, Death says the question is too subtle and asks him to choose another boon.",
     "english": "Even the gods of old had doubts about this; it is not easy to understand, this subtle matter. Choose another boon, Nachiketas. Do not press me; release me from this one.",
-    "situations": [], "life_stages": [], "aims": [],
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
     "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "To test whether Nachiketas is fit for self-knowledge, Death says the Self is subtle and hard to know even when heard; 'do not press me' as a creditor presses a debtor."}
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "To test whether Nachiketas is fit for self-knowledge, Death says the Self is subtle and hard to know even when heard; 'do not press me' as a creditor presses a debtor."
+      }
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.22": {
     "speaker": "Nachiketas",
     "context": "Nachiketas refuses to give up his question: no teacher equals Death, and no boon equals this one.",
     "english": "Even the gods had doubts about this, you say, Death, and it is not easy to understand; yet no other teacher like you can be found, and no other boon equals this one.",
-    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
-    "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "Since even the wise find it hard, no teacher equal to you can be found; this boon leads to the highest good, so no other boon, all of which bring impermanent results, can equal it."}
+    "situations": [
+      "purpose_meaning"
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Since even the wise find it hard, no teacher equal to you can be found; this boon leads to the highest good, so no other boon, all of which bring impermanent results, can equal it."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.23": {
     "speaker": "Yama",
     "context": "Death tries to tempt Nachiketas away from his question with descendants, wealth, land and long life (1.1.23-1.1.25).",
     "english": "Choose sons and grandsons who will live a hundred years, many cattle, elephants, gold and horses. Choose a great expanse of land, and live yourself as many autumns as you wish.",
-    "situations": [], "life_stages": [], "aims": [],
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
     "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "Death offers long-lived descendants, cattle, elephants, gold, horses and a kingdom, and, since all these would be useless with a short life, as long a life as Nachiketas wants."}
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Death offers long-lived descendants, cattle, elephants, gold, horses and a kingdom, and, since all these would be useless with a short life, as long a life as Nachiketas wants."
+      }
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.24": {
     "speaker": "Yama",
     "context": "Death continues to tempt Nachiketas with wealth, long life, kingship and every pleasure.",
     "english": "If you think of any boon equal to this, choose it: wealth and long life. Be a ruler on the wide earth, Nachiketas. I will make you one who enjoys all desires.",
-    "situations": [], "life_stages": [], "aims": [],
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
     "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "Choose wealth with long life, be king of a great land; Death, a god whose will comes true, offers to make Nachiketas enjoy all desires, divine and human."}
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Choose wealth with long life, be king of a great land; Death, a god whose will comes true, offers to make Nachiketas enjoy all desires, divine and human."
+      }
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.25": {
     "speaker": "Yama",
     "context": "Death's final temptation offers heavenly women and every rare pleasure, if only Nachiketas will stop asking about death.",
     "english": "Whatever desires are hard to win in the world of mortals, ask for them all as you wish: these lovely women with chariots and music, such as no mortal can obtain. Be served by them, my gift to you. Nachiketas, do not ask about death.",
-    "situations": [], "life_stages": [], "aims": [],
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
     "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "The women are heavenly nymphs, who cannot be won without the favour of gods like Death. 'Do not ask about death' means: do not ask whether one exists after death, a question as pointless as examining a crow's teeth."}
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The women are heavenly nymphs, who cannot be won without the favour of gods like Death. 'Do not ask about death' means: do not ask whether one exists after death, a question as pointless as examining a crow's teeth."
+      }
     ],
-    "safety_flags": ["death", "caste_gender"], "cross_refs": [], "review_status": "draft"
+    "safety_flags": [
+      "death",
+      "caste_gender"
+    ],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.26": {
     "speaker": "Nachiketas",
     "context": "Unmoved, Nachiketas replies that all these pleasures are fleeting and wear out the senses.",
     "english": "These last only till tomorrow, Death, and they wear away the vigour of all a mortal's senses. Even a whole life is short. Keep your chariots; keep your dance and song.",
-    "situations": ["temptation_self_control", "success_wealth", "ageing_death_impermanence"], "life_stages": ["student", "householder", "elder"], "aims": ["kama", "moksha"],
-    "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "The pleasures offered may not last even until tomorrow, and they drain the senses' vigour along with merit, wisdom and fame. Even the life of Brahmā is short, let alone ours."}
+    "situations": [
+      "temptation_self_control",
+      "success_wealth",
+      "ageing_death_impermanence"
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "kama",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The pleasures offered may not last even until tomorrow, and they drain the senses' vigour along with merit, wisdom and fame. Even the life of Brahmā is short, let alone ours."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.27": {
     "speaker": "Nachiketas",
     "context": "Nachiketas says wealth never satisfies anyone, and he wants only the answer to his question.",
     "english": "No one is satisfied by wealth. We shall have wealth if we have seen you; we shall live as long as you rule. But the boon I would choose is that one alone.",
-    "situations": ["success_wealth", "temptation_self_control", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["artha", "moksha"],
-    "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "No one in the world is ever seen to be satisfied by gaining wealth. Having met Death, wealth and life will come anyway; the only boon worth choosing is knowledge of the Self."}
+    "situations": [
+      "success_wealth",
+      "temptation_self_control",
+      "purpose_meaning"
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "artha",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "No one in the world is ever seen to be satisfied by gaining wealth. Having met Death, wealth and life will come anyway; the only boon worth choosing is knowledge of the Self."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.28": {
     "speaker": "Nachiketas",
     "context": "Nachiketas asks who, having glimpsed the immortal, would still want a long life of fading pleasures.",
     "english": "Having come near the ageless and immortal, what ageing mortal here below, who understands, would delight in a very long life, dwelling on the pleasures of beauty and love?",
-    "situations": ["ageing_death_impermanence", "temptation_self_control", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
-    "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "Who, knowing there is something higher to be gained from the immortals, would choose unstable things like sons and gold? Reflecting on how fleeting beauty and pleasure are, what discerning person would delight in a long life?"}
+    "situations": [
+      "ageing_death_impermanence",
+      "temptation_self_control",
+      "purpose_meaning"
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Who, knowing there is something higher to be gained from the immortals, would choose unstable things like sons and gold? Reflecting on how fleeting beauty and pleasure are, what discerning person would delight in a long life?"
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.1.29": {
     "speaker": "Nachiketas",
     "context": "Nachiketas holds to his question about what lies beyond death and chooses no other boon.",
     "english": "That about which people doubt, Death, concerning the great passing beyond: tell us that. This boon, which enters into what is hidden: Nachiketas chooses no other.",
-    "situations": ["purpose_meaning", "ageing_death_impermanence"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
-    "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "Tell us the certain knowledge of the Self concerning the next world. The closing words are the Upanishad's own: Nachiketas does not choose, even in thought, any boon of impermanent things."}
+    "situations": [
+      "purpose_meaning",
+      "ageing_death_impermanence"
     ],
-    "safety_flags": ["death"], "cross_refs": [], "review_status": "draft"
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Tell us the certain knowledge of the Self concerning the next world. The closing words are the Upanishad's own: Nachiketas does not choose, even in thought, any boon of impermanent things."
+      }
+    ],
+    "safety_flags": [
+      "death"
+    ],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.2.1": {
     "speaker": "Yama",
     "context": "Satisfied that Nachiketas is ready, Death begins his teaching by contrasting the good with the merely pleasant.",
     "english": "The good is one thing, the pleasant quite another. Both, with different aims, bind a person. All goes well for the one who takes the good; whoever chooses the pleasant falls short of the goal.",
-    "situations": ["temptation_self_control", "purpose_meaning", "success_wealth"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "kama", "moksha"],
-    "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "Everyone pursues one or the other, prosperity or liberation, and one person cannot follow both, since they are as opposed as knowledge and ignorance. Whoever takes the good alone fares well; the short-sighted who choose the pleasant lose the lasting goal."}
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning",
+      "success_wealth"
     ],
-    "safety_flags": [], "cross_refs": ["BG.18.37", "BG.18.38"], "review_status": "draft"
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "kama",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Everyone pursues one or the other, prosperity or liberation, and one person cannot follow both, since they are as opposed as knowledge and ignorance. Whoever takes the good alone fares well; the short-sighted who choose the pleasant lose the lasting goal."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.18.37",
+      "BG.18.38"
+    ],
+    "review_status": "draft"
   },
   "KaU.1.2.2": {
     "speaker": "Yama",
     "context": "Death says the wise tell the good from the pleasant and choose the good, while the foolish choose comfort.",
     "english": "The good and the pleasant both come to a person. The wise one examines them closely and tells them apart. The wise choose the good over the pleasant; the foolish choose the pleasant, for getting and keeping.",
-    "situations": ["temptation_self_control", "purpose_meaning", "success_wealth"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "kama", "moksha"],
-    "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "Like a swan separating milk from water, the wise weigh the two and choose the good. The dull, unable to discern, choose the pleasant, such as cattle and sons, for the growth and protection of the body."}
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning",
+      "success_wealth"
     ],
-    "safety_flags": [], "cross_refs": ["BG.18.37", "BG.18.38"], "review_status": "draft"
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "kama",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Like a swan separating milk from water, the wise weigh the two and choose the good. The dull, unable to discern, choose the pleasant, such as cattle and sons, for the growth and protection of the body."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.18.37",
+      "BG.18.38"
+    ],
+    "review_status": "draft"
   },
   "KaU.1.2.3": {
     "speaker": "Yama",
     "context": "Death praises Nachiketas for rejecting the pleasures offered and not taking the path of wealth where many sink.",
     "english": "But you, Nachiketas, having reflected on desires dear and lovely to look at, have let them go. You have not taken this chain of wealth in which many people sink.",
-    "situations": ["temptation_self_control", "success_wealth"], "life_stages": ["student", "householder", "elder"], "aims": ["artha", "moksha"],
-    "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "Tempted again and again, you weighed sons and nymphs as impermanent and worthless and gave them up; how wise you are. You did not take the despised path of wealth, on which fools sink."}
+    "situations": [
+      "temptation_self_control",
+      "success_wealth"
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "artha",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Tempted again and again, you weighed sons and nymphs as impermanent and worthless and gave them up; how wise you are. You did not take the despised path of wealth, on which fools sink."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.2.4": {
     "speaker": "Yama",
     "context": "Death says knowledge and ignorance lead in opposite directions, and Nachiketas has shown himself a seeker of knowledge.",
     "english": "Far apart and leading different ways are these two: ignorance and what is known as knowledge. I consider Nachiketas a seeker of knowledge, for many desires did not distract you.",
-    "situations": ["temptation_self_control", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
-    "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "Like darkness and light, ignorance and knowledge lead to rebirth and to liberation. Since the many pleasures did not pull you from the path of the good, I count you a seeker of knowledge."}
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning"
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Like darkness and light, ignorance and knowledge lead to rebirth and to liberation. Since the many pleasures did not pull you from the path of the good, I count you a seeker of knowledge."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.2.5": {
     "speaker": "Yama",
     "context": "Death describes people who think themselves wise while living in ignorance: the blind led by the blind.",
     "english": "Living in the midst of ignorance, thinking themselves wise and learned, the deluded go round and round, staggering, like the blind led by the blind.",
-    "situations": ["ego_pride_envy", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
-    "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "Caught in ignorance as in thick darkness, bound by a hundred ropes of craving for sons and cattle, yet thinking themselves wise and learned, the deluded wander through old age, death and disease, like the blind led by the blind on a rough road."}
+    "situations": [
+      "ego_pride_envy",
+      "purpose_meaning"
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Caught in ignorance as in thick darkness, bound by a hundred ropes of craving for sons and cattle, yet thinking themselves wise and learned, the deluded wander through old age, death and disease, like the blind led by the blind on a rough road."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.2.6": {
     "speaker": "Yama",
     "context": "Death says those absorbed in wealth and this world alone come under his power again and again.",
     "english": "The passage beyond does not shine for the childish, careless and deluded by wealth. 'This world exists, there is no other,' thinks such a person, and falls into my power again and again.",
-    "situations": ["success_wealth", "ego_pride_envy", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["artha", "moksha"],
-    "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "The means to the next world does not occur to the immature, absorbed in sons and cattle and blinded by wealth. Thinking only this visible world of women, food and drink exists, they are born and die again and again; most people are like this."}
+    "situations": [
+      "success_wealth",
+      "ego_pride_envy",
+      "purpose_meaning"
     ],
-    "safety_flags": ["death"], "cross_refs": [], "review_status": "draft"
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "artha",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The means to the next world does not occur to the immature, absorbed in sons and cattle and blinded by wealth. Thinking only this visible world of women, food and drink exists, they are born and die again and again; most people are like this."
+      }
+    ],
+    "safety_flags": [
+      "death"
+    ],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.2.7": {
     "speaker": "Yama",
     "context": "Death says the Self is rarely heard of, rarely understood, and rarely taught well.",
     "english": "Many do not even get to hear of it; many who hear of it do not understand it. Wonderful is the one who teaches it, skilled the one who gains it; wonderful the one who knows it, taught by the skilled.",
-    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
-    "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "Few even hear of the Self, and of those who hear, few understand. A teacher of it is rare among many, and rare is the one who comes to know it when taught by a skilled teacher."}
+    "situations": [
+      "purpose_meaning"
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Few even hear of the Self, and of those who hear, few understand. A teacher of it is rare among many, and rare is the one who comes to know it when taught by a skilled teacher."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.2.8": {
     "speaker": "Yama",
     "context": "Death says the Self cannot be understood when taught by an ordinary person, but only by one who has realised it.",
     "english": "Taught by an inferior person, it is not easily understood, though thought about in many ways. When it is taught by one who is not separate from it, no uncertainty remains, for it is finer than the finest and beyond argument.",
-    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
-    "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "Argued about in many ways, as existing or not, as doer or not, the Self cannot be well understood from an ordinary teacher. Taught by a teacher who sees no separation, being one with Brahman, no speculation about it remains; he also offers the readings 'nothing further remains to be known' and 'no failure to understand remains'."}
+    "situations": [
+      "purpose_meaning"
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Argued about in many ways, as existing or not, as doer or not, the Self cannot be well understood from an ordinary teacher. Taught by a teacher who sees no separation, being one with Brahman, no speculation about it remains; he also offers the readings 'nothing further remains to be known' and 'no failure to understand remains'."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.2.9": {
     "speaker": "Yama",
     "context": "Death says this understanding comes through teaching, not argument, and praises Nachiketas's steadfastness.",
     "english": "This understanding is not reached by reasoning, dearest; taught by another, it is easily understood. You have gained it, for your resolve is true. May we find a questioner like you, Nachiketas!",
-    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
-    "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "This insight from scripture is not won, and should not be given up, through mere argument, since a reasoner without scripture says whatever he imagines. Taught by a teacher versed in scripture, it becomes clear; Death praises Nachiketas to commend the teaching to come."}
+    "situations": [
+      "purpose_meaning"
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "This insight from scripture is not won, and should not be given up, through mere argument, since a reasoner without scripture says whatever he imagines. Taught by a teacher versed in scripture, it becomes clear; Death praises Nachiketas to commend the teaching to come."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.2.10": {
     "speaker": "Yama",
     "context": "Death admits that impermanent means cannot reach the eternal; his own position was gained through ritual.",
     "english": "I know that what is called treasure is impermanent, for the permanent is not reached by impermanent things. So I built the Nachiketa fire with impermanent things, and gained what is lasting.",
-    "situations": ["success_wealth", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["artha", "moksha"],
-    "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "The 'treasure' of ritual results is impermanent, and the eternal Self cannot be reached by impermanent means. Knowing this, Death still built the fire with things like cattle, and so gained his own place, which is 'lasting' only relatively."}
+    "situations": [
+      "success_wealth",
+      "purpose_meaning"
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "artha",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The 'treasure' of ritual results is impermanent, and the eternal Self cannot be reached by impermanent means. Knowing this, Death still built the fire with things like cattle, and so gained his own place, which is 'lasting' only relatively."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   },
   "KaU.1.2.11": {
     "speaker": "Yama",
     "context": "Death praises Nachiketas for seeing every worldly reward and letting all of them go.",
     "english": "You saw the fulfilment of desire, the foundation of the world, the endless fruit of ritual, the far shore of fearlessness, the great and praised wide path, the firm standing; and, wise and steadfast, Nachiketas, you let them all go.",
-    "situations": ["temptation_self_control", "success_wealth", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
-    "school_notes": [
-      {"school": "advaita", "commentator": "Śaṅkara", "note": "You saw all the fruits that culminate in the state of Hiraṇyagarbha, where every desire is fulfilled, the support of the world, with its powers, and yet, wanting only the highest, you let go of all worldly enjoyment with firmness. How excellent you are."}
+    "situations": [
+      "temptation_self_control",
+      "success_wealth",
+      "purpose_meaning"
     ],
-    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "You saw all the fruits that culminate in the state of Hiraṇyagarbha, where every desire is fulfilled, the support of the world, with its powers, and yet, wanting only the highest, you let go of all worldly enjoyment with firmness. How excellent you are."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.1.2.12": {
+    "speaker": "Yama",
+    "context": "Death says that the wise, realising the hidden Self through inward meditation, leave both joy and sorrow behind.",
+    "english": "That god, hard to see, hidden deep, set in the secret place, dwelling in the depths, ancient: realising him through the yoga of the inner self, the wise leave joy and sorrow behind.",
+    "situations": [
+      "grief_loss",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The Self is hard to see because it is subtle and hidden by knowledge of sense objects; it is found in the intellect. The 'yoga of the inner self' is withdrawing the mind from objects and fixing it on the Self; knowing it, the wise drop joy and sorrow, since the Self neither gains nor loses."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.1.2.13": {
+    "speaker": "Yama",
+    "context": "Death tells Nachiketas that whoever grasps the subtle Self finds true joy, and that the way is open for him.",
+    "english": "A mortal who has heard this, grasped it fully, drawn out this subtle Self that is true to dharma, and reached it, rejoices, having found what is truly worth rejoicing in. I think the house stands open for Nachiketas.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Having heard it from the teacher and separated the subtle Self from the body, the wise rejoice in it. The house of Brahman stands open to you: Death considers Nachiketas fit for liberation."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.1.2.14": {
+    "speaker": "Nachiketas",
+    "context": "Nachiketas asks Death to describe what lies beyond right and wrong, cause and effect, past and future.",
+    "english": "Tell me what you see as other than dharma and other than adharma, other than what is done and not done, other than what has been and what is to be.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "He asks for what is beyond scriptural duty, its fruits and its agents, beyond wrongdoing, beyond effect and cause, and not limited by past, future or present: whatever lies beyond all ordinary dealings."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.1.2.15": {
+    "speaker": "Yama",
+    "context": "Death names the goal that all the Vedas point to: the syllable Om.",
+    "english": "The goal that all the Vedas declare, that all austerities speak of, desiring which people live as celibate students: that goal I tell you briefly. It is Om.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The goal all the Vedas teach and all austerities aim at, for which people live at their teacher's house, is what the word Om names and also what Om stands for as a symbol."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.8.13"
+    ],
+    "review_status": "draft"
+  },
+  "KaU.1.2.16": {
+    "speaker": "Yama",
+    "context": "Death says the syllable Om is Brahman itself, and knowing it brings whatever one seeks.",
+    "english": "This syllable is Brahman; this syllable is the highest. Knowing this syllable, whatever one wants becomes one's own.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Om is the symbol of both the lower and the higher Brahman. Worshipping it as Brahman, one gains whichever one seeks: the higher is to be known, the lower to be reached."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.1.2.17": {
+    "speaker": "Yama",
+    "context": "Death calls Om the best support for reaching Brahman.",
+    "english": "This support is the best; this support is the highest. Knowing this support, one is honoured in the world of Brahman.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Of all supports for reaching Brahman, Om is the best. Om has been given as a symbol for those of slow or middling understanding; next the Upanishad describes the Self directly."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.1.2.18": {
+    "speaker": "Yama",
+    "context": "Death describes the Self directly: never born, never dying, untouched when the body is killed (compare Gita 2.20).",
+    "english": "The wise one is not born and does not die. It did not come from anywhere, and nothing came from it. Unborn, eternal, everlasting, ancient, it is not killed when the body is killed.",
+    "situations": [
+      "grief_loss",
+      "ageing_death_impermanence",
+      "fear_anxiety"
+    ],
+    "life_stages": [
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Birth and death, the first and last of all changes, are denied of the Self, and with them every change. It has no cause and produces nothing other than itself; it does not decline and does not grow, being 'ancient' yet always new. So it is not harmed when weapons strike the body, any more than space is."
+      }
+    ],
+    "safety_flags": [
+      "death",
+      "under18_hold"
+    ],
+    "cross_refs": [
+      "BG.2.20"
+    ],
+    "review_status": "draft"
+  },
+  "KaU.1.2.19": {
+    "speaker": "Yama",
+    "context": "Death says the one who thinks he kills and the one who thinks he is killed both misunderstand the Self (compare Gita 2.19).",
+    "english": "If the killer thinks he kills, and if the one killed thinks he is killed, neither of them understands: this does not kill, and is not killed.",
+    "situations": [
+      "ageing_death_impermanence",
+      "grief_loss"
+    ],
+    "life_stages": [
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Whoever takes the body for the Self and thinks 'I will kill him' or 'I am killed' does not know the Self, which, unchanging like space, neither kills nor is killed. So the round of merit and demerit belongs only to those who do not know the Self, not to the knower of Brahman."
+      }
+    ],
+    "safety_flags": [
+      "war",
+      "death",
+      "under18_hold"
+    ],
+    "cross_refs": [
+      "BG.2.19"
+    ],
+    "review_status": "draft"
+  },
+  "KaU.1.2.20": {
+    "speaker": "Yama",
+    "context": "Death says the Self, smaller than the smallest and greater than the greatest, is seen by one free of desire.",
+    "english": "Smaller than the small, greater than the great, the Self is set in the heart of every creature. One free of desire sees it, and is free of sorrow: through the clarity of the faculties, one sees the greatness of the Self.",
+    "situations": [
+      "grief_loss",
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Whatever is small or great exists only through the Self, so the Self is smaller than the smallest and greater than the greatest. One without desire, whose mind has turned from all objects, finds the faculties grow clear, sees the Self's greatness, untouched by growth or decline, as 'I am this', and is free of grief."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.1.2.21": {
+    "speaker": "Yama",
+    "context": "Death describes the Self in paradoxes and says few can know it.",
+    "english": "Sitting still, it travels far; lying down, it goes everywhere. Who but me can know that god, who rejoices and does not rejoice?",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The Self seems to have contradictory qualities, moving and unmoving, joyful and not, through its limiting conditions, so it is hard to know except for the subtle-minded. In sleep, when the senses rest, it seems to go everywhere; in waking, it seems to travel far with the mind."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.1.2.22": {
+    "speaker": "Yama",
+    "context": "Death says the wise, knowing the bodiless, all-pervading Self within changing bodies, do not grieve.",
+    "english": "Bodiless within bodies, steady among the unsteady, great and all-pervading: knowing the Self this way, the wise do not grieve.",
+    "situations": [
+      "grief_loss",
+      "ageing_death_impermanence",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The Self is bodiless like space, yet dwells unchanging in the bodies of gods, ancestors and humans, which never stay the same. Knowing it as 'I am this', the wise have no ground for grief."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.2.22"
+    ],
+    "review_status": "draft"
+  },
+  "KaU.1.2.23": {
+    "speaker": "Yama",
+    "context": "Death says the Self is not won by learning or cleverness, but reveals itself to the one it chooses.",
+    "english": "This Self is not won by teaching, nor by intellect, nor by much learning. It is won only by the one whom it chooses; to that one the Self reveals its own form.",
+    "situations": [
+      "ego_pride_envy",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Not by mastering many Vedas, nor by the power to retain texts, nor by much hearing alone. He reads the choosing the other way round: the Self is won by the one who chooses the Self alone, so it is won through the Self, and to one who desires only the Self, it reveals its true nature."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.1.2.24": {
+    "speaker": "Yama",
+    "context": "Death names the conditions for knowing the Self: turning from wrongdoing and having a calm, collected mind.",
+    "english": "One who has not turned away from wrongdoing, who is not calm, not collected, whose mind is not at peace, cannot reach it through knowledge.",
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "One who has not stopped forbidden acts, whose senses are restless, whose mind is scattered, or who is collected but still anxious for the fruit of concentration, does not reach the Self. One who has turned from wrongdoing and sense-craving, is collected and at peace, and has a teacher, does."
+      }
+    ],
+    "safety_flags": [
+      "distress_gentle"
+    ],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.1.2.25": {
+    "speaker": "Yama",
+    "context": "Death ends the section with an image: the Self consumes even the highest powers, so how can an unprepared person know it?",
+    "english": "For whom priesthood and kingship are both just rice, and death is the sauce poured on it: who, like this, knows where it is?",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The Self consumes even the brahmin and the kshatriya, upholders and protectors of dharma, as food, with death, which takes everything, as a mere sauce. How could an ordinary person, lacking the means just described, know where that Self is?"
+      }
+    ],
+    "safety_flags": [
+      "death"
+    ],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.1.3.1": {
+    "speaker": "Yama",
+    "context": "Death begins a new section with an image of two selves in the heart, as different as shadow and sunlight.",
+    "english": "Two drink the truth of their deeds in the world of good works, having entered the secret place, the highest seat. Knowers of Brahman call them shadow and light, as do householders who keep the five fires and those who have thrice kindled the Nachiketa fire.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Only one, the individual self, experiences the fruits of action; the other is said to 'drink' only by association. Both dwell in the cave of the intellect in the heart, yet differ like shadow and sunlight, one bound in worldly life, the other free; not only renunciants but householders say so."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.1.3.2": {
+    "speaker": "Yama",
+    "context": "Death prays to master both the ritual fire and the imperishable Brahman beyond fear.",
+    "english": "May we be able to master the Nachiketa fire, the bridge for those who sacrifice, and the imperishable, highest Brahman, the fearless far shore for those who wish to cross over.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The Nachiketa fire is a bridge across suffering for ritualists; the imperishable Brahman is the fearless shore beyond worldly life for those who seek to cross. Both, the lower and the higher Brahman, are to be known."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.1.3.3": {
+    "speaker": "Yama",
+    "context": "Death gives the image of the chariot: the Self rides in the body, with the intellect as driver and the mind as reins (1.3.3-1.3.9).",
+    "english": "Know the Self as the rider in the chariot, the body as the chariot, the intellect as the charioteer, and the mind as the reins.",
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The individual self is the owner of the chariot; the body is the chariot, pulled by the senses; the deciding intellect is the driver, since most bodily action is directed by it; the mind, which forms intentions, is the reins by which the senses are guided."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.6.26"
+    ],
+    "review_status": "draft"
+  },
+  "KaU.1.3.4": {
+    "speaker": "Yama",
+    "context": "Death continues the chariot image: the senses are horses and their objects the roads.",
+    "english": "The senses, they say, are the horses, and the objects of sense are the roads they run on. The Self joined with body, senses and mind is the one who experiences, so the wise say.",
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The Self alone does not experience anything; being an experiencer comes from its limiting conditions, the intellect and the rest. Only on this understanding can the 'highest place of Viṣṇu' later be recognised as one's own Self."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.1.3.5": {
+    "speaker": "Yama",
+    "context": "Death says a person without understanding and an undisciplined mind has senses like wild horses.",
+    "english": "Whoever lacks understanding, with a mind never held steady, has senses out of control, like a charioteer's unruly horses.",
+    "situations": [
+      "temptation_self_control",
+      "anger_resentment"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "When the intellect, the driver, lacks skill and discernment and the mind, the reins, is never held firm, the senses cannot be checked, like untrained horses under a poor driver."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.1.3.6": {
+    "speaker": "Yama",
+    "context": "Death says a person with understanding and a steady mind has senses like well-trained horses.",
+    "english": "But whoever has understanding, with a mind always held steady, has senses under control, like a charioteer's good horses.",
+    "situations": [
+      "temptation_self_control",
+      "lack_of_motivation"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "A skilled driver with a steady mind can urge on or hold back the senses at will, like a good driver with well-trained horses."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.1.3.7": {
+    "speaker": "Yama",
+    "context": "Death says one without understanding or self-control does not reach the goal but stays in the cycle of birth and death.",
+    "english": "Whoever lacks understanding, is unmindful and always impure, does not reach that goal, but goes on into the round of rebirth.",
+    "situations": [
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "With such a driver the rider does not reach the imperishable goal; not only does he miss liberation, he goes on through birth and death."
+      }
+    ],
+    "safety_flags": [
+      "distress_gentle"
+    ],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.1.3.8": {
+    "speaker": "Yama",
+    "context": "Death says one with understanding and self-control reaches the goal from which there is no return.",
+    "english": "But whoever has understanding, is mindful and always pure, reaches that goal from which one is not born again.",
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The rider with a discerning driver and a steady mind is always pure, reaches the goal, and, never slipping from it, is not born again into worldly life."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.1.3.9": {
+    "speaker": "Yama",
+    "context": "Death completes the chariot image: with understanding as driver and the mind as reins, one reaches the highest place.",
+    "english": "The person whose charioteer is understanding, who holds the reins of the mind, reaches the end of the road: that highest place of Vishnu.",
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Such a person reaches the end of the journey of worldly life and is freed from all bonds. 'Viṣṇu' is the all-pervading Brahman, the supreme Self called Vāsudeva; its highest place is its true nature, to be reached by moving inward from the gross to the subtle."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.1.3.10": {
+    "speaker": "Yama",
+    "context": "Death lays out a ladder inward: beyond the senses are their objects, then mind, intellect and the great self.",
+    "english": "Beyond the senses are their objects; beyond the objects is the mind; beyond the mind is the intellect; beyond the intellect is the great self.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Each is subtler, greater and more inward than the one before. The 'great self' is the first-born Hiraṇyagarbha, born from the unmanifest, the inner self of all beings' intellects."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.3.42"
+    ],
+    "review_status": "draft"
+  },
+  "KaU.1.3.11": {
+    "speaker": "Yama",
+    "context": "Death completes the ladder: beyond the great self is the unmanifest, and beyond that the Person, the highest goal.",
+    "english": "Beyond the great is the unmanifest; beyond the unmanifest is the Person. Beyond the Person there is nothing: that is the end, that is the highest goal.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The unmanifest is the seed of the whole world, resting in the supreme Self as a banyan rests in its seed. Beyond it is the Person, pure consciousness, beyond which there is nothing; reaching it is called 'going' only figuratively, since it is one's own inner Self."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.1.3.12": {
+    "speaker": "Yama",
+    "context": "Death says the Self is hidden in all beings but can be seen by a focused, subtle mind.",
+    "english": "This Self, hidden in all beings, does not shine forth; but it is seen by those of subtle sight, with a sharp and subtle intellect.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The Self is hidden by ignorance and māyā: people are told 'you are the supreme Self' and do not accept it, yet take the body to be themselves without being told (compare Gita 7.25). It is seen by a refined, one-pointed intellect that has learned to see ever subtler things."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.7.25"
+    ],
+    "review_status": "draft"
+  },
+  "KaU.1.3.13": {
+    "speaker": "Yama",
+    "context": "Death gives a method of meditation: draw speech into mind, mind into intellect, and so on into the peaceful Self.",
+    "english": "The wise should draw speech into the mind, the mind into the knowing self, the knowing self into the great self, and that into the peaceful Self.",
+    "situations": [
+      "fear_anxiety",
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "'Speech' stands for all the senses. Withdraw them into the mind, the mind into the intellect, the intellect into the first-born great self, and that into the peaceful, unchanging Self, the witness of all; then, as a mirage vanishes when seen for what it is, one rests in oneself, at peace."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.1.3.14": {
+    "speaker": "Yama",
+    "context": "Death's call to action: wake up, seek out the wise and learn, for the path is as narrow as a razor's edge.",
+    "english": "Arise! Awake! Find the great ones and learn. Sharp as a razor's edge and hard to cross: so the wise describe this path.",
+    "situations": [
+      "lack_of_motivation",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Rise from the sleep of beginningless ignorance; go to excellent teachers who know the Self and understand 'I am that'. Scripture says this with a mother's compassion. The path is hard to tread, like a razor's edge, because what is to be known is so subtle."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.1.3.15": {
+    "speaker": "Yama",
+    "context": "Death describes Brahman as beyond all the senses and without beginning or end; realising it frees one from death.",
+    "english": "Without sound, touch, form, taste or smell, imperishable, eternal, without beginning or end, beyond the great, unchanging: realising that, one is freed from the jaws of death.",
+    "situations": [
+      "ageing_death_impermanence",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "What has sound and the other qualities decays; Brahman, lacking them, does not, and so is eternal; having no cause and no effect into which it dissolves, it has neither beginning nor end. Realising it, one is freed from death, meaning ignorance, desire and action."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.1.3.16": {
+    "speaker": "Upanishad",
+    "context": "The Upanishad praises the telling and hearing of Nachiketas's story.",
+    "english": "Having told and heard this ancient story of Nachiketas, told by Death, the wise are honoured in the world of Brahman.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The story of the three vallīs, received by Nachiketas and taught by Death, is ancient because it is Vedic; whoever tells it to brahmins or hears it from teachers is honoured in Brahman, the world that is Brahman."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.1.3.17": {
+    "speaker": "Upanishad",
+    "context": "The first chapter closes by praising the recitation of this teaching.",
+    "english": "Whoever, purified, recites this supreme secret in an assembly of brahmins or at the time of the rites for the dead, gains what is endless; gains what is endless.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Whoever recites the text and its meaning before an assembly of brahmins, or to those eating at a memorial rite, makes that rite yield endless fruit. The repetition marks the end of the chapter."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.1.1": {
+    "speaker": "Yama",
+    "context": "Opening the second chapter, Death says the senses are made to look outward, and only a rare person turns within.",
+    "english": "The Self-existent pierced the openings of the senses outward, so one looks outward, not within. A certain wise one, seeking immortality, turned his eyes inward and saw the Self within.",
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The Lord made the senses face outward to sound and the other objects, so people perceive what is not the Self. Rarely, like turning back against a river's current, a discerning person withdraws the senses and sees the inner Self."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.1.2": {
+    "speaker": "Yama",
+    "context": "Death contrasts the childish, who chase outward pleasures into death's net, with the wise, who seek nothing unstable.",
+    "english": "The childish run after outward pleasures and walk into the wide-spread net of death. But the wise, knowing what is truly immortal, seek nothing here among the unstable things.",
+    "situations": [
+      "temptation_self_control",
+      "success_wealth",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "kama",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Those who chase external desires fall into the net of repeated birth, death, old age and disease. The wise, knowing the unshakeable immortality of resting in the Self, seek nothing among impermanent things and rise above the desires for sons, wealth and worlds."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.1.3": {
+    "speaker": "Yama",
+    "context": "Death says the Self is that by which we know every sense experience; nothing is beyond it.",
+    "english": "That by which one knows form, taste, smell, sounds, touches and the pleasures of love: by this alone one knows. What remains here? This, truly, is that.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "People think the body knows, but the body is itself made of form and the rest and is known like them. Everything is known by the Self, distinct from the body, as iron burns by the fire in it; nothing remains unknown to it, so it is all-knowing. 'This is that' which Nachiketas asked about."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.1.4": {
+    "speaker": "Yama",
+    "context": "Death says the wise, knowing the Self that witnesses both dreaming and waking, do not grieve.",
+    "english": "That by which one perceives both dreaming and waking: knowing it as the great, all-pervading Self, the wise do not grieve.",
+    "situations": [
+      "grief_loss",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The Self by which people perceive what appears in dream and in waking: realising it directly as 'I am the supreme Self', the wise do not grieve."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.1.5": {
+    "speaker": "Yama",
+    "context": "Death says one who knows the Self as close at hand and lord of past and future no longer needs to guard himself.",
+    "english": "Whoever knows this Self, the one who tastes the honey, the living one, close at hand, lord of past and future, no longer seeks to shield himself. This, truly, is that.",
+    "situations": [
+      "fear_anxiety",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "As long as one stands amid fear and thinks oneself impermanent, one wants to protect oneself; once one knows the Self as eternal and non-dual, who would guard what, and against whom?"
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.1.6": {
+    "speaker": "Yama",
+    "context": "Death identifies the first-born of creation, dwelling in the heart, with Brahman.",
+    "english": "The one born first from austerity, born before the waters, who entered the secret place and dwells there with the elements: whoever sees him sees this. This, truly, is that.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The first-born is Hiraṇyagarbha, born from Brahman's knowledge before the five elements. Whoever sees him dwelling in the heart of every being, with body and senses, sees Brahman itself."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.1.7": {
+    "speaker": "Yama",
+    "context": "Death identifies Aditi, made of all the gods and dwelling in the heart, with Brahman.",
+    "english": "Aditi, made of all the gods, who comes forth with the breath of life, who entered the secret place and dwells there, who was born with the elements: this, truly, is that.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Aditi, so called because she 'eats' sound and the other objects, embodies all the deities and arises from Brahman as life-breath, that is, as Hiraṇyagarbha; she too dwells in the heart."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.1.8": {
+    "speaker": "Yama",
+    "context": "Death identifies Agni, the sacred fire hidden in the fire-sticks and worshipped daily, with Brahman.",
+    "english": "Agni, the knower of all, hidden in the two fire-sticks like an unborn child well cared for by expectant mothers, is to be praised day after day by watchful people bringing offerings. This, truly, is that.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Agni is hidden in the fire-sticks of the ritual and, for yogis, in the heart; ritualists and meditators, vigilant and bringing offerings or meditation, praise him daily. That too is Brahman."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.1.9": {
+    "speaker": "Yama",
+    "context": "Death says that from which the sun rises and into which it sets is Brahman, beyond which nothing goes.",
+    "english": "That from which the sun rises and into which it sets; in it all the gods are fixed, and no one ever goes beyond it. This, truly, is that.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The sun rises from and sets into prāṇa, in which all the gods, outer and inner, are fixed like spokes in a hub; that too is Brahman, and nothing passes beyond being it."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.1.10": {
+    "speaker": "Yama",
+    "context": "Death warns that whoever sees separateness in the one reality goes from death to death.",
+    "english": "What is here is there; what is there is here. Whoever sees difference here goes from death to death.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "What appears here with body and senses is the same as the pure Brahman 'there', and vice versa. One deluded into thinking 'I am other than Brahman' goes through death after death; so one should see 'I am Brahman, full like space'."
+      }
+    ],
+    "safety_flags": [
+      "death"
+    ],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.1.11": {
+    "speaker": "Yama",
+    "context": "Death repeats that the oneness of reality is grasped by the mind, and seeing difference leads from death to death.",
+    "english": "By the mind alone is this to be reached: there is no difference here at all. Whoever sees difference here goes from death to death.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Brahman, of one nature, is to be reached by a mind refined by teacher and scripture as 'the Self alone exists'. Once reached, the ignorance that shows diversity is gone; whoever still imposes even the slightest difference goes from death to death."
+      }
+    ],
+    "safety_flags": [
+      "death"
+    ],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.1.12": {
+    "speaker": "Yama",
+    "context": "Death describes the Self dwelling in the heart, the size of a thumb, lord of past and future.",
+    "english": "A person the size of a thumb dwells in the middle of the body, lord of past and future. Knowing him, one no longer seeks to shield oneself. This, truly, is that.",
+    "situations": [
+      "fear_anxiety",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "'The size of a thumb' refers to the space of the heart, which is about that size; the Person who fills everything seems so through the mind dwelling there, as space seems the size of the hollow in a bamboo joint. Knowing him, one has no more fear, as before."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.1.13": {
+    "speaker": "Yama",
+    "context": "Death says the Self in the heart is like a smokeless flame, the same today and tomorrow.",
+    "english": "The person the size of a thumb is like a flame without smoke, lord of past and future. He is the same today, and he will be tomorrow. This, truly, is that.",
+    "situations": [
+      "ageing_death_impermanence",
+      "fear_anxiety",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "He is eternal and unchanging, present in beings today and tomorrow alike, with none like him born again. This answers the view 'he does not exist' raised in Nachiketas's question, and also refutes the doctrine that everything lasts only a moment."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.1.14": {
+    "speaker": "Yama",
+    "context": "Death gives an image of seeing things as separate: like rain scattering down a mountain.",
+    "english": "As rain falling on high ground runs off in all directions down the hills, so one who sees things as separate runs after them.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "As rain on a high place scatters and is lost in the valleys, one who sees selves as different in each body follows those differences, taking body after body."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.1.15": {
+    "speaker": "Yama",
+    "context": "Death gives the opposite image: the knower's self becomes one with reality, like pure water poured into pure water.",
+    "english": "As pure water poured into pure water becomes just like it, so, Gautama, becomes the self of the sage who knows.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "So the Self becomes one for the knowing sage. Therefore one should give up the divisive views of bad logicians and nihilists and, with pride subdued, honour the vision of oneness taught by the Veda, which cares for us more than a thousand mothers and fathers."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.2.1": {
+    "speaker": "Yama",
+    "context": "Death compares the body to a city with eleven gates whose ruler is the unborn Self; meditating on him ends grief.",
+    "english": "There is a city with eleven gates belonging to the unborn one whose awareness is never crooked. Meditating on him, one grieves no more, and, freed, is set free. This, truly, is that.",
+    "situations": [
+      "grief_loss",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The body is a city with eleven openings, seven in the head, the navel, two below and one at the crown, serving a ruler distinct from it. Its lord is the unborn, unchanging Self; meditating on him with right knowledge, free of all desires, one has no occasion for grief or fear."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.2.2": {
+    "speaker": "Yama",
+    "context": "Death names the one Self in many forms: sun, air, fire, guest, and all that is born.",
+    "english": "He is the swan in the bright sky, the bright one in the middle air, the priest at the altar, the guest in the house; he dwells in people, in the best, in truth, in the sky; born from water, from cattle, from truth, from mountains; he is truth, the great.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The Self is the sun moving in the sky, the wind in the middle air, fire on the altar, soma in its vessel or a guest in the house, and is born as creatures of water, grain from the earth, parts of the sacrifice and rivers from mountains. Though it is all things, it is truth and great, being the cause of all."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.2.3": {
+    "speaker": "Yama",
+    "context": "Death says the Self moves the breath and all the senses serve it, like subjects serving a king.",
+    "english": "He leads the in-breath upward and drives the out-breath down. All the gods serve that dwarf seated in the middle.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The one who moves the breaths sits in the space of the heart, revealed in the intellect; 'dwarf' means the one worthy of devotion. The senses, the 'gods', bring him their perceptions as subjects bring tribute to a king, so he is other than them."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.2.4": {
+    "speaker": "Yama",
+    "context": "Death asks what remains in the body when the embodied Self leaves it, pointing to the Self as distinct.",
+    "english": "When this embodied one, dwelling in the body, slips away and is freed from the body, what remains here? This, truly, is that.",
+    "situations": [
+      "ageing_death_impermanence",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "When the Self departs, the whole complex of body and senses loses its power and falls apart at once, like a city whose lord has fled; so the Self is something other than them."
+      }
+    ],
+    "safety_flags": [
+      "death"
+    ],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.2.5": {
+    "speaker": "Yama",
+    "context": "Death says people live not by their breath but by something else on which the breath depends.",
+    "english": "No mortal lives by the in-breath or the out-breath. People live by something else, on which these two depend.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Things that work together, like the parts of a house, serve something other than themselves; so the breaths and senses, working together, depend on a Self that is not a compound, for whose sake they act."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.2.6": {
+    "speaker": "Yama",
+    "context": "Death promises to teach the secret, eternal Brahman, and what happens to the self after death.",
+    "english": "Now, Gautama, I will tell you this secret, eternal Brahman, and what becomes of the self after reaching death.",
+    "situations": [
+      "ageing_death_impermanence",
+      "grief_loss",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Death will teach the hidden, ancient Brahman, by knowing which all worldly existence ends, and, for one who does not know it, how the self goes on after death."
+      }
+    ],
+    "safety_flags": [
+      "death"
+    ],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.2.7": {
+    "speaker": "Yama",
+    "context": "Death says that after death some take new bodies and others become immobile things, according to their deeds and knowledge.",
+    "english": "Some embodied beings enter a womb to take on a body; others pass into a stationary thing, according to their deeds and according to their knowledge.",
+    "situations": [
+      "ageing_death_impermanence"
+    ],
+    "life_stages": [
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The ignorant re-enter a womb to take a body; the lowest become trees and other unmoving things. Each takes a body in keeping with the deeds done and the knowledge gained in this life."
+      }
+    ],
+    "safety_flags": [
+      "death"
+    ],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.2.8": {
+    "speaker": "Yama",
+    "context": "Death identifies the secret Brahman as the person awake in sleepers, shaping desire after desire.",
+    "english": "That person who is awake in those who sleep, shaping one desire after another: that is the bright, that is Brahman, that alone is called immortal. In it all the worlds rest, and no one goes beyond it. This, truly, is that.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "When the breath and senses sleep, this Person stays awake, creating the objects of dream through ignorance; that pure one is Brahman, the support of all worlds. Because the teaching of oneness does not stay in minds disturbed by bad logic, scripture repeats it again and again."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.2.9": {
+    "speaker": "Yama",
+    "context": "Death gives the image of fire: one fire takes the shape of whatever it burns, as the one Self takes every form.",
+    "english": "As the one fire, entering the world, takes the form of each thing it meets, so the one Self within all beings takes the form of each, and is also outside.",
+    "situations": [
+      "relationships_forgiveness",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "As one fire seems many by burning different kinds of wood, the one Self, very subtle, has entered every body and seems to have each form; yet it remains outside, unchanged, like space."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.13.27"
+    ],
+    "review_status": "draft"
+  },
+  "KaU.2.2.10": {
+    "speaker": "Yama",
+    "context": "Death repeats the image with the wind: one air takes every shape, as the one Self dwells in all.",
+    "english": "As the one wind, entering the world, takes the form of each thing it meets, so the one Self within all beings takes the form of each, and is also outside.",
+    "situations": [
+      "relationships_forgiveness",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The same as before: the wind, entering bodies as breath, takes the form of each; then comes the question whether the one Self must suffer the world's pains."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.2.11": {
+    "speaker": "Yama",
+    "context": "Death says the one Self in all beings is untouched by the world's suffering, as the sun is untouched by what it shows.",
+    "english": "As the sun, the eye of the whole world, is not stained by the faults that eyes see, so the one Self within all beings is not stained by the world's suffering, being outside it.",
+    "situations": [
+      "grief_loss",
+      "failure_setback",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The sun lights up impure things without being made impure. People suffer through ignorance superimposed on the Self, as a snake is imagined on a rope; the Self, like the rope, is untouched by what is imagined on it."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.2.12": {
+    "speaker": "Yama",
+    "context": "Death says lasting happiness belongs to those who see the one controller of all within themselves.",
+    "english": "The one controller, the Self within all beings, who makes his one form many: the wise who see him dwelling within themselves have lasting happiness, and no one else.",
+    "situations": [
+      "purpose_meaning",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The supreme Lord, with none equal or greater, makes his one pure nature appear many through name and form. Those who turn from outward things and see him within, as a face is seen in a mirror, have the eternal joy of the Self; those attached to outward things do not."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.2.13": {
+    "speaker": "Yama",
+    "context": "Death says lasting peace belongs to those who see within themselves the eternal among the impermanent.",
+    "english": "The eternal among the impermanent, the consciousness of all that is conscious, the one who grants the desires of many: the wise who see him dwelling within themselves have lasting peace, and no one else.",
+    "situations": [
+      "fear_anxiety",
+      "ageing_death_impermanence",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "As water burns only through fire, beings are conscious only through the Self's consciousness. The all-knowing Lord effortlessly grants the fruits of their actions to many; those who see him within have eternal peace."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.2.14": {
+    "speaker": "Upanishad",
+    "context": "The Upanishad voices a seeker's question: how can one know this supreme joy that cannot be described, and does it shine by itself?",
+    "english": "'This is that,' they feel: the highest joy, which cannot be described. How can I come to know it? Does it shine by itself, or shine in reflection?",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Renunciants free of desire experience this indescribable joy of self-knowledge as directly present. The seeker asks how they too might know it as 'this', and whether it shines in a way the intellect can grasp; the answer follows: it shines and makes everything shine."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.2.15": {
+    "speaker": "Yama",
+    "context": "Death answers: Brahman is the light by which sun, moon, stars and fire shine.",
+    "english": "There the sun does not shine, nor the moon and stars; these lightnings do not shine, let alone this fire. Everything shines after it as it shines; by its light all this is lit.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The sun, which reveals everything, does not reveal Brahman, let alone fire. All things shine only after Brahman shines, as a hot coal burns only by the fire in it; so Brahman's own nature is light, for what has no light of its own cannot give light to others."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.15.6"
+    ],
+    "review_status": "draft"
+  },
+  "KaU.2.3.1": {
+    "speaker": "Yama",
+    "context": "Death describes the world as an ancient fig tree rooted above, whose root is Brahman (compare Gita 15.1).",
+    "english": "This is the ancient fig tree, with roots above and branches below. That is the bright, that is Brahman, that alone is called immortal. In it all the worlds rest, and no one goes beyond it. This, truly, is that.",
+    "situations": [
+      "purpose_meaning",
+      "ageing_death_impermanence"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The tree of worldly existence, from the unmanifest down to plants, is called a tree because it is cut down; it is full of birth, ageing, death and grief, changing every moment, hollow like a plantain stem, yet rooted in the highest place of Viṣṇu, Brahman, which is its real essence."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.15.1"
+    ],
+    "review_status": "draft"
+  },
+  "KaU.2.3.2": {
+    "speaker": "Yama",
+    "context": "Death says the whole world moves within Brahman, which keeps all in order like a raised thunderbolt.",
+    "english": "All this world, whatever there is, has come forth from the breath of life and moves in it. It is a great terror, a raised thunderbolt. Those who know this become immortal.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The 'breath of life' is the supreme Brahman, from which the world comes and in which it moves. Like servants before a master with raised thunderbolt, sun, moon and stars keep their order without pause; knowing this one witness, people become immortal."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.3.3": {
+    "speaker": "Yama",
+    "context": "Death says the powers of nature keep their order out of awe of Brahman.",
+    "english": "From fear of it fire burns; from fear the sun gives heat; from fear Indra and the Wind, and Death as the fifth, run their course.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "If the powerful guardians of the world had no ruler over them, like a master with a raised thunderbolt, their activity would not be so regular, like that of servants who fear their master."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.3.4": {
+    "speaker": "Yama",
+    "context": "Death urges knowing Brahman in this life, before the body falls away; otherwise one takes another body.",
+    "english": "If one can come to know it here, before the body falls away, [one is freed]; otherwise one becomes fit to take a body again in the created worlds.",
+    "situations": [
+      "lack_of_motivation",
+      "purpose_meaning",
+      "ageing_death_impermanence"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "He supplies the missing words: if, while living, one knows Brahman before the body falls, one is freed from bondage; if not, one takes a body in the created worlds. So one should strive for self-knowledge before the body falls."
+      }
+    ],
+    "safety_flags": [
+      "death"
+    ],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.3.5": {
+    "speaker": "Yama",
+    "context": "Death says the Self is seen clearly here, as in a mirror, but only dimly in other worlds.",
+    "english": "As in a mirror, so in oneself; as in a dream, so in the world of the ancestors; as in water, so it appears in the world of the gandharvas; as shade and light, so in the world of Brahman.",
+    "situations": [
+      "purpose_meaning",
+      "lack_of_motivation"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "In a clear intellect the Self is seen distinctly, like a face in a mirror; in the world of the ancestors only dimly, as in a dream; in other worlds as a blurred reflection in water; clearly again only in Brahmā's world, which is hard to reach. So one should strive here."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.3.6": {
+    "speaker": "Yama",
+    "context": "Death says that knowing the senses are separate from the Self, rising and setting on their own, the wise do not grieve.",
+    "english": "Knowing that the senses are separate, arising separately, and that their rising and setting are their own, the wise do not grieve.",
+    "situations": [
+      "grief_loss",
+      "ageing_death_impermanence",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The senses arise from the elements to grasp their objects and are of a different nature from the pure Self; their rising and setting in waking and sleep belong to them, not to the Self. Knowing this, the wise do not grieve, since the Self never changes; as another scripture says, 'the knower of the Self crosses sorrow'."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.3.7": {
+    "speaker": "Yama",
+    "context": "Death repeats the inward ladder: senses, mind, intellect, the great self, the unmanifest.",
+    "english": "Beyond the senses is the mind; beyond the mind is the intellect, the highest; beyond the intellect is the great self; beyond the great is the unmanifest, the highest.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "As explained earlier (1.3.10); the objects are included with the senses here, and 'sattva' means the intellect."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.3.42"
+    ],
+    "review_status": "draft"
+  },
+  "KaU.2.3.8": {
+    "speaker": "Yama",
+    "context": "Death says beyond the unmanifest is the all-pervading Person; knowing him, one is freed.",
+    "english": "Beyond the unmanifest is the Person, all-pervading and without any mark. Knowing him, a creature is freed and reaches immortality.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The Person pervades even space, being the cause of all, and has no mark such as the intellect by which it could be inferred. Knowing him through teacher and scripture, one is freed from the knots of ignorance while living, and reaches immortality when the body falls."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.3.9": {
+    "speaker": "Yama",
+    "context": "Death says the Person cannot be seen with the eye but is grasped by heart and mind.",
+    "english": "His form is not within the range of sight; no one sees him with the eye. He is grasped by the heart, by insight, by the mind. Those who know this become immortal.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "No sense can perceive the inner Self; it is revealed to the intellect in the heart, the controller of the mind, through right reflection. Next comes the yoga by which that intellect is gained."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.3.10": {
+    "speaker": "Yama",
+    "context": "Death describes the highest state of meditation: senses and mind at rest, intellect still.",
+    "english": "When the five senses come to rest together with the mind, and the intellect does not stir, that, they say, is the highest state.",
+    "situations": [
+      "fear_anxiety",
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "When the senses, turned back from their objects, rest in the Self together with the mind, and the deciding intellect does not act, that is called the highest state."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.3.11": {
+    "speaker": "Yama",
+    "context": "Death defines yoga as the steady holding of the senses and warns that it must be guarded, since it comes and goes.",
+    "english": "This firm holding of the senses is what they call yoga. Then one must be vigilant, for yoga comes and goes.",
+    "situations": [
+      "temptation_self_control",
+      "lack_of_motivation",
+      "failure_setback"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "This state is called yoga, though it is really separation from all ills; in it the Self rests in its own nature. Because yoga arises and fades, one must take constant care, being vigilant even before the mind's activity ceases."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.3.12": {
+    "speaker": "Yama",
+    "context": "Death says the Self cannot be reached by speech, mind or eye; it is grasped only by affirming that it is.",
+    "english": "It cannot be reached by speech, nor by the mind, nor by the eye. How can it be grasped except by one who says, 'It is'?",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Though beyond the senses, the Self exists as the root of the world: when effects are traced back, they end in being, not nothing. One who follows scripture with faith grasps it as 'it is'; one who holds that the world has no root cannot grasp it at all."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.3.13": {
+    "speaker": "Yama",
+    "context": "Death says the Self is first grasped as existing, and then its true nature becomes clear.",
+    "english": "It should be grasped as 'It is', and also in its true nature. For one who has grasped it as 'It is', its true nature becomes clear.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "First the Self is grasped as existing, through its limiting conditions; then its true nature, free of all conditions and beyond 'is' and 'is not', reveals itself to the one who first grasped it as existing."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.3.14": {
+    "speaker": "Yama",
+    "context": "Death says that when all the desires lodged in the heart fall away, a mortal becomes immortal here and now.",
+    "english": "When all the desires that dwell in one's heart are let go, then a mortal becomes immortal and reaches Brahman here.",
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Desires rest in the intellect, not the Self; when they fall away, because nothing else remains to be desired, death, which is ignorance, desire and action, is destroyed, and one becomes Brahman right here, like a lamp going out."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.3.15": {
+    "speaker": "Yama",
+    "context": "Death says that when all the knots of the heart are cut, a mortal becomes immortal; this is the whole teaching.",
+    "english": "When all the knots of the heart are cut here, then a mortal becomes immortal. This much is the teaching.",
+    "situations": [
+      "ego_pride_envy",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The knots are ignorant notions like 'I am this body', 'this wealth is mine', 'I am happy' or 'I am miserable'. When they are cut by knowing 'I am Brahman', the desires they cause perish at the root; this is the whole teaching of the Upanishads, with nothing more to add."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.3.16": {
+    "speaker": "Yama",
+    "context": "Death describes the channels of the heart and the path upward through the crown of the head at death.",
+    "english": "A hundred and one are the channels of the heart; one of them goes up to the crown of the head. Going up by it, one reaches immortality; the others lead in every direction at the time of departure.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "One channel, suṣumnā, passes through the crown; directing the self into it at death, one goes up through the sun to a relative immortality, or reaches full immortality with Brahmā later. The other channels lead back into worldly life. This concerns those who know Brahman only partly, since the full knower goes nowhere."
+      }
+    ],
+    "safety_flags": [
+      "death"
+    ],
+    "cross_refs": [
+      "BG.8.13"
+    ],
+    "review_status": "draft"
+  },
+  "KaU.2.3.17": {
+    "speaker": "Yama",
+    "context": "Death sums up the teaching: draw out the inner Self from the body as a reed's stalk is drawn from its sheath.",
+    "english": "The Person the size of a thumb, the inner Self, always dwells in the heart of people. One should draw him out from one's own body with steadiness, as the stalk is drawn from a reed. One should know him as the bright, the immortal; one should know him as the bright, the immortal.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "'Draw out' means separate in understanding: distinguish the Self from the body with steady care, as the inner stalk is pulled from a reed, and know that pure consciousness as the immortal Brahman. The repetition marks the end of the Upanishad."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.3.18": {
+    "speaker": "Upanishad",
+    "context": "The Upanishad concludes the story: Nachiketas, taught by Death, reached Brahman, and so can anyone who knows the Self.",
+    "english": "Having received this knowledge taught by Death, and the whole practice of yoga, Nachiketas reached Brahman, free of stain and free of death; and so will anyone else who knows the inner Self in this way.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "This conclusion of the story praises the knowledge. Nachiketas, freed from merit and demerit, desire and ignorance, reached Brahman; anyone else who knows the inner Self as Nachiketas did becomes the same."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
+  },
+  "KaU.2.3.19": {
+    "speaker": "teacher and student",
+    "context": "The Upanishad closes with the traditional peace chant for teacher and student, asking that they never turn against each other.",
+    "english": "May he protect us both together. May he nourish us both together. May we work together with vigour. May our study be full of light. May we not hate each other.",
+    "situations": [
+      "relationships_forgiveness",
+      "anger_resentment"
+    ],
+    "life_stages": [
+      "student"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "This peace chant removes faults arising from careless teaching or study. May the Lord revealed by the Upanishad protect us by revealing knowledge and nourish us with its fruit; may teacher and student never bear ill will towards each other through faults in teaching or learning; 'peace' is said three times to quiet every fault."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "review_status": "draft"
   }
 }
