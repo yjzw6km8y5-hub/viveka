@@ -35,6 +35,7 @@ and `PROGRESS.md`). Items that need a human reader of Sanskrit are listed at the
 
 ## Handoff
 _Newest note first. Each tool ends its turn with a note here (CLAUDE.md section 13)._
+- 2026-10-02 18:44 -04:00, builder: codex. Completed the owner-approved focused guidance batch: unchanged-gate retries then clarification/withholding; V028 protective guidance with varied wording and danger override; V001/V024 decision fixes with paired cases and labelled inference; tagged before/after evidence; exact-version proposal tests and full synthetic-alert exclusion. Unfinished: the spent regression banks still have 16/100, 6/30 and 13/30 recommendation failures, and the next unbiased claim needs an independently authored held-out set. Commit: `26017f4`. Tests: `build_gita.py` PASS; `validate.py --allow-incomplete` PASS (3 pre-existing historical-example warnings); `test_gate.py` 5/5 PASS; `test_guidance.py` 10/10 PASS; `test_proposals.py` 3/3 PASS; focused paired gate 14/14 PASS with 0 safety mismatches and 0 forbidden material. Independent verse-check result files were left outside this cycle. **Needs review by Claude Code.**
 - 2026-10-02, builder: claude. Handoff rules set up (AGENTS.md for Codex; CLAUDE.md section 13). Independent verse check started (`scripts/verse_check.py`; results in `reviews/verse-check/`). No build cycle run in this turn. Next builder: continue must-fix 1 (see "Next step").
 
 ## Runner notes
