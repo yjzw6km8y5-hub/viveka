@@ -3,16 +3,15 @@
 _Control file for the AI Project Runner. Detailed history stays in PROGRESS.md._
 
 ## Next step
-Annotate Chanakya Niti (`data/annotations/chanakya_niti.json`, 343 verses, ids
-`CN.<chapter>.<n>`), about one chapter per cycle, following CLAUDE.md sections 1 to 7
-and the Nitishataka/Vidura model.
-- After each batch: run strict validation on that batch's verses.
-- Verses come from `data/`, never from memory. The source gives no speaker; decide and log it.
+The text queue is paused after the Katha (CLAUDE.md section 10). Do not add or annotate new texts.
+Work the plan instead: reviewed starter collection, then comparative testing (see `tests/README.md`
+and `PROGRESS.md`). Items that need a human reader of Sanskrit are listed at the end of `PROGRESS.md`.
+- After each change: `build_gita.py`, then `validate.py --allow-incomplete`.
 
 ## Done recently
 - Vidura Niti complete (557 verses), strict validation passing.
-- Chanakya Niti: source chosen, copyright logged, snapshot in `data/raw/niti/`, parser and
-  registry added (343 verses built, none annotated yet).
+- Chanakya Niti registration backed out (review cycle 1): it broke the queue pause. The source choice
+  is kept in DECISIONS.md; the work is in git history (commit 3a8a202).
 
 ## Runner notes
 _(the runner writes here if it has to stop the project)_
