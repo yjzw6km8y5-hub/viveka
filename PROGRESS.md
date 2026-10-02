@@ -89,6 +89,8 @@ The scores are automatic proxies (0-2 per dimension, 12 maximum), not human judg
 
 **2026-10-02, after adding the Vidura Niti** (regression check only; all sets are spent): development set 11.27, held-out v1 11.23, held-out v2 10.53. 0 safety mismatches and 0 forbidden material on every set.
 
+**2026-10-02, focused guidance batch (owner-approved):** the product gate now retries better-supported recommendations through the unchanged gate, then asks a useful clarifying question or withholds. V028 gets age-appropriate doctor/trusted-adult guidance; danger overrides it. V001 and V024 answer the stated decision, and inferred life stage is labelled as inference. The 14 paired/varied-wording cases improved from 3/14 to 14/14 gate passes. These cases were written by the builder and tuned after their first run, so the after result is development evidence, not independent evidence. Spent-bank reruns are kept separate: situations 84/100, held-out v1 24/30, held-out v2 17/30. Full per-case before/after evidence is in `tests/results/2026-10-02-guidance-batch.md`.
+
 Grounding (every quote is exact library text, with labels) held at 2.00 on every set.
 
 ### What the tests show
@@ -218,3 +220,4 @@ Every record is `review_status: "draft"`. Nothing has been reviewed by a person 
 
 - Recommendation gate added (engine/gate.py), reported per case in run_tests summaries: heldout2 15/30, heldout 6/30, situations 19/100 fail.
 - Builder handoff rules (AGENTS.md, CLAUDE.md section 13) and an independent Codex verse check (scripts/verse_check.py) set up; Codex check of 1539 verses in progress; owner review list to follow.
+- Focused gate/guidance follow-up completed by the stand-in builder: paired cases 14/14 pass; exact-version proposal approval and tamper refusal now have regression tests. Remaining spent-bank failures stay open for later batches and independent review.

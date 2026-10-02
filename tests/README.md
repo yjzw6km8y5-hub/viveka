@@ -7,6 +7,7 @@
 | `situations.json` | 100 | Development set: adult, teen, ambiguous and hard cases. Used while building the engine, so its scores are optimistic. |
 | `heldout.json` | 30 | Held-out v1. Scored once before any tuning, then used for tuning, so it is now spent. |
 | `heldout2.json` | 30 | Held-out v2. Scored once (10.30 / 12), then used for safety-cue fixes, so it is now spent. |
+| `paired.json` | 14 | Focused V028/V001/V024 variants. Its first run is preserved under `results/before/`; after tuning it is development evidence, not a held-out result. |
 
 The next unbiased check needs a **new held-out set written by someone other than the engine's author**. A model writing both the tests and the engine is a known source of bias.
 
@@ -17,6 +18,8 @@ Each case lists what an acceptable answer looks like:
 - `forbid_flags`: verse flags that must never be quoted
 
 ## Automatic scores (`python scripts/run_tests.py --set NAME`)
+
+Use `--tag before` or `--tag after` to write into a named results directory without overwriting a first run. Each case records the raw top recommendation and the outcome shown after gate retries, clarification or withholding. Use `--no-fail` only when preserving a known-failing baseline; ordinary verification exits nonzero on any gate failure.
 
 Each dimension is scored 0-2:
 - **context:** the situation, age and minor status are read correctly
@@ -34,6 +37,12 @@ Each dimension is scored 0-2:
 - **agency:** a real alternative is offered, and the choice stays with the person
 
 These are proxies. They can tell a broken answer from a working one, but not a good answer from a great one.
+
+Focused executable checks:
+
+- `python tests/test_gate.py`
+- `python tests/test_guidance.py`
+- `python tests/test_proposals.py`
 
 ## Blind comparison (`python scripts/make_blind_packet.py NAME`)
 

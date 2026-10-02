@@ -21,7 +21,7 @@ from collections import Counter
 from functools import lru_cache
 from pathlib import Path
 
-from .frames import FRAME_EXCLUDE, detect_frames, frame_boosts
+from .frames import FRAME_EXCLUDE, FRAMES, detect_frames, frame_boosts
 from .understand import understand
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -178,10 +178,11 @@ def score_principle(p, sit, qtoks, lib, boosts):
     if overlap:
         s += 0.6 * sum(lib["idf"].get(t, 0) for t in overlap)
         why.append("echoes your words: " + ", ".join(sorted(overlap)[:4]))
+    inferred = sit.life_stage_source == "inferred"
     if sit.life_stage and sit.life_stage in p["life_stages"]:
-        s += 1.0
-        why.append(f"fits the {sit.life_stage} stage you described")
-    elif sit.life_stage and sit.life_stage not in p["life_stages"]:
+        s += 0.5 if inferred else 1.0
+        why.append(f"fits the {sit.life_stage} stage" + (" (our inference)" if inferred else ""))
+    elif sit.life_stage and sit.life_stage not in p["life_stages"] and not inferred:
         s -= 2.0
     return s, why
 
@@ -190,14 +191,45 @@ def excluded_by_frames(frames):
     return set().union(*(FRAME_EXCLUDE.get(f, set()) for f in frames)) if frames else set()
 
 
+OTHER_PERSON_REMARRYING = re.compile(
+    r"\bmy (mother|father|mom|mum|dad|sister|brother|friend|son|daughter)\b[^.?!]{0,80}\b"
+    r"(?:wants to|is going to|plans to|will) (?:remarry|marry again|get married again)")
+
+
+def context_adjustments(sit, frames, excluded):
+    """Changed circumstances that should change the recommendation (paired cases in data/tests/paired.json).
+    Adds to `excluded` in place and returns extra boosts."""
+    extra, low = {}, sit.text.lower()
+    if "remarriage" in frames:
+        if sit.months_since_loss is not None and sit.months_since_loss < 12:
+            # A recent loss and pressure to decide: slow down first.
+            extra.update({"reflect-then-choose": 8.0, "honour-the-grief-first": 4.0})
+            excluded.add("dharmic-desire-is-legitimate")
+        if OTHER_PERSON_REMARRYING.search(low):
+            # Someone else is remarrying: their path, not the user's desire.
+            extra.update({"respect-different-paths": 8.0, "loving-without-clinging": 5.0, "own-path-over-imitation": 3.0})
+            excluded.add("dharmic-desire-is-legitimate")
+        elif sit.months_since_loss is None or sit.months_since_loss >= 12:
+            # Time has passed and the question is the decision itself: answer it; grief can be the other view.
+            extra.update({"reflect-then-choose": 6.0, "dharmic-desire-is-legitimate": 5.0})
+    if "why_suffering" in frames and "grief" in frames:
+        extra["honour-the-grief-first"] = extra.get("honour-the-grief-first", 0) + 9.0  # a personal loss: grief first
+    return extra
+
+
 def retrieve(sit, lib, mode, k=8):
     qtoks = set(tokens(sit.text))
-    frames = detect_frames(sit.text, danger=sit.danger, distress=sit.distress)
+    frames = detect_frames(sit.text, danger=sit.danger, distress=sit.distress, eating="eating" in sit.protective)
     # In danger, only the safety-and-agency set is considered, whatever else is mentioned.
     boosts = frame_boosts(["danger"] if sit.danger else frames)
     if "renounce_wish" in frames and sit.life_stage in ("elder", "renunciant") and not sit.distress:
         boosts["full-renunciation-path"] = boosts.get("full-renunciation-path", 0) + 6.0
     excluded = excluded_by_frames(frames)
+    if not sit.danger:
+        for pid, extra in context_adjustments(sit, frames, excluded).items():
+            boosts[pid] = boosts.get(pid, 0) + extra
+    # Someone not known to be an adult is quoted verses about death only when they ask about death or grief.
+    death_ok = not sit.treat_as_minor or {"death_question", "grief"} & set(frames)
     scored = []
     for p in lib["principles"].values():
         if not principle_allowed(p, sit, mode) or p["id"] in excluded:
@@ -205,7 +237,8 @@ def retrieve(sit, lib, mode, k=8):
         if sit.danger and p["id"] not in boosts:
             continue  # in danger, only principles chosen for safety and agency
         verses = [lib["units"][u] for u in p["supporting"] if u in lib["units"]
-                  and quotable(lib["units"][u], sit, mode)]
+                  and quotable(lib["units"][u], sit, mode)
+                  and (death_ok or "death" not in lib["units"][u].get("safety_flags", []))]
         if not verses:
             continue  # nothing we may quote for this person: skip the principle
         s, why = score_principle(p, sit, qtoks, lib, boosts)
@@ -248,11 +281,16 @@ def commentary_for(units, lib):
 
 
 def describe_person(sit):
+    """Only what the person said is attributed to them; anything else is labelled as our inference."""
     bits = []
-    if sit.life_stage:
-        bits.append(f"you describe yourself as a {sit.life_stage}")
+    if sit.life_stage_source == "profile":
+        bits.append(f"your profile gives the {sit.life_stage} stage")
+    elif sit.life_stage_source == "stated":
+        bits.append(f"you said '{sit.life_stage_cue}', which we read as the {sit.life_stage} stage")
+    elif sit.life_stage_source == "inferred":
+        bits.append(f"we inferred the {sit.life_stage} stage from '{sit.life_stage_cue}'; tell us if that is wrong")
     if sit.age is not None:
-        bits.append(f"you are {sit.age}")
+        bits.append(f"you said you are {sit.age}")
     if sit.people:
         bits.append("this involves your " + ", ".join(sit.people[:3]))
     return "; ".join(bits)
@@ -277,13 +315,69 @@ def tailor(p, sit):
     if c["urgency"]:
         parts.append(f"You mention a time limit ('{c['urgency'][0]}'); decide what must be settled by then and what can wait.")
     if c["power_imbalance"]:
-        parts.append(f"Your {c['power_imbalance'][0]} has power over your situation, so plan for how they may react and who could support you.")
+        who = c['power_imbalance'][0]
+        verb = "have" if who.endswith("s") and who != "boss" else "has"
+        parts.append(f"Your {who} {verb} power over your situation, so plan for how they may react and who could support you.")
     elif sit.people:
         parts.append(f"Since this involves your {sit.people[0]}, think about what they need as well as what you need.")
     if c["dependency"] or c["money"]:
         parts.append("Because money or dependency is involved, check what you can afford and secure that before any big move.")
     parts.append(p["modern_application"])
     return " ".join(parts)
+
+
+PROTECTIVE = {
+    "eating": {
+        "minor": ("Eating less and less, or making yourself sick, to change your body can seriously harm your health, "
+                  "especially while you are still growing, even when other people say you look great. You don't have to "
+                  "sort this out alone. This week, tell a trusted adult who is safe for you what you told me, and ask them "
+                  "to help you see a doctor. It does not have to be a parent: a school counsellor, teacher, relative or "
+                  "family doctor all count. If you feel faint or dizzy, or your heart races or skips, get medical help today."),
+        "unknown": ("Restricting food or making yourself sick to change your body can seriously harm your health, even when "
+                    "other people praise the weight loss. Please see a doctor soon and tell them what you told me. If you are "
+                    "under 18, also tell a trusted adult who is safe for you. If you feel faint or dizzy, or your heart races "
+                    "or skips, get medical help today."),
+        "adult": ("Restricting food or making yourself sick to change your body can seriously harm your health, even when you "
+                  "feel in control and others praise the weight loss. Please see a doctor soon and tell them what you told me; "
+                  "they can check your health and refer you to someone who specialises in eating problems. If you feel faint "
+                  "or dizzy, or your heart races or skips, get medical help today."),
+        "next_step": {
+            "minor": "This week, tell one trusted adult who is safe for you how you have been eating, and ask them to help you book a doctor's appointment.",
+            "unknown": "This week, book a doctor's appointment and tell them how you have been eating; if you are under 18, tell a trusted adult who is safe for you as well.",
+            "adult": "This week, book a doctor's appointment and tell them how you have been eating.",
+        },
+    },
+}
+
+
+def protective_block(sit, lib, region):
+    for need in sit.protective:
+        txt = PROTECTIVE[need]
+        who = "minor" if sit.minor == "yes" else "adult" if sit.minor == "no" else "unknown"
+        return {"label": "Viveka's application", "need": need, "text": txt[who], "next_step": txt["next_step"][who],
+                "help": help_lines(lib, ["distress"] + (["under18"] if sit.minor == "yes" else []), region)[:3]}
+    return None
+
+
+def decision_note(sit, frames):
+    """A sentence or two naming the decision the person actually faces (Viveka's application)."""
+    low = sit.text.lower()
+    if "remarriage" in frames and not sit.danger:
+        m = OTHER_PERSON_REMARRYING.search(low)
+        if m:
+            return (f"This is your {m.group(1)}'s decision to make. Your sense of betrayal is part of your own grief and is "
+                    f"worth saying to them honestly, but their remarrying does not erase the person you both lost.")
+        if sit.months_since_loss is not None and sit.months_since_loss < 12:
+            return ("Your loss is recent. A decision this big does not have to be made quickly, whoever is pressing you; "
+                    "it can wait until grief has had its time.")
+        spouse = "your husband's" if "husband" in low else "your wife's" if "wife" in low else "your late partner's"
+        who = "Your in-laws'" if "in-laws" in sit.people else "Your family's" if "family" in low else "Other people's"
+        return (f"You are deciding whether to remarry. {who} objection comes from their own grief and is worth hearing, "
+                f"but it does not decide this for you; honouring {spouse} memory and building a new life are not opposites.")
+    if "why_suffering" in frames and "grief" not in frames:
+        return ("Viveka will not tell you that suffering is a punishment someone earned. The texts give no neat formula for "
+                "why good people suffer; they ask us to keep the question honest and to act well inside it.")
+    return None
 
 
 def pick_example(principle_ids, sit, lib, mode):
@@ -327,13 +421,14 @@ SAFETY_FOOTER = ("If you are in crisis, thinking of harming yourself, or not saf
                  "Children: 1098. Women: 181. US: 988. UK: 116 123.")
 
 
-def _build(question, profile=None, mode="internal", region=None):
+def _build(question, profile=None, mode="internal", region=None, force=None):
     lib = load_library()
     if mode not in ("internal", "public"):
         raise ValueError("mode must be 'internal' or 'public'")
     sit = understand(question, profile)
     out = {
         "mode": mode,
+        "question": question,  # kept in memory for the gate's wording checks; never written anywhere
         "notice": ("DRAFT: internal test answer using unreviewed material. Not for users."
                    if mode == "internal" else "Shows only reviewed material."),
         "understanding": {
@@ -341,7 +436,10 @@ def _build(question, profile=None, mode="internal", region=None):
             "options": sit.options, "obligations": sit.obligations, "constraints": sit.constraints,
             "age": sit.age, "minor": sit.minor, "life_stage": sit.life_stage,
             "distress": sit.distress, "danger": sit.danger, "self_harm": sit.self_harm,
+            "life_stage_source": sit.life_stage_source, "protective": sit.protective,
+            "months_since_loss": sit.months_since_loss,
         },
+        "protective": None,
         "clarifying_questions": [], "safety": None, "shortlist": [], "comparison": [],
         "recommendation": None, "sources": [], "commentary": [], "example": None,
         "challenge": None, "next_step": None,
@@ -387,6 +485,7 @@ def _build(question, profile=None, mode="internal", region=None):
             "help": help_lines(lib, ["distress", "self_harm"], region)[:2],
         }
 
+    out["protective"] = protective_block(sit, lib, region)
     shortlist, frames = retrieve(sit, lib, mode)
     out["understanding"]["frames"] = frames
     out["clarifying_questions"] = clarifying_questions(sit, shortlist, lib, mode)
@@ -396,8 +495,12 @@ def _build(question, profile=None, mode="internal", region=None):
                                  "text": "I'd like to understand a little more before suggesting anything."}
         out["next_step"] = {"label": "Viveka's application",
                             "text": "Tell me what happened, who is involved, and what you are weighing up."}
+        out["clarify"] = True
         return out
-    out["shortlist"] = [{"id": c["principle"]["id"], "score": c["score"]} for c in shortlist]
+    def basis(pid):
+        return [f for f in frames if pid in FRAMES.get(f, ((), ()))[1]]
+    out["shortlist"] = [{"id": c["principle"]["id"], "score": c["score"], "frame_supported": bool(basis(c["principle"]["id"]))}
+                        for c in shortlist]
     if not shortlist:
         out["recommendation"] = {
             "label": "Viveka's application",
@@ -417,6 +520,10 @@ def _build(question, profile=None, mode="internal", region=None):
         })
 
     best = top3[0]
+    if force:
+        best = next(c for c in shortlist if c["principle"]["id"] == force)
+        if best not in top3:
+            top3 = [best] + top3[:2]
     bp = best["principle"]
     person = describe_person(sit)
     why = "; ".join(best["why"])
@@ -424,7 +531,8 @@ def _build(question, profile=None, mode="internal", region=None):
         "label": "Viveka's application", "principle": bp["id"], "name": bp["name"],
         "text": f"{bp['name']}. {bp['meaning']}",
         "why_it_fits_you": (f"For your situation ({person}): " if person else "For your situation: ") + why + ".",
-        "application": tailor(bp, sit),
+        "application": " ".join(x for x in (decision_note(sit, frames), tailor(bp, sit)) if x),
+        "basis_frames": basis(bp["id"]),
     }
 
     quoted = best["verses"][:2]
@@ -447,7 +555,9 @@ def _build(question, profile=None, mode="internal", region=None):
             cp = lib["principles"].get(cid)
             if cp and cid not in excluded and principle_allowed(cp, sit, mode) and \
                     (not sit.life_stage or sit.life_stage in cp["life_stages"]):
-                verses = [lib["units"][u] for u in cp["supporting"] if quotable(lib["units"][u], sit, mode)]
+                death_ok = not sit.treat_as_minor or {"death_question", "grief"} & set(frames)
+                verses = [lib["units"][u] for u in cp["supporting"] if quotable(lib["units"][u], sit, mode)
+                          and (death_ok or "death" not in lib["units"][u].get("safety_flags", []))]
                 if verses:
                     alt = {"principle": cp, "verses": verses}
                     break
@@ -463,6 +573,8 @@ def _build(question, profile=None, mode="internal", region=None):
         }
     out["example"] = pick_example([bp["id"]] + ([alt["principle"]["id"]] if alt else []), sit, lib, mode)
     out["next_step"] = {"label": "Viveka's application", "text": bp["modern_application"]}
+    if out["protective"]:
+        out["next_step"]["text"] = out["protective"]["next_step"]
     if sit.danger:
         out["next_step"]["text"] = ("Today, save one help-line number where it is safe to keep it, and tell one person "
                                     "you trust what is happening.")
@@ -475,11 +587,40 @@ def answer(question, profile=None, mode="internal", region=None, gate=True):
     gate=False returns the raw answer (used only by the test runner to measure the engine).
     """
     from .gate import check
+    lib = load_library()
     out = _build(question, profile, mode, region)
     if not gate:
         return out
-    fails = check(out, load_library())
+    fails = check(out, lib)
     out["gate_failures"] = fails
+    if not fails:
+        return out
+    # 1. Try better-supported recommendations: candidates backed by the problem the person describes
+    #    come first. Every replacement goes through the same gate; the gate is never relaxed.
+    log = [{"principle": (out["recommendation"] or {}).get("principle"), "failures": fails}]
+    tried = {log[0]["principle"]}
+    candidates = sorted((c for c in out["shortlist"] if c["id"] not in tried),
+                        key=lambda c: (not c["frame_supported"], -c["score"]))
+    for c in candidates[:6]:
+        alt = _build(question, profile, mode, region, force=c["id"])
+        f = check(alt, lib)
+        log.append({"principle": c["id"], "failures": f})
+        if not f:
+            alt["regenerated"], alt["gate_log"], alt["gate_failures"] = True, log, []
+            return alt
+    out["gate_log"] = log
+    # 2. Nothing passes: ask a useful clarifying question if there is one (safety parts are kept).
+    if out["clarifying_questions"]:
+        q = out["clarifying_questions"][0]
+        clar = dict(out, clarify=True, sources=[], commentary=[], comparison=[], challenge=None, example=None,
+                    recommendation={"label": "Viveka's application",
+                                    "text": f"Before I suggest anything, one question that would change my answer: {q}"},
+                    next_step={"label": "Viveka's application",
+                               "text": (out["protective"] or {}).get("next_step") or "Reply with a little more detail, and I'll try again."})
+        if not check(clar, lib):
+            clar["gate_failures"] = []
+            return clar
+    # 3. Otherwise withhold safely.
     if fails:
         out["withheld"] = True
         out["recommendation"] = {"label": "Viveka's application",
@@ -487,7 +628,8 @@ def answer(question, profile=None, mode="internal", region=None, gate=True):
         out["sources"], out["commentary"], out["comparison"] = [], [], []
         out["challenge"], out["example"] = None, None
         out["next_step"] = {"label": "Viveka's application",
-                            "text": "Talk it through with someone you trust, or a qualified person, and try rephrasing what you are deciding."}
+                            "text": (out["protective"] or {}).get("next_step") or
+                            "Talk it through with someone you trust, or a qualified person, and try rephrasing what you are deciding."}
     return out
 
 
@@ -497,6 +639,10 @@ def render(a):
     if a["safety"]:
         L += [f"{a['safety']['label']}: {a['safety']['message']}"]
         L += [f"  - {h['name']}: {h['number']} ({h['region']})" for h in a["safety"]["help"]]
+        L.append("")
+    if a.get("protective"):
+        L += [f"{a['protective']['label']}: {a['protective']['text']}"]
+        L += [f"  - {h['name']}: {h['number']} ({h['region']})" for h in a["protective"]["help"]]
         L.append("")
     if a["clarifying_questions"]:
         L.append("Questions that could change this answer:")

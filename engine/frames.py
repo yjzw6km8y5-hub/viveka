@@ -32,6 +32,8 @@ FRAMES = {
         ["work-not-results", "evenness-in-success-and-failure", "steadiness-under-pressure", "giving-up-fruit-brings-peace"]),
     "grief": (
         [r"\bdied\b", r"\bpassed away\b", r"\bdeath of\b", r"\bfuneral\b", r"\bgrie(?:f|ving)\b", r"\bmiscarriage\b",
+         r"\bmy (?:mother|father|mom|mum|dad|wife|husband|son|daughter|friend|brother|sister|baby|grandmother|grandfather)\b"
+         r"[^.?!]{0,30}\b(?:have to die|die of|was dying|is dying)\b",
          r"\blost my (?:mother|father|mom|dad|wife|husband|son|daughter|friend|brother|sister|baby|grandmother|grandfather)\b"],
         ["honour-the-grief-first", "ask-for-help-when-lost", "sorrow-ends-in-stillness", "self-is-not-destroyed",
          "the-witness", "every-reason-to-seek-is-valid", "grief-for-the-inevitable"]),
@@ -188,6 +190,22 @@ FRAMES = {
          r"\b(?:hire|fire|let go of) (?:someone|him|her|them|an employee)\b", r"\bmy (?:maid|driver|cook|helper)\b"],
         ["fair-to-those-who-work-for-you", "speak-the-hard-truth", "lead-by-example", "credit-is-not-yours-alone",
          "withstand-the-surge"]),
+    "eating": (
+        [],  # set by understand(): restricting or purging food (a protective need)
+        ["ask-for-help-when-lost", "no-self-torture", "more-than-body-and-roles", "moderation-in-living"]),
+    "remarriage": (
+        [r"\bremarr(?:y|ying|ied|iage)\b", r"\bmarry again\b", r"\bget married again\b", r"\bdishonou?r (?:his|her|their) memory\b",
+         r"\b(?:died|passed away|widowed)\b[^.?!]{0,80}\b(?:met someone|new partner|seeing someone|wants to marry me|marry me)\b",
+         r"\bwants to marry me\b"],
+        ["reflect-then-choose", "dharmic-desire-is-legitimate", "own-path-over-imitation", "meet-people-where-they-are",
+         "honour-the-grief-first", "respect-different-paths"]),
+    "why_suffering": (
+        [r"\bwhy do bad things happen\b", r"\bwhy do (?:good|innocent|honest|kind) people (?:suffer|struggle|die)\b",
+         r"\bwhy does god (?:let|allow)\b", r"\bwhy me\b", r"\bwhy is there (?:so much )?suffering\b",
+         r"\bwhy did (?:my|our|he|she|this)\b[^.?!]{0,40}\b(?:have to|die|happen)\b",
+         r"\bwhy do (?:cruel|bad|evil|dishonest) people\b", r"\bif karma is real\b"],
+        ["persist-in-the-real-question", "humility-before-the-unknown", "bear-what-comes-and-goes", "impermanence",
+         "feel-others-pain-as-your-own", "not-the-sole-doer"]),
     "family_shame": (
         [r"\bin jail\b", r"\bin prison\b", r"\barrested\b", r"\bconvicted\b", r"\bfamily (?:is )?ashamed\b",
          r"\bdisgrace(?:d)? (?:the|our) family\b"],
@@ -222,7 +240,9 @@ FRAMES = {
         [r"\bmy doctor (?:says|said|told)\b", r"\bslow down\b", r"\bmy health\b", r"\bheart attack\b"],
         ["moderation-in-living", "more-than-body-and-roles", "keep-contributing", "see-the-pain-of-ageing-clearly"]),
     "prejudice": (
-        [r"\bcaste\b", r"\bdifferent community\b", r"\bdiscriminat", r"\bprejudice\b", r"\bdisability\b", r"\bbad karma\b"],
+        [r"\bcaste\b", r"\bdifferent community\b", r"\bdiscriminat", r"\bprejudice\b", r"\bdisability\b", r"\bbad karma\b",
+         r"\b(?:because of|due to) (?:my |his |her |their )?karma\b", r"\bkarma from a past life\b", r"\bpast life\b",
+         r"\bborn (?:deaf|blind|disabled|with)\b"],
         ["equal-dignity", "respect-different-paths", "seeing-oneness", "more-than-body-and-roles", "meet-people-where-they-are"]),
     "violence_justification": (
         [r"\bkrishna told\b", r"\bgita says\b", r"\bshould i fight\b", r"\bfight my (?:cousins?|brothers?|relatives|family|neighbou?rs?)\b",
@@ -233,7 +253,7 @@ FRAMES = {
         ["honour-the-grief-first", "impermanence", "nourish-one-another", "bear-what-comes-and-goes"]),
     "distress": (
         [],  # set when the person shows distress: gentle, non-demanding principles first
-        ["honour-the-grief-first", "ask-for-help-when-lost", "states-arise-and-pass", "every-reason-to-seek-is-valid",
+        ["ask-for-help-when-lost", "honour-the-grief-first", "states-arise-and-pass", "every-reason-to-seek-is-valid",
          "small-practice-protects"]),
     "danger": (
         [],  # set by understand(): danger cues
@@ -242,7 +262,7 @@ FRAMES = {
 }
 
 
-def detect_frames(text, danger=False, distress=False):
+def detect_frames(text, danger=False, distress=False, eating=False):
     t = text.lower().replace("’", "'")
     found = []
     for fid, (cues, _) in FRAMES.items():
@@ -250,6 +270,8 @@ def detect_frames(text, danger=False, distress=False):
             found.append(fid)
     if distress and not danger:
         found = ["distress"] + found
+    if eating:
+        found = ["eating"] + found
     if danger:
         found = ["danger"] + [f for f in found if f not in ("danger",)]
     return found
@@ -263,9 +285,16 @@ PRIMARY = {"decision": 1.4, "danger": 2.0, "fatalism": 1.4, "burnout": 1.3, "dea
            "i_hurt_someone": 1.3, "revenge": 1.5, "risky_choice": 1.5, "difficult_conversation": 1.3,
            "parent_child": 1.3, "existential": 1.4, "unappreciated": 1.4, "selfishness": 1.4, "worry_control": 1.3,
            "criticised": 1.3, "family_rift": 1.3, "managing": 1.3, "relapse": 1.5, "spending": 1.4, "health_limits": 1.3, "prejudice": 1.4,
-           "violence_justification": 2.0, "parting": 1.2, "distress": 1.6}
+           "violence_justification": 2.0, "parting": 1.2, "distress": 1.6,
+           "eating": 2.4, "remarriage": 1.6, "why_suffering": 1.5}
 # Principles that must not be offered when a frame is present (they would serve the wrong party).
-FRAME_EXCLUDE = {"distress": {"dont-quit-because-its-hard", "arise-and-awake", "procrastination-as-a-state",
+FRAME_EXCLUDE = {"eating": {"honour-the-grief-first", "desire-as-enemy", "fortitude-that-holds", "guard-the-senses",
+                            "food-shapes-mind", "dont-quit-because-its-hard", "steady-practice", "mental-discipline",
+                            "withstand-the-surge", "contact-pleasures-end", "pleasant-versus-good"},
+                 "remarriage": {"full-renunciation-path", "keep-your-word", "seek-a-parents-peace", "fortitude-that-holds"},
+                 "why_suffering": {"fate-decides", "nature-and-the-inner-controller", "your-nature-shapes-you",
+                                   "credit-is-not-yours-alone", "three-gunas-awareness"},
+                 "distress": {"dont-quit-because-its-hard", "arise-and-awake", "procrastination-as-a-state",
                               "fortitude-that-holds", "self-as-friend", "know-it-in-this-life"},
                  "violence_justification": {"duty-of-protection", "nature-and-the-inner-controller", "your-nature-shapes-you"},
                  "prejudice": {"your-nature-shapes-you", "nature-and-the-inner-controller", "own-path-over-imitation"},

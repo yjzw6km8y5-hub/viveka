@@ -210,10 +210,12 @@ def cmd_import(args):
             snap.write_text(text, encoding="utf-8", newline="\n")
             # Keep the exact version each item came from, so approving archives that version, not a later import.
             (SOURCES / (ver["version"]["sha256"] + "-" + name)).write_text(text, encoding="utf-8", newline="\n")
-            items = split_review(text)
+            parsed = split_review(text)
+            # The owner's one-time synthetic alert test is excluded from work and approval records (2026-10-02).
+            items = [i for i in parsed if "URGENT-SAFETY TEST" not in (i[1] + "\n" + i[2])]
             for kind, title, body in items:
                 made.append(write_proposal(st, kind, title, item_summary(body), body, source, {"review_file": name, **ver}))
-            if not items:
+            if not parsed:
                 made.append(write_proposal(st, "file", f"Archive {name}", "No must-fix, should-fix or idea items "
                                            "found; approving archives it in reviews/.", text, source, {"review_file": name, **ver}))
         st["imported"][f.name] = digest

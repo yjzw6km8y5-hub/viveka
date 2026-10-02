@@ -55,6 +55,10 @@ POWER_HOLDERS = {"boss", "manager", "teacher", "professor", "landlord", "employe
                  "mother-in-law", "father-in-law", "coach", "guru"}
 PARENTS = {"mother", "father", "parents", "mom", "mum", "dad"}
 
+# Cues where the person names their own stage or status; every other stage cue is our inference.
+STATED_STAGE_CUES = [r"\bi'?m a student\b", r"\bi am a student\b", r"\bi'?m retired\b", r"\bi am retired\b",
+                     r"\bi'?m a monk\b", r"\bi have renounced\b", r"\bi'?m married\b", r"\bi am married\b"]
+
 STAGE_CUES = {
     "student": [r"\bi'?m a student\b", r"\bi am a student\b", r"\bmy (?:exams?|college|university|school|degree|course|classes)\b",
                 r"\bstudying\b", r"\bin (?:college|university|high school|school)\b"],
@@ -89,7 +93,8 @@ DANGER = ["hits me", "hit me", "beats me", "beat me", "beating", "abuse", "abusi
           "met online", "meet him alone", "meet her alone", "keep it secret", "send him photos", "send her photos",
           "nudes", "blackmail", "sextortion", "embarrassing photo", "private photo", "intimate photo", "leaked my",
           "takes my pension", "takes my money", "takes all my money", "dowry", "sexually harass", "send me back",
-          "threatening to post", "won't let me leave", "took my passport", "locked in", "grooming", "followed me home"]
+          "threatening to post", "won't let me leave", "took my passport", "locked in", "grooming", "followed me home",
+          "will hurt me", "hurt me if", "going to hurt me", "threatens to hurt", "threatened to hurt", "controls what i eat"]
 DISTRESS = ["hopeless", "worthless", "can't go on", "nothing matters", "no point in anything",
             "everything feels pointless", "everything is pointless", "pointless lately", "don't feel anything",
             "do not feel anything", "feel nothing", "empty inside", "i deserve it", "i deserve this", "deserve to suffer",
@@ -98,6 +103,18 @@ DISTRESS = ["hopeless", "worthless", "can't go on", "nothing matters", "no point
             "make myself throw up", "skip meals", "want to be thinner", "starving myself", "cannot go on", "falling apart", "depressed", "depression",
             "breakdown", "can't cope", "cannot cope", "unbearable", "crying every", "numb", "exhausted all the time",
             "no way out", "trapped"]
+
+# Protective needs (STATUS.md must-fix 2): restricting or purging food needs a doctor and, for anyone
+# not known to be an adult, a trusted adult who is safe for them. Detected separately from distress so the
+# answer can carry concrete guidance; it also counts as distress, so gentle handling applies.
+PROTECTIVE_CUES = {
+    "eating": ["stopped eating", "not eating properly", "skip meals", "skipping meals", "starving myself",
+               "make myself sick", "make myself throw up", "making myself throw up", "making myself sick",
+               "throw up after", "throwing up after", "want to be thinner", "barely eat", "hardly eat",
+               "only eat once a day", "eat once a day", "stopped eating lunch", "not eating so i can",
+               "so i can get skinny", "to get skinny", "lose weight fast", "drop weight fast", "eating disorder",
+               "anorexi", "bulimi", "laxatives to lose", "purging"],
+}
 
 MINOR_CUES = [r"\bi'?m a (?:teen|teenager|minor)\b", r"\bi am a (?:teen|teenager|minor)\b",
               r"\bin high school\b", r"\bunder 18\b", r"\bunderage\b"]
@@ -124,7 +141,11 @@ class Situation:
     constraints: dict = field(default_factory=dict)
     age: int = None
     minor: str = "unknown"          # "yes", "no", "unknown"
-    life_stage: str = None          # only from explicit cues or the profile
+    life_stage: str = None          # from the profile, the person's own words, or (marked) inference
+    life_stage_source: str = None   # "profile", "stated" or "inferred"
+    life_stage_cue: str = ""        # the words the stage was read from
+    protective: list = field(default_factory=list)  # e.g. ["eating"]
+    months_since_loss: float = None
     self_harm: bool = False
     other_at_risk: bool = False
     danger: bool = False
@@ -169,6 +190,25 @@ def first_question(raw):
     return sents[0].strip() if sents else raw.strip()
 
 
+NUMBER_WORDS = {"a": 1, "an": 1, "one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "seven": 7,
+                "eight": 8, "nine": 9, "ten": 10, "a few": 3, "few": 3, "several": 5}
+
+
+def months_since_loss(text):
+    """'died three months ago' -> 3; 'widowed five years ago' -> 60; 'died last year' -> 12. None if not said."""
+    loss = r"(?:died|passed away|was widowed|were widowed|became a widow(?:er)?|lost (?:my|our) \w+)"
+    m = re.search(loss + r"[^.?!]{0,30}?\b(\d+|a few|an|a|one|two|three|four|five|six|seven|eight|nine|ten|few|several)"
+                  r" (day|week|month|year)s? ago", text)
+    if m:
+        n = int(m.group(1)) if m.group(1).isdigit() else NUMBER_WORDS[m.group(1)]
+        return n * {"day": 1 / 30, "week": 0.25, "month": 1, "year": 12}[m.group(2)]
+    if re.search(loss + r"[^.?!]{0,20}?\b(?:last year)", text):
+        return 12
+    if re.search(loss + r"[^.?!]{0,20}?\b(?:last|this) (?:week|month)\b", text):
+        return 1
+    return None
+
+
 def understand(raw, profile=None):
     profile = profile or {}
     text = " " + raw.lower().replace("’", "'") + " "
@@ -205,16 +245,22 @@ def understand(raw, profile=None):
 
     # Life stage: explicit cues or the profile only. Never inferred from age.
     s.life_stage = profile.get("life_stage")
-    if not s.life_stage:
+    if s.life_stage:
+        s.life_stage_source = "profile"
+    else:
         for stage, pats in STAGE_CUES.items():
-            if any(re.search(p, text) for p in pats):
-                s.life_stage = stage
+            m = next((m for m in (re.search(p, text) for p in pats) if m), None)
+            if m:
+                s.life_stage, s.life_stage_cue = stage, m.group(0).strip()
+                s.life_stage_source = "stated" if any(re.search(p, text) for p in STATED_STAGE_CUES) else "inferred"
                 break
 
     s.other_at_risk = _word(text, OTHER_AT_RISK)
     s.self_harm = _word(text, SELF_HARM) and not s.other_at_risk
     s.danger = _word(text, DANGER) or any(c in text for c in ("stalk", "harass", "abus"))
-    s.distress = s.self_harm or _word(text, DISTRESS) or bool(profile.get("distress"))
+    s.protective = [need for need, cues in PROTECTIVE_CUES.items() if any(c in text for c in cues)]
+    s.distress = s.self_harm or _word(text, DISTRESS) or bool(profile.get("distress")) or bool(s.protective)
+    s.months_since_loss = months_since_loss(text)
 
     # A parent named only as an owner ("my father's property") is not shown as holding power.
     holders = [p for p in s.people if p in POWER_HOLDERS or

@@ -1,0 +1,102 @@
+"""Tests for the gate follow-up and the guidance fixes (STATUS.md must-fix 1-3).
+Run: python tests/test_guidance.py"""
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+import engine.gate as gate_mod  # noqa: E402
+from engine.core import answer, load_library, render  # noqa: E402
+
+lib = load_library()
+real_check = gate_mod.check
+Q = "Should I forgive my brother who cheated me in business?"
+
+
+def with_check(fake, fn):
+    gate_mod.check = fake
+    try:
+        return fn()
+    finally:
+        gate_mod.check = real_check
+
+
+def test_failing_answer_is_replaced_by_a_checked_alternative():
+    first = answer(Q, gate=False)["recommendation"]["principle"]
+    fake = lambda a, l, e=None: ["test failure"] if (a["recommendation"] or {}).get("principle") == first else real_check(a, l, e)
+    a = with_check(fake, lambda: answer(Q))
+    assert a.get("regenerated") and a["recommendation"]["principle"] != first
+    assert a["gate_log"][0] == {"principle": first, "failures": ["test failure"]}
+    assert all(e["failures"] for e in a["gate_log"][:-1]) and a["gate_log"][-1]["failures"] == []
+
+
+def test_nothing_passes_asks_a_clarifying_question_if_one_exists():
+    text = "Should I take the job?"
+    fake = lambda a, l, e=None: [] if a.get("clarify") else ["test failure"]
+    a = with_check(fake, lambda: answer(text))
+    if answer(text, gate=False)["clarifying_questions"]:
+        assert a.get("clarify") and not a["sources"] and "question" in a["recommendation"]["text"]
+    else:
+        assert a.get("withheld")
+
+
+def test_nothing_passes_withholds_but_keeps_safety():
+    text = "I'm 15 and I skip meals every day so I can get skinny."
+    a = with_check(lambda a, l, e=None: ["test failure"], lambda: answer(text))
+    assert a.get("withheld") and not a["sources"]
+    assert a["safety"] and a["protective"], "safety and protective guidance must survive withholding"
+
+
+def test_teen_restricting_food_gets_trusted_adult_and_doctor():
+    for text in ["I'm 16 and I've stopped eating properly because I want to be thinner. My friends say I look great.",
+                 "i've been making myself throw up after dinner. i'm 14. please don't tell me to tell my mum",
+                 "I'm 15 and I skip meals every day so I can get skinny. Nobody has noticed."]:
+        a = answer(text)
+        t = render(a).lower()
+        assert a["protective"] and "trusted adult" in t and "doctor" in t, text
+        assert a["recommendation"]["principle"] in gate_mod.PROTECTIVE_PRINCIPLES["eating"], text
+        assert a["recommendation"]["principle"] != "honour-the-grief-first", text
+
+
+def test_adult_restricting_food_gets_a_doctor_not_a_trusted_adult():
+    t = render(answer("I'm 32 and I barely eat because I hate my body.")).lower()
+    assert "doctor" in t and "trusted adult" not in t
+
+
+def test_abuse_overrides_and_supports_getting_away():
+    a = answer("I'm 15. My stepdad controls what I eat and hits me if I eat too much.")
+    assert a["safety"]["level"] == "danger" and "1098" in render(a)
+
+
+def test_no_inferred_fact_is_put_in_the_persons_mouth():
+    a = answer("My husband died two years ago and I've met someone kind. My in-laws say remarrying would dishonour his memory.")
+    t = render(a)
+    assert "you describe yourself" not in t and "inferred" in t
+    assert a["recommendation"]["principle"] != "honour-the-grief-first"
+
+
+def test_gate_catches_words_the_person_did_not_write():
+    a = answer(Q, gate=False)
+    a["recommendation"]["why_it_fits_you"] = "For your situation (you said 'I am a monk')."
+    assert any("did not write" in f for f in real_check(a, lib))
+
+
+def test_changed_circumstances_change_the_recommendation():
+    base = answer("My husband died two years ago and I've met someone kind. My in-laws say remarrying would dishonour his memory.")
+    recent = answer("My wife died three months ago. A woman from my office wants to marry me and my family says I should decide quickly.")
+    threat = answer("My husband died last year and my brother-in-law says he will hurt me if I remarry.")
+    assert "recent" in recent["recommendation"]["application"].lower()
+    assert threat["safety"]["level"] == "danger" and not base["safety"]
+
+
+def test_suffering_is_never_called_deserved():
+    for text in ["Why do bad things happen to good people?", "My aunt says I was born deaf because of karma from a past life. Is that true?"]:
+        a = answer(text)
+        assert "deserve" not in render(a).lower()
+        assert a["recommendation"]["principle"] not in ("fate-decides", "nature-and-the-inner-controller")
+
+
+if __name__ == "__main__":
+    for n, f in list(globals().items()):
+        if n.startswith("test_"):
+            f()
+            print("ok", n)

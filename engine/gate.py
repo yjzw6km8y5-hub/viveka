@@ -1,14 +1,27 @@
 """Pass/fail gate for every answer (STATUS.md must-fix 1).
 
 An answer fails if it does not give a recommendation when one is due, quotes
-anything not in the library, or breaks a safety rule. With a test case's
+anything not in the library, or breaks a safety rule. It also fails if a
+protective need (e.g. restricting food) gets no protective guidance or an
+unrelated principle, if the recommendation does not address the problem the
+person describes (when the engine recognises it), or if it attributes to the
+person words they did not write. With a test case's
 expectations it also fails when the top principle is not an acceptable one
 (it does not answer the person's actual decision). Failures are never averaged
 into a score.
 """
 
+import re
+
+from .frames import FRAMES
+
 # Never recommended to someone in distress or under 18 (CLAUDE.md section 8).
 RENUNCIATION_OR_FATALISM = {"full-renunciation-path", "fate-decides"}
+# Principles that fit a protective need; anything else is unrelated to what the person needs.
+PROTECTIVE_PRINCIPLES = {"eating": set(FRAMES["eating"][1])}
+# Danger is handled by the safety path; every other recognised frame (including a decision or distress)
+# is a problem the person described, and the recommendation must be backed by at least one of them.
+GENERIC_FRAMES = {"danger"}
 
 
 def check(a, lib, expect=None):
@@ -37,6 +50,28 @@ def check(a, lib, expect=None):
             fails.append(f"restricted principle shown to a distressed or under-18 person: {pid}")
         if u["danger"] and pid in RENUNCIATION_OR_FATALISM:
             fails.append(f"duty-framed principle shown in danger: {pid}")
+
+    # Protective needs (STATUS.md must-fix 2): concrete real-world guidance, and a fitting principle.
+    top = (a["recommendation"] or {}).get("principle")
+    for need in u.get("protective") or []:
+        if level != "crisis" and not a.get("protective"):
+            fails.append(f"protective need ({need}) without protective guidance")
+        if level not in ("crisis", "danger") and top and top not in PROTECTIVE_PRINCIPLES.get(need, ()):
+            fails.append(f"protective need ({need}) answered with an unrelated principle: {top}")
+
+    # The recommendation must address the problem the person describes (must-fix 3), when we can tell what it is.
+    described = [f for f in u.get("frames", []) if f not in GENERIC_FRAMES]
+    rec = a["recommendation"] or {}
+    if described and top and level not in ("crisis", "danger") and not set(rec.get("basis_frames", [])) & set(described):
+        fails.append(f"recommendation {top} does not address the problem described ({', '.join(described)})")
+
+    # Never put words in the person's mouth (must-fix 3): only quote what they actually wrote.
+    said = " ".join(str(rec.get(k, "")) for k in ("why_it_fits_you", "application"))
+    if "you describe yourself" in said:
+        fails.append("states an inferred fact as something the person said")
+    for quoted in re.findall(r"you said '([^']+)'", said):
+        if quoted.lower() not in a.get("question", "").lower().replace("’", "'"):
+            fails.append(f"attributes words the person did not write: '{quoted}'")
 
     helps = (safety or {}).get("help")
     if level in ("crisis", "danger") and not helps:

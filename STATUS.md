@@ -13,17 +13,21 @@ _Item 1 is from PROCESS.md v3 (approved by the owner 2026-10-02). Items 2-3 are 
      - recommends renunciation, leaving responsibilities or fatalism to someone flagged as in distress or under 18 (leaving abuse or danger is always supported)
    - Log gate results per test case, and report them as pass/fail across every case, separate from the 0-12 score. Never average a failure away.
    - Current evidence: heldout2 has 15 of 30 cases whose notes reject the top principle (e.g. V009, V026 still score 11/12).
+   - **Focused follow-up implemented 2026-10-02:** a failed answer now tries better-supported shortlist candidates through the unchanged gate, then clarifies or withholds. The focused paired set passes 14/14. Remaining spent-bank failures are listed in `tests/results/2026-10-02-guidance-batch.md` and still need separate fixes.
 2. **Protective guidance:** test the protective recommendation itself, not only the safety route. V028 (a 16-year-old restricting eating) got a grief principle; it needs trusted-adult and qualified-support guidance. Test varied wording.
+   - **Focused fix implemented 2026-10-02:** V028 and six varied/paired cases now give age-appropriate doctor and safe trusted-adult guidance; abuse or danger still takes the danger route. Focused gate result: 6/6 pass.
 3. **Answer the actual decision:** V001 (remarriage under in-laws' pressure) centres grief, not the decision; it also claims the user said "householder" when they did not. V024 (why bad things happen) got a success principle. Label inferred context as inference; add paired cases.
+   - **Focused fix implemented 2026-10-02:** V001, V024 and eight paired cases now pass; inferred life stage is explicitly labelled. This does not clear unrelated decision-quality failures in the spent banks.
 
 ## Next step
-Must-fix 1 follow-up: gate exists and is reported in tests (`engine/gate.py`; heldout2 15/30 fail). `answer()` now runs the gate and withholds failing answers (`tests/test_gate.py`). Next: regenerate with the next principle instead of withholding, then fix failing cases; add proposals version tests and cycle-log evidence. Then must-fix 2 and 3.
+Claude Code must review the Codex-built cycle in the newest HANDOFF note before new building. Then continue must-fix 1 in small batches: fix the remaining per-case recommendation failures recorded in `tests/results/2026-10-02-guidance-batch.md`, without weakening the product gate or treating spent-set reruns as fresh evidence. Before the next unbiased claim, obtain a new independently authored held-out set. Current regression gate results: paired 14/14 pass; situations 84/100; heldout 24/30; heldout2 17/30.
 The text queue is paused after the Katha (CLAUDE.md section 10). Do not add or annotate new texts.
 Work the plan instead: reviewed starter collection, then comparative testing (see `tests/README.md`
 and `PROGRESS.md`). Items that need a human reader of Sanskrit are listed at the end of `PROGRESS.md`.
 - After each change: `build_gita.py`, then `validate.py --allow-incomplete`.
 
 ## Done recently
+- Focused guidance batch: gate regeneration/clarification/withholding, V028 protective guidance, V001/V024 decision fixes, 14 paired cases, tagged before/after evidence, and exact-version proposal tests. Focused paired gate: 14/14 pass; broader spent-bank failures remain visible.
 - `data/perspectives/` started with action vs renunciation (draft); validator checks it. Next topics: grief and death, anger, duty vs family, success and ego. Then wire perspectives into the engine's recommend step.
 - Vidura Niti complete (557 verses), strict validation passing.
 - Chanakya Niti registration backed out (review cycle 1): it broke the queue pause. The source choice

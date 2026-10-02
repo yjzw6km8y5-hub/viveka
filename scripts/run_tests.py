@@ -1,6 +1,12 @@
 """Run the 100 test situations through the answer engine and score each answer.
 
-Usage: python scripts/run_tests.py [--mode internal|public] [--set situations|heldout]
+Usage: python scripts/run_tests.py [--mode internal|public] [--set situations|heldout|heldout2|paired]
+                                  [--tag before|after|...] [--no-fail]
+
+Each case is run twice: the raw engine answer (gate off) and the answer as shown to a person
+(gate on, with regeneration, clarification or withholding). Scores and the pass/fail gate are
+reported for what the person is shown; the raw top principle is kept for comparison.
+--tag writes results to tests/results/<tag>/ so first runs and reruns are never overwritten.
 
 The 'situations' set (100) was used while developing the engine; the 'heldout'
 set (30) is scored without tuning, to estimate real performance.
@@ -148,6 +154,28 @@ def score(case, a, lib):
     return s, notes
 
 
+def text_checks(case, a):
+    """Wording a case requires or forbids, checked on the full rendered answer (evaluation only)."""
+    t, out = render(a).lower(), []
+    for group in case["expect"].get("require_text", []):
+        if not any(x.lower() in t for x in group):
+            out.append("missing required wording: " + " / ".join(group))
+    for x in case["expect"].get("forbid_text", []):
+        if x.lower() in t:
+            out.append(f"forbidden wording: {x!r}")
+    return out
+
+
+def outcome(a):
+    if a.get("withheld"):
+        return "withheld"
+    if a.get("clarify"):
+        return "clarification asked"
+    if a.get("regenerated"):
+        return f"regenerated ({len(a.get('gate_log', []))} tries)"
+    return "passed first time"
+
+
 def main():
     sys.stdout.reconfigure(encoding="utf-8")
     mode = sys.argv[sys.argv.index("--mode") + 1] if "--mode" in sys.argv else "internal"
@@ -157,23 +185,28 @@ def main():
     results, totals, by_cat = [], defaultdict(int), defaultdict(lambda: defaultdict(int))
     counts = defaultdict(int)
     for case in cases:
-        a = answer(case["text"], case.get("profile"), mode=mode, gate=False)
+        raw = answer(case["text"], case.get("profile"), mode=mode, gate=False)
+        a = answer(case["text"], case.get("profile"), mode=mode)  # what the person is shown
         sc, notes = score(case, a, lib)
+        gate = gate_check(a, lib, case["expect"]) + text_checks(case, a)
         results.append({"id": case["id"], "category": case["category"], "text": case["text"],
                         "scores": sc, "total": sum(sc.values()), "notes": notes,
                         "top": a["recommendation"].get("principle") if a["recommendation"] else None,
-                        "safety": a["safety"]["level"] if a["safety"] else None,
-                        "questions": a["clarifying_questions"], "gate": gate_check(a, lib, case["expect"]),
-                        "answer": a})
+                        "raw_top": raw["recommendation"].get("principle") if raw["recommendation"] else None,
+                        "outcome": outcome(a), "safety": a["safety"]["level"] if a["safety"] else None,
+                        "questions": a["clarifying_questions"], "gate": gate,
+                        "rendered": render(a), "answer": a})
         counts[case["category"]] += 1
         for d in DIMS:
             totals[d] += sc[d]
             by_cat[case["category"]][d] += sc[d]
     n = len(cases)
-    OUT.mkdir(parents=True, exist_ok=True)
-    (OUT / f"{test_set}.json").write_text(json.dumps(results, ensure_ascii=False, indent=1), encoding="utf-8")
+    tag = sys.argv[sys.argv.index("--tag") + 1] if "--tag" in sys.argv else None
+    out_dir = OUT / tag if tag else OUT
+    out_dir.mkdir(parents=True, exist_ok=True)
+    (out_dir / f"{test_set}.json").write_text(json.dumps(results, ensure_ascii=False, indent=1), encoding="utf-8")
 
-    lines = [f"# Test results: {test_set} ({mode} mode)", "",
+    lines = [f"# Test results: {test_set} ({mode} mode)" + (f", tag {tag}" if tag else ""), "",
              f"{n} situations. Automatic proxy scores, 0-2 per dimension (max 12 per answer).", "",
              "| Dimension | Mean (0-2) |", "|---|---:|"]
     lines += [f"| {d} | {totals[d] / n:.2f} |" for d in DIMS]
@@ -189,12 +222,16 @@ def main():
     lines += ["", f"Forbidden material used: {len(forb)}"]
     lines += [f"- {r['id']}: {'; '.join(x for x in r['notes'] if 'forbid' in x)}" for r in forb]
     failed = [r for r in results if r["gate"]]
-    lines += ["", f"## Pass/fail gate (separate from the 0-12 score): {n - len(failed)} pass, {len(failed)} fail of {n}"]
-    lines += [f"- {r['id']} (score {r['total']}/12): {'; '.join(r['gate'])}" for r in failed]
+    lines += ["", f"## Pass/fail gate (separate from the 0-12 score): {n - len(failed)} pass, {len(failed)} fail of {n}", "",
+              "Judged on what the person is shown. A failure is never averaged into the score.", "",
+              "| Case | Gate | Outcome | Shown top | Raw top | Score | Failures |", "|---|---|---|---|---|---:|---|"]
+    lines += [f"| {r['id']} | {'FAIL' if r['gate'] else 'pass'} | {r['outcome']} | {r['top']} | {r['raw_top']} | "
+              f"{r['total']} | {'; '.join(r['gate']).replace('|', '/')} |" for r in results]
     weak = sorted(results, key=lambda r: r["total"])[:15]
     lines += ["", "Lowest-scoring answers:"]
-    lines += [f"- {r['id']} ({r['total']}/12, top: {r['top']}): {'; '.join(r['notes'])}" for r in weak]
-    (OUT / f"{test_set}_summary.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    lines += [(f"- {r['id']} ({r['total']}/12, top: {r['top']}): {'; '.join(r['notes'])}"
+               if r["notes"] else f"- {r['id']} ({r['total']}/12, top: {r['top']})") for r in weak]
+    (out_dir / f"{test_set}_summary.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
     print("\n".join(lines))
     if failed and "--no-fail" not in sys.argv:
         sys.exit(1)
