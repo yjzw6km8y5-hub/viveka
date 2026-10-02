@@ -103,6 +103,60 @@ def split_units(lines, start=None, stop=None):
     return units
 
 
+LOOSE_END = re.compile(r"॥\s*([०-९0-9]+)?\s*(?:॥)?\s*$")
+
+
+def split_units_loose(lines, start=None, stop=None):
+    """Like split_units, but tolerant of a missing closing ॥ ('॥ ३') or a missing
+    number ('… आस ॥'): an unnumbered unit takes the previous number + 1. Any
+    explicit number that breaks the sequence stops the build for inspection."""
+    if start:
+        idx = next(i for i, ln in enumerate(lines) if re.search(start, ln))
+        lines = lines[idx + 1:]
+    if stop:
+        idx = next((i for i, ln in enumerate(lines) if re.search(stop, ln)), len(lines))
+        lines = lines[:idx]
+    units, current, prev = [], [], 0
+    for ln in lines:
+        current.append(ln)
+        m = LOOSE_END.search(ln)
+        if m and "॥" in ln:
+            n = int(m.group(1).translate(DIGITS)) if m.group(1) else prev + 1
+            if n != prev + 1:
+                raise ValueError(f"numbering jumps from {prev} to {n} at: {ln}")
+            units.append(([n], current))
+            current, prev = [], n
+    if current:
+        raise ValueError(f"unterminated unit: {current}")
+    return units
+
+
+def bhashya_labelled(text, label_re, comment_re=r"ए\.?\d[\d.\-]*", section_break=None):
+    """Commentary pages that label each mantra ('1.2.3') and its comment ('ए.1.2.3').
+
+    Returns {(a, b, c): comment}. Labels repeated by a typo take previous + 1.
+    Mantras without their own comment share the next comment (joint comment).
+    """
+    segs, _ = labelled_segments(text, label_re)
+    out, prev, pending = {}, None, []
+    for label, body in segs:
+        ref = tuple(number(label))
+        if prev and ref == prev:
+            ref = ref[:-1] + (ref[-1] + 1,)
+        prev = ref
+        pending.append(ref)
+        parts = re.split(rf"^{comment_re}\s*$", body, maxsplit=1, flags=re.M)
+        if len(parts) < 2:
+            continue
+        comment = parts[1]
+        if section_break:
+            comment = re.split(section_break, comment, flags=re.M)[0]
+        for r in pending:
+            out[r] = comment.strip()
+        pending = []
+    return out
+
+
 # ---------------------------------------------------------------- parsers
 # Each parser returns a list of (ref, lines, page_snapshot).
 
@@ -112,7 +166,7 @@ def parse_isha(raw):
     return [(n, lines, page) for n, lines in units]
 
 
-def bhashya_isha(raw, refs):
+def bhashya_isha(raw, records):
     """Śaṅkara's comment on mantra N follows the marker 'शा.भा.N'."""
     text = "\n".join(clean_lines(raw["bhashya"][0]["wikitext"]))
     parts = re.split(r"^शा\.भा\.\s*([०-९]+)\s*$", text, flags=re.M)
@@ -164,7 +218,7 @@ def labelled_segments(text, label_re):
     return list(zip(parts[1::2], parts[2::2])), parts[0]
 
 
-def bhashya_kena(raw, refs):
+def bhashya_kena(raw, records):
     """Śaṅkara's Kena bhāṣya labels mantra text '1.k.m' and commentary 'ए.1.k.m'.
 
     Its first khaṇḍa has 8 mantras where our text has 9: its 1.1.3 covers our
@@ -203,9 +257,64 @@ def bhashya_kena(raw, refs):
     return out
 
 
+def parse_katha(raw):
+    """Six pages, one per vallī, in reading order (adhyāya 1: vallīs 1-3, adhyāya 2: 1-3)."""
+    out = []
+    for i, page in enumerate(raw["text"]):
+        adhyaya, valli = divmod(i, 3)
+        lines = clean_lines(page["wikitext"])
+        start = r"शान्तिः शान्तिः शान्तिः" if i == 0 else None
+        # The last page closes with the peace chant, numbered 2.3.19 by the source and
+        # by Śaṅkara, who comments on it; it is kept. The repeat after the colophon is not.
+        stop = r"^ॐ शान्तिः" if i == 5 else r"^(?:ॐ )?सह नाववतु|इति काठकोपनिषदि"
+        units = split_units_loose(lines, start=start, stop=stop)
+        out += [([adhyaya + 1, valli + 1] + n, ulines, page) for n, ulines in units]
+    return out
+
+
+def recover_unlabelled(found, records, section_break=None):
+    """Where the commentary page forgot a mantra's label, that mantra's text and
+    comment sit inside the previous mantra's comment. Split them out by finding
+    a pair of the mantra's opening words (the page sometimes misspells a word,
+    e.g. ब्राहृ for ब्रह्म, so several pairs are tried); the comment follows the
+    mantra's closing '।।N।।'."""
+    for prev, rec in zip(records, records[1:]):
+        ref, pref = tuple(rec["ref"]), tuple(prev["ref"])
+        if ref in found or pref not in found:
+            continue
+        words = [w.strip("।॥") for w in rec["devanagari"].split()]
+        body = found[pref]
+        for k in range(min(4, len(words) - 1)):
+            i = body.find(f"{words[k]} {words[k + 1]}")
+            if i >= 0:
+                break
+        else:
+            continue
+        i = body.rfind("\n", 0, i) + 1  # start of the line holding the mantra
+        own = body[i:]
+        m = re.search(r"।।\s*\d+\s*।।", own)
+        if not m:
+            continue
+        comment = re.sub(r"^\s*ए\.?[\d.\-]+\s*\n", "", own[m.end():].lstrip())
+        if section_break:
+            comment = re.split(section_break, comment, flags=re.M)[0]
+        found[pref] = re.sub(r"\n\s*ए\.?[\d.\-]+\s*$", "", body[:i].rstrip())
+        found[ref] = comment.strip()
+    return found
+
+
+def bhashya_katha(raw, records):
+    text = "\n".join(clean_lines(raw["bhashya"][0]["wikitext"]))
+    brk = r"^\S+ (?:अध्याय|वल्ली)(?:\s.*)?$"  # no \b: vowel signs are not \w
+    found = bhashya_labelled(text, r"\d\.\d\.\d+", section_break=brk)
+    found = recover_unlabelled(found, records, section_break=brk)
+    return {r: {"advaita": c} for r, c in found.items()}
+
+
 PARSERS = {
     "isha_upanishad": (parse_isha, bhashya_isha),
     "kena_upanishad": (parse_kena, bhashya_kena),
+    "katha_upanishad": (parse_katha, bhashya_katha),
 }
 
 
@@ -244,7 +353,7 @@ def build(text_id):
 
     commentaries = {}
     if parse_bhashya and raw.get("bhashya"):
-        for ref, by_school in parse_bhashya(raw, [r["ref"] for r in records]).items():
+        for ref, by_school in parse_bhashya(raw, records).items():
             uid = prefix + "." + ".".join(map(str, ref))
             if uid not in seen:
                 raise SystemExit(f"{text_id}: commentary for unknown unit {uid}")

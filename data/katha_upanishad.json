@@ -1,0 +1,4074 @@
+[
+  {
+    "id": "KaU.1.1.1",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      1
+    ],
+    "speaker": "narrator",
+    "context": "The Upanishad opens with a story: a father performing a sacrifice gives away everything he owns, while his young son watches.",
+    "devanagari": "ॐ उशन् ह वै वाजश्रवसः सर्ववेदसं ददौ ।\nतस्य ह नचिकेता नाम पुत्र आस ॥",
+    "iast": "oṃ uśan ha vai vājaśravasaḥ sarvavedasaṃ dadau |\ntasya ha naciketā nāma putra āsa ||",
+    "english": "Om. Wanting its reward, the son of Vajashravas, it is told, gave away all he owned. He had a son named Nachiketas.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The story serves to praise the knowledge that follows. Vājaśravasa performed the Viśvajit sacrifice, in which one gives away everything, wanting its reward."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.2",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      2
+    ],
+    "speaker": "narrator",
+    "context": "As the cows are led away as gifts for the priests, faith stirs in the boy Nachiketas.",
+    "devanagari": "तँ ह कुमारँ सन्तं दक्षिणासु\nनीयमानासु श्रद्धाविवेश सोऽमन्यत ॥",
+    "iast": "tam̐ ha kumāram̐ santaṃ dakṣiṇāsu\nnīyamānāsu śraddhāviveśa so'manyata ||",
+    "english": "Though he was only a boy, faith entered him as the gifts were being led away, and he thought:",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Faith, a sense of what is right, prompted by concern for his father's welfare, entered the young boy as the cows were being taken to the priests as their fee."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.3",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      3
+    ],
+    "speaker": "Nachiketas",
+    "context": "Nachiketas sees that the cows his father gives away are old and useless, and worries about the result for his father.",
+    "devanagari": "पीतोदका जग्धतृणा दुग्धदोहा निरिन्द्रियाः ।\nअनन्दा नाम ते लोकास्तान् स गच्छति ता ददत् ॥ ३ ॥",
+    "iast": "pītodakā jagdhatṛṇā dugdhadohā nirindriyāḥ |\nanandā nāma te lokāstān sa gacchati tā dadat || 3 ||",
+    "english": "'They have drunk their water, eaten their grass, given their milk, and are barren. Joyless are the worlds he goes to who gives such cows.'",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The cows given as the fee are old and useless; the sacrificer who gives them goes to the worlds called 'joyless'."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.4",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      4
+    ],
+    "speaker": "narrator",
+    "context": "Wanting to save his father's sacrifice, Nachiketas offers himself; his father, angered, says he gives him to Death.",
+    "devanagari": "स होवाच पितरं तत कस्मै मां दास्यसीति ।\nद्वितीयं तृतीयं तँ होवाच मृत्यवे त्वा ददामीति ॥",
+    "iast": "sa hovāca pitaraṃ tata kasmai māṃ dāsyasīti |\ndvitīyaṃ tṛtīyaṃ tam̐ hovāca mṛtyave tvā dadāmīti ||",
+    "english": "He said to his father, 'Father, to whom will you give me?' He said it a second time, and a third. His father said to him, 'To Death I give you!'",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Thinking a son should prevent the bad result of his father's flawed sacrifice, even by giving himself, Nachiketas asked. Ignored, he asked again; his father, angry that this was not how a boy behaves, said, 'I give you to Death.'"
+      }
+    ],
+    "safety_flags": [
+      "death"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.5",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      5
+    ],
+    "speaker": "Nachiketas",
+    "context": "Alone, Nachiketas reflects on his father's angry words and wonders what Death could want with him.",
+    "devanagari": "बहूनामेमि प्रथमो बहूनामेमि मध्यमः ।\nकिँ स्विद्यमस्य कर्तव्यं यन्मयाऽद्य करिष्यति ॥",
+    "iast": "bahūnāmemi prathamo bahūnāmemi madhyamaḥ |\nkim̐ svidyamasya kartavyaṃ yanmayā'dya kariṣyati ||",
+    "english": "Among many I go as the first; among many I go as one of the middle. What work does Yama have that he will do through me today?",
+    "situations": [
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "student"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Among many disciples or sons I rank first or middle, never last; my father spoke in anger, without purpose. Still, so that his word is not false, Nachiketas speaks to his father, who now grieves over what he said."
+      }
+    ],
+    "safety_flags": [
+      "death",
+      "distress_gentle"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.6",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      6
+    ],
+    "speaker": "Nachiketas",
+    "context": "Nachiketas urges his grieving father to keep his word as good people always have, since mortal life passes like a crop.",
+    "devanagari": "अनुपश्य यथा पूर्वे प्रतिपश्य तथाऽपरे ।\nसस्यमिव मर्त्यः पच्यते सस्यमिवाजायते पुनः ॥",
+    "iast": "anupaśya yathā pūrve pratipaśya tathā'pare |\nsasyamiva martyaḥ pacyate sasyamivājāyate punaḥ ||",
+    "english": "Look back at how those before us acted; look around at how others act now. A mortal ripens like grain, and like grain is born again.",
+    "situations": [
+      "ageing_death_impermanence"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Consider how your forefathers acted and how good people act now: none made their word false, and no one becomes ageless by breaking it. Mortals ripen and die like grain and are born again, so keep your truth and send me to Yama. The father sent him, and Yama was away for three nights."
+      }
+    ],
+    "safety_flags": [
+      "death",
+      "under18_hold"
+    ],
+    "cross_refs": [
+      "BG.2.27"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.7",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      7
+    ],
+    "speaker": "Yama's household",
+    "context": "Nachiketas waits three nights at Death's house; when Yama returns, his household urges him to honour the guest.",
+    "devanagari": "वैश्वानरः प्रविशत्यतिथिर्ब्राह्मणो गृहान् ।\nतस्यैताँ शान्तिं कुर्वन्ति हर वैवस्वतोदकम् ॥",
+    "iast": "vaiśvānaraḥ praviśatyatithirbrāhmaṇo gṛhān |\ntasyaitām̐ śāntiṃ kurvanti hara vaivasvatodakam ||",
+    "english": "A brahmin guest enters houses like fire itself. People make this offering of peace to him: bring water, son of Vivasvat!",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "A brahmin guest enters as the fire Vaiśvānara, as if burning; good people calm him with water for the feet and a seat. So bring water, Yama, for neglecting a guest brings harm."
+      }
+    ],
+    "safety_flags": [
+      "caste_gender"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.8",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      8
+    ],
+    "speaker": "Yama's household",
+    "context": "Yama's household warns of what is lost when a guest goes unfed.",
+    "devanagari": "आशाप्रतीक्षे संगतँ सूनृतां\nचेष्टापूर्ते पुत्रपशूँश्च सर्वान् ।\nएतद्वृङ्क्ते पुरुषस्याल्पमेधसो\nयस्यानश्नन्वसति ब्राह्मणो गृहे ॥",
+    "iast": "āśāpratīkṣe saṃgatam̐ sūnṛtāṃ\nceṣṭāpūrte putrapaśūm̐śca sarvān |\netadvṛṅkte puruṣasyālpamedhaso\nyasyānaśnanvasati brāhmaṇo gṛhe ||",
+    "english": "Hopes and expectations, the fruit of good company, kind speech, sacrifices and good works, sons and cattle: all these are taken from the person of little understanding in whose house a brahmin stays without food.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "All these are destroyed for one who lets a brahmin guest stay unfed; so a guest must never be neglected, in any circumstance."
+      }
+    ],
+    "safety_flags": [
+      "caste_gender"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.9",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      9
+    ],
+    "speaker": "Yama",
+    "context": "Yama honours Nachiketas, who waited three nights without food, and offers him three boons.",
+    "devanagari": "तिस्रो रात्रीर्यदवात्सीर्गृहे मे-\nऽनश्नन् ब्रह्मन्नतिथिर्नमस्यः ।\nनमस्तेऽस्तु ब्रह्मन् स्वस्ति मेऽस्तु\nतस्मात्प्रति त्रीन्वरान्वृणीष्व ॥",
+    "iast": "tisro rātrīryadavātsīrgṛhe me-\n'naśnan brahmannatithirnamasyaḥ |\nnamaste'stu brahman svasti me'stu\ntasmātprati trīnvarānvṛṇīṣva ||",
+    "english": "Brahmin, since you, a guest worthy of honour, have stayed three nights in my house without eating, homage to you, brahmin, and may all go well for me. So choose three boons in return.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "To make amends for the fault of a guest's fasting in his house, and to please Nachiketas further, Yama offers one boon for each night he waited."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.10",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      10
+    ],
+    "speaker": "Nachiketas",
+    "context": "For his first boon, Nachiketas asks that his father be at peace, free of anger, and welcome him home.",
+    "devanagari": "शान्तसंकल्पः सुमना यथा स्याद्\nवीतमन्युर्गौतमो माऽभि मृत्यो ।\nत्वत्प्रसृष्टम् माऽभिवदेत्प्रतीत\nएतत् त्रयाणां प्रथमं वरं वृणे ॥",
+    "iast": "śāntasaṃkalpaḥ sumanā yathā syād\nvītamanyurgautamo mā'bhi mṛtyo |\ntvatprasṛṣṭam mā'bhivadetpratīta\netat trayāṇāṃ prathamaṃ varaṃ vṛṇe ||",
+    "english": "That Gautama, my father, may be calm in mind, cheerful, and free of anger towards me, O Death; that he may recognise and greet me when you send me back: this I choose as the first of the three boons.",
+    "situations": [
+      "relationships_forgiveness",
+      "anger_resentment"
+    ],
+    "life_stages": [
+      "student",
+      "householder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "That my father stop worrying about what has become of me, be cheerful and free of anger, and recognise me as his son returned: the first boon is my father's contentment."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.11",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      11
+    ],
+    "speaker": "Yama",
+    "context": "Yama grants the first boon: the father will welcome his son back, his anger gone.",
+    "devanagari": "यथा पुरस्ताद् भविता प्रतीत\nऔद्दालकिरारुणिर्मत्प्रसृष्टः ।\nसुखँ रात्रीः शयिता वीतमन्युः\nत्वां ददृशिवान्मृत्युमुखात् प्रमुक्तम् ॥",
+    "iast": "yathā purastād bhavitā pratīta\nauddālakirāruṇirmatprasṛṣṭaḥ |\nsukham̐ rātrīḥ śayitā vītamanyuḥ\ntvāṃ dadṛśivānmṛtyumukhāt pramuktam ||",
+    "english": "Auddalaki Aruni, released by me, will recognise you and be as he was before. Seeing you freed from the jaws of death, he will sleep peacefully at night, his anger gone.",
+    "situations": [
+      "relationships_forgiveness",
+      "anger_resentment"
+    ],
+    "life_stages": [
+      "student",
+      "householder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Your father will be as affectionate towards you as before; with my permission he will sleep happily, free of anger, having seen you freed from death."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.12",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      12
+    ],
+    "speaker": "Nachiketas",
+    "context": "Nachiketas describes the heaven-world, free of fear, age and sorrow, before asking his second boon.",
+    "devanagari": "स्वर्गे लोके न भयं किंचनास्ति\nन तत्र त्वं न जरया बिभेति ।\nउभे तीर्त्वाऽशनायापिपासे\nशोकातिगो मोदते स्वर्गलोके ॥",
+    "iast": "svarge loke na bhayaṃ kiṃcanāsti\nna tatra tvaṃ na jarayā bibheti |\nubhe tīrtvā'śanāyāpipāse\nśokātigo modate svargaloke ||",
+    "english": "In the heaven-world there is no fear at all; you are not there, and no one fears old age. Having crossed beyond both hunger and thirst, free of sorrow, one rejoices in the heaven-world.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "In heaven there is no fear from disease or the like, and Death does not strike suddenly as here; beyond hunger, thirst and sorrow, one rejoices."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.13",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      13
+    ],
+    "speaker": "Nachiketas",
+    "context": "For his second boon, Nachiketas asks Death to teach him the sacred fire that leads to heaven.",
+    "devanagari": "स त्वमग्निँ स्वर्ग्यमध्येषि मृत्यो\nप्रब्रूहि त्वँ श्रद्दधानाय मह्यम् ।\nस्वर्गलोका अमृतत्वं भजन्त\nएतद् द्वितीयेन वृणे वरेण ॥",
+    "iast": "sa tvamagnim̐ svargyamadhyeṣi mṛtyo\nprabrūhi tvam̐ śraddadhānāya mahyam |\nsvargalokā amṛtatvaṃ bhajanta\netad dvitīyena vṛṇe vareṇa ||",
+    "english": "You know, Death, the fire that leads to heaven; explain it to me, for I have faith. Those who reach heaven gain immortality. This I choose as my second boon.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Those who build this fire reach heaven and gain 'immortality', meaning the state of the gods; Nachiketas asks for knowledge of the fire as his second boon."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.14",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      14
+    ],
+    "speaker": "Yama",
+    "context": "Death agrees to teach the fire that leads to heaven.",
+    "devanagari": "प्र ते ब्रवीमि तदु मे निबोध\nस्वर्ग्यमग्निं नचिकेतः प्रजानन् ।\nअनन्तलोकाप्तिमथो प्रतिष्ठां\nविद्धि त्वमेतं निहितं गुहायाम् ॥",
+    "iast": "pra te bravīmi tadu me nibodha\nsvargyamagniṃ naciketaḥ prajānan |\nanantalokāptimatho pratiṣṭhāṃ\nviddhi tvametaṃ nihitaṃ guhāyām ||",
+    "english": "I will explain it to you; learn it from me, Nachiketas, for I know the fire that leads to heaven. Know this fire, the way to the endless world and its foundation, as hidden in the secret place.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The fire is the means to heaven and also the support of the world as Virāj; 'hidden in the secret place' means set in the intellect of the wise."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.15",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      15
+    ],
+    "speaker": "narrator",
+    "context": "The Upanishad reports that Death taught the fire ritual in detail and Nachiketas repeated it back correctly.",
+    "devanagari": "लोकादिमग्निं तमुवाच तस्मै\nया इष्टका यावतीर्वा यथा वा ।\nस चापि तत्प्रत्यवदद्यथोक्तं\nअथास्य मृत्युः पुनरेवाह तुष्टः ॥",
+    "iast": "lokādimagniṃ tamuvāca tasmai\nyā iṣṭakā yāvatīrvā yathā vā |\nsa cāpi tatpratyavadadyathoktaṃ\nathāsya mṛtyuḥ punarevāha tuṣṭaḥ ||",
+    "english": "He told him of that fire, the beginning of the worlds: what bricks, how many, and how they are laid. And Nachiketas repeated it back just as it was told. Then Death, pleased, spoke again.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "These are the Upanishad's own words. Death taught the fire, the first embodied being, with the bricks, their number and arrangement; pleased with the repetition, he wished to give a boon beyond the three."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.16",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      16
+    ],
+    "speaker": "Yama",
+    "context": "Pleased with his student, Death gives Nachiketas an extra boon: the fire will bear his name.",
+    "devanagari": "तमब्रवीत् प्रीयमाणो महात्मा\nवरं तवेहाद्य ददामि भूयः ।\nतवैव नाम्ना भविताऽयमग्निः\nसृङ्कां चेमामनेकरूपां गृहाण ॥",
+    "iast": "tamabravīt prīyamāṇo mahātmā\nvaraṃ tavehādya dadāmi bhūyaḥ |\ntavaiva nāmnā bhavitā'yamagniḥ\nsṛṅkāṃ cemāmanekarūpāṃ gṛhāṇa ||",
+    "english": "The great-souled one, delighted, said to him: 'I give you another boon here and now: this fire shall be known by your name. And take this many-coloured chain.'",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Seeing the student's fitness, Death gives a fourth boon: the fire named after Nachiketas, and a precious, many-coloured necklace; or, alternatively, the path of ritual action with its many results."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.17",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      17
+    ],
+    "speaker": "Yama",
+    "context": "Death praises the fire ritual and the peace it brings to one who performs it fully.",
+    "devanagari": "त्रिणाचिकेतस्त्रिभिरेत्य सन्धिं\nत्रिकर्मकृत्तरति जन्ममृत्यू ।\nब्रह्मजज्ञं देवमीड्यं विदित्वा\nनिचाय्येमाँ शान्तिमत्यन्तमेति ॥",
+    "iast": "triṇāciketastribhiretya sandhiṃ\ntrikarmakṛttarati janmamṛtyū |\nbrahmajajñaṃ devamīḍyaṃ viditvā\nnicāyyemām̐ śāntimatyantameti ||",
+    "english": "One who has kindled the Nachiketa fire three times, joined with the three, doing the three works, crosses over birth and death. Knowing the god born of Brahman, all-knowing and worthy of praise, and realising him, one reaches this peace for ever.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "'The three' are mother, father and teacher, or alternatively scripture, tradition and the virtuous; 'the three works' are sacrifice, study and giving. Knowing Virāj, born of Hiraṇyagarbha, one reaches the state of Virāj by combining ritual and meditation."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.18",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      18
+    ],
+    "speaker": "Yama",
+    "context": "Death concludes his praise of the fire ritual and its reward in heaven.",
+    "devanagari": "त्रिणाचिकेतस्त्रयमेतद्विदित्वा\nय एवं विद्वाँश्चिनुते नाचिकेतम् ।\nस मृत्युपाशान् पुरतः प्रणोद्य\nशोकातिगो मोदते स्वर्गलोके ॥",
+    "iast": "triṇāciketastrayametadviditvā\nya evaṃ vidvām̐ścinute nāciketam |\nsa mṛtyupāśān purataḥ praṇodya\nśokātigo modate svargaloke ||",
+    "english": "One who knows these three and, knowing this, builds the Nachiketa fire, casts off the nooses of death beforehand and, beyond sorrow, rejoices in the heaven-world.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The 'nooses of death' are wrongdoing, ignorance, passion and hatred; such a person casts them off even before the body falls and rejoices in the world of Virāj."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.19",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      19
+    ],
+    "speaker": "Yama",
+    "context": "Death closes the second boon and invites Nachiketas to choose his third.",
+    "devanagari": "एष तेऽग्निर्नचिकेतः स्वर्ग्यो\nयमवृणीथा द्वितीयेन वरेण ।\nएतमग्निं तवैव प्रवक्ष्यन्ति जनासः\nतृतीयं वरं नचिकेतो वृणीष्व ॥",
+    "iast": "eṣa te'gnirnaciketaḥ svargyo\nyamavṛṇīthā dvitīyena vareṇa |\netamagniṃ tavaiva pravakṣyanti janāsaḥ\ntṛtīyaṃ varaṃ naciketo vṛṇīṣva ||",
+    "english": "This is your fire that leads to heaven, Nachiketas, which you chose with your second boon. People will call this fire by your name. Choose your third boon, Nachiketas.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Until the third boon is given, Death remains in debt. What has been taught so far concerns ritual; what follows teaches knowledge of the Self, which alone removes the ignorance at the root of rebirth, and the coming temptations test Nachiketas's detachment."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.20",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      20
+    ],
+    "speaker": "Nachiketas",
+    "context": "For his third boon, Nachiketas asks the great question: does a person still exist after death?",
+    "devanagari": "येयं प्रेते विचिकित्सा मनुष्ये-\nऽस्तीत्येके नायमस्तीति चैके ।\nएतद्विद्यामनुशिष्टस्त्वयाऽहं\nवराणामेष वरस्तृतीयः ॥",
+    "iast": "yeyaṃ prete vicikitsā manuṣye-\n'stītyeke nāyamastīti caike |\netadvidyāmanuśiṣṭastvayā'haṃ\nvarāṇāmeṣa varastṛtīyaḥ ||",
+    "english": "There is this doubt about a person who has died: some say 'he is', others say 'he is not'. Taught by you, I would know this. This is the third of my boons.",
+    "situations": [
+      "ageing_death_impermanence",
+      "grief_loss",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Some say there is a Self, distinct from body, senses, mind and intellect, that goes on to another body; others deny it. Neither perception nor inference settles the question, and the highest human good depends on knowing the answer."
+      }
+    ],
+    "safety_flags": [
+      "death"
+    ],
+    "cross_refs": [
+      "BG.2.20"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.21",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      21
+    ],
+    "speaker": "Yama",
+    "context": "To test Nachiketas, Death says the question is too subtle and asks him to choose another boon.",
+    "devanagari": "देवैरत्रापि विचिकित्सितं पुरा\nन हि सुविज्ञेयमणुरेष धर्मः ।\nअन्यं वरं नचिकेतो वृणीष्व\nमा मोपरोत्सीरति मा सृजैनम् ॥",
+    "iast": "devairatrāpi vicikitsitaṃ purā\nna hi suvijñeyamaṇureṣa dharmaḥ |\nanyaṃ varaṃ naciketo vṛṇīṣva\nmā moparotsīrati mā sṛjainam ||",
+    "english": "Even the gods of old had doubts about this; it is not easy to understand, this subtle matter. Choose another boon, Nachiketas. Do not press me; release me from this one.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "To test whether Nachiketas is fit for self-knowledge, Death says the Self is subtle and hard to know even when heard; 'do not press me' as a creditor presses a debtor."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.22",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      22
+    ],
+    "speaker": "Nachiketas",
+    "context": "Nachiketas refuses to give up his question: no teacher equals Death, and no boon equals this one.",
+    "devanagari": "देवैरत्रापि विचिकित्सितं किल\nत्वं च मृत्यो यन्न सुज्ञेयमात्थ ।\nवक्ता चास्य त्वादृगन्यो न लभ्यो\nनान्यो वरस्तुल्य एतस्य कश्चित् ॥",
+    "iast": "devairatrāpi vicikitsitaṃ kila\ntvaṃ ca mṛtyo yanna sujñeyamāttha |\nvaktā cāsya tvādṛganyo na labhyo\nnānyo varastulya etasya kaścit ||",
+    "english": "Even the gods had doubts about this, you say, Death, and it is not easy to understand; yet no other teacher like you can be found, and no other boon equals this one.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Since even the wise find it hard, no teacher equal to you can be found; this boon leads to the highest good, so no other boon, all of which bring impermanent results, can equal it."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.23",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      23
+    ],
+    "speaker": "Yama",
+    "context": "Death tries to tempt Nachiketas away from his question with descendants, wealth, land and long life (1.1.23-1.1.25).",
+    "devanagari": "शतायुषः पुत्रपौत्रान्वृणीष्वा\nबहून्पशून् हस्तिहिरण्यमश्वान् ।\nभूमेर्महदायतनं वृणीष्व\nस्वयं च जीव शरदो यावदिच्छसि ॥",
+    "iast": "śatāyuṣaḥ putrapautrānvṛṇīṣvā\nbahūnpaśūn hastihiraṇyamaśvān |\nbhūmermahadāyatanaṃ vṛṇīṣva\nsvayaṃ ca jīva śarado yāvadicchasi ||",
+    "english": "Choose sons and grandsons who will live a hundred years, many cattle, elephants, gold and horses. Choose a great expanse of land, and live yourself as many autumns as you wish.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Death offers long-lived descendants, cattle, elephants, gold, horses and a kingdom, and, since all these would be useless with a short life, as long a life as Nachiketas wants."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.24",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      24
+    ],
+    "speaker": "Yama",
+    "context": "Death continues to tempt Nachiketas with wealth, long life, kingship and every pleasure.",
+    "devanagari": "एतत्तुल्यं यदि मन्यसे वरं\nवृणीष्व वित्तं चिरजीविकां च ।\nमहाभूमौ नचिकेतस्त्वमेधि\nकामानां त्वा कामभाजं करोमि ॥",
+    "iast": "etattulyaṃ yadi manyase varaṃ\nvṛṇīṣva vittaṃ cirajīvikāṃ ca |\nmahābhūmau naciketastvamedhi\nkāmānāṃ tvā kāmabhājaṃ karomi ||",
+    "english": "If you think of any boon equal to this, choose it: wealth and long life. Be a ruler on the wide earth, Nachiketas. I will make you one who enjoys all desires.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Choose wealth with long life, be king of a great land; Death, a god whose will comes true, offers to make Nachiketas enjoy all desires, divine and human."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.25",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      25
+    ],
+    "speaker": "Yama",
+    "context": "Death's final temptation offers heavenly women and every rare pleasure, if only Nachiketas will stop asking about death.",
+    "devanagari": "ये ये कामा दुर्लभा मर्त्यलोके\nसर्वान् कामाँश्छन्दतः प्रार्थयस्व ।\nइमा रामाः सरथाः सतूर्या\nन हीदृशा लम्भनीया मनुष्यैः ।\nआभिर्मत्प्रत्ताभिः परिचारयस्व\nनचिकेतो मरणं माऽनुप्राक्षीः ॥",
+    "iast": "ye ye kāmā durlabhā martyaloke\nsarvān kāmām̐śchandataḥ prārthayasva |\nimā rāmāḥ sarathāḥ satūryā\nna hīdṛśā lambhanīyā manuṣyaiḥ |\nābhirmatprattābhiḥ paricārayasva\nnaciketo maraṇaṃ mā'nuprākṣīḥ ||",
+    "english": "Whatever desires are hard to win in the world of mortals, ask for them all as you wish: these lovely women with chariots and music, such as no mortal can obtain. Be served by them, my gift to you. Nachiketas, do not ask about death.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The women are heavenly nymphs, who cannot be won without the favour of gods like Death. 'Do not ask about death' means: do not ask whether one exists after death, a question as pointless as examining a crow's teeth."
+      }
+    ],
+    "safety_flags": [
+      "death",
+      "caste_gender"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.26",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      26
+    ],
+    "speaker": "Nachiketas",
+    "context": "Unmoved, Nachiketas replies that all these pleasures are fleeting and wear out the senses.",
+    "devanagari": "श्वोभावा मर्त्यस्य यदन्तकैतत्\nसर्वेंद्रियाणां जरयंति तेजः ।\nअपि सर्वं जीवितमल्पमेव\nतवैव वाहास्तव नृत्यगीते ॥",
+    "iast": "śvobhāvā martyasya yadantakaitat\nsarveṃdriyāṇāṃ jarayaṃti tejaḥ |\napi sarvaṃ jīvitamalpameva\ntavaiva vāhāstava nṛtyagīte ||",
+    "english": "These last only till tomorrow, Death, and they wear away the vigour of all a mortal's senses. Even a whole life is short. Keep your chariots; keep your dance and song.",
+    "situations": [
+      "temptation_self_control",
+      "success_wealth",
+      "ageing_death_impermanence"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "kama",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The pleasures offered may not last even until tomorrow, and they drain the senses' vigour along with merit, wisdom and fame. Even the life of Brahmā is short, let alone ours."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.27",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      27
+    ],
+    "speaker": "Nachiketas",
+    "context": "Nachiketas says wealth never satisfies anyone, and he wants only the answer to his question.",
+    "devanagari": "न वित्तेन तर्पणीयो मनुष्यो\nलप्स्यामहे वित्तमद्राक्ष्म चेत्त्वा ।\nजीविष्यामो यावदीशिष्यसि त्वं\nवरस्तु मे वरणीयः स एव ॥",
+    "iast": "na vittena tarpaṇīyo manuṣyo\nlapsyāmahe vittamadrākṣma cettvā |\njīviṣyāmo yāvadīśiṣyasi tvaṃ\nvarastu me varaṇīyaḥ sa eva ||",
+    "english": "No one is satisfied by wealth. We shall have wealth if we have seen you; we shall live as long as you rule. But the boon I would choose is that one alone.",
+    "situations": [
+      "success_wealth",
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "artha",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "No one in the world is ever seen to be satisfied by gaining wealth. Having met Death, wealth and life will come anyway; the only boon worth choosing is knowledge of the Self."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.28",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      28
+    ],
+    "speaker": "Nachiketas",
+    "context": "Nachiketas asks who, having glimpsed the immortal, would still want a long life of fading pleasures.",
+    "devanagari": "अजीर्यताममृतानामुपेत्य\nजीर्यन्मर्त्यः क्वधःस्थः प्रजानन् ।\nअभिध्यायन् वर्णरतिप्रमोदान्\nअतिदीर्घे जीविते को रमेत ॥",
+    "iast": "ajīryatāmamṛtānāmupetya\njīryanmartyaḥ kvadhaḥsthaḥ prajānan |\nabhidhyāyan varṇaratipramodān\natidīrghe jīvite ko rameta ||",
+    "english": "Having come near the ageless and immortal, what ageing mortal here below, who understands, would delight in a very long life, dwelling on the pleasures of beauty and love?",
+    "situations": [
+      "ageing_death_impermanence",
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Who, knowing there is something higher to be gained from the immortals, would choose unstable things like sons and gold? Reflecting on how fleeting beauty and pleasure are, what discerning person would delight in a long life?"
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.1.29",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      1,
+      29
+    ],
+    "speaker": "Nachiketas",
+    "context": "Nachiketas holds to his question about what lies beyond death and chooses no other boon.",
+    "devanagari": "यस्मिन्निदं विचिकित्सन्ति मृत्यो\nयत्साम्पराये महति ब्रूहि नस्तत् ।\nयोऽयं वरो गूढमनुप्रविष्टो\nनान्यं तस्मान्नचिकेता वृणीते ॥",
+    "iast": "yasminnidaṃ vicikitsanti mṛtyo\nyatsāmparāye mahati brūhi nastat |\nyo'yaṃ varo gūḍhamanupraviṣṭo\nnānyaṃ tasmānnaciketā vṛṇīte ||",
+    "english": "That about which people doubt, Death, concerning the great passing beyond: tell us that. This boon, which enters into what is hidden: Nachiketas chooses no other.",
+    "situations": [
+      "purpose_meaning",
+      "ageing_death_impermanence"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Tell us the certain knowledge of the Self concerning the next world. The closing words are the Upanishad's own: Nachiketas does not choose, even in thought, any boon of impermanent things."
+      }
+    ],
+    "safety_flags": [
+      "death"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403120,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403120",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.2.1",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      2,
+      1
+    ],
+    "speaker": "Yama",
+    "context": "Satisfied that Nachiketas is ready, Death begins his teaching by contrasting the good with the merely pleasant.",
+    "devanagari": "अन्यच्छ्रेयोऽन्यदुतैव प्रेय-\nस्ते उभे नानार्थे पुरुषँ सिनीतः ।\nतयोः श्रेय आददानस्य साधु\nभवति हीयतेऽर्थाद्य उ प्रेयो वृणीते ॥",
+    "iast": "anyacchreyo'nyadutaiva preya-\nste ubhe nānārthe puruṣam̐ sinītaḥ |\ntayoḥ śreya ādadānasya sādhu\nbhavati hīyate'rthādya u preyo vṛṇīte ||",
+    "english": "The good is one thing, the pleasant quite another. Both, with different aims, bind a person. All goes well for the one who takes the good; whoever chooses the pleasant falls short of the goal.",
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "kama",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Everyone pursues one or the other, prosperity or liberation, and one person cannot follow both, since they are as opposed as knowledge and ignorance. Whoever takes the good alone fares well; the short-sighted who choose the pleasant lose the lasting goal."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.18.37",
+      "BG.18.38"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403128,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403128",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.2.2",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      2,
+      2
+    ],
+    "speaker": "Yama",
+    "context": "Death says the wise tell the good from the pleasant and choose the good, while the foolish choose comfort.",
+    "devanagari": "श्रेयश्च प्रेयश्च मनुष्यमेतः\nतौ सम्परीत्य विविनक्ति धीरः ।\nश्रेयो हि धीरोऽभि प्रेयसो वृणीते\nप्रेयो मन्दो योगक्षेमाद्वृणीते ॥",
+    "iast": "śreyaśca preyaśca manuṣyametaḥ\ntau samparītya vivinakti dhīraḥ |\nśreyo hi dhīro'bhi preyaso vṛṇīte\npreyo mando yogakṣemādvṛṇīte ||",
+    "english": "The good and the pleasant both come to a person. The wise one examines them closely and tells them apart. The wise choose the good over the pleasant; the foolish choose the pleasant, for getting and keeping.",
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "kama",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Like a swan separating milk from water, the wise weigh the two and choose the good. The dull, unable to discern, choose the pleasant, such as cattle and sons, for the growth and protection of the body."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.18.37",
+      "BG.18.38"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403128,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403128",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.2.3",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      2,
+      3
+    ],
+    "speaker": "Yama",
+    "context": "Death praises Nachiketas for rejecting the pleasures offered and not taking the path of wealth where many sink.",
+    "devanagari": "स त्वं प्रियान्प्रियरूपांश्च कामान्\nअभिध्यायन्नचिकेतोऽत्यस्राक्षीः ।\nनैतां सृङ्कां वित्तमयीमवाप्तो\nयस्यां मज्जन्ति बहवो मनुष्याः ॥",
+    "iast": "sa tvaṃ priyānpriyarūpāṃśca kāmān\nabhidhyāyannaciketo'tyasrākṣīḥ |\nnaitāṃ sṛṅkāṃ vittamayīmavāpto\nyasyāṃ majjanti bahavo manuṣyāḥ ||",
+    "english": "But you, Nachiketas, having reflected on desires dear and lovely to look at, have let them go. You have not taken this chain of wealth in which many people sink.",
+    "situations": [
+      "temptation_self_control",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "artha",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Tempted again and again, you weighed sons and nymphs as impermanent and worthless and gave them up; how wise you are. You did not take the despised path of wealth, on which fools sink."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403128,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403128",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.2.4",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      2,
+      4
+    ],
+    "speaker": "Yama",
+    "context": "Death says knowledge and ignorance lead in opposite directions, and Nachiketas has shown himself a seeker of knowledge.",
+    "devanagari": "दूरमेते विपरीते विषूची\nअविद्या या च विद्येति ज्ञाता ।\nविद्याभीप्सिनं नचिकेतसं मन्ये\nन त्वा कामा बहवोऽलोलुपन्त ॥",
+    "iast": "dūramete viparīte viṣūcī\navidyā yā ca vidyeti jñātā |\nvidyābhīpsinaṃ naciketasaṃ manye\nna tvā kāmā bahavo'lolupanta ||",
+    "english": "Far apart and leading different ways are these two: ignorance and what is known as knowledge. I consider Nachiketas a seeker of knowledge, for many desires did not distract you.",
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Like darkness and light, ignorance and knowledge lead to rebirth and to liberation. Since the many pleasures did not pull you from the path of the good, I count you a seeker of knowledge."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403128,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403128",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.2.5",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      2,
+      5
+    ],
+    "speaker": "Yama",
+    "context": "Death describes people who think themselves wise while living in ignorance: the blind led by the blind.",
+    "devanagari": "अविद्यायामन्तरे वर्तमानाः\nस्वयं धीराः पण्डितंमन्यमानाः ।\nदन्द्रम्यमाणाः परियन्ति मूढा\nअन्धेनैव नीयमाना यथान्धाः ॥",
+    "iast": "avidyāyāmantare vartamānāḥ\nsvayaṃ dhīrāḥ paṇḍitaṃmanyamānāḥ |\ndandramyamāṇāḥ pariyanti mūḍhā\nandhenaiva nīyamānā yathāndhāḥ ||",
+    "english": "Living in the midst of ignorance, thinking themselves wise and learned, the deluded go round and round, staggering, like the blind led by the blind.",
+    "situations": [
+      "ego_pride_envy",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Caught in ignorance as in thick darkness, bound by a hundred ropes of craving for sons and cattle, yet thinking themselves wise and learned, the deluded wander through old age, death and disease, like the blind led by the blind on a rough road."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403128,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403128",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.2.6",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      2,
+      6
+    ],
+    "speaker": "Yama",
+    "context": "Death says those absorbed in wealth and this world alone come under his power again and again.",
+    "devanagari": "न साम्परायः प्रतिभाति बालं\nप्रमाद्यन्तं वित्तमोहेन मूढम् ।\nअयं लोको नास्ति पर इति मानी\nपुनः पुनर्वशमापद्यते मे ॥",
+    "iast": "na sāmparāyaḥ pratibhāti bālaṃ\npramādyantaṃ vittamohena mūḍham |\nayaṃ loko nāsti para iti mānī\npunaḥ punarvaśamāpadyate me ||",
+    "english": "The passage beyond does not shine for the childish, careless and deluded by wealth. 'This world exists, there is no other,' thinks such a person, and falls into my power again and again.",
+    "situations": [
+      "success_wealth",
+      "ego_pride_envy",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "artha",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The means to the next world does not occur to the immature, absorbed in sons and cattle and blinded by wealth. Thinking only this visible world of women, food and drink exists, they are born and die again and again; most people are like this."
+      }
+    ],
+    "safety_flags": [
+      "death"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403128,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403128",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.2.7",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      2,
+      7
+    ],
+    "speaker": "Yama",
+    "context": "Death says the Self is rarely heard of, rarely understood, and rarely taught well.",
+    "devanagari": "श्रवणायापि बहुभिर्यो न लभ्यः\nशृण्वन्तोऽपि बहवो यं न विद्युः ।\nआश्चर्यो वक्ता कुशलोऽस्य लब्धा\nआश्चर्यो ज्ञाता कुशलानुशिष्टः ॥",
+    "iast": "śravaṇāyāpi bahubhiryo na labhyaḥ\nśṛṇvanto'pi bahavo yaṃ na vidyuḥ |\nāścaryo vaktā kuśalo'sya labdhā\nāścaryo jñātā kuśalānuśiṣṭaḥ ||",
+    "english": "Many do not even get to hear of it; many who hear of it do not understand it. Wonderful is the one who teaches it, skilled the one who gains it; wonderful the one who knows it, taught by the skilled.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Few even hear of the Self, and of those who hear, few understand. A teacher of it is rare among many, and rare is the one who comes to know it when taught by a skilled teacher."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403128,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403128",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.2.8",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      2,
+      8
+    ],
+    "speaker": "Yama",
+    "context": "Death says the Self cannot be understood when taught by an ordinary person, but only by one who has realised it.",
+    "devanagari": "न नरेणावरेण प्रोक्त एष\nसुविज्ञेयो बहुधा चिन्त्यमानः ।\nअनन्यप्रोक्ते गतिरत्र नास्ति\nअणीयान् ह्यतर्क्यमणुप्रमाणात् ॥",
+    "iast": "na nareṇāvareṇa prokta eṣa\nsuvijñeyo bahudhā cintyamānaḥ |\nananyaprokte gatiratra nāsti\naṇīyān hyatarkyamaṇupramāṇāt ||",
+    "english": "Taught by an inferior person, it is not easily understood, though thought about in many ways. When it is taught by one who is not separate from it, no uncertainty remains, for it is finer than the finest and beyond argument.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Argued about in many ways, as existing or not, as doer or not, the Self cannot be well understood from an ordinary teacher. Taught by a teacher who sees no separation, being one with Brahman, no speculation about it remains; he also offers the readings 'nothing further remains to be known' and 'no failure to understand remains'."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403128,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403128",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.2.9",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      2,
+      9
+    ],
+    "speaker": "Yama",
+    "context": "Death says this understanding comes through teaching, not argument, and praises Nachiketas's steadfastness.",
+    "devanagari": "नैषा तर्केण मतिरापनेया\nप्रोक्तान्येनैव सुज्ञानाय प्रेष्ठ ।\nयां त्वमापः सत्यधृतिर्बतासि\nत्वादृङ्नो भूयान्नचिकेतः प्रष्टा ॥",
+    "iast": "naiṣā tarkeṇa matirāpaneyā\nproktānyenaiva sujñānāya preṣṭha |\nyāṃ tvamāpaḥ satyadhṛtirbatāsi\ntvādṛṅno bhūyānnaciketaḥ praṣṭā ||",
+    "english": "This understanding is not reached by reasoning, dearest; taught by another, it is easily understood. You have gained it, for your resolve is true. May we find a questioner like you, Nachiketas!",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "This insight from scripture is not won, and should not be given up, through mere argument, since a reasoner without scripture says whatever he imagines. Taught by a teacher versed in scripture, it becomes clear; Death praises Nachiketas to commend the teaching to come."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403128,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403128",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.2.10",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      2,
+      10
+    ],
+    "speaker": "Yama",
+    "context": "Death admits that impermanent means cannot reach the eternal; his own position was gained through ritual.",
+    "devanagari": "जानाम्यहं शेवधिरित्यनित्यं\nन ह्यध्रुवैः प्राप्यते हि ध्रुवं तत् ।\nततो मया नाचिकेतश्चितोऽग्निः\nअनित्यैर्द्रव्यैः प्राप्तवानस्मि नित्यम् ॥",
+    "iast": "jānāmyahaṃ śevadhirityanityaṃ\nna hyadhruvaiḥ prāpyate hi dhruvaṃ tat |\ntato mayā nāciketaścito'gniḥ\nanityairdravyaiḥ prāptavānasmi nityam ||",
+    "english": "I know that what is called treasure is impermanent, for the permanent is not reached by impermanent things. So I built the Nachiketa fire with impermanent things, and gained what is lasting.",
+    "situations": [
+      "success_wealth",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "artha",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The 'treasure' of ritual results is impermanent, and the eternal Self cannot be reached by impermanent means. Knowing this, Death still built the fire with things like cattle, and so gained his own place, which is 'lasting' only relatively."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403128,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403128",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.2.11",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      2,
+      11
+    ],
+    "speaker": "Yama",
+    "context": "Death praises Nachiketas for seeing every worldly reward and letting all of them go.",
+    "devanagari": "कामस्याप्तिं जगतः प्रतिष्ठां\nक्रतोरानन्त्यमभयस्य पारम् ।\nस्तोममहदुरुगायं प्रतिष्ठां दृष्ट्वा\nधृत्या धीरो नचिकेतोऽत्यस्राक्षीः ॥",
+    "iast": "kāmasyāptiṃ jagataḥ pratiṣṭhāṃ\nkratorānantyamabhayasya pāram |\nstomamahadurugāyaṃ pratiṣṭhāṃ dṛṣṭvā\ndhṛtyā dhīro naciketo'tyasrākṣīḥ ||",
+    "english": "You saw the fulfilment of desire, the foundation of the world, the endless fruit of ritual, the far shore of fearlessness, the great and praised wide path, the firm standing; and, wise and steadfast, Nachiketas, you let them all go.",
+    "situations": [
+      "temptation_self_control",
+      "success_wealth",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "You saw all the fruits that culminate in the state of Hiraṇyagarbha, where every desire is fulfilled, the support of the world, with its powers, and yet, wanting only the highest, you let go of all worldly enjoyment with firmness. How excellent you are."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403128,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403128",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.2.12",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      2,
+      12
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "तं दुर्दर्शं गूढमनुप्रविष्टं\nगुहाहितं गह्वरेष्ठं पुराणम् ।\nअध्यात्मयोगाधिगमेन देवं\nमत्वा धीरो हर्षशोकौ जहाति ॥",
+    "iast": "taṃ durdarśaṃ gūḍhamanupraviṣṭaṃ\nguhāhitaṃ gahvareṣṭhaṃ purāṇam |\nadhyātmayogādhigamena devaṃ\nmatvā dhīro harṣaśokau jahāti ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403128,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403128",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.2.13",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      2,
+      13
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "एतच्छ्रुत्वा सम्परिगृह्य मर्त्यः\nप्रवृह्य धर्म्यमणुमेतमाप्य ।\nस मोदते मोदनीयँ हि लब्ध्वा\nविवृतँ सद्म नचिकेतसं मन्ये ॥",
+    "iast": "etacchrutvā samparigṛhya martyaḥ\npravṛhya dharmyamaṇumetamāpya |\nsa modate modanīyam̐ hi labdhvā\nvivṛtam̐ sadma naciketasaṃ manye ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403128,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403128",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.2.14",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      2,
+      14
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "अन्यत्र धर्मादन्यत्राधर्मा-\nदन्यत्रास्मात्कृताकृतात् ।\nअन्यत्र भूताच्च भव्याच्च\nयत्तत्पश्यसि तद्वद ॥",
+    "iast": "anyatra dharmādanyatrādharmā-\ndanyatrāsmātkṛtākṛtāt |\nanyatra bhūtācca bhavyācca\nyattatpaśyasi tadvada ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403128,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403128",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.2.15",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      2,
+      15
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "सर्वे वेदा यत्पदमामनन्ति\nतपाँसि सर्वाणि च यद्वदन्ति ।\nयदिच्छन्तो ब्रह्मचर्यं चरन्ति\nतत्ते पदँ संग्रहेण ब्रवीम्योमित्येतत् ॥",
+    "iast": "sarve vedā yatpadamāmananti\ntapām̐si sarvāṇi ca yadvadanti |\nyadicchanto brahmacaryaṃ caranti\ntatte padam̐ saṃgraheṇa bravīmyomityetat ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403128,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403128",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.2.16",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      2,
+      16
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् ।\nएतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छति तस्य तत् ॥",
+    "iast": "etaddhyevākṣaraṃ brahma etaddhyevākṣaraṃ param |\netaddhyevākṣaraṃ jñātvā yo yadicchati tasya tat ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403128,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403128",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.2.17",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      2,
+      17
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "एतदालम्बनँ श्रेष्ठमेतदालम्बनं परम् ।\nएतदालम्बनं ज्ञात्वा ब्रह्मलोके महीयते ॥",
+    "iast": "etadālambanam̐ śreṣṭhametadālambanaṃ param |\netadālambanaṃ jñātvā brahmaloke mahīyate ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403128,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403128",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.2.18",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      2,
+      18
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "न जायते म्रियते वा विपश्चिन्\nनायं कुतश्चिन्न बभूव कश्चित् ।\nअजो नित्यः शाश्वतोऽयं पुराणो\nन हन्यते हन्यमाने शरीरे ॥",
+    "iast": "na jāyate mriyate vā vipaścin\nnāyaṃ kutaścinna babhūva kaścit |\najo nityaḥ śāśvato'yaṃ purāṇo\nna hanyate hanyamāne śarīre ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403128,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403128",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.2.19",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      2,
+      19
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "हन्ता चेन्मन्यते हन्तुँ हतश्चेन्मन्यते हतम् ।\nउभौ तौ न विजानीतो नायँ हन्ति न हन्यते ॥",
+    "iast": "hantā cenmanyate hantum̐ hataścenmanyate hatam |\nubhau tau na vijānīto nāyam̐ hanti na hanyate ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403128,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403128",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.2.20",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      2,
+      20
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "अणोरणीयान्महतो महीया-\nनात्माऽस्य जन्तोर्निहितो गुहायाम् ।\nतमक्रतुः पश्यति वीतशोको\nधातुप्रसादान्महिमानमात्मनः ॥",
+    "iast": "aṇoraṇīyānmahato mahīyā-\nnātmā'sya jantornihito guhāyām |\ntamakratuḥ paśyati vītaśoko\ndhātuprasādānmahimānamātmanaḥ ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403128,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403128",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.2.21",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      2,
+      21
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "आसीनो दूरं व्रजति शयानो याति सर्वतः ।\nकस्तं मदामदं देवं मदन्यो ज्ञातुमर्हति ॥",
+    "iast": "āsīno dūraṃ vrajati śayāno yāti sarvataḥ |\nkastaṃ madāmadaṃ devaṃ madanyo jñātumarhati ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403128,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403128",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.2.22",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      2,
+      22
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "अशरीरँ शरीरेष्वनवस्थेष्ववस्थितम् ।\nमहान्तं विभुमात्मानं मत्वा धीरो न शोचति ॥",
+    "iast": "aśarīram̐ śarīreṣvanavastheṣvavasthitam |\nmahāntaṃ vibhumātmānaṃ matvā dhīro na śocati ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403128,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403128",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.2.23",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      2,
+      23
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "नायमात्मा प्रवचनेन लभ्यो\nन मेधया न बहुना श्रुतेन ।\nयमेवैष वृणुते तेन लभ्यः\nतस्यैष आत्मा विवृणुते तनूँ स्वाम् ॥",
+    "iast": "nāyamātmā pravacanena labhyo\nna medhayā na bahunā śrutena |\nyamevaiṣa vṛṇute tena labhyaḥ\ntasyaiṣa ātmā vivṛṇute tanūm̐ svām ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403128,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403128",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.2.24",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      2,
+      24
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "नाविरतो दुश्चरितान्नाशान्तो नासमाहितः ।\nनाशान्तमानसो वाऽपि प्रज्ञानेनैनमाप्नुयात् ॥",
+    "iast": "nāvirato duścaritānnāśānto nāsamāhitaḥ |\nnāśāntamānaso vā'pi prajñānenainamāpnuyāt ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403128,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403128",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.2.25",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      2,
+      25
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "यस्य ब्रह्म च क्षत्रं च उभे भवत ओदनः ।\nमृत्युर्यस्योपसेचनं क इत्था वेद यत्र सः ॥",
+    "iast": "yasya brahma ca kṣatraṃ ca ubhe bhavata odanaḥ |\nmṛtyuryasyopasecanaṃ ka itthā veda yatra saḥ ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403128,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403128",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.3.1",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      3,
+      1
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "ऋतं पिबन्तौ सुकृतस्य लोके\nगुहां प्रविष्टौ परमे परार्धे ।\nछायातपौ ब्रह्मविदो वदन्ति\nपञ्चाग्नयो ये च त्रिणाचिकेताः ॥",
+    "iast": "ṛtaṃ pibantau sukṛtasya loke\nguhāṃ praviṣṭau parame parārdhe |\nchāyātapau brahmavido vadanti\npañcāgnayo ye ca triṇāciketāḥ ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403129,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403129",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.3.2",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      3,
+      2
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "यः सेतुरीजानानामक्षरं ब्रह्म यत् परम् ।\nअभयं तितीर्षतां पारं [https://puranastudy.000space.com/pur_index15/nachiketa.htm नाचिकेतँ] शकेमहि ॥",
+    "iast": "yaḥ seturījānānāmakṣaraṃ brahma yat param |\nabhayaṃ titīrṣatāṃ pāraṃ [https://puranastudy.000space.com/pur_index15/nachiketa.htm nāciketam̐] śakemahi ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403129,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403129",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.3.3",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      3,
+      3
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "आत्मानँ रथिनं विद्धि शरीरँ रथमेव तु ।\nबुद्धिं तु सारथिं विद्धि मनः प्रग्रहमेव च ॥",
+    "iast": "ātmānam̐ rathinaṃ viddhi śarīram̐ rathameva tu |\nbuddhiṃ tu sārathiṃ viddhi manaḥ pragrahameva ca ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403129,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403129",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.3.4",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      3,
+      4
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "इन्द्रियाणि हयानाहुर्विषयाँ स्तेषु गोचरान् ।\nआत्मेन्द्रियमनोयुक्तं भोक्तेत्याहुर्मनीषिणः ॥",
+    "iast": "indriyāṇi hayānāhurviṣayām̐ steṣu gocarān |\nātmendriyamanoyuktaṃ bhoktetyāhurmanīṣiṇaḥ ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403129,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403129",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.3.5",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      3,
+      5
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "यस्त्वविज्ञानवान्भवत्ययुक्तेन मनसा सदा ।\nतस्येन्द्रियाण्यवश्यानि दुष्टाश्वा इव सारथेः ॥",
+    "iast": "yastvavijñānavānbhavatyayuktena manasā sadā |\ntasyendriyāṇyavaśyāni duṣṭāśvā iva sāratheḥ ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403129,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403129",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.3.6",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      3,
+      6
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "यस्तु विज्ञानवान्भवति युक्तेन मनसा सदा ।\nतस्येन्द्रियाणि वश्यानि सदश्वा इव सारथेः ॥",
+    "iast": "yastu vijñānavānbhavati yuktena manasā sadā |\ntasyendriyāṇi vaśyāni sadaśvā iva sāratheḥ ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403129,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403129",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.3.7",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      3,
+      7
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "यस्त्वविज्ञानवान्भवत्यमनस्कः सदाऽशुचिः ।\nन स तत्पदमाप्नोति संसारं चाधिगच्छति ॥",
+    "iast": "yastvavijñānavānbhavatyamanaskaḥ sadā'śuciḥ |\nna sa tatpadamāpnoti saṃsāraṃ cādhigacchati ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403129,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403129",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.3.8",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      3,
+      8
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "यस्तु विज्ञानवान्भवति समनस्कः सदा शुचिः ।\nस तु तत्पदमाप्नोति यस्माद्भूयो न जायते ॥",
+    "iast": "yastu vijñānavānbhavati samanaskaḥ sadā śuciḥ |\nsa tu tatpadamāpnoti yasmādbhūyo na jāyate ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403129,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403129",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.3.9",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      3,
+      9
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "विज्ञानसारथिर्यस्तु मनः प्रग्रहवान्नरः ।\nसोऽध्वनः पारमाप्नोति तद्विष्णोः परमं पदम् ॥",
+    "iast": "vijñānasārathiryastu manaḥ pragrahavānnaraḥ |\nso'dhvanaḥ pāramāpnoti tadviṣṇoḥ paramaṃ padam ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403129,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403129",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.3.10",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      3,
+      10
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः ।\nमनसस्तु परा बुद्धिर्बुद्धेरात्मा महान्परः ॥",
+    "iast": "indriyebhyaḥ parā hyarthā arthebhyaśca paraṃ manaḥ |\nmanasastu parā buddhirbuddherātmā mahānparaḥ ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403129,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403129",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.3.11",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      3,
+      11
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः ।\nपुरुषान्न परं किंचित्सा [https://sa.wikisource.org/s/3gst काष्ठा] सा परा गतिः ॥",
+    "iast": "mahataḥ paramavyaktamavyaktātpuruṣaḥ paraḥ |\npuruṣānna paraṃ kiṃcitsā [https://sa.wikisource.org/s/3gst kāṣṭhā] sā parā gatiḥ ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403129,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403129",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.3.12",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      3,
+      12
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "एष सर्वेषु भूतेषु गूढोऽऽत्मा न प्रकाशते ।\nदृश्यते त्वग्र्यया बुद्ध्या सूक्ष्मया सूक्ष्मदर्शिभिः ॥",
+    "iast": "eṣa sarveṣu bhūteṣu gūḍho''tmā na prakāśate |\ndṛśyate tvagryayā buddhyā sūkṣmayā sūkṣmadarśibhiḥ ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403129,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403129",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.3.13",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      3,
+      13
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "यच्छेद्वाङ्मनसी प्राज्ञस्तद्यच्छेज्ज्ञान आत्मनि ।\nज्ञानमात्मनि महति नियच्छेत्तद्यच्छेच्छान्त आत्मनि ॥",
+    "iast": "yacchedvāṅmanasī prājñastadyacchejjñāna ātmani |\njñānamātmani mahati niyacchettadyacchecchānta ātmani ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403129,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403129",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.3.14",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      3,
+      14
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "उत्तिष्ठत जाग्रत\nप्राप्य वरान्निबोधत ।\nक्षुरस्य धारा निशिता दुरत्यया\nदुर्गं पथस्तत्कवयो वदन्ति ॥",
+    "iast": "uttiṣṭhata jāgrata\nprāpya varānnibodhata |\nkṣurasya dhārā niśitā duratyayā\ndurgaṃ pathastatkavayo vadanti ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403129,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403129",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.3.15",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      3,
+      15
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "अशब्दमस्पर्शमरूपमव्ययं\nतथाऽरसं नित्यमगन्धवच्च यत् ।\nअनाद्यनन्तं महतः परं ध्रुवं\nनिचाय्य तन्मृत्युमुखात् प्रमुच्यते ॥",
+    "iast": "aśabdamasparśamarūpamavyayaṃ\ntathā'rasaṃ nityamagandhavacca yat |\nanādyanantaṃ mahataḥ paraṃ dhruvaṃ\nnicāyya tanmṛtyumukhāt pramucyate ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403129,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403129",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.3.16",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      3,
+      16
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "नाचिकेतमुपाख्यानं मृत्युप्रोक्तँ सनातनम् ।\nउक्त्वा श्रुत्वा च मेधावी ब्रह्मलोके महीयते ॥",
+    "iast": "nāciketamupākhyānaṃ mṛtyuproktam̐ sanātanam |\nuktvā śrutvā ca medhāvī brahmaloke mahīyate ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403129,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403129",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.1.3.17",
+    "text": "katha_upanishad",
+    "ref": [
+      1,
+      3,
+      17
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "य इमं परमं गुह्यं श्रावयेद् ब्रह्मसंसदि ।\nप्रयतः श्राद्धकाले वा तदानन्त्याय कल्पते ।\nतदानन्त्याय कल्पत इति ॥",
+    "iast": "ya imaṃ paramaṃ guhyaṃ śrāvayed brahmasaṃsadi |\nprayataḥ śrāddhakāle vā tadānantyāya kalpate |\ntadānantyāya kalpata iti ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/प्रथमोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403129,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403129",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.1.1",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      1,
+      1
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "पराञ्चि खानि व्यतृणत् स्वयम्भू-\nस्तस्मात्पराङ्पश्यति नान्तरात्मन् ।\nकश्चिद्धीरः प्रत्यगात्मानमैक्ष-\nदावृत्तचक्षुरमृतत्वमिच्छन् ॥",
+    "iast": "parāñci khāni vyatṛṇat svayambhū-\nstasmātparāṅpaśyati nāntarātman |\nkaściddhīraḥ pratyagātmānamaikṣa-\ndāvṛttacakṣuramṛtatvamicchan ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403126,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403126",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.1.2",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      1,
+      2
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "पराचः कामाननुयन्ति बाला-\nस्ते मृत्योर्यन्ति विततस्य पाशम् ।\nअथ धीरा अमृतत्वं विदित्वा\nध्रुवमध्रुवेष्विह न प्रार्थयन्ते ॥",
+    "iast": "parācaḥ kāmānanuyanti bālā-\nste mṛtyoryanti vitatasya pāśam |\natha dhīrā amṛtatvaṃ viditvā\ndhruvamadhruveṣviha na prārthayante ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403126,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403126",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.1.3",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      1,
+      3
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "येन रूपं रसं गन्धं शब्दान् स्पर्शाँश्च मैथुनान् ।\nएतेनैव विजानाति किमत्र परिशिष्यते ।\nएतद्वै तत् ॥",
+    "iast": "yena rūpaṃ rasaṃ gandhaṃ śabdān sparśām̐śca maithunān |\netenaiva vijānāti kimatra pariśiṣyate |\netadvai tat ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403126,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403126",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.1.4",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      1,
+      4
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "स्वप्नान्तं जागरितान्तं चोभौ येनानुपश्यति ।\nमहान्तं विभुमात्मानं मत्वा धीरो न शोचति ॥",
+    "iast": "svapnāntaṃ jāgaritāntaṃ cobhau yenānupaśyati |\nmahāntaṃ vibhumātmānaṃ matvā dhīro na śocati ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403126,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403126",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.1.5",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      1,
+      5
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "य इमं मध्वदं वेद आत्मानं जीवमन्तिकात् ।\nईशानं भूतभव्यस्य न ततो विजुगुप्सते ।\nएतद्वै तत् ॥",
+    "iast": "ya imaṃ madhvadaṃ veda ātmānaṃ jīvamantikāt |\nīśānaṃ bhūtabhavyasya na tato vijugupsate |\netadvai tat ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403126,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403126",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.1.6",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      1,
+      6
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "यः पूर्वं तपसो जातमद्भ्यः पूर्वमजायत ।\nगुहां प्रविश्य तिष्ठन्तं यो भूतेभिर्व्यपश्यत ।\nएतद्वै तत् ॥",
+    "iast": "yaḥ pūrvaṃ tapaso jātamadbhyaḥ pūrvamajāyata |\nguhāṃ praviśya tiṣṭhantaṃ yo bhūtebhirvyapaśyata |\netadvai tat ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403126,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403126",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.1.7",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      1,
+      7
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "या प्राणेन संभवत्यदितिर्देवतामयी ।\nगुहां प्रविश्य तिष्ठन्तीं या भूतेभिर्व्यजायत ।\nएतद्वै तत् ॥",
+    "iast": "yā prāṇena saṃbhavatyaditirdevatāmayī |\nguhāṃ praviśya tiṣṭhantīṃ yā bhūtebhirvyajāyata |\netadvai tat ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403126,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403126",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.1.8",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      1,
+      8
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "अरण्योर्निहितो जातवेदा गर्भ इव सुभृतो गर्भिणीभिः ।\nदिवे दिवे ईड्यो जागृवद्भिर्हविष्मद्भिर्मनुष्येभिरग्निः ।\nएतद्वै तत् ॥",
+    "iast": "araṇyornihito jātavedā garbha iva subhṛto garbhiṇībhiḥ |\ndive dive īḍyo jāgṛvadbhirhaviṣmadbhirmanuṣyebhiragniḥ |\netadvai tat ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403126,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403126",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.1.9",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      1,
+      9
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "यतश्चोदेति सूर्योऽस्तं यत्र च गच्छति ।\nतं देवाः सर्वेऽर्पितास्तदु नात्येति कश्चन ।\nएतद्वै तत् ॥",
+    "iast": "yataścodeti sūryo'staṃ yatra ca gacchati |\ntaṃ devāḥ sarve'rpitāstadu nātyeti kaścana |\netadvai tat ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403126,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403126",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.1.10",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      1,
+      10
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "यदेवेह तदमुत्र यदमुत्र तदन्विह ।\nमृत्योः स मृत्युमाप्नोति य इह नानेव पश्यति ॥",
+    "iast": "yadeveha tadamutra yadamutra tadanviha |\nmṛtyoḥ sa mṛtyumāpnoti ya iha nāneva paśyati ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403126,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403126",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.1.11",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      1,
+      11
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "मनसैवेदमाप्तव्यं नेह नानाऽस्ति किंचन ।\nमृत्योः स मृत्युं गच्छति य इह नानेव पश्यति ॥",
+    "iast": "manasaivedamāptavyaṃ neha nānā'sti kiṃcana |\nmṛtyoḥ sa mṛtyuṃ gacchati ya iha nāneva paśyati ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403126,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403126",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.1.12",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      1,
+      12
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "अङ्गुष्ठमात्रः पुरुषो मध्य आत्मनि तिष्ठति ।\nईशानं भूतभव्यस्य न ततो विजुगुप्सते ।\nएतद्वै तत् ॥",
+    "iast": "aṅguṣṭhamātraḥ puruṣo madhya ātmani tiṣṭhati |\nīśānaṃ bhūtabhavyasya na tato vijugupsate |\netadvai tat ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403126,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403126",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.1.13",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      1,
+      13
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "अङ्गुष्ठमात्रः पुरुषो ज्योतिरिवाधूमकः ।\nईशानो भूतभव्यस्य स एवाद्य स उ श्वः ।\nएतद्वै तत् ॥",
+    "iast": "aṅguṣṭhamātraḥ puruṣo jyotirivādhūmakaḥ |\nīśāno bhūtabhavyasya sa evādya sa u śvaḥ |\netadvai tat ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403126,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403126",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.1.14",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      1,
+      14
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "यथोदकं दुर्गे वृष्टं पर्वतेषु विधावति ।\nएवं धर्मान् पृथक् पश्यंस्तानेवानुविधावति ॥",
+    "iast": "yathodakaṃ durge vṛṣṭaṃ parvateṣu vidhāvati |\nevaṃ dharmān pṛthak paśyaṃstānevānuvidhāvati ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403126,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403126",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.1.15",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      1,
+      15
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "यथोदकं शुद्धे शुद्धमासिक्तं तादृगेव भवति ।\nएवं मुनेर्विजानत आत्मा भवति गौतम ॥",
+    "iast": "yathodakaṃ śuddhe śuddhamāsiktaṃ tādṛgeva bhavati |\nevaṃ munervijānata ātmā bhavati gautama ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/प्रथमवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403126,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403126",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.2.1",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      2,
+      1
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "पुरमेकादशद्वारमजस्यावक्रचेतसः ।\nअनुष्ठाय न शोचति विमुक्तश्च विमुच्यते ।\nएतद्वै तत् ॥",
+    "iast": "puramekādaśadvāramajasyāvakracetasaḥ |\nanuṣṭhāya na śocati vimuktaśca vimucyate |\netadvai tat ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403132,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403132",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.2.2",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      2,
+      2
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "हँसः शुचिषद्वसुरान्तरिक्षसद्-\nहोता वेदिषदतिथिर्दुरोणसत् ।\nनृषद्वरसदृतसद्व्योमसद्\nअब्जा गोजा ऋतजा अद्रिजा ऋतं बृहत् ॥",
+    "iast": "ham̐saḥ śuciṣadvasurāntarikṣasad-\nhotā vediṣadatithirduroṇasat |\nnṛṣadvarasadṛtasadvyomasad\nabjā gojā ṛtajā adrijā ṛtaṃ bṛhat ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403132,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403132",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.2.3",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      2,
+      3
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "ऊर्ध्वं प्राणमुन्नयत्यपानं प्रत्यगस्यति ।\nमध्ये वामनमासीनं विश्वे देवा उपासते ॥",
+    "iast": "ūrdhvaṃ prāṇamunnayatyapānaṃ pratyagasyati |\nmadhye vāmanamāsīnaṃ viśve devā upāsate ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403132,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403132",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.2.4",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      2,
+      4
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "अस्य विस्रंसमानस्य शरीरस्थस्य देहिनः ।\nदेहाद्विमुच्यमानस्य किमत्र परिशिष्यते ।\nएतद्वै तत् ॥",
+    "iast": "asya visraṃsamānasya śarīrasthasya dehinaḥ |\ndehādvimucyamānasya kimatra pariśiṣyate |\netadvai tat ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403132,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403132",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.2.5",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      2,
+      5
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "न प्राणेन नापानेन मर्त्यो जीवति कश्चन ।\nइतरेण तु जीवन्ति यस्मिन्नेतावुपाश्रितौ ॥",
+    "iast": "na prāṇena nāpānena martyo jīvati kaścana |\nitareṇa tu jīvanti yasminnetāvupāśritau ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403132,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403132",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.2.6",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      2,
+      6
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "हन्त त इदं प्रवक्ष्यामि गुह्यं ब्रह्म सनातनम् ।\nयथा च मरणं प्राप्य आत्मा भवति गौतम ॥",
+    "iast": "hanta ta idaṃ pravakṣyāmi guhyaṃ brahma sanātanam |\nyathā ca maraṇaṃ prāpya ātmā bhavati gautama ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403132,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403132",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.2.7",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      2,
+      7
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "योनिमन्ये प्रपद्यन्ते शरीरत्वाय देहिनः ।\nस्थाणुमन्येऽनुसंयन्ति यथाकर्म यथाश्रुतम् ॥",
+    "iast": "yonimanye prapadyante śarīratvāya dehinaḥ |\nsthāṇumanye'nusaṃyanti yathākarma yathāśrutam ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403132,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403132",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.2.8",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      2,
+      8
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "य एष सुप्तेषु जागर्ति कामं कामं पुरुषो निर्मिमाणः ।\nतदेव शुक्रं तद्ब्रह्म तदेवामृतमुच्यते ।\nतस्मिँल्लोकाः श्रिताः सर्वे तदु नात्येति कश्चन ।\nएतद्वै तत् ॥",
+    "iast": "ya eṣa supteṣu jāgarti kāmaṃ kāmaṃ puruṣo nirmimāṇaḥ |\ntadeva śukraṃ tadbrahma tadevāmṛtamucyate |\ntasmim̐llokāḥ śritāḥ sarve tadu nātyeti kaścana |\netadvai tat ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403132,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403132",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.2.9",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      2,
+      9
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "अग्निर्यथैको भुवनं प्रविष्टो\nरूपं रूपं प्रतिरूपो बभूव ।\nएकस्तथा सर्वभूतान्तरात्मा\nरूपं रूपं प्रतिरूपो बहिश्च ॥",
+    "iast": "agniryathaiko bhuvanaṃ praviṣṭo\nrūpaṃ rūpaṃ pratirūpo babhūva |\nekastathā sarvabhūtāntarātmā\nrūpaṃ rūpaṃ pratirūpo bahiśca ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403132,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403132",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.2.10",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      2,
+      10
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "वायुर्यथैको भुवनं प्रविष्टो\nरूपं रूपं प्रतिरूपो बभूव ।\nएकस्तथा सर्वभूतान्तरात्मा\nरूपं रूपं प्रतिरूपो बहिश्च ॥",
+    "iast": "vāyuryathaiko bhuvanaṃ praviṣṭo\nrūpaṃ rūpaṃ pratirūpo babhūva |\nekastathā sarvabhūtāntarātmā\nrūpaṃ rūpaṃ pratirūpo bahiśca ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403132,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403132",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.2.11",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      2,
+      11
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "सूर्यो यथा सर्वलोकस्य चक्षुः\nन लिप्यते चाक्षुषैर्बाह्यदोषैः ।\nएकस्तथा सर्वभूतान्तरात्मा\nन लिप्यते लोकदुःखेन बाह्यः ॥",
+    "iast": "sūryo yathā sarvalokasya cakṣuḥ\nna lipyate cākṣuṣairbāhyadoṣaiḥ |\nekastathā sarvabhūtāntarātmā\nna lipyate lokaduḥkhena bāhyaḥ ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403132,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403132",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.2.12",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      2,
+      12
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "एको वशी सर्वभूतान्तरात्मा\nएकं रूपं बहुधा यः करोति ।\nतमात्मस्थं येऽनुपश्यन्ति धीराः\nतेषां सुखं शाश्वतं नेतरेषाम् ॥",
+    "iast": "eko vaśī sarvabhūtāntarātmā\nekaṃ rūpaṃ bahudhā yaḥ karoti |\ntamātmasthaṃ ye'nupaśyanti dhīrāḥ\nteṣāṃ sukhaṃ śāśvataṃ netareṣām ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403132,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403132",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.2.13",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      2,
+      13
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "नित्योऽनित्यानां चेतनश्चेतनानाम्\nएको बहूनां यो विदधाति कामान् ।\nतमात्मस्थं येऽनुपश्यन्ति धीराः\nतेषां शान्तिः शाश्वती नेतरेषाम् ॥",
+    "iast": "nityo'nityānāṃ cetanaścetanānām\neko bahūnāṃ yo vidadhāti kāmān |\ntamātmasthaṃ ye'nupaśyanti dhīrāḥ\nteṣāṃ śāntiḥ śāśvatī netareṣām ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403132,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403132",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.2.14",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      2,
+      14
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "तदेतदिति मन्यन्तेऽनिर्देश्यं परमं सुखम् ।\nकथं नु तद्विजानीयां किमु भाति विभाति वा ॥",
+    "iast": "tadetaditi manyante'nirdeśyaṃ paramaṃ sukham |\nkathaṃ nu tadvijānīyāṃ kimu bhāti vibhāti vā ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403132,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403132",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.2.15",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      2,
+      15
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "न तत्र सूर्यो भाति न चन्द्रतारकं\nनेमा विद्युतो भान्ति कुतोऽयमग्निः ।\nतमेव भान्तमनुभाति सर्वं\nतस्य भासा सर्वमिदं विभाति ॥",
+    "iast": "na tatra sūryo bhāti na candratārakaṃ\nnemā vidyuto bhānti kuto'yamagniḥ |\ntameva bhāntamanubhāti sarvaṃ\ntasya bhāsā sarvamidaṃ vibhāti ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/द्वितीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403132,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403132",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.3.1",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      3,
+      1
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "ऊर्ध्वमूलोऽवाक्शाख एषोऽश्वत्थः सनातनः ।\nतदेव शुक्रं तद्ब्रह्म तदेवामृतमुच्यते ।\nतस्मिँल्लोकाः श्रिताः सर्वे तदु नात्येति कश्चन ।\nएतद्वै तत् ॥",
+    "iast": "ūrdhvamūlo'vākśākha eṣo'śvatthaḥ sanātanaḥ |\ntadeva śukraṃ tadbrahma tadevāmṛtamucyate |\ntasmim̐llokāḥ śritāḥ sarve tadu nātyeti kaścana |\netadvai tat ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403133,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403133",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.3.2",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      3,
+      2
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "यदिदं किं च जगत् सर्वं प्राण एजति निःसृतम् ।\nमहद्भयं वज्रमुद्यतं य एतद्विदुरमृतास्ते भवन्ति ॥",
+    "iast": "yadidaṃ kiṃ ca jagat sarvaṃ prāṇa ejati niḥsṛtam |\nmahadbhayaṃ vajramudyataṃ ya etadviduramṛtāste bhavanti ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403133,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403133",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.3.3",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      3,
+      3
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "भयादस्याग्निस्तपति भयात्तपति सूर्यः ।\nभयादिन्द्रश्च वायुश्च मृत्युर्धावति पञ्चमः ॥",
+    "iast": "bhayādasyāgnistapati bhayāttapati sūryaḥ |\nbhayādindraśca vāyuśca mṛtyurdhāvati pañcamaḥ ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403133,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403133",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.3.4",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      3,
+      4
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "इह चेदशकद्बोद्धुं प्राक्षरीरस्य विस्रसः ।\nततः सर्गेषु लोकेषु शरीरत्वाय कल्पते ॥",
+    "iast": "iha cedaśakadboddhuṃ prākṣarīrasya visrasaḥ |\ntataḥ sargeṣu lokeṣu śarīratvāya kalpate ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403133,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403133",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.3.5",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      3,
+      5
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "यथाऽऽदर्शे तथाऽऽत्मनि यथा स्वप्ने तथा पितृलोके ।\nयथाऽप्सु परीव ददृशे तथा गन्धर्वलोके\nछायातपयोरिव ब्रह्मलोके ॥",
+    "iast": "yathā''darśe tathā''tmani yathā svapne tathā pitṛloke |\nyathā'psu parīva dadṛśe tathā gandharvaloke\nchāyātapayoriva brahmaloke ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403133,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403133",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.3.6",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      3,
+      6
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "इन्द्रियाणां पृथग्भावमुदयास्तमयौ च यत् ।\nपृथगुत्पद्यमानानां मत्वा धीरो न शोचति ॥",
+    "iast": "indriyāṇāṃ pṛthagbhāvamudayāstamayau ca yat |\npṛthagutpadyamānānāṃ matvā dhīro na śocati ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403133,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403133",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.3.7",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      3,
+      7
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "इन्द्रियेभ्यः परं मनो मनसः सत्त्वमुत्तमम् ।\nसत्त्वादधि महानात्मा महतोऽव्यक्तमुत्तमम् ॥",
+    "iast": "indriyebhyaḥ paraṃ mano manasaḥ sattvamuttamam |\nsattvādadhi mahānātmā mahato'vyaktamuttamam ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403133,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403133",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.3.8",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      3,
+      8
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "अव्यक्तात्तु परः पुरुषो व्यापकोऽलिङ्ग एव च ।\nयं ज्ञात्वा मुच्यते जन्तुरमृतत्वं च गच्छति ॥",
+    "iast": "avyaktāttu paraḥ puruṣo vyāpako'liṅga eva ca |\nyaṃ jñātvā mucyate janturamṛtatvaṃ ca gacchati ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403133,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403133",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.3.9",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      3,
+      9
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "न संदृशे तिष्ठति रूपमस्य\nन चक्षुषा पश्यति कश्चनैनम् ।\nहृदा मनीषा मनसाऽभिक्लृप्तो\nय एतद्विदुरमृतास्ते भवन्ति ॥",
+    "iast": "na saṃdṛśe tiṣṭhati rūpamasya\nna cakṣuṣā paśyati kaścanainam |\nhṛdā manīṣā manasā'bhiklṛpto\nya etadviduramṛtāste bhavanti ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403133,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403133",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.3.10",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      3,
+      10
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "यदा पञ्चावतिष्ठन्ते ज्ञानानि मनसा सह ।\nबुद्धिश्च न विचेष्टते तामाहुः परमां गतिम् ॥",
+    "iast": "yadā pañcāvatiṣṭhante jñānāni manasā saha |\nbuddhiśca na viceṣṭate tāmāhuḥ paramāṃ gatim ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403133,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403133",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.3.11",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      3,
+      11
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "तां योगमिति मन्यन्ते स्थिरामिन्द्रियधारणाम् ।\nअप्रमत्तस्तदा भवति योगो हि प्रभवाप्ययौ ॥",
+    "iast": "tāṃ yogamiti manyante sthirāmindriyadhāraṇām |\napramattastadā bhavati yogo hi prabhavāpyayau ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403133,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403133",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.3.12",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      3,
+      12
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "नैव वाचा न मनसा प्राप्तुं शक्यो न चक्षुषा ।\nअस्तीति ब्रुवतोऽन्यत्र कथं तदुपलभ्यते ॥",
+    "iast": "naiva vācā na manasā prāptuṃ śakyo na cakṣuṣā |\nastīti bruvato'nyatra kathaṃ tadupalabhyate ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403133,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403133",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.3.13",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      3,
+      13
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "अस्तीत्येवोपलब्धव्यस्तत्त्वभावेन चोभयोः ।\nअस्तीत्येवोपलब्धस्य तत्त्वभावः प्रसीदति ॥",
+    "iast": "astītyevopalabdhavyastattvabhāvena cobhayoḥ |\nastītyevopalabdhasya tattvabhāvaḥ prasīdati ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403133,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403133",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.3.14",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      3,
+      14
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "यदा सर्वे प्रमुच्यन्ते कामा येऽस्य हृदि श्रिताः ।\nअथ मर्त्योऽमृतो भवत्यत्र ब्रह्म समश्नुते ॥",
+    "iast": "yadā sarve pramucyante kāmā ye'sya hṛdi śritāḥ |\natha martyo'mṛto bhavatyatra brahma samaśnute ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403133,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403133",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.3.15",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      3,
+      15
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "यथा सर्वे प्रभिद्यन्ते हृदयस्येह ग्रन्थयः ।\nअथ मर्त्योऽमृतो भवत्येतावद्ध्यनुशासनम् ॥",
+    "iast": "yathā sarve prabhidyante hṛdayasyeha granthayaḥ |\natha martyo'mṛto bhavatyetāvaddhyanuśāsanam ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403133,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403133",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.3.16",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      3,
+      16
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "शतं चैका च हृदयस्य नाड्य-\nस्तासां मूर्धानमभिनिःसृतैका ।\nतयोर्ध्वमायन्नमृतत्वमेति\nविष्वङ्ङन्या उत्क्रमणे भवन्ति ॥",
+    "iast": "śataṃ caikā ca hṛdayasya nāḍya-\nstāsāṃ mūrdhānamabhiniḥsṛtaikā |\ntayordhvamāyannamṛtatvameti\nviṣvaṅṅanyā utkramaṇe bhavanti ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403133,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403133",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.3.17",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      3,
+      17
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "अङ्गुष्ठमात्रः पुरुषोऽन्तरात्मा\nसदा जनानां हृदये संनिविष्टः ।\nतं स्वाच्छरीरात्प्रवृहेन्मुञ्जादिवेषीकां धैर्येण ।\nतं विद्याच्छुक्रममृतं तं विद्याच्छुक्रममृतमिति ॥",
+    "iast": "aṅguṣṭhamātraḥ puruṣo'ntarātmā\nsadā janānāṃ hṛdaye saṃniviṣṭaḥ |\ntaṃ svāccharīrātpravṛhenmuñjādiveṣīkāṃ dhairyeṇa |\ntaṃ vidyācchukramamṛtaṃ taṃ vidyācchukramamṛtamiti ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403133,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403133",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.3.18",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      3,
+      18
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "मृत्युप्रोक्तां नचिकेतोऽथ लब्ध्वा\nविद्यामेतां योगविधिं च कृत्स्नम् ।\nब्रह्मप्राप्तो विरजोऽभूद्विमृत्यु-\nरन्योऽप्येवं यो विदध्यात्ममेव ॥",
+    "iast": "mṛtyuproktāṃ naciketo'tha labdhvā\nvidyāmetāṃ yogavidhiṃ ca kṛtsnam |\nbrahmaprāpto virajo'bhūdvimṛtyu-\nranyo'pyevaṃ yo vidadhyātmameva ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403133,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403133",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "KaU.2.3.19",
+    "text": "katha_upanishad",
+    "ref": [
+      2,
+      3,
+      19
+    ],
+    "speaker": "",
+    "context": "",
+    "devanagari": "सह नाववतु ।\nसह नौ भुनक्तु ।\nसह वीर्यं करवावहै ।\nतेजस्विनावधीतमस्तु मा विद्विषावहै ॥",
+    "iast": "saha nāvavatu |\nsaha nau bhunaktu |\nsaha vīryaṃ karavāvahai |\ntejasvināvadhītamastu mā vidviṣāvahai ||",
+    "english": "",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "कठोपनिषत्/द्वितीयोध्यायः/तृतीयवल्ली",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A5%8B%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "revision": 403133,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=403133",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  }
+]

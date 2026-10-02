@@ -1,0 +1,402 @@
+{
+  "KaU.1.1.1": {
+    "speaker": "narrator",
+    "context": "The Upanishad opens with a story: a father performing a sacrifice gives away everything he owns, while his young son watches.",
+    "english": "Om. Wanting its reward, the son of Vajashravas, it is told, gave away all he owned. He had a son named Nachiketas.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The story serves to praise the knowledge that follows. Vājaśravasa performed the Viśvajit sacrifice, in which one gives away everything, wanting its reward."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.2": {
+    "speaker": "narrator",
+    "context": "As the cows are led away as gifts for the priests, faith stirs in the boy Nachiketas.",
+    "english": "Though he was only a boy, faith entered him as the gifts were being led away, and he thought:",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Faith, a sense of what is right, prompted by concern for his father's welfare, entered the young boy as the cows were being taken to the priests as their fee."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.3": {
+    "speaker": "Nachiketas",
+    "context": "Nachiketas sees that the cows his father gives away are old and useless, and worries about the result for his father.",
+    "english": "'They have drunk their water, eaten their grass, given their milk, and are barren. Joyless are the worlds he goes to who gives such cows.'",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The cows given as the fee are old and useless; the sacrificer who gives them goes to the worlds called 'joyless'."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.4": {
+    "speaker": "narrator",
+    "context": "Wanting to save his father's sacrifice, Nachiketas offers himself; his father, angered, says he gives him to Death.",
+    "english": "He said to his father, 'Father, to whom will you give me?' He said it a second time, and a third. His father said to him, 'To Death I give you!'",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Thinking a son should prevent the bad result of his father's flawed sacrifice, even by giving himself, Nachiketas asked. Ignored, he asked again; his father, angry that this was not how a boy behaves, said, 'I give you to Death.'"}
+    ],
+    "safety_flags": ["death"], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.5": {
+    "speaker": "Nachiketas",
+    "context": "Alone, Nachiketas reflects on his father's angry words and wonders what Death could want with him.",
+    "english": "Among many I go as the first; among many I go as one of the middle. What work does Yama have that he will do through me today?",
+    "situations": ["relationships_forgiveness"], "life_stages": ["student"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Among many disciples or sons I rank first or middle, never last; my father spoke in anger, without purpose. Still, so that his word is not false, Nachiketas speaks to his father, who now grieves over what he said."}
+    ],
+    "safety_flags": ["death", "distress_gentle"], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.6": {
+    "speaker": "Nachiketas",
+    "context": "Nachiketas urges his grieving father to keep his word as good people always have, since mortal life passes like a crop.",
+    "english": "Look back at how those before us acted; look around at how others act now. A mortal ripens like grain, and like grain is born again.",
+    "situations": ["ageing_death_impermanence"], "life_stages": ["householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Consider how your forefathers acted and how good people act now: none made their word false, and no one becomes ageless by breaking it. Mortals ripen and die like grain and are born again, so keep your truth and send me to Yama. The father sent him, and Yama was away for three nights."}
+    ],
+    "safety_flags": ["death", "under18_hold"], "cross_refs": ["BG.2.27"], "review_status": "draft"
+  },
+  "KaU.1.1.7": {
+    "speaker": "Yama's household",
+    "context": "Nachiketas waits three nights at Death's house; when Yama returns, his household urges him to honour the guest.",
+    "english": "A brahmin guest enters houses like fire itself. People make this offering of peace to him: bring water, son of Vivasvat!",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "A brahmin guest enters as the fire Vaiśvānara, as if burning; good people calm him with water for the feet and a seat. So bring water, Yama, for neglecting a guest brings harm."}
+    ],
+    "safety_flags": ["caste_gender"], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.8": {
+    "speaker": "Yama's household",
+    "context": "Yama's household warns of what is lost when a guest goes unfed.",
+    "english": "Hopes and expectations, the fruit of good company, kind speech, sacrifices and good works, sons and cattle: all these are taken from the person of little understanding in whose house a brahmin stays without food.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "All these are destroyed for one who lets a brahmin guest stay unfed; so a guest must never be neglected, in any circumstance."}
+    ],
+    "safety_flags": ["caste_gender"], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.9": {
+    "speaker": "Yama",
+    "context": "Yama honours Nachiketas, who waited three nights without food, and offers him three boons.",
+    "english": "Brahmin, since you, a guest worthy of honour, have stayed three nights in my house without eating, homage to you, brahmin, and may all go well for me. So choose three boons in return.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "To make amends for the fault of a guest's fasting in his house, and to please Nachiketas further, Yama offers one boon for each night he waited."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.10": {
+    "speaker": "Nachiketas",
+    "context": "For his first boon, Nachiketas asks that his father be at peace, free of anger, and welcome him home.",
+    "english": "That Gautama, my father, may be calm in mind, cheerful, and free of anger towards me, O Death; that he may recognise and greet me when you send me back: this I choose as the first of the three boons.",
+    "situations": ["relationships_forgiveness", "anger_resentment"], "life_stages": ["student", "householder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "That my father stop worrying about what has become of me, be cheerful and free of anger, and recognise me as his son returned: the first boon is my father's contentment."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.11": {
+    "speaker": "Yama",
+    "context": "Yama grants the first boon: the father will welcome his son back, his anger gone.",
+    "english": "Auddalaki Aruni, released by me, will recognise you and be as he was before. Seeing you freed from the jaws of death, he will sleep peacefully at night, his anger gone.",
+    "situations": ["relationships_forgiveness", "anger_resentment"], "life_stages": ["student", "householder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Your father will be as affectionate towards you as before; with my permission he will sleep happily, free of anger, having seen you freed from death."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.12": {
+    "speaker": "Nachiketas",
+    "context": "Nachiketas describes the heaven-world, free of fear, age and sorrow, before asking his second boon.",
+    "english": "In the heaven-world there is no fear at all; you are not there, and no one fears old age. Having crossed beyond both hunger and thirst, free of sorrow, one rejoices in the heaven-world.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "In heaven there is no fear from disease or the like, and Death does not strike suddenly as here; beyond hunger, thirst and sorrow, one rejoices."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.13": {
+    "speaker": "Nachiketas",
+    "context": "For his second boon, Nachiketas asks Death to teach him the sacred fire that leads to heaven.",
+    "english": "You know, Death, the fire that leads to heaven; explain it to me, for I have faith. Those who reach heaven gain immortality. This I choose as my second boon.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Those who build this fire reach heaven and gain 'immortality', meaning the state of the gods; Nachiketas asks for knowledge of the fire as his second boon."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.14": {
+    "speaker": "Yama",
+    "context": "Death agrees to teach the fire that leads to heaven.",
+    "english": "I will explain it to you; learn it from me, Nachiketas, for I know the fire that leads to heaven. Know this fire, the way to the endless world and its foundation, as hidden in the secret place.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The fire is the means to heaven and also the support of the world as Virāj; 'hidden in the secret place' means set in the intellect of the wise."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.15": {
+    "speaker": "narrator",
+    "context": "The Upanishad reports that Death taught the fire ritual in detail and Nachiketas repeated it back correctly.",
+    "english": "He told him of that fire, the beginning of the worlds: what bricks, how many, and how they are laid. And Nachiketas repeated it back just as it was told. Then Death, pleased, spoke again.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "These are the Upanishad's own words. Death taught the fire, the first embodied being, with the bricks, their number and arrangement; pleased with the repetition, he wished to give a boon beyond the three."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.16": {
+    "speaker": "Yama",
+    "context": "Pleased with his student, Death gives Nachiketas an extra boon: the fire will bear his name.",
+    "english": "The great-souled one, delighted, said to him: 'I give you another boon here and now: this fire shall be known by your name. And take this many-coloured chain.'",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Seeing the student's fitness, Death gives a fourth boon: the fire named after Nachiketas, and a precious, many-coloured necklace; or, alternatively, the path of ritual action with its many results."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.17": {
+    "speaker": "Yama",
+    "context": "Death praises the fire ritual and the peace it brings to one who performs it fully.",
+    "english": "One who has kindled the Nachiketa fire three times, joined with the three, doing the three works, crosses over birth and death. Knowing the god born of Brahman, all-knowing and worthy of praise, and realising him, one reaches this peace for ever.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'The three' are mother, father and teacher, or alternatively scripture, tradition and the virtuous; 'the three works' are sacrifice, study and giving. Knowing Virāj, born of Hiraṇyagarbha, one reaches the state of Virāj by combining ritual and meditation."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.18": {
+    "speaker": "Yama",
+    "context": "Death concludes his praise of the fire ritual and its reward in heaven.",
+    "english": "One who knows these three and, knowing this, builds the Nachiketa fire, casts off the nooses of death beforehand and, beyond sorrow, rejoices in the heaven-world.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The 'nooses of death' are wrongdoing, ignorance, passion and hatred; such a person casts them off even before the body falls and rejoices in the world of Virāj."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.19": {
+    "speaker": "Yama",
+    "context": "Death closes the second boon and invites Nachiketas to choose his third.",
+    "english": "This is your fire that leads to heaven, Nachiketas, which you chose with your second boon. People will call this fire by your name. Choose your third boon, Nachiketas.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Until the third boon is given, Death remains in debt. What has been taught so far concerns ritual; what follows teaches knowledge of the Self, which alone removes the ignorance at the root of rebirth, and the coming temptations test Nachiketas's detachment."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.20": {
+    "speaker": "Nachiketas",
+    "context": "For his third boon, Nachiketas asks the great question: does a person still exist after death?",
+    "english": "There is this doubt about a person who has died: some say 'he is', others say 'he is not'. Taught by you, I would know this. This is the third of my boons.",
+    "situations": ["ageing_death_impermanence", "grief_loss", "purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Some say there is a Self, distinct from body, senses, mind and intellect, that goes on to another body; others deny it. Neither perception nor inference settles the question, and the highest human good depends on knowing the answer."}
+    ],
+    "safety_flags": ["death"], "cross_refs": ["BG.2.20"], "review_status": "draft"
+  },
+  "KaU.1.1.21": {
+    "speaker": "Yama",
+    "context": "To test Nachiketas, Death says the question is too subtle and asks him to choose another boon.",
+    "english": "Even the gods of old had doubts about this; it is not easy to understand, this subtle matter. Choose another boon, Nachiketas. Do not press me; release me from this one.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "To test whether Nachiketas is fit for self-knowledge, Death says the Self is subtle and hard to know even when heard; 'do not press me' as a creditor presses a debtor."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.22": {
+    "speaker": "Nachiketas",
+    "context": "Nachiketas refuses to give up his question: no teacher equals Death, and no boon equals this one.",
+    "english": "Even the gods had doubts about this, you say, Death, and it is not easy to understand; yet no other teacher like you can be found, and no other boon equals this one.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Since even the wise find it hard, no teacher equal to you can be found; this boon leads to the highest good, so no other boon, all of which bring impermanent results, can equal it."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.23": {
+    "speaker": "Yama",
+    "context": "Death tries to tempt Nachiketas away from his question with descendants, wealth, land and long life (1.1.23-1.1.25).",
+    "english": "Choose sons and grandsons who will live a hundred years, many cattle, elephants, gold and horses. Choose a great expanse of land, and live yourself as many autumns as you wish.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Death offers long-lived descendants, cattle, elephants, gold, horses and a kingdom, and, since all these would be useless with a short life, as long a life as Nachiketas wants."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.24": {
+    "speaker": "Yama",
+    "context": "Death continues to tempt Nachiketas with wealth, long life, kingship and every pleasure.",
+    "english": "If you think of any boon equal to this, choose it: wealth and long life. Be a ruler on the wide earth, Nachiketas. I will make you one who enjoys all desires.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Choose wealth with long life, be king of a great land; Death, a god whose will comes true, offers to make Nachiketas enjoy all desires, divine and human."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.25": {
+    "speaker": "Yama",
+    "context": "Death's final temptation offers heavenly women and every rare pleasure, if only Nachiketas will stop asking about death.",
+    "english": "Whatever desires are hard to win in the world of mortals, ask for them all as you wish: these lovely women with chariots and music, such as no mortal can obtain. Be served by them, my gift to you. Nachiketas, do not ask about death.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The women are heavenly nymphs, who cannot be won without the favour of gods like Death. 'Do not ask about death' means: do not ask whether one exists after death, a question as pointless as examining a crow's teeth."}
+    ],
+    "safety_flags": ["death", "caste_gender"], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.26": {
+    "speaker": "Nachiketas",
+    "context": "Unmoved, Nachiketas replies that all these pleasures are fleeting and wear out the senses.",
+    "english": "These last only till tomorrow, Death, and they wear away the vigour of all a mortal's senses. Even a whole life is short. Keep your chariots; keep your dance and song.",
+    "situations": ["temptation_self_control", "success_wealth", "ageing_death_impermanence"], "life_stages": ["student", "householder", "elder"], "aims": ["kama", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The pleasures offered may not last even until tomorrow, and they drain the senses' vigour along with merit, wisdom and fame. Even the life of Brahmā is short, let alone ours."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.27": {
+    "speaker": "Nachiketas",
+    "context": "Nachiketas says wealth never satisfies anyone, and he wants only the answer to his question.",
+    "english": "No one is satisfied by wealth. We shall have wealth if we have seen you; we shall live as long as you rule. But the boon I would choose is that one alone.",
+    "situations": ["success_wealth", "temptation_self_control", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["artha", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "No one in the world is ever seen to be satisfied by gaining wealth. Having met Death, wealth and life will come anyway; the only boon worth choosing is knowledge of the Self."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.28": {
+    "speaker": "Nachiketas",
+    "context": "Nachiketas asks who, having glimpsed the immortal, would still want a long life of fading pleasures.",
+    "english": "Having come near the ageless and immortal, what ageing mortal here below, who understands, would delight in a very long life, dwelling on the pleasures of beauty and love?",
+    "situations": ["ageing_death_impermanence", "temptation_self_control", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Who, knowing there is something higher to be gained from the immortals, would choose unstable things like sons and gold? Reflecting on how fleeting beauty and pleasure are, what discerning person would delight in a long life?"}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.1.29": {
+    "speaker": "Nachiketas",
+    "context": "Nachiketas holds to his question about what lies beyond death and chooses no other boon.",
+    "english": "That about which people doubt, Death, concerning the great passing beyond: tell us that. This boon, which enters into what is hidden: Nachiketas chooses no other.",
+    "situations": ["purpose_meaning", "ageing_death_impermanence"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Tell us the certain knowledge of the Self concerning the next world. The closing words are the Upanishad's own: Nachiketas does not choose, even in thought, any boon of impermanent things."}
+    ],
+    "safety_flags": ["death"], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.2.1": {
+    "speaker": "Yama",
+    "context": "Satisfied that Nachiketas is ready, Death begins his teaching by contrasting the good with the merely pleasant.",
+    "english": "The good is one thing, the pleasant quite another. Both, with different aims, bind a person. All goes well for the one who takes the good; whoever chooses the pleasant falls short of the goal.",
+    "situations": ["temptation_self_control", "purpose_meaning", "success_wealth"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "kama", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Everyone pursues one or the other, prosperity or liberation, and one person cannot follow both, since they are as opposed as knowledge and ignorance. Whoever takes the good alone fares well; the short-sighted who choose the pleasant lose the lasting goal."}
+    ],
+    "safety_flags": [], "cross_refs": ["BG.18.37", "BG.18.38"], "review_status": "draft"
+  },
+  "KaU.1.2.2": {
+    "speaker": "Yama",
+    "context": "Death says the wise tell the good from the pleasant and choose the good, while the foolish choose comfort.",
+    "english": "The good and the pleasant both come to a person. The wise one examines them closely and tells them apart. The wise choose the good over the pleasant; the foolish choose the pleasant, for getting and keeping.",
+    "situations": ["temptation_self_control", "purpose_meaning", "success_wealth"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "kama", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Like a swan separating milk from water, the wise weigh the two and choose the good. The dull, unable to discern, choose the pleasant, such as cattle and sons, for the growth and protection of the body."}
+    ],
+    "safety_flags": [], "cross_refs": ["BG.18.37", "BG.18.38"], "review_status": "draft"
+  },
+  "KaU.1.2.3": {
+    "speaker": "Yama",
+    "context": "Death praises Nachiketas for rejecting the pleasures offered and not taking the path of wealth where many sink.",
+    "english": "But you, Nachiketas, having reflected on desires dear and lovely to look at, have let them go. You have not taken this chain of wealth in which many people sink.",
+    "situations": ["temptation_self_control", "success_wealth"], "life_stages": ["student", "householder", "elder"], "aims": ["artha", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Tempted again and again, you weighed sons and nymphs as impermanent and worthless and gave them up; how wise you are. You did not take the despised path of wealth, on which fools sink."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.2.4": {
+    "speaker": "Yama",
+    "context": "Death says knowledge and ignorance lead in opposite directions, and Nachiketas has shown himself a seeker of knowledge.",
+    "english": "Far apart and leading different ways are these two: ignorance and what is known as knowledge. I consider Nachiketas a seeker of knowledge, for many desires did not distract you.",
+    "situations": ["temptation_self_control", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Like darkness and light, ignorance and knowledge lead to rebirth and to liberation. Since the many pleasures did not pull you from the path of the good, I count you a seeker of knowledge."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.2.5": {
+    "speaker": "Yama",
+    "context": "Death describes people who think themselves wise while living in ignorance: the blind led by the blind.",
+    "english": "Living in the midst of ignorance, thinking themselves wise and learned, the deluded go round and round, staggering, like the blind led by the blind.",
+    "situations": ["ego_pride_envy", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Caught in ignorance as in thick darkness, bound by a hundred ropes of craving for sons and cattle, yet thinking themselves wise and learned, the deluded wander through old age, death and disease, like the blind led by the blind on a rough road."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.2.6": {
+    "speaker": "Yama",
+    "context": "Death says those absorbed in wealth and this world alone come under his power again and again.",
+    "english": "The passage beyond does not shine for the childish, careless and deluded by wealth. 'This world exists, there is no other,' thinks such a person, and falls into my power again and again.",
+    "situations": ["success_wealth", "ego_pride_envy", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["artha", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The means to the next world does not occur to the immature, absorbed in sons and cattle and blinded by wealth. Thinking only this visible world of women, food and drink exists, they are born and die again and again; most people are like this."}
+    ],
+    "safety_flags": ["death"], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.2.7": {
+    "speaker": "Yama",
+    "context": "Death says the Self is rarely heard of, rarely understood, and rarely taught well.",
+    "english": "Many do not even get to hear of it; many who hear of it do not understand it. Wonderful is the one who teaches it, skilled the one who gains it; wonderful the one who knows it, taught by the skilled.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Few even hear of the Self, and of those who hear, few understand. A teacher of it is rare among many, and rare is the one who comes to know it when taught by a skilled teacher."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.2.8": {
+    "speaker": "Yama",
+    "context": "Death says the Self cannot be understood when taught by an ordinary person, but only by one who has realised it.",
+    "english": "Taught by an inferior person, it is not easily understood, though thought about in many ways. When it is taught by one who is not separate from it, no uncertainty remains, for it is finer than the finest and beyond argument.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Argued about in many ways, as existing or not, as doer or not, the Self cannot be well understood from an ordinary teacher. Taught by a teacher who sees no separation, being one with Brahman, no speculation about it remains; he also offers the readings 'nothing further remains to be known' and 'no failure to understand remains'."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.2.9": {
+    "speaker": "Yama",
+    "context": "Death says this understanding comes through teaching, not argument, and praises Nachiketas's steadfastness.",
+    "english": "This understanding is not reached by reasoning, dearest; taught by another, it is easily understood. You have gained it, for your resolve is true. May we find a questioner like you, Nachiketas!",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "This insight from scripture is not won, and should not be given up, through mere argument, since a reasoner without scripture says whatever he imagines. Taught by a teacher versed in scripture, it becomes clear; Death praises Nachiketas to commend the teaching to come."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.2.10": {
+    "speaker": "Yama",
+    "context": "Death admits that impermanent means cannot reach the eternal; his own position was gained through ritual.",
+    "english": "I know that what is called treasure is impermanent, for the permanent is not reached by impermanent things. So I built the Nachiketa fire with impermanent things, and gained what is lasting.",
+    "situations": ["success_wealth", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["artha", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The 'treasure' of ritual results is impermanent, and the eternal Self cannot be reached by impermanent means. Knowing this, Death still built the fire with things like cattle, and so gained his own place, which is 'lasting' only relatively."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KaU.1.2.11": {
+    "speaker": "Yama",
+    "context": "Death praises Nachiketas for seeing every worldly reward and letting all of them go.",
+    "english": "You saw the fulfilment of desire, the foundation of the world, the endless fruit of ritual, the far shore of fearlessness, the great and praised wide path, the firm standing; and, wise and steadfast, Nachiketas, you let them all go.",
+    "situations": ["temptation_self_control", "success_wealth", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "You saw all the fruits that culminate in the state of Hiraṇyagarbha, where every desire is fulfilled, the support of the world, with its powers, and yet, wanting only the highest, you let go of all worldly enjoyment with firmness. How excellent you are."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  }
+}
