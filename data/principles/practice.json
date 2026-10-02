@@ -1,0 +1,402 @@
+[
+  {
+    "id": "hard-at-first-sweet-later",
+    "name": "Like poison at first, like nectar in the end",
+    "meaning": "The finest happiness is like poison at first and nectar in the end, born of a clear understanding; pleasure that is nectar first turns to poison later.",
+    "supporting": [
+      "BG.18.37",
+      "BG.18.36",
+      "BG.18.38"
+    ],
+    "applies_when": "Someone is giving up on a worthwhile discipline (study, training, a recovery programme) because the start is unpleasant.",
+    "misleads_when": "It is used to justify pain that never turns into anything good, such as an abusive relationship or a harmful practice.",
+    "related": [
+      "pleasant-versus-good",
+      "steady-practice"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Commit to the hard thing for a fixed trial period (say three weeks) before judging it by how it feels.",
+    "situations": [
+      "lack_of_motivation",
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "fortitude-that-holds",
+    "name": "Steady fortitude, not stubborn clinging",
+    "meaning": "Clear fortitude steadies mind, breath and senses towards a good aim; a lesser fortitude clings to rewards; the dullest clings stubbornly to sleep, fear, grief, despondency and arrogance.",
+    "supporting": [
+      "BG.18.33",
+      "BG.18.34",
+      "BG.18.35"
+    ],
+    "applies_when": "Someone needs to tell the difference between healthy persistence and holding on to something that keeps them stuck.",
+    "misleads_when": "It is used to shame someone who is grieving or depressed for 'clinging' to their state. Grief and low mood need care, not judgement.",
+    "related": [
+      "steady-practice",
+      "states-arise-and-pass"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Ask of what you are persisting in: is this holding me towards something good, or holding me in place?",
+    "situations": [
+      "lack_of_motivation",
+      "temptation_self_control",
+      "fear_anxiety"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "procrastination-as-a-state",
+    "name": "Procrastination is a state, not a verdict",
+    "meaning": "Inertia (tamas) binds through carelessness, laziness and sleep, and shows as procrastination and despondency; but it is one passing quality among three, not a person's identity.",
+    "supporting": [
+      "BG.14.8",
+      "BG.18.39",
+      "BG.14.10"
+    ],
+    "applies_when": "Someone is stuck putting things off and wants to understand it without self-condemnation.",
+    "misleads_when": "It is used with someone who is depressed or in distress, for whom it can sound like blame. Restricted.",
+    "related": [
+      "three-gunas-awareness",
+      "states-arise-and-pass"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Change the state before the task: move your body, change rooms or open a window, then do two minutes of the task.",
+    "situations": [
+      "lack_of_motivation",
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [
+      "distress"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "mental-discipline",
+    "name": "Discipline of the mind: serenity, gentleness, silence",
+    "meaning": "There is a discipline of body, of speech and of mind; the discipline of the mind is serenity, gentleness, silence, self-control and purity of heart.",
+    "supporting": [
+      "BG.17.16",
+      "BG.17.15"
+    ],
+    "applies_when": "Someone wants to grow in character, not only in outward behaviour.",
+    "misleads_when": "It is used to demand silence from someone who needs to speak up.",
+    "related": [
+      "speech-without-harm",
+      "calm-before-clarity"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Choose one of the five qualities (serenity, gentleness, silence, self-control, purity of heart) and practise it on purpose for a week.",
+    "situations": [
+      "anger_resentment",
+      "fear_anxiety",
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "every-reason-to-seek-is-valid",
+    "name": "Distress, curiosity and need are all doors",
+    "meaning": "Four kinds of people turn to the divine: the distressed, the seeker of knowledge, the seeker of wealth and the wise. All of them are called noble.",
+    "supporting": [
+      "BG.7.16",
+      "BG.7.18"
+    ],
+    "applies_when": "Someone feels they are only turning to spirituality because they are in trouble or want something, and feel it does not count.",
+    "misleads_when": "It is used to suggest prayer replaces practical help in a crisis.",
+    "related": [
+      "refuge-and-trust",
+      "small-offerings-with-love"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Begin wherever you are. Your reason for seeking does not have to be pure to be a real start.",
+    "situations": [
+      "purpose_meaning",
+      "grief_loss",
+      "fear_anxiety"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "engage-without-attraction-or-aversion",
+    "name": "Move among things without craving or aversion",
+    "meaning": "One who moves among the objects of the senses with senses free of attraction and aversion, under control, reaches clarity; attraction and aversion lie in wait in every sense object.",
+    "supporting": [
+      "BG.2.64",
+      "BG.3.34",
+      "BG.7.27"
+    ],
+    "applies_when": "Someone cannot avoid a tempting or irritating environment (a workplace, a family, a city) and must live in it well.",
+    "misleads_when": "It is used to deny strong likes and dislikes that are telling someone something important about their wellbeing.",
+    "related": [
+      "guard-the-senses",
+      "desire-anger-chain"
+    ],
+    "conflicts_with": [],
+    "modern_application": "In the next situation that pulls or irritates you, name the pull or the irritation silently, then act from your plan, not from it.",
+    "situations": [
+      "temptation_self_control",
+      "anger_resentment"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "strength-without-passion",
+    "name": "Strength free of desire and passion",
+    "meaning": "Of the strong, the divine is the strength that is free of desire and passion.",
+    "supporting": [
+      "BG.7.11"
+    ],
+    "applies_when": "A leader, athlete or anyone with power wants to use their strength well.",
+    "misleads_when": "It is used to deny that strength may sometimes need to be used firmly.",
+    "related": [
+      "the-steady-doer",
+      "non-violence"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Before using power over others, ask: am I acting from what is needed, or from wanting and heat?",
+    "situations": [
+      "ego_pride_envy",
+      "anger_resentment",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "patience",
+    "name": "Patience and forbearance",
+    "meaning": "Patience appears among the marks of knowledge and among the qualities that come from God, alongside truthfulness, self-restraint and calm.",
+    "supporting": [
+      "BG.13.7",
+      "BG.10.4",
+      "BG.12.13"
+    ],
+    "applies_when": "A situation will take time to resolve: a recovery, a child's growth, a slow career, a difficult relative.",
+    "misleads_when": "It is used to tell someone to keep waiting in a situation that is harming them.",
+    "related": [
+      "bear-what-comes-and-goes",
+      "steady-practice"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Write down the realistic timeframe for what you are waiting for, and one thing you will do meanwhile.",
+    "situations": [
+      "anger_resentment",
+      "relationships_forgiveness",
+      "failure_setback"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "independent-of-the-crowd",
+    "name": "The wise are awake when the world sleeps",
+    "meaning": "What is night for all beings is waking for the self-controlled; few among thousands strive for what matters most, and fewer still truly know it.",
+    "supporting": [
+      "BG.2.69",
+      "BG.7.3",
+      "KaU.1.2.5"
+    ],
+    "applies_when": "Someone is under peer pressure to follow what everyone around them values.",
+    "misleads_when": "It turns into contempt for other people or a feeling of superiority.",
+    "related": [
+      "learning-is-not-wisdom",
+      "persist-in-the-real-question"
+    ],
+    "conflicts_with": [
+      "meet-people-where-they-are"
+    ],
+    "modern_application": "Write down one value you hold that your group does not. Decide one way to keep it this week without fighting the group.",
+    "situations": [
+      "ego_pride_envy",
+      "purpose_meaning",
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "the-wish-carries-you",
+    "name": "Even the wish to grow carries you forward",
+    "meaning": "Earlier practice carries a person forward even without their wanting; even one who merely wishes to know goes beyond the rituals.",
+    "supporting": [
+      "BG.6.44",
+      "BG.6.43"
+    ],
+    "applies_when": "A beginner feels they have nothing to show and doubts they should even try.",
+    "misleads_when": "It is used to substitute wishing for doing.",
+    "related": [
+      "effort-never-wasted",
+      "graded-practice"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Write down the wish itself. It is a beginning. Add one small action to it today.",
+    "situations": [
+      "lack_of_motivation",
+      "purpose_meaning",
+      "failure_setback"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "let-go-of-mine",
+    "name": "Let go of 'mine'",
+    "meaning": "One who lives free of longing, without the sense of 'mine' and without ego, attains peace; the dear devotee is free of possessiveness.",
+    "supporting": [
+      "BG.2.71",
+      "BG.12.13"
+    ],
+    "applies_when": "Possessiveness (of things, people, credit or territory) is causing conflict or anxiety.",
+    "misleads_when": "It is used to deny someone their rightful property, wages or boundaries.",
+    "related": [
+      "enjoy-through-letting-go",
+      "loving-without-clinging"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Notice how often you say 'my' today about things that are shared. Try 'our' in one conversation.",
+    "situations": [
+      "ego_pride_envy",
+      "success_wealth",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "voice-your-fear-of-failing",
+    "name": "Ask your fear of failure out loud",
+    "meaning": "Arjuna asks what becomes of one who tries and fails, 'like a scattered cloud'. Krishna answers that no one who does good comes to ruin.",
+    "supporting": [
+      "BG.6.37",
+      "BG.6.38",
+      "BG.6.40"
+    ],
+    "applies_when": "Fear of failing is stopping someone from starting, or they fear their past failures define them.",
+    "misleads_when": "It is used to promise that nothing will go wrong.",
+    "related": [
+      "effort-never-wasted",
+      "ask-for-help-when-lost"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Write the exact failure you fear, then answer it as a wise friend would. Read both.",
+    "situations": [
+      "fear_anxiety",
+      "failure_setback",
+      "lack_of_motivation"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  }
+]

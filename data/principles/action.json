@@ -1,0 +1,688 @@
+[
+  {
+    "id": "work-not-results",
+    "name": "Your claim is to the work, not its results",
+    "meaning": "Put your full effort into what is yours to do, and loosen your grip on how it turns out; outcomes depend on many factors you do not control.",
+    "supporting": [
+      "BG.2.47",
+      "BG.2.48",
+      "BG.18.23",
+      "BG.3.19"
+    ],
+    "applies_when": "Anxiety about outcomes (exams, interviews, launches, results you are waiting for) is paralysing or distorting the work itself.",
+    "misleads_when": "It is used to ignore consequences, skip planning, excuse harm to others ('I did my part'), or to justify unfair pay or treatment by someone with power over you.",
+    "related": [
+      "evenness-in-success-and-failure",
+      "skill-in-action",
+      "act-as-offering"
+    ],
+    "conflicts_with": [
+      "weigh-consequences-and-capacity"
+    ],
+    "modern_application": "List what is in your control this week (preparation, effort, honesty) and what is not (the examiner, the market, other people). Judge yourself only on the first list.",
+    "situations": [
+      "fear_anxiety",
+      "failure_setback",
+      "lack_of_motivation",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "evenness-in-success-and-failure",
+    "name": "Stay the same in success and failure",
+    "meaning": "Evenness of mind when things go well or badly is itself the discipline; success and failure both pass.",
+    "supporting": [
+      "BG.2.48",
+      "BG.4.22",
+      "BG.18.26",
+      "BG.2.57"
+    ],
+    "applies_when": "A result (good or bad) is swinging your mood and self-worth, or you are about to make a big decision on the high or low of one outcome.",
+    "misleads_when": "It is used to suppress real disappointment or joy, or to stop learning from what went wrong.",
+    "related": [
+      "work-not-results",
+      "honour-and-dishonour-alike",
+      "bear-what-comes-and-goes"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Before reacting to a result, wait a day, then ask: what would I do next if this had gone the other way? Usually the next step is the same.",
+    "situations": [
+      "failure_setback",
+      "success_wealth",
+      "fear_anxiety"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "skill-in-action",
+    "name": "Yoga is skill in action",
+    "meaning": "Doing your work with full attention and steadiness, without being distracted by attachment, is itself a spiritual practice.",
+    "supporting": [
+      "BG.2.50",
+      "BG.18.26",
+      "BG.18.33"
+    ],
+    "applies_when": "Work feels separate from what matters to you, or you want your everyday job to be meaningful.",
+    "misleads_when": "It turns into perfectionism, or into the idea that only flawless work counts.",
+    "related": [
+      "work-not-results",
+      "act-as-offering"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Pick one task today and give it unbroken attention for 25 minutes, phone away. Notice the quality of attention, not the output.",
+    "situations": [
+      "purpose_meaning",
+      "lack_of_motivation"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "artha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "action-over-inaction",
+    "name": "Act rather than withdraw",
+    "meaning": "No one can avoid acting altogether; doing what is yours to do is better than inaction, and stepping back does not by itself bring freedom.",
+    "supporting": [
+      "BG.3.8",
+      "BG.3.5",
+      "BG.3.4",
+      "IsU.2"
+    ],
+    "applies_when": "Someone is tempted to avoid a responsibility by doing nothing, or hopes that withdrawing will make a problem disappear.",
+    "misleads_when": "The person genuinely needs rest, is burnt out or ill, or is in danger; then pausing or leaving is right, and moderation applies.",
+    "related": [
+      "relinquish-fruit-not-action",
+      "moderation-in-living",
+      "keep-contributing"
+    ],
+    "conflicts_with": [
+      "full-renunciation-path"
+    ],
+    "modern_application": "Name the one action you have been avoiding and do the smallest first step of it today.",
+    "situations": [
+      "lack_of_motivation",
+      "purpose_meaning",
+      "conflict_of_duties"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "effort-never-wasted",
+    "name": "No sincere effort is wasted",
+    "meaning": "Effort towards the good is never lost, even when it falls short; a person who tries and slips comes to no ruin and can start again from where they were.",
+    "supporting": [
+      "BG.2.40",
+      "BG.6.40",
+      "BG.6.43",
+      "BG.6.45"
+    ],
+    "applies_when": "Someone has failed, relapsed or fallen short and believes all their effort was for nothing.",
+    "misleads_when": "It is used to keep pouring effort into a path that is clearly wrong for the person (sunk cost).",
+    "related": [
+      "even-the-wrongdoer-can-cross",
+      "graded-practice"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Write down three things your effort built that remain even though the result failed (skills, habits, relationships). Restart from those, not from zero.",
+    "situations": [
+      "failure_setback",
+      "lack_of_motivation",
+      "fear_anxiety"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "own-path-over-imitation",
+    "name": "Your own path, imperfect, over someone else's",
+    "meaning": "Living out your own duty and nature, even imperfectly, is better than performing someone else's role well.",
+    "supporting": [
+      "BG.3.35"
+    ],
+    "applies_when": "Someone is copying a path (career, lifestyle) because it looks impressive on others, against their own nature and responsibilities.",
+    "misleads_when": "It is used to keep people in roles assigned by caste, gender or family against their will. Traditionally the verse spoke of social duty; Viveka never uses it to confine anyone.",
+    "related": [
+      "your-nature-shapes-you",
+      "reflect-then-choose"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Write two lists: what draws you to the other path, and what in your own situation only you can do. Choose from the second list.",
+    "situations": [
+      "conflict_of_duties",
+      "purpose_meaning",
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "act-as-offering",
+    "name": "Do everything as an offering",
+    "meaning": "Whatever you do, eat, give or endure can be done as an offering, which frees the act from selfish grasping.",
+    "supporting": [
+      "BG.9.27",
+      "BG.3.9",
+      "BG.5.10",
+      "BG.18.57"
+    ],
+    "applies_when": "Daily work feels empty or self-centred, or someone wants a simple way to bring meaning into ordinary tasks.",
+    "misleads_when": "It is used to make someone accept exploitation as 'service'.",
+    "related": [
+      "work-not-results",
+      "skill-in-action",
+      "small-offerings-with-love"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Before one routine task each day, dedicate it silently to someone or something larger than yourself.",
+    "situations": [
+      "purpose_meaning",
+      "lack_of_motivation"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "lead-by-example",
+    "name": "Others follow what you do",
+    "meaning": "Whatever a respected person does, others copy; those who lead should act well and help others without unsettling them.",
+    "supporting": [
+      "BG.3.21",
+      "BG.3.25",
+      "BG.3.26"
+    ],
+    "applies_when": "Parents, teachers, managers or older siblings are deciding how to behave, knowing others watch them.",
+    "misleads_when": "It turns into performing virtue for an audience rather than acting from conviction.",
+    "related": [
+      "work-for-the-good-of-all",
+      "keep-contributing"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Ask: if the people who look up to me copied exactly what I am about to do, would I be glad?",
+    "situations": [
+      "purpose_meaning",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "work-for-the-good-of-all",
+    "name": "Act for the welfare of all",
+    "meaning": "Act so as to hold the world together, delighting in the welfare of all beings, not only your own gain.",
+    "supporting": [
+      "BG.3.20",
+      "BG.3.25",
+      "BG.5.25",
+      "BG.12.4"
+    ],
+    "applies_when": "Choosing between a narrow personal gain and something that serves the wider community.",
+    "misleads_when": "It is used to demand self-sacrifice from people who are already over-giving or neglecting their own basic needs.",
+    "related": [
+      "lead-by-example",
+      "nourish-one-another"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Add one question to your decision: who else is affected, and how does this option leave them?",
+    "situations": [
+      "purpose_meaning",
+      "relationships_forgiveness",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "relinquish-fruit-not-action",
+    "name": "Give up the fruit, not the work",
+    "meaning": "True relinquishment means giving up attachment to results while still doing your duties; no embodied person can give up action entirely.",
+    "supporting": [
+      "BG.18.2",
+      "BG.18.6",
+      "BG.18.9",
+      "BG.18.11",
+      "BG.6.1"
+    ],
+    "applies_when": "Someone thinks spiritual seriousness means dropping their responsibilities.",
+    "misleads_when": "It is used to dismiss a person's real need to step away from something harmful.",
+    "related": [
+      "action-over-inaction",
+      "renounce-selfishness-not-the-world"
+    ],
+    "conflicts_with": [
+      "full-renunciation-path"
+    ],
+    "modern_application": "Keep the commitment; change the attitude. Write down the specific result you are clinging to, and decide to do the work well whatever it brings.",
+    "situations": [
+      "purpose_meaning",
+      "conflict_of_duties",
+      "lack_of_motivation"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "dont-quit-because-its-hard",
+    "name": "Don't drop a duty only because it is hard",
+    "meaning": "Giving up what you should do just because it is painful or tiring is a lesser kind of letting go and brings no real freedom.",
+    "supporting": [
+      "BG.18.8",
+      "BG.18.7",
+      "BG.18.10"
+    ],
+    "applies_when": "Someone wants to quit a course, job or commitment mainly because it has become difficult or uncomfortable.",
+    "misleads_when": "The difficulty is abuse, danger, exploitation or harm to health. Then leaving is right, and Viveka always supports it.",
+    "related": [
+      "action-over-inaction",
+      "steady-practice"
+    ],
+    "conflicts_with": [
+      "moderation-in-living"
+    ],
+    "modern_application": "Separate 'hard' from 'harmful': list what makes it hard (effort, boredom, fear) and what, if anything, makes it harmful. Only the second list is a reason to leave.",
+    "situations": [
+      "lack_of_motivation",
+      "fear_anxiety",
+      "conflict_of_duties"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "reciprocity",
+    "name": "Give back what sustains you",
+    "meaning": "Life runs on mutual nourishment; taking benefits without giving anything back is called theft.",
+    "supporting": [
+      "BG.3.11",
+      "BG.3.12",
+      "BG.3.13"
+    ],
+    "applies_when": "Someone is taking more than they give in a family, team or community, or feels unappreciated for what they give.",
+    "misleads_when": "It is used to keep score in close relationships, or to pressure someone into repaying help they never asked for.",
+    "related": [
+      "nourish-one-another",
+      "give-without-expecting-return"
+    ],
+    "conflicts_with": [],
+    "modern_application": "List who sustains your daily life. Choose one way to give back to one of them this week.",
+    "situations": [
+      "relationships_forgiveness",
+      "success_wealth",
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "give-without-expecting-return",
+    "name": "Give because it is right to give",
+    "meaning": "The best gift is given because giving is right, at the right time and place, to someone who cannot repay it; gifts given for a return, grudgingly or with contempt are lesser.",
+    "supporting": [
+      "BG.17.20",
+      "BG.17.21",
+      "BG.17.22"
+    ],
+    "applies_when": "Deciding whether, how or to whom to give money, time or help.",
+    "misleads_when": "It pushes someone to give beyond their means, or to tolerate being taken advantage of.",
+    "related": [
+      "reciprocity",
+      "purity-of-intention"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Before giving, check three things: am I expecting something back, is this the right moment, and will it actually help?",
+    "situations": [
+      "success_wealth",
+      "relationships_forgiveness",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "artha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "weigh-consequences-and-capacity",
+    "name": "Weigh consequences, harm and your own capacity",
+    "meaning": "Action begun without regard for its consequences, the loss it causes, harm to others or one's own capacity comes from delusion.",
+    "supporting": [
+      "BG.18.25",
+      "BG.18.30"
+    ],
+    "applies_when": "An impulsive or dramatic decision is being made without thinking through its effects.",
+    "misleads_when": "It becomes endless deliberation that prevents any action.",
+    "related": [
+      "clear-understanding",
+      "reflect-then-choose"
+    ],
+    "conflicts_with": [
+      "work-not-results"
+    ],
+    "modern_application": "Before acting, write four lines: likely consequences, what it could cost, who could be hurt, and whether you can actually carry it through.",
+    "situations": [
+      "conflict_of_duties",
+      "temptation_self_control",
+      "anger_resentment"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "understand-before-acting",
+    "name": "Understand what action really is",
+    "meaning": "Even the wise are confused about action and inaction; one must understand what right action, wrong action and non-action are before acting.",
+    "supporting": [
+      "BG.4.16",
+      "BG.4.17",
+      "BG.4.18"
+    ],
+    "applies_when": "A situation is morally confusing, and doing nothing might itself be a harmful choice.",
+    "misleads_when": "It is used to excuse never deciding.",
+    "related": [
+      "clear-understanding",
+      "weigh-consequences-and-capacity"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Ask: what happens if I do nothing? Treat that as an option with consequences, not as a neutral default.",
+    "situations": [
+      "conflict_of_duties",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "moderation-in-living",
+    "name": "Moderation in eating, sleep, work and rest",
+    "meaning": "Discipline is not for those who overdo or underdo eating, sleep or effort; balance in daily life is what ends sorrow.",
+    "supporting": [
+      "BG.6.16",
+      "BG.6.17"
+    ],
+    "applies_when": "Burnout, sleeplessness, overwork, crash diets, or extreme routines in the name of discipline.",
+    "misleads_when": "It is used to dismiss a real emergency that needs intense effort for a short time.",
+    "related": [
+      "no-self-torture",
+      "action-over-inaction"
+    ],
+    "conflicts_with": [
+      "dont-quit-because-its-hard"
+    ],
+    "modern_application": "Check four dials this week: sleep, food, work hours and rest. Adjust the one furthest from moderate.",
+    "situations": [
+      "temptation_self_control",
+      "fear_anxiety",
+      "lack_of_motivation"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "kama"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "steady-practice",
+    "name": "Practice and detachment train the mind",
+    "meaning": "The mind is restless, but it can be steadied by repeated practice and by letting go; when it wanders, bring it back.",
+    "supporting": [
+      "BG.6.35",
+      "BG.6.26",
+      "BG.6.36",
+      "KaU.2.3.11"
+    ],
+    "applies_when": "Someone feels their mind or habits are impossible to change, or keeps losing focus.",
+    "misleads_when": "It is used to blame someone with a medical or mental-health condition for not 'trying hard enough'.",
+    "related": [
+      "restless-mind-can-be-trained",
+      "guard-your-gains"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Choose one small daily practice (ten minutes of focus, a walk, a journal) and track only whether you returned to it, not how well it went.",
+    "situations": [
+      "lack_of_motivation",
+      "temptation_self_control",
+      "failure_setback"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "no-recognition-seeking",
+    "name": "Don't work for show",
+    "meaning": "Action or discipline done to gain respect, honour or display is unstable and fleeting.",
+    "supporting": [
+      "BG.17.12",
+      "BG.17.18",
+      "BG.18.24"
+    ],
+    "applies_when": "Effort is being shaped mainly by how it will look to others: likes, status or praise.",
+    "misleads_when": "It makes someone ashamed of wanting fair recognition for their work.",
+    "related": [
+      "purity-of-intention",
+      "hypocrisy-and-show"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Do one good thing this week that no one will know about.",
+    "situations": [
+      "ego_pride_envy",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "keep-contributing",
+    "name": "Keep acting even when you have nothing to gain",
+    "meaning": "Even one who needs nothing keeps acting, because others follow and the world is held together by such action.",
+    "supporting": [
+      "BG.3.22",
+      "BG.3.23",
+      "BG.3.25"
+    ],
+    "applies_when": "After retirement, success or financial security, someone wonders why they should keep contributing.",
+    "misleads_when": "It denies people well-earned rest, or pressures elders who have little energy left.",
+    "related": [
+      "lead-by-example",
+      "work-for-the-good-of-all",
+      "pass-it-on"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Offer one regular, modest contribution (mentoring, teaching, volunteering) that uses what you already know.",
+    "situations": [
+      "purpose_meaning",
+      "lack_of_motivation"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "no-self-torture",
+    "name": "Discipline is not self-torture",
+    "meaning": "Harsh austerities that torment the body, done from obstinacy or ego, or to harm another, are condemned; discipline should serve life.",
+    "supporting": [
+      "BG.17.5",
+      "BG.17.6",
+      "BG.17.19",
+      "BG.6.16"
+    ],
+    "applies_when": "Extreme fasting, punishing routines, self-harm framed as discipline, or 'proving' oneself through suffering.",
+    "misleads_when": "It is used to avoid any discomfort at all.",
+    "related": [
+      "moderation-in-living"
+    ],
+    "conflicts_with": [],
+    "modern_application": "If a practice is hurting your body or health, stop it and speak to someone you trust or a professional. Discipline that harms you is not what this teaching asks.",
+    "situations": [
+      "temptation_self_control",
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  }
+]

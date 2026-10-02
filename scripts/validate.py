@@ -243,6 +243,71 @@ def check_cross_refs(libraries, errors_by_text):
                     errors_by_text[name]["cross_ref to itself"].append(target)
 
 
+PRINCIPLE_FIELDS = ["id", "name", "meaning", "supporting", "applies_when", "misleads_when",
+                    "related", "conflicts_with", "modern_application", "situations",
+                    "life_stages", "aims", "restricted_for", "review_status"]
+RESTRICTION_VALUES = {"under18", "distress"}
+
+
+def load_principles():
+    out = []
+    for path in sorted((ROOT / "data" / "principles").glob("*.json")):
+        for p in load(path):
+            p["_file"] = path.name
+            out.append(p)
+    return out
+
+
+def validate_principles(principles, unit_ids):
+    """Principles: unique IDs, real supporting units, valid links and vocabulary,
+    and reciprocal conflicts (if A conflicts with B, B lists A)."""
+    errors, warnings = defaultdict(list), defaultdict(list)
+    ids = Counter(p.get("id") for p in principles)
+    for pid, n in ids.items():
+        if n > 1:
+            errors["duplicate principle id"].append(f"{pid} x{n}")
+    known = set(ids)
+    by_id = {p["id"]: p for p in principles if "id" in p}
+    for p in principles:
+        pid = p.get("id", "?")
+        missing = [f for f in PRINCIPLE_FIELDS if f not in p]
+        extra = [f for f in p if f not in PRINCIPLE_FIELDS and f != "_file"]
+        if missing:
+            errors["principle missing field"].append(f"{pid}: {', '.join(missing)}")
+        if extra:
+            errors["principle unknown field"].append(f"{pid}: {', '.join(extra)}")
+        for f in ("name", "meaning", "applies_when", "misleads_when", "modern_application"):
+            if is_empty(p.get(f)):
+                errors[f"principle empty {f}"].append(pid)
+        if not p.get("supporting"):
+            errors["principle without supporting units"].append(pid)
+        for uid in p.get("supporting", []):
+            if uid not in unit_ids:
+                errors["principle cites unknown unit"].append(f"{pid} -> {uid}")
+        for f in ("related", "conflicts_with"):
+            for other in p.get(f, []):
+                if other not in known:
+                    errors[f"principle {f} unknown id"].append(f"{pid} -> {other}")
+                if other == pid:
+                    errors[f"principle {f} itself"].append(pid)
+        for other in p.get("conflicts_with", []):
+            if other in by_id and pid not in by_id[other].get("conflicts_with", []):
+                errors["conflict not reciprocal"].append(f"{pid} -> {other}")
+        for f, allowed in (("situations", VOCAB["situations"]), ("life_stages", VOCAB["life_stages"]),
+                           ("aims", VOCAB["aims"])):
+            bad = [v for v in p.get(f, []) if v not in allowed]
+            if bad:
+                errors[f"principle unknown {f}"].append(f"{pid}: {bad}")
+            if not p.get(f):
+                errors[f"principle empty {f}"].append(pid)
+        bad = [v for v in p.get("restricted_for", []) if v not in RESTRICTION_VALUES]
+        if bad:
+            errors["principle unknown restriction"].append(f"{pid}: {bad}")
+        if p.get("review_status") not in VOCAB["review_status"]:
+            errors["principle unknown review_status"].append(pid)
+    return errors, warnings
+
+
 def report(title, problems, limit=8):
     total = sum(len(v) for v in problems.values())
     print(f"  {title}: {total}")
@@ -277,6 +342,10 @@ def main():
         libraries[text_id] = recs
         results[text_id] = validate_text(text_id, meta, recs, comm, allow_incomplete)
     check_cross_refs(libraries, {k: v[0] for k, v in results.items()})
+    unit_ids = {r["id"] for recs in libraries.values() for r in recs if isinstance(r, dict) and "id" in r}
+    principles = load_principles()
+    libraries["principles"] = principles
+    results["principles"] = validate_principles(principles, unit_ids)
 
     failed = False
     for name, (errors, warnings) in results.items():

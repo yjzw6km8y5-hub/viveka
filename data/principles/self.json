@@ -1,0 +1,408 @@
+[
+  {
+    "id": "more-than-body-and-roles",
+    "name": "You are more than your body and roles",
+    "meaning": "The self passes through childhood, youth and old age without being any of them; the body is the field, and you are its knower.",
+    "supporting": [
+      "BG.2.13",
+      "BG.13.1",
+      "BG.13.29",
+      "KaU.1.3.4"
+    ],
+    "applies_when": "Someone's identity has collapsed with a role: a job lost, children leaving, an illness, retirement.",
+    "misleads_when": "It is used to neglect the body or dismiss real limitations.",
+    "related": [
+      "impermanence",
+      "the-witness"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Write 'I am…' ten times, then cross out every answer that could be taken away. Notice what remains.",
+    "situations": [
+      "purpose_meaning",
+      "ageing_death_impermanence"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "impermanence",
+    "name": "Everything that comes goes",
+    "meaning": "Sense experiences come and go, worlds arise and dissolve, and the tree of worldly life is always changing.",
+    "supporting": [
+      "BG.2.14",
+      "BG.8.19",
+      "KaU.1.1.26",
+      "KaU.2.3.1"
+    ],
+    "applies_when": "Someone is clinging to a situation that is changing, or dreading a change that cannot be stopped.",
+    "misleads_when": "It turns into nihilism ('nothing matters').",
+    "related": [
+      "bear-what-comes-and-goes",
+      "lasting-versus-passing-treasure"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Name one thing you are holding tightly. Ask how you would care for it differently if you remembered it will change.",
+    "situations": [
+      "ageing_death_impermanence",
+      "grief_loss"
+    ],
+    "life_stages": [
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "see-the-pain-of-ageing-clearly",
+    "name": "See birth, ageing, sickness and death clearly",
+    "meaning": "Part of wisdom is seeing plainly the pain of birth, death, old age and sickness, and with that, lessening ego and attachment.",
+    "supporting": [
+      "BG.13.8",
+      "BG.2.13"
+    ],
+    "applies_when": "Someone is avoiding thinking about ageing or illness, their own or a parent's, and needs to plan honestly.",
+    "misleads_when": "It is used to dwell morbidly on decline, or near someone in distress.",
+    "related": [
+      "impermanence",
+      "more-than-body-and-roles"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Have one honest conversation about future care, wishes or finances with the person it concerns.",
+    "situations": [
+      "ageing_death_impermanence",
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [
+      "distress"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "ladder-of-the-inner",
+    "name": "Beyond the senses is the mind, beyond the mind the intellect",
+    "meaning": "There is an inner order: senses, mind, intellect, the great self, and beyond them all the Self; the higher can steady the lower.",
+    "supporting": [
+      "BG.3.42",
+      "KaU.1.3.10",
+      "KaU.1.3.11",
+      "KaU.2.3.7"
+    ],
+    "applies_when": "Someone feels ruled by impulses and needs to see that there is a deeper level to stand on.",
+    "misleads_when": "It is used to look down on emotions or the body as 'low'.",
+    "related": [
+      "chariot-of-the-mind",
+      "the-witness"
+    ],
+    "conflicts_with": [],
+    "modern_application": "When an impulse arises, ask in order: what do I sense, what do I feel, what do I actually judge best?",
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "humility-before-the-unknown",
+    "name": "Whoever claims to know it fully does not",
+    "meaning": "The deepest reality is rarely heard of, more rarely understood; whoever thinks 'I know it well' knows only a little.",
+    "supporting": [
+      "KeU.2.1",
+      "KeU.2.3",
+      "KaU.1.2.7",
+      "BG.2.29"
+    ],
+    "applies_when": "Someone, or someone they are dealing with, is certain they have the final truth about life or religion.",
+    "misleads_when": "It becomes an excuse never to commit to any understanding.",
+    "related": [
+      "not-knowing-is-part-of-knowing",
+      "humility"
+    ],
+    "conflicts_with": [],
+    "modern_application": "In your next disagreement about something deep, say 'I might be wrong about this' and listen for one minute longer.",
+    "situations": [
+      "ego_pride_envy",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "know-it-in-this-life",
+    "name": "Know what matters in this life",
+    "meaning": "If one knows the truth here, life has meaning; if not, the loss is great. The Self is seen most clearly here, as in a mirror.",
+    "supporting": [
+      "KeU.2.5",
+      "KaU.2.3.4",
+      "KaU.2.3.5"
+    ],
+    "applies_when": "Someone keeps postponing what matters most to 'later'.",
+    "misleads_when": "It creates anxiety or a sense of failure in someone already struggling.",
+    "related": [
+      "arise-and-awake",
+      "lasting-versus-passing-treasure"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Write the one thing you most want to have understood or done before you die. Schedule one hour for it this month.",
+    "situations": [
+      "purpose_meaning",
+      "lack_of_motivation"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [
+      "distress"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "the-witness",
+    "name": "Awareness is behind all experience",
+    "meaning": "That which hears through the ear and thinks through the mind cannot itself be heard or thought; it is the awareness behind every experience, in waking and dream.",
+    "supporting": [
+      "KeU.1.2",
+      "KeU.1.6",
+      "KaU.2.1.3",
+      "KaU.2.1.4"
+    ],
+    "applies_when": "Someone is overwhelmed by thoughts and feelings and needs a place to stand behind them.",
+    "misleads_when": "It is used to dissociate from feelings that need attention.",
+    "related": [
+      "more-than-body-and-roles",
+      "states-arise-and-pass"
+    ],
+    "conflicts_with": [],
+    "modern_application": "For one minute, notice that you are aware of your thoughts. Rest as that awareness rather than in the thoughts.",
+    "situations": [
+      "purpose_meaning",
+      "fear_anxiety",
+      "grief_loss"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "seeing-oneness",
+    "name": "See the Self in all and all in the Self",
+    "meaning": "Whoever sees all beings in the Self and the Self in all beings no longer feels aversion; the one Self takes the form of each being, like fire or wind.",
+    "supporting": [
+      "IsU.6",
+      "BG.6.29",
+      "BG.13.27",
+      "KaU.2.2.9"
+    ],
+    "applies_when": "Someone feels hostility, contempt or deep separateness from others.",
+    "misleads_when": "It is used to deny real differences, or to make someone tolerate harmful behaviour 'because we are all one'.",
+    "related": [
+      "same-regard-for-all",
+      "feel-others-pain-as-your-own"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Pick someone you dislike and list three things you share with them: fears, hopes, needs.",
+    "situations": [
+      "relationships_forgiveness",
+      "anger_resentment",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "the-real-does-not-perish",
+    "name": "The real never ceases to be",
+    "meaning": "The unreal never comes into being and the real never ceases to be; what pervades all is indestructible.",
+    "supporting": [
+      "BG.2.16",
+      "BG.2.17"
+    ],
+    "applies_when": "Someone needs a steady foundation amid loss and change.",
+    "misleads_when": "It is used to minimise the real suffering of loss.",
+    "related": [
+      "self-is-not-destroyed",
+      "impermanence"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Ask what in your life has stayed true through every change. Lean on that.",
+    "situations": [
+      "purpose_meaning",
+      "ageing_death_impermanence",
+      "fear_anxiety"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "you-become-what-you-dwell-on",
+    "name": "You become what you dwell on",
+    "meaning": "A person is made of their faith; whatever state one has always been absorbed in, one goes to at the end.",
+    "supporting": [
+      "BG.17.3",
+      "BG.8.6"
+    ],
+    "applies_when": "Someone wants to change who they are becoming, through habits of thought and attention.",
+    "misleads_when": "It produces fear about every passing thought, or blames people for intrusive thoughts.",
+    "related": [
+      "food-shapes-mind",
+      "remember-the-highest"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Look at where your attention went today. Is that who you want to become? Change one input this week.",
+    "situations": [
+      "purpose_meaning",
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "lasting-versus-passing-treasure",
+    "name": "The lasting is not reached by passing things",
+    "meaning": "Treasure is impermanent, and what is permanent is not reached by impermanent means; the wise seek nothing lasting among unstable things.",
+    "supporting": [
+      "KaU.1.2.10",
+      "KaU.1.1.27",
+      "KaU.2.1.2"
+    ],
+    "applies_when": "Someone hopes possessions, status or achievement will finally give them security or meaning.",
+    "misleads_when": "It is used to dismiss saving, planning or caring for material needs.",
+    "related": [
+      "wealth-never-satisfies",
+      "impermanence"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Next to each big goal, write what you hope it will give you inside. Ask whether there is a more direct way to that.",
+    "situations": [
+      "success_wealth",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "artha",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "mortality-is-certain",
+    "name": "Remember mortality",
+    "meaning": "The body will end in ashes; at the end, the seeker asks the mind to remember what was done, and mortals ripen like grain.",
+    "supporting": [
+      "IsU.17",
+      "KaU.1.1.6",
+      "BG.2.27"
+    ],
+    "applies_when": "An adult wants perspective on priorities, using awareness of death to choose what matters.",
+    "misleads_when": "It is brought up with someone grieving, frightened, in distress or under 18. Restricted.",
+    "related": [
+      "know-it-in-this-life",
+      "impermanence"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Ask: if I had one year, what would I stop doing, and what would I start?",
+    "situations": [
+      "ageing_death_impermanence",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [
+      "under18",
+      "distress"
+    ],
+    "review_status": "draft"
+  }
+]

@@ -1,0 +1,467 @@
+[
+  {
+    "id": "learn-from-those-who-know",
+    "name": "Learn by bowing, asking and serving",
+    "meaning": "Knowledge is gained by approaching those who have seen the truth with humility, questions and service; it is not easily understood from an ordinary teacher.",
+    "supporting": [
+      "BG.4.34",
+      "KaU.1.2.8",
+      "KaU.1.2.9",
+      "KaU.1.3.14"
+    ],
+    "applies_when": "Someone needs guidance on a skill, a decision or a spiritual question and is trying to work it out alone.",
+    "misleads_when": "It is used to demand blind obedience or to put a teacher beyond question. Viveka never treats any guru as beyond scrutiny.",
+    "related": [
+      "ask-for-help-when-lost",
+      "arise-and-awake"
+    ],
+    "conflicts_with": [
+      "reflect-then-choose"
+    ],
+    "modern_application": "Find one person who has done what you are trying to do. Prepare three good questions and ask for their time.",
+    "situations": [
+      "purpose_meaning",
+      "conflict_of_duties"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "reasoning-alone-is-not-enough",
+    "name": "Some understanding does not come by argument alone",
+    "meaning": "The deepest understanding is not reached by reasoning alone; it is grasped when taught and when affirmed, not merely debated.",
+    "supporting": [
+      "KaU.1.2.9",
+      "KaU.2.3.12"
+    ],
+    "applies_when": "Someone is stuck in endless intellectual debate about meaning and getting no closer.",
+    "misleads_when": "It is used to dismiss evidence, critical thinking or fair questions.",
+    "related": [
+      "learn-from-those-who-know",
+      "not-knowing-is-part-of-knowing"
+    ],
+    "conflicts_with": [
+      "reflect-then-choose"
+    ],
+    "modern_application": "Alongside thinking about the question, try living as if one answer were true for a month, and see what you learn.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "reflect-then-choose",
+    "name": "Reflect fully, then choose for yourself",
+    "meaning": "After teaching everything, Krishna tells Arjuna: 'Reflect on it fully, then do as you choose.' The final decision is the person's own.",
+    "supporting": [
+      "BG.18.63",
+      "BG.6.5"
+    ],
+    "applies_when": "Someone has gathered advice and must now decide, or is being pressured to decide someone else's way.",
+    "misleads_when": "It is used to dismiss all guidance and tradition as irrelevant.",
+    "related": [
+      "weigh-consequences-and-capacity",
+      "self-as-friend"
+    ],
+    "conflicts_with": [
+      "learn-from-those-who-know",
+      "reasoning-alone-is-not-enough",
+      "nature-and-the-inner-controller"
+    ],
+    "modern_application": "Write the options, what each would cost and give, and what your conscience says. Then decide, and own the decision.",
+    "situations": [
+      "conflict_of_duties",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "faith-and-doubt",
+    "name": "Faith steadies; corrosive doubt paralyses",
+    "meaning": "One with faith and self-control gains knowledge and peace; for one consumed by doubt there is neither this world nor the next.",
+    "supporting": [
+      "BG.4.39",
+      "BG.4.40",
+      "BG.17.3"
+    ],
+    "applies_when": "Someone is so caught in second-guessing that they cannot act on anything.",
+    "misleads_when": "It is used to shame honest questions. Nachiketas's persistent questioning is praised in the Katha.",
+    "related": [
+      "persist-in-the-real-question"
+    ],
+    "conflicts_with": [
+      "persist-in-the-real-question"
+    ],
+    "modern_application": "Separate the doubts you can resolve by finding something out from those you can only settle by committing. Act on the second kind.",
+    "situations": [
+      "purpose_meaning",
+      "fear_anxiety"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "persist-in-the-real-question",
+    "name": "Hold on to the question that matters",
+    "meaning": "Offered every pleasure to drop his question about what lies beyond death, Nachiketas refuses: no other teacher equals Death, and no other boon equals this one.",
+    "supporting": [
+      "KaU.1.1.20",
+      "KaU.1.1.22",
+      "KaU.1.1.29"
+    ],
+    "applies_when": "Someone is being distracted or bought off from pursuing what truly matters to them.",
+    "misleads_when": "It turns into stubbornness about a question that has been answered.",
+    "related": [
+      "resist-tempting-shortcuts",
+      "faith-and-doubt"
+    ],
+    "conflicts_with": [
+      "faith-and-doubt"
+    ],
+    "modern_application": "Write down your most important unanswered question. Protect one hour a week for it, even when easier things call.",
+    "situations": [
+      "purpose_meaning",
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "resist-tempting-shortcuts",
+    "name": "Turn down the tempting substitute",
+    "meaning": "Nachiketas weighs long life, wealth, power and pleasure, finds them fleeting, and lets them go; Death praises him for not taking the chain of wealth in which many sink.",
+    "supporting": [
+      "KaU.1.1.26",
+      "KaU.1.2.3",
+      "KaU.1.2.4",
+      "KaU.1.2.11"
+    ],
+    "applies_when": "Someone is offered money, comfort or status to give up something they value: integrity, a calling, a relationship.",
+    "misleads_when": "It is used to turn down genuinely good opportunities, or to romanticise hardship.",
+    "related": [
+      "pleasant-versus-good",
+      "persist-in-the-real-question"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Ask of the offer: in five years, which choice will I be glad I made? Then ask someone who knows you well the same question.",
+    "situations": [
+      "temptation_self_control",
+      "success_wealth",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "knowledge-purifies",
+    "name": "Nothing purifies like knowledge",
+    "meaning": "As fire turns wood to ash, the fire of knowledge burns up the past; nothing in this world purifies like it.",
+    "supporting": [
+      "BG.4.37",
+      "BG.4.38"
+    ],
+    "applies_when": "Someone feels stuck in the consequences of past mistakes and wants a fresh start.",
+    "misleads_when": "It is used to skip making amends for harm done.",
+    "related": [
+      "even-the-wrongdoer-can-cross"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Write down what you have understood from the mistake that you did not understand before. That understanding is the new start.",
+    "situations": [
+      "failure_setback",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "not-knowing-is-part-of-knowing",
+    "name": "To know it is to know you do not fully know it",
+    "meaning": "The Kena student says: 'I do not think I know it well; yet it is not that I do not know it.' It is unknown to those who claim to know it.",
+    "supporting": [
+      "KeU.2.2",
+      "KeU.2.3"
+    ],
+    "applies_when": "Someone is anxious because they cannot be certain about the big questions.",
+    "misleads_when": "It becomes a reason never to act.",
+    "related": [
+      "humility-before-the-unknown",
+      "reasoning-alone-is-not-enough"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Let 'I don't fully know, and I can still live well' be enough for today.",
+    "situations": [
+      "purpose_meaning",
+      "ego_pride_envy",
+      "fear_anxiety"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "many-paths-one-goal",
+    "name": "Different paths reach the same goal",
+    "meaning": "Knowledge and action are not truly opposed: the state reached by one is reached by the other, and some reach it by meditation, some by knowledge, some by action, some by hearing.",
+    "supporting": [
+      "BG.5.4",
+      "BG.5.5",
+      "BG.13.24",
+      "BG.13.25"
+    ],
+    "applies_when": "Family members argue about the 'right' way to live a spiritual or ethical life.",
+    "misleads_when": "It is used to deny that some paths suit some people far better than others.",
+    "related": [
+      "respect-different-paths",
+      "graded-practice"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Ask what path fits your temperament and life now: study, service, meditation or devotion. Start there without disparaging others.",
+    "situations": [
+      "purpose_meaning",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "guidance-from-scripture",
+    "name": "Let tested guidance inform what you do",
+    "meaning": "One who sets aside the guidance of scripture and acts on impulse gains neither perfection nor happiness; let it guide what should and should not be done.",
+    "supporting": [
+      "BG.16.23",
+      "BG.16.24"
+    ],
+    "applies_when": "Someone is acting purely on impulse in a weighty matter.",
+    "misleads_when": "It becomes literalism, or is used to enforce excluded or harmful rules. The Gita itself warns against clinging to the letter.",
+    "related": [
+      "clear-understanding"
+    ],
+    "conflicts_with": [
+      "beyond-the-letter"
+    ],
+    "modern_application": "Before a weighty decision, check it against one source of tested wisdom you trust, not only your mood.",
+    "situations": [
+      "conflict_of_duties",
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "beyond-the-letter",
+    "name": "Go beyond the letter",
+    "meaning": "The unwise delight in the letter of scripture and say there is nothing more; to one who knows, all the Vedas are like a well when water floods everywhere.",
+    "supporting": [
+      "BG.2.42",
+      "BG.2.46",
+      "BG.2.53"
+    ],
+    "applies_when": "Rules are being applied rigidly in a way that defeats their purpose.",
+    "misleads_when": "It is used to discard all discipline or tradition as 'mere letter'.",
+    "related": [
+      "learning-is-not-wisdom"
+    ],
+    "conflicts_with": [
+      "guidance-from-scripture"
+    ],
+    "modern_application": "For a rule you are struggling with, ask what it is for, and whether there is a way to honour that purpose here.",
+    "situations": [
+      "purpose_meaning",
+      "conflict_of_duties"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "knowledge-handed-down",
+    "name": "Wisdom is lost unless it is passed on",
+    "meaning": "The ancient teaching was handed down from teacher to student; over a long span of time it was lost, and had to be taught again.",
+    "supporting": [
+      "BG.4.1",
+      "BG.4.2",
+      "BG.4.3"
+    ],
+    "applies_when": "An elder or experienced person wonders whether to pass on what they know.",
+    "misleads_when": "It is used to insist that only one lineage holds the truth.",
+    "related": [
+      "keep-contributing",
+      "lead-by-example"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Teach one thing you know well to one younger person this month.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "pass-it-on",
+    "name": "Sharing understanding with care",
+    "meaning": "The teaching is shared with those who are willing to listen; Krishna gives it to Arjuna 'because you are my friend', and the Kena teacher confirms it has been given in full.",
+    "supporting": [
+      "BG.4.3",
+      "KeU.4.7"
+    ],
+    "applies_when": "Someone wants to share what has helped them, and is unsure how or with whom.",
+    "misleads_when": "It turns into preaching to people who have not asked.",
+    "related": [
+      "knowledge-handed-down",
+      "meet-people-where-they-are"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Share what helped you only when asked, and in the form of your own experience, not instructions.",
+    "situations": [
+      "purpose_meaning",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "clear-understanding",
+    "name": "Clear understanding knows when to act and when to refrain",
+    "meaning": "Clear (sattvic) understanding knows when to act and when to refrain, what to fear and what not, what binds and what frees; confused understanding takes wrong for right.",
+    "supporting": [
+      "BG.18.30",
+      "BG.18.31",
+      "BG.18.32"
+    ],
+    "applies_when": "A morally unclear situation, where the person cannot tell right from wrong.",
+    "misleads_when": "It is used to label people who disagree as 'deluded'.",
+    "related": [
+      "understand-before-acting",
+      "weigh-consequences-and-capacity"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Write the decision as four questions: should I act now or wait? What is truly to be feared here? What would bind me? What would free me?",
+    "situations": [
+      "conflict_of_duties",
+      "fear_anxiety",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  }
+]

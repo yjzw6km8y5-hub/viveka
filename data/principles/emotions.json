@@ -1,0 +1,543 @@
+[
+  {
+    "id": "ask-for-help-when-lost",
+    "name": "When you are lost, say so and ask",
+    "meaning": "Arjuna's turning point comes when he admits his mind is confused about what is right and asks for clear guidance; learning begins with that admission.",
+    "supporting": [
+      "BG.2.7",
+      "BG.4.34",
+      "BG.18.73"
+    ],
+    "applies_when": "Someone is stuck, ashamed of not knowing, or trying to handle a crisis alone.",
+    "misleads_when": "It is used to make someone dependent on a single authority, or to hand over their judgement entirely.",
+    "related": [
+      "learn-from-those-who-know",
+      "reflect-then-choose"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Write one honest sentence that starts 'I don't know how to…' and send it to one person who might help.",
+    "situations": [
+      "conflict_of_duties",
+      "purpose_meaning",
+      "grief_loss"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "grief-for-the-inevitable",
+    "name": "Death comes to all who are born",
+    "meaning": "Krishna reminds Arjuna that death is certain for the born, and beings move from unmanifest to manifest and back, so lamenting the inevitable is not wise.",
+    "supporting": [
+      "BG.2.27",
+      "BG.2.28",
+      "KaU.1.1.6"
+    ],
+    "applies_when": "An adult, some time after a loss, wants a wider perspective on mortality.",
+    "misleads_when": "It is used to tell a grieving person not to feel grief. Krishna said these words to stop a war-time paralysis, not to rush mourning. Never use it with someone in acute grief, in distress, or under 18.",
+    "related": [
+      "self-is-not-destroyed",
+      "impermanence"
+    ],
+    "conflicts_with": [
+      "honour-the-grief-first"
+    ],
+    "modern_application": "Let grief take its time. When you are ready, you might reflect on how the person's life fits into the larger cycle of life, and what of them continues in you.",
+    "situations": [
+      "grief_loss",
+      "ageing_death_impermanence"
+    ],
+    "life_stages": [
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [
+      "under18",
+      "distress"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "honour-the-grief-first",
+    "name": "Grief is real; it is heard before it is answered",
+    "meaning": "The Gita opens with Arjuna's grief described in full: his trembling, his despair, his refusal. Krishna answers only after Arjuna has spoken all of it.",
+    "supporting": [
+      "BG.1.28",
+      "BG.1.29",
+      "BG.2.8"
+    ],
+    "applies_when": "Someone is in fresh grief or overwhelmed by feeling; the first need is to be heard, not corrected.",
+    "misleads_when": "It is used to stay in despair indefinitely without ever seeking help or perspective.",
+    "related": [
+      "ask-for-help-when-lost"
+    ],
+    "conflicts_with": [
+      "grief-for-the-inevitable"
+    ],
+    "modern_application": "Write down, or say aloud to someone you trust, exactly what you are feeling, without trying to fix it yet.",
+    "situations": [
+      "grief_loss",
+      "fear_anxiety"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "self-is-not-destroyed",
+    "name": "The self is not destroyed when the body dies",
+    "meaning": "The self is unborn and undying; as a person changes worn-out clothes, the embodied self passes from body to body. Weapons, fire, water and wind cannot touch it.",
+    "supporting": [
+      "BG.2.20",
+      "BG.2.22",
+      "BG.2.23",
+      "KaU.1.2.18"
+    ],
+    "applies_when": "An adult mourning a death seeks consolation that the one they lost is not simply gone.",
+    "misleads_when": "It is used to make death seem harmless, to justify violence, or near anyone at risk of self-harm. It also says nothing about how to live with the absence. Restricted for under-18s and anyone in distress.",
+    "related": [
+      "grief-for-the-inevitable",
+      "the-real-does-not-perish"
+    ],
+    "conflicts_with": [],
+    "modern_application": "If this teaching comforts you, let it sit beside your grief rather than replace it; keep talking about the person you lost.",
+    "situations": [
+      "grief_loss",
+      "ageing_death_impermanence",
+      "fear_anxiety"
+    ],
+    "life_stages": [
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [
+      "under18",
+      "distress"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "bear-what-comes-and-goes",
+    "name": "Pleasure and pain come and go: bear them",
+    "meaning": "Heat and cold, pleasure and pain come and go and do not last; bear them patiently, and the person they do not shake is fit for freedom.",
+    "supporting": [
+      "BG.2.14",
+      "BG.2.15"
+    ],
+    "applies_when": "Someone is going through a hard but temporary period: an illness, a difficult season, a painful transition.",
+    "misleads_when": "It is used to make someone endure abuse or harm that will not pass by itself.",
+    "related": [
+      "evenness-in-success-and-failure",
+      "impermanence"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Remind yourself what this period will look like from six months away, and plan one small comfort for each hard day.",
+    "situations": [
+      "failure_setback",
+      "fear_anxiety"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "knowledge-dissolves-fear",
+    "name": "Understanding dissolves fear",
+    "meaning": "For one who sees the oneness of all, there is no delusion or grief; one who knows the Self no longer needs to shield themselves.",
+    "supporting": [
+      "IsU.7",
+      "KaU.2.1.5",
+      "KaU.2.1.12",
+      "BG.4.10"
+    ],
+    "applies_when": "Fear comes from not understanding a situation, or from a sense of being separate and under threat.",
+    "misleads_when": "It is used to dismiss real dangers that call for practical protection.",
+    "related": [
+      "seeing-oneness",
+      "fearlessness"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Write down exactly what you are afraid of, then find out the facts about it. Much fear shrinks when it is named and understood.",
+    "situations": [
+      "fear_anxiety",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "fearlessness",
+    "name": "Fearlessness is the first of the divine qualities",
+    "meaning": "Fearlessness heads the list of divine qualities; Krishna tells the frightened Arjuna not to be afraid, and the yogi sits calm and fearless.",
+    "supporting": [
+      "BG.16.1",
+      "BG.6.14",
+      "BG.11.49"
+    ],
+    "applies_when": "Someone needs courage to face a conversation, a test or a change.",
+    "misleads_when": "It is confused with recklessness, or used to shame someone for normal fear.",
+    "related": [
+      "knowledge-dissolves-fear",
+      "arise-and-awake"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Take one small brave action today that you have been avoiding out of fear.",
+    "situations": [
+      "fear_anxiety"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "free-of-elation-and-agitation",
+    "name": "Not shaken by excitement or alarm",
+    "meaning": "The one dear to God is free of elation, impatience, fear and agitation, and neither troubles the world nor is troubled by it.",
+    "supporting": [
+      "BG.12.15",
+      "BG.5.20",
+      "BG.2.56"
+    ],
+    "applies_when": "Someone's emotions spike with every piece of news, good or bad.",
+    "misleads_when": "It is used to suppress healthy emotional expression.",
+    "related": [
+      "evenness-in-success-and-failure",
+      "calm-before-clarity"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Notice your reaction to the next piece of news, name it, and let it settle before responding.",
+    "situations": [
+      "fear_anxiety",
+      "anger_resentment"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "even-the-wrongdoer-can-cross",
+    "name": "Even the worst wrongdoer can change",
+    "meaning": "Even the worst wrongdoer can cross over by knowledge; even a person of bad conduct who turns wholeheartedly to the good soon becomes righteous.",
+    "supporting": [
+      "BG.4.36",
+      "BG.9.30",
+      "BG.9.31"
+    ],
+    "applies_when": "Someone is crushed by guilt or shame and believes they are beyond redemption.",
+    "misleads_when": "It is used to excuse continuing harm, or to skip apology and repair to those who were hurt.",
+    "related": [
+      "effort-never-wasted",
+      "apologise-sincerely"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Separate the deed from your worth: name what you did, make what amends you can, and choose one action that reflects who you want to be.",
+    "situations": [
+      "failure_setback",
+      "purpose_meaning",
+      "fear_anxiety"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "sorrow-ends-in-stillness",
+    "name": "Yoga is release from union with sorrow",
+    "meaning": "There is a state in which one is not shaken even by great sorrow; that release from sorrow is yoga, to be practised with determination and without discouragement.",
+    "supporting": [
+      "BG.6.22",
+      "BG.6.23",
+      "BG.2.65"
+    ],
+    "applies_when": "Someone wants to know whether lasting peace is possible after heavy sorrow.",
+    "misleads_when": "It suggests a person should feel no sorrow, or that sorrow means failure in practice.",
+    "related": [
+      "calm-before-clarity",
+      "steady-practice"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Commit to a small daily practice of stillness, without expecting it to remove sorrow quickly.",
+    "situations": [
+      "grief_loss",
+      "failure_setback",
+      "lack_of_motivation"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "honour-and-dishonour-alike",
+    "name": "The same in honour and dishonour",
+    "meaning": "For one at peace with themselves, honour and dishonour, praise and blame, are met with the same steadiness.",
+    "supporting": [
+      "BG.6.7",
+      "BG.12.18",
+      "BG.14.24"
+    ],
+    "applies_when": "Someone is hurt by criticism, gossip or public embarrassment, or intoxicated by praise.",
+    "misleads_when": "It is used to ignore feedback that is fair and useful.",
+    "related": [
+      "evenness-in-success-and-failure",
+      "humility"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Read the criticism once for what is true in it, take that, and let the rest go.",
+    "situations": [
+      "ego_pride_envy",
+      "failure_setback",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "states-arise-and-pass",
+    "name": "Moods are states, not who you are",
+    "meaning": "Clarity, restlessness and dullness arise and cease; the one who goes beyond them neither resents them when they come nor longs for them when they go.",
+    "supporting": [
+      "BG.14.22",
+      "BG.14.23",
+      "BG.14.10"
+    ],
+    "applies_when": "Someone feels defined by a low or restless mood.",
+    "misleads_when": "It is used to dismiss persistent low mood that needs professional care.",
+    "related": [
+      "three-gunas-awareness",
+      "bear-what-comes-and-goes"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Say 'a heavy state is here' rather than 'I am heavy'. Notice that it is visiting, not you.",
+    "situations": [
+      "lack_of_motivation",
+      "fear_anxiety",
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "arise-and-awake",
+    "name": "Arise, awake, and learn from the wise",
+    "meaning": "The Katha calls: arise, awake, go to the great ones and learn; the path is narrow as a razor's edge, but it can be walked.",
+    "supporting": [
+      "KaU.1.3.14",
+      "BG.2.2"
+    ],
+    "applies_when": "Someone is drifting and needs a call to begin, especially at an important moment.",
+    "misleads_when": "It is addressed to someone who is depressed or exhausted; then it can feel like a rebuke. Use 'self-as-friend' and real support instead.",
+    "related": [
+      "learn-from-those-who-know",
+      "fearlessness"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Identify one person who knows what you want to learn and ask them for twenty minutes this week.",
+    "situations": [
+      "lack_of_motivation",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [
+      "distress"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "joy-that-lasts",
+    "name": "Lasting joy comes from seeing within",
+    "meaning": "Those who see the one Self dwelling within have lasting happiness and lasting peace, and no one else; that happiness, beyond the senses, does not fade.",
+    "supporting": [
+      "KaU.2.2.12",
+      "KaU.2.2.13",
+      "BG.6.21",
+      "BG.5.21"
+    ],
+    "applies_when": "Someone has tried many outer sources of happiness and wants something more stable.",
+    "misleads_when": "It is used to dismiss the real joys of relationships and achievement.",
+    "related": [
+      "contentment-within",
+      "turn-inward"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Find one moment each day where you feel quietly content without any outside cause, and stay with it for a minute.",
+    "situations": [
+      "purpose_meaning",
+      "fear_anxiety",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "small-practice-protects",
+    "name": "Even a little practice protects",
+    "meaning": "On this path no effort is wasted, and even a little of it protects a person from great fear.",
+    "supporting": [
+      "BG.2.40"
+    ],
+    "applies_when": "Someone thinks a practice is pointless unless they can do it fully.",
+    "misleads_when": "It is used to promise protection from real-world dangers.",
+    "related": [
+      "effort-never-wasted",
+      "graded-practice"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Do two minutes of your practice today instead of skipping it because you lack twenty.",
+    "situations": [
+      "fear_anxiety",
+      "lack_of_motivation",
+      "failure_setback"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "do-not-grieve-take-refuge",
+    "name": "Take refuge, and do not grieve",
+    "meaning": "The Gita's final assurance: take refuge wholeheartedly, and you will be freed from all wrongs; do not grieve. Śaṅkara, Rāmānuja and Madhva read 'letting go of all dharmas' very differently.",
+    "supporting": [
+      "BG.18.66",
+      "BG.18.62",
+      "BG.9.22"
+    ],
+    "applies_when": "Someone is carrying heavy guilt or fear and needs a word of unconditional reassurance.",
+    "misleads_when": "It is read as permission to drop all duties, or as a promise that nothing bad will happen. For anyone in distress or under 18 this must never suggest abandoning responsibilities.",
+    "related": [
+      "even-the-wrongdoer-can-cross",
+      "refuge-and-trust"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Write down what you are carrying, then say or write: 'I don't have to carry this alone.' Name one person or practice you will lean on.",
+    "situations": [
+      "grief_loss",
+      "fear_anxiety",
+      "failure_setback"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  }
+]

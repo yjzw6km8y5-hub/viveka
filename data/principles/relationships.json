@@ -1,0 +1,545 @@
+[
+  {
+    "id": "same-regard-for-all",
+    "name": "Equal regard for friend and foe",
+    "meaning": "The steady person has the same regard for well-wishers, friends, enemies, neutral people, relatives and even the wicked.",
+    "supporting": [
+      "BG.6.9",
+      "BG.12.18"
+    ],
+    "applies_when": "Someone is treating people very differently depending on whether they like them, or is caught in factional conflict.",
+    "misleads_when": "It is used to deny the right to keep away from people who are harmful. Equal regard does not mean equal trust or access.",
+    "related": [
+      "seeing-oneness",
+      "no-hatred"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Treat the person you are in conflict with exactly as courteously as you would a stranger, while keeping whatever boundary you need.",
+    "situations": [
+      "relationships_forgiveness",
+      "anger_resentment"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "no-hatred",
+    "name": "Bear no hatred; be friendly and compassionate",
+    "meaning": "The devotee dear to God bears no hatred towards any being, is friendly and compassionate, free of possessiveness and ego, and forgiving.",
+    "supporting": [
+      "BG.12.13",
+      "BG.11.55",
+      "BG.16.2"
+    ],
+    "applies_when": "Resentment towards someone is consuming the person.",
+    "misleads_when": "It is used to pressure a victim to drop justified anger or to stay in contact with an abuser.",
+    "related": [
+      "forgiveness-as-strength",
+      "same-regard-for-all"
+    ],
+    "conflicts_with": [],
+    "modern_application": "You can let go of hatred without excusing what happened. Write what you need for your own peace, separate from what the other person deserves.",
+    "situations": [
+      "anger_resentment",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "neither-troubling-nor-troubled",
+    "name": "Do not trouble others, and do not be troubled",
+    "meaning": "Dear to God is one from whom the world does not shrink, and who does not shrink from the world.",
+    "supporting": [
+      "BG.12.15"
+    ],
+    "applies_when": "Someone is creating friction around them, or is constantly unsettled by others.",
+    "misleads_when": "It is used to silence someone raising a legitimate concern.",
+    "related": [
+      "free-of-elation-and-agitation",
+      "speech-without-harm"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Before your next difficult conversation, decide how you will stay calm and how you will avoid making the other person defensive.",
+    "situations": [
+      "relationships_forgiveness",
+      "anger_resentment",
+      "fear_anxiety"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "feel-others-pain-as-your-own",
+    "name": "Feel others' joy and pain as your own",
+    "meaning": "The highest yogi is the one who, comparing with oneself, sees the same pleasure and pain in all beings.",
+    "supporting": [
+      "BG.6.32"
+    ],
+    "applies_when": "Someone needs to understand another person's position in a conflict.",
+    "misleads_when": "It leads to taking on others' distress to the point of burnout.",
+    "related": [
+      "seeing-oneness",
+      "no-hatred"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Describe the situation from the other person's side in the first person ('I feel…'), then reread your own plan.",
+    "situations": [
+      "relationships_forgiveness",
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "speech-without-harm",
+    "name": "Speak truthfully, kindly and helpfully",
+    "meaning": "The discipline of speech is speech that causes no distress and is true, pleasant and beneficial.",
+    "supporting": [
+      "BG.17.15",
+      "BG.16.2"
+    ],
+    "applies_when": "Someone has to deliver hard news, give feedback, or is tempted to say something cruel.",
+    "misleads_when": "It is used to avoid ever saying a necessary hard truth. Truth comes first in the list.",
+    "related": [
+      "honesty",
+      "neither-troubling-nor-troubled"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Run what you plan to say through three filters: is it true, is it kind in how it is said, and does it help?",
+    "situations": [
+      "relationships_forgiveness",
+      "anger_resentment"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "forgiveness-as-strength",
+    "name": "Forgiveness belongs to the strong",
+    "meaning": "Forgiveness, fortitude and freedom from malice are listed among the divine qualities, alongside vigour.",
+    "supporting": [
+      "BG.16.3",
+      "BG.12.13"
+    ],
+    "applies_when": "Someone is deciding whether to forgive a family member, friend or colleague.",
+    "misleads_when": "It is used to demand immediate forgiveness from someone who was harmed, or to restore access to someone dangerous. Forgiving is not the same as reconciling.",
+    "related": [
+      "no-hatred",
+      "apologise-sincerely"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Decide separately: (1) do I want to release this resentment for my own peace? (2) do I want this person back in my life, and on what terms?",
+    "situations": [
+      "relationships_forgiveness",
+      "anger_resentment"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "apologise-sincerely",
+    "name": "Own your words and ask forgiveness",
+    "meaning": "After seeing who Krishna truly is, Arjuna asks forgiveness for every careless or disrespectful word, 'as a father bears with a son, a friend with a friend'.",
+    "supporting": [
+      "BG.11.41",
+      "BG.11.42",
+      "BG.11.44"
+    ],
+    "applies_when": "Someone realises they have taken a person for granted or spoken carelessly.",
+    "misleads_when": "It is used to force an apology from someone who did nothing wrong.",
+    "related": [
+      "forgiveness-as-strength",
+      "even-the-wrongdoer-can-cross"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Name the specific words or acts, without excuses, and ask what would help make it right.",
+    "situations": [
+      "relationships_forgiveness",
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "seek-a-parents-peace",
+    "name": "Seek peace with a parent's anger",
+    "meaning": "Offered three boons by Death, Nachiketas's first wish is that his angry father be calm, cheerful and free of anger towards him, and welcome him home.",
+    "supporting": [
+      "KaU.1.1.10",
+      "KaU.1.1.11"
+    ],
+    "applies_when": "A strained relationship with a parent, where one wants reconciliation.",
+    "misleads_when": "It is used to tell a young person to appease a parent who is abusive or dangerous. Safety comes first, and leaving danger is always supported.",
+    "related": [
+      "forgiveness-as-strength",
+      "apologise-sincerely"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Write what you would most wish for your relationship with your parent, not what you wish they would admit. Start from that.",
+    "situations": [
+      "relationships_forgiveness",
+      "anger_resentment"
+    ],
+    "life_stages": [
+      "student",
+      "householder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "no-ill-will-between-teacher-and-student",
+    "name": "Learn together without hostility",
+    "meaning": "The Katha ends with a prayer for teacher and student: may we work together with vigour, may our study be bright, may we not hate each other.",
+    "supporting": [
+      "KaU.2.3.19"
+    ],
+    "applies_when": "Friction between a student and teacher, mentor and mentee, or study partners.",
+    "misleads_when": "It is used to excuse a teacher's mistreatment of a student.",
+    "related": [
+      "learn-from-those-who-know",
+      "no-hatred"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Begin your next session with the person by naming the shared goal you are both working towards.",
+    "situations": [
+      "relationships_forgiveness",
+      "anger_resentment"
+    ],
+    "life_stages": [
+      "student"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "delight-in-the-welfare-of-all",
+    "name": "Delight in the welfare of all beings",
+    "meaning": "The sages who reach peace delight in the welfare of all beings; even those who follow the hardest inner path are marked by this.",
+    "supporting": [
+      "BG.5.25",
+      "BG.12.4"
+    ],
+    "applies_when": "Envy or rivalry makes someone unable to be glad of others' good fortune.",
+    "misleads_when": "It is used to deny one's own needs.",
+    "related": [
+      "work-for-the-good-of-all",
+      "envy-and-comparison"
+    ],
+    "conflicts_with": [],
+    "modern_application": "When you hear of someone's success this week, send them a genuine word of congratulation.",
+    "situations": [
+      "relationships_forgiveness",
+      "ego_pride_envy",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "non-violence",
+    "name": "Non-violence",
+    "meaning": "Non-violence appears in every list of virtues: in knowledge, in the divine qualities, and among the states that come from God.",
+    "supporting": [
+      "BG.13.7",
+      "BG.16.2",
+      "BG.10.5"
+    ],
+    "applies_when": "Someone is tempted to hurt another, physically or verbally, or to retaliate.",
+    "misleads_when": "It is used to tell someone they may not defend themselves or leave a violent situation.",
+    "related": [
+      "speech-without-harm",
+      "no-hatred"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Before responding to provocation, ask: is there a way to protect what matters without causing harm?",
+    "situations": [
+      "anger_resentment",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "honesty",
+    "name": "Truth is the home of wisdom",
+    "meaning": "Truthfulness and honesty run through every list of virtues; the Kena says truth is the very home of the highest teaching.",
+    "supporting": [
+      "KeU.4.8",
+      "BG.16.2",
+      "BG.13.7"
+    ],
+    "applies_when": "Someone is tempted to lie, cover up, or present a false image.",
+    "misleads_when": "It is used to justify brutal honesty that does needless harm, or to demand disclosure that would put someone in danger.",
+    "related": [
+      "speech-without-harm",
+      "hypocrisy-and-show"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Identify one area where you are not being fully honest, and take one step towards truth there.",
+    "situations": [
+      "relationships_forgiveness",
+      "temptation_self_control",
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "meet-people-where-they-are",
+    "name": "Don't unsettle others; meet them where they are",
+    "meaning": "The wise should not unsettle those attached to their way of acting, but encourage them by example; God receives people however they approach.",
+    "supporting": [
+      "BG.3.26",
+      "BG.3.29",
+      "BG.4.11"
+    ],
+    "applies_when": "Someone wants to change a family member's or friend's beliefs or habits, or impose their own new insight.",
+    "misleads_when": "It is used to stay silent about something harmful.",
+    "related": [
+      "lead-by-example",
+      "respect-different-paths"
+    ],
+    "conflicts_with": [
+      "independent-of-the-crowd"
+    ],
+    "modern_application": "Instead of arguing, live the change yourself for a month and let others ask you about it.",
+    "situations": [
+      "relationships_forgiveness",
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "respect-different-paths",
+    "name": "Respect the different ways people seek",
+    "meaning": "Whatever form people worship with faith, God makes that faith steady; even those devoted to other gods are, in their way, seeking the same.",
+    "supporting": [
+      "BG.4.11",
+      "BG.7.21",
+      "BG.9.23"
+    ],
+    "applies_when": "Interfaith or intergenerational tension about religious practice in a family or friendship.",
+    "misleads_when": "It is used to claim all practices are equally wise, or to excuse harmful practices.",
+    "related": [
+      "meet-people-where-they-are",
+      "many-paths-one-goal"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Ask the other person what their practice means to them, and listen without correcting.",
+    "situations": [
+      "relationships_forgiveness",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "loving-without-clinging",
+    "name": "Love without clinging",
+    "meaning": "Among the marks of knowledge is not clinging to son, spouse and home, with evenness amid the welcome and the unwelcome. Śaṅkara stresses detachment; Rāmānuja reads it as not clinging beyond their role in one's duties.",
+    "supporting": [
+      "BG.13.9"
+    ],
+    "applies_when": "A parent struggles to let an adult child make their own choices, or someone's peace depends entirely on others' approval.",
+    "misleads_when": "It is used to justify emotional neglect, or to urge someone to leave their family. Restricted for under-18s and anyone in distress.",
+    "related": [
+      "contentment-within",
+      "evenness-in-success-and-failure"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Ask: am I trying to care for this person, or to control the outcome of their life? Keep the care and loosen the control.",
+    "situations": [
+      "relationships_forgiveness",
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [
+      "under18",
+      "distress"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "nourish-one-another",
+    "name": "Nourish one another",
+    "meaning": "'Nourishing one another, you will reach the highest good': mutual care is the basic pattern of a good life.",
+    "supporting": [
+      "BG.3.11",
+      "BG.10.9"
+    ],
+    "applies_when": "A relationship or team has become one-sided or transactional.",
+    "misleads_when": "It obliges someone to keep nourishing a relationship that only harms them.",
+    "related": [
+      "reciprocity",
+      "work-for-the-good-of-all"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Ask the other person what would help them this week, and tell them one thing that would help you.",
+    "situations": [
+      "relationships_forgiveness",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "equal-dignity",
+    "name": "The wise see the same in all",
+    "meaning": "The wise see the same in a learned person, an animal and an outcaste; those established in sameness have overcome the world here and now.",
+    "supporting": [
+      "BG.5.18",
+      "BG.5.19",
+      "BG.18.20"
+    ],
+    "applies_when": "Prejudice by caste, class, religion, gender or status is affecting how someone treats others or is treated.",
+    "misleads_when": "It is used to deny that real injustice exists ('we are all the same, so there is no problem').",
+    "related": [
+      "seeing-oneness",
+      "same-regard-for-all"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Notice whom you instinctively treat with more or less respect, and correct it once this week.",
+    "situations": [
+      "relationships_forgiveness",
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  }
+]

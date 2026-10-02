@@ -1,0 +1,19 @@
+{
+  "_note": "Help lines shown whenever the engine detects danger, abuse, self-harm risk or crisis. Checked 2026-10-02 against the sources listed; re-check every 6 months.",
+  "checked": "2026-10-02",
+  "default_message": "If you are in immediate danger, contact your local emergency number now. You deserve to be safe, and leaving a dangerous or abusive situation is never a failure of duty.",
+  "regions": {
+    "IN": [
+      {"name": "Emergency (police, fire, ambulance)", "number": "112", "for": ["danger", "abuse", "self_harm"], "source": "https://chrysalishigh.com/blog/student-corner/emergency-services-number-india-helpline-list/"},
+      {"name": "Tele-MANAS national mental health helpline (24/7, free, 20+ languages)", "number": "14416 or 1-800-891-4416", "for": ["self_harm", "distress"], "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1866498"},
+      {"name": "Childline (children in need of help)", "number": "1098", "for": ["abuse", "danger", "under18"], "source": "https://childlineindia.org/a/about/childline-india"},
+      {"name": "Women helpline (domestic violence, harassment)", "number": "181", "for": ["abuse", "danger"], "source": "https://indianhelpline.com/women-helpline"}
+    ],
+    "US": [
+      {"name": "988 Suicide & Crisis Lifeline (call or text, 24/7)", "number": "988", "for": ["self_harm", "distress"], "source": "https://www.samhsa.gov/mental-health/988/faqs"}
+    ],
+    "UK": [
+      {"name": "Samaritans (24/7, free)", "number": "116 123", "for": ["self_harm", "distress"], "source": "https://www.psychologytoday.com/us/basics/suicide/suicide-prevention-hotlines-resources-worldwide"}
+    ]
+  }
+}

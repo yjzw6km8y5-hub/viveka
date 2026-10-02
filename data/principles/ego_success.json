@@ -1,0 +1,528 @@
+[
+  {
+    "id": "not-the-sole-doer",
+    "name": "You are not the only doer",
+    "meaning": "Every action has many causes: the body, the agent, the instruments, the efforts and the unseen; one who sees oneself as the sole doer does not see truly.",
+    "supporting": [
+      "BG.18.14",
+      "BG.18.16",
+      "BG.3.27",
+      "BG.13.29"
+    ],
+    "applies_when": "Someone is crushed by blaming themselves entirely for an outcome, or inflated by taking all the credit.",
+    "misleads_when": "It is used to dodge responsibility for one's own choices.",
+    "related": [
+      "credit-is-not-yours-alone",
+      "humility"
+    ],
+    "conflicts_with": [
+      "self-as-friend"
+    ],
+    "modern_application": "List every factor that contributed to the outcome. Mark which ones were yours. Take responsibility for those, and only those.",
+    "situations": [
+      "ego_pride_envy",
+      "failure_setback",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "credit-is-not-yours-alone",
+    "name": "The victory was not yours alone",
+    "meaning": "In the Kena parable the gods claim a victory as their own; a single blade of grass humbles their powers, and they learn the victory was Brahman's.",
+    "supporting": [
+      "KeU.3.2",
+      "KeU.3.6",
+      "KeU.4.1"
+    ],
+    "applies_when": "Success has made someone proud, dismissive of the team, or blind to luck and help.",
+    "misleads_when": "It is used to deny someone fair credit for their real contribution.",
+    "related": [
+      "not-the-sole-doer",
+      "humility"
+    ],
+    "conflicts_with": [],
+    "modern_application": "After a success, thank by name three people or circumstances without which it would not have happened.",
+    "situations": [
+      "ego_pride_envy",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "humility",
+    "name": "Humility comes first",
+    "meaning": "Humility and lack of pretence head the Gita's list of what knowledge is; the wise are free of pride and delusion.",
+    "supporting": [
+      "BG.13.7",
+      "BG.15.5",
+      "KeU.2.1"
+    ],
+    "applies_when": "Pride is damaging relationships, learning or judgement.",
+    "misleads_when": "It is used to make someone shrink or deny their own abilities.",
+    "related": [
+      "humility-before-the-unknown",
+      "credit-is-not-yours-alone"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Ask someone who sees you clearly for one thing you could do better, and thank them without defending yourself.",
+    "situations": [
+      "ego_pride_envy",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "beware-intoxication-of-wealth",
+    "name": "Beware the intoxication of wealth",
+    "meaning": "The demonic mindset says 'this is mine, that will be mine too; I am rich and well-born, who is like me?' Deluded by wealth, the careless see only this world.",
+    "supporting": [
+      "BG.16.13",
+      "BG.16.15",
+      "BG.16.17",
+      "KaU.1.2.6"
+    ],
+    "applies_when": "Money or status is changing how someone treats others, or blinding them to anything beyond acquisition.",
+    "misleads_when": "It is used to condemn people simply for being wealthy, or to romanticise poverty.",
+    "related": [
+      "wealth-never-satisfies",
+      "humility"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Notice when you think 'who is like me?'. Treat it as a warning light, and do something for someone with less power than you.",
+    "situations": [
+      "success_wealth",
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "artha",
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "do-not-covet",
+    "name": "Do not covet another's wealth",
+    "meaning": "The Isha's first verse: all this belongs to the Lord, so enjoy through letting go, and do not covet anyone's wealth.",
+    "supporting": [
+      "IsU.1",
+      "BG.16.2"
+    ],
+    "applies_when": "Envy of others' possessions, inheritance disputes, or wanting what someone else has.",
+    "misleads_when": "It is used to tell people not to claim what is rightfully theirs, such as wages or a fair share of an inheritance.",
+    "related": [
+      "envy-and-comparison",
+      "enjoy-through-letting-go"
+    ],
+    "conflicts_with": [],
+    "modern_application": "When envy rises, list three things you already have that you would not trade. Then ask what you actually need, not what they have.",
+    "situations": [
+      "ego_pride_envy",
+      "success_wealth",
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "artha",
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "enjoy-through-letting-go",
+    "name": "Enjoy through letting go",
+    "meaning": "Everything is to be seen as belonging to the Lord; enjoyment comes through renunciation, not possession.",
+    "supporting": [
+      "IsU.1",
+      "BG.4.20"
+    ],
+    "applies_when": "Someone's enjoyment is spoiled by fear of losing what they have.",
+    "misleads_when": "It is used to pressure someone to give up what they need.",
+    "related": [
+      "do-not-covet",
+      "contentment-within"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Give away or lend one thing you have been clinging to, and notice how it feels.",
+    "situations": [
+      "success_wealth",
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "artha",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "content-with-what-comes",
+    "name": "Content with what comes unsought",
+    "meaning": "Content with whatever comes unsought, beyond the pairs of opposites, free of envy, the same in success and failure: such a person is not bound even when acting.",
+    "supporting": [
+      "BG.4.22",
+      "BG.2.70"
+    ],
+    "applies_when": "Someone is restless for more even when their needs are met.",
+    "misleads_when": "It is used to discourage legitimate ambition or effort to improve one's situation.",
+    "related": [
+      "contentment-within",
+      "do-not-covet"
+    ],
+    "conflicts_with": [],
+    "modern_application": "For one day, notice and appreciate each good thing that arrives without your effort.",
+    "situations": [
+      "success_wealth",
+      "ego_pride_envy",
+      "failure_setback"
+    ],
+    "life_stages": [
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "envy-and-comparison",
+    "name": "Free of envy",
+    "meaning": "Freedom from envy and malice marks the steady person; the rajasic mind sees everyone as separate and competing.",
+    "supporting": [
+      "BG.4.22",
+      "BG.16.3",
+      "BG.18.21"
+    ],
+    "applies_when": "Comparison with peers, siblings or colleagues is causing bitterness.",
+    "misleads_when": "It is used to dismiss real unfairness behind someone's feeling of envy.",
+    "related": [
+      "delight-in-the-welfare-of-all",
+      "do-not-covet"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Mute or step back from one source of constant comparison for a week, and see how you feel.",
+    "situations": [
+      "ego_pride_envy",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "hypocrisy-and-show",
+    "name": "Beware hypocrisy and display",
+    "meaning": "Hypocrisy, arrogance and conceit are marks of the demonic nature; religious acts done for show are 'in name only'.",
+    "supporting": [
+      "BG.16.4",
+      "BG.16.17",
+      "BG.3.6"
+    ],
+    "applies_when": "Someone notices a gap between what they show and what they are, in themselves or a community.",
+    "misleads_when": "It is used to accuse others rather than examine oneself.",
+    "related": [
+      "honesty",
+      "no-recognition-seeking"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Pick one area where your public image is ahead of your private reality. Close the gap from the private side.",
+    "situations": [
+      "ego_pride_envy",
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "learning-is-not-wisdom",
+    "name": "Learning is not the same as wisdom",
+    "meaning": "Those who think themselves wise and learned while living in ignorance are the blind leading the blind; the unwise delight in the letter of scripture.",
+    "supporting": [
+      "KaU.1.2.5",
+      "BG.2.42",
+      "KaU.1.2.23"
+    ],
+    "applies_when": "Someone, or someone they follow, uses knowledge or qualifications as a substitute for good judgement or character.",
+    "misleads_when": "It is used to dismiss education or expertise.",
+    "related": [
+      "humility",
+      "beyond-the-letter"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Ask of any advice: does this person live what they teach? Weigh their advice by that.",
+    "situations": [
+      "ego_pride_envy",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "quick-success-passes",
+    "name": "Success from action comes quickly, and ends",
+    "meaning": "People pursue success through action because it comes quickly; but its fruits come to an end, and those who reach heaven return when their merit is spent.",
+    "supporting": [
+      "BG.4.12",
+      "BG.7.23",
+      "BG.9.21"
+    ],
+    "applies_when": "Someone is building their whole life around quick wins.",
+    "misleads_when": "It is used to dismiss success as worthless.",
+    "related": [
+      "lasting-versus-passing-treasure",
+      "wealth-never-satisfies"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Alongside your short-term goals, keep one long-term aim that does not depend on quick results.",
+    "situations": [
+      "success_wealth",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "artha",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "ego-that-will-not-listen",
+    "name": "Ego that will not listen leads to ruin",
+    "meaning": "With a steady mind you cross every difficulty; but if out of ego you will not listen, you will be lost.",
+    "supporting": [
+      "BG.18.58",
+      "BG.16.18"
+    ],
+    "applies_when": "Someone is refusing all advice out of pride, or is about to ignore a clear warning.",
+    "misleads_when": "It is used to demand obedience to any authority. Listening is not the same as obeying.",
+    "related": [
+      "humility",
+      "learn-from-those-who-know"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Write down the advice you have been resisting most, and list one way it might be right.",
+    "situations": [
+      "ego_pride_envy",
+      "fear_anxiety",
+      "failure_setback"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "gold-and-stone-alike",
+    "name": "Gold and stone alike",
+    "meaning": "To the steady yogi, a lump of earth, a stone and gold are the same; their worth does not rule the mind.",
+    "supporting": [
+      "BG.6.8",
+      "BG.14.24"
+    ],
+    "applies_when": "Money worries or money greed are dominating someone's thinking.",
+    "misleads_when": "It is used to excuse financial irresponsibility towards dependants.",
+    "related": [
+      "contentment-within",
+      "wealth-never-satisfies"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Set a fixed time once a week to handle money, and keep it out of your mind the rest of the week.",
+    "situations": [
+      "success_wealth",
+      "fear_anxiety"
+    ],
+    "life_stages": [
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "artha",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "trust-alongside-effort",
+    "name": "Trust alongside effort",
+    "meaning": "To those who are steadily devoted, God brings what they lack and protects what they have; even while doing all kinds of action, one who takes refuge reaches the lasting state.",
+    "supporting": [
+      "BG.9.22",
+      "BG.18.56"
+    ],
+    "applies_when": "Financial or practical anxiety is overwhelming someone who is already doing what they can.",
+    "misleads_when": "It is used as a reason not to plan, save, work or seek practical help.",
+    "related": [
+      "refuge-and-trust",
+      "work-not-results"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Do the next practical step (make the call, fill the form), then consciously set the worry down until the next step is due.",
+    "situations": [
+      "fear_anxiety",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "artha",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "the-steady-doer",
+    "name": "Steady and enthusiastic, without 'I'",
+    "meaning": "The best kind of doer is free of attachment, does not keep saying 'I', is full of steadiness and enthusiasm, and is unchanged by success and failure.",
+    "supporting": [
+      "BG.18.26",
+      "BG.18.24",
+      "BG.18.27"
+    ],
+    "applies_when": "Someone wants a model of how to work hard without ego or burnout.",
+    "misleads_when": "It is used to judge others harshly as 'rajasic' or 'tamasic'.",
+    "related": [
+      "skill-in-action",
+      "evenness-in-success-and-failure"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Look at your last project. Where were you steady, where enthusiastic, and where was it mostly about 'me'?",
+    "situations": [
+      "ego_pride_envy",
+      "lack_of_motivation",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "praise-and-blame-alike",
+    "name": "Praise and blame alike",
+    "meaning": "The one beyond the gunas is the same in praise and blame, honour and dishonour, towards friend and foe.",
+    "supporting": [
+      "BG.14.24",
+      "BG.14.25",
+      "BG.12.19"
+    ],
+    "applies_when": "Social media reactions, reviews or gossip are steering someone's choices.",
+    "misleads_when": "It is used to ignore all feedback.",
+    "related": [
+      "honour-and-dishonour-alike",
+      "no-recognition-seeking"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Decide what you would do if no one would ever praise or blame you for it. Do that.",
+    "situations": [
+      "ego_pride_envy",
+      "failure_setback"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  }
+]

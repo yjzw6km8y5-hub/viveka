@@ -4,7 +4,21 @@ _Last updated: 2026-10-01_
 
 Repo: https://github.com/yjzw6km8y5-hub/viveka (pushed after every batch)
 
-## Current: scope expansion, part a (the 13 principal Upanishads)
+## Current plan (2026-10-02): prove the guidance before expanding
+Sequence: prototype, reviewed starter collection, comparative testing, then library expansion.
+The text queue is paused after the Katha.
+
+| Step | Status |
+|---|---|
+| Finish the Katha | done |
+| Safety rule fix (support leaving abuse or danger; help lines) | done |
+| Privacy check of the AI provider | done: default API terms keep data up to 30 days, so the engine runs locally (DECISIONS.md) |
+| `data/principles/` (149 principles, validated) | done (draft) |
+| `data/examples/` | next |
+| Answer-engine prototype | |
+| 100 test situations and scoring | |
+
+## Paused: scope expansion, part a (the 13 principal Upanishads)
 
 The pipeline is generic now (`data/texts.json`, `build_texts.py`, and `validate.py` covering every text).
 Snapshots of all 13 Upanishads and 10 Śaṅkara bhāṣyas are in `data/raw/upanishads/`.

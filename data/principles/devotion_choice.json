@@ -1,0 +1,709 @@
+[
+  {
+    "id": "small-offerings-with-love",
+    "name": "A leaf, a flower, offered with love",
+    "meaning": "Whatever is offered with devotion, even a leaf, a flower, a fruit or water, is accepted; it is the love that matters, not the size.",
+    "supporting": [
+      "BG.9.26"
+    ],
+    "applies_when": "Someone feels their contribution, practice or gift is too small to matter.",
+    "misleads_when": "It is used to excuse never doing more when more is possible.",
+    "related": [
+      "act-as-offering",
+      "small-practice-protects"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Make one small, sincere offering today: a call, a meal, a minute of attention.",
+    "situations": [
+      "purpose_meaning",
+      "lack_of_motivation"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "refuge-and-trust",
+    "name": "Take refuge with your whole being",
+    "meaning": "Take refuge in the Lord with your whole being, and you will reach supreme peace; those who take refuge cross the confusion of the world.",
+    "supporting": [
+      "BG.18.62",
+      "BG.7.14",
+      "BG.9.18"
+    ],
+    "applies_when": "Someone feels alone and overwhelmed, and draws strength from faith.",
+    "misleads_when": "It is used to discourage seeking practical, medical or professional help.",
+    "related": [
+      "do-not-grieve-take-refuge",
+      "trust-alongside-effort"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Alongside prayer or reflection, name one practical support you will also reach out to.",
+    "situations": [
+      "fear_anxiety",
+      "grief_loss",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "remember-the-highest",
+    "name": "Keep the highest in mind",
+    "meaning": "For one who remembers God constantly, with a mind that turns to nothing else, God is easy to reach; fix the mind there and you will come there.",
+    "supporting": [
+      "BG.8.14",
+      "BG.12.8",
+      "BG.9.34",
+      "BG.18.65"
+    ],
+    "applies_when": "Someone wants a steady centre amid a busy life.",
+    "misleads_when": "It is used to neglect present duties or relationships.",
+    "related": [
+      "you-become-what-you-dwell-on",
+      "graded-practice"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Choose a word, verse or image that reminds you of what is highest for you, and return to it at three set moments each day.",
+    "situations": [
+      "purpose_meaning",
+      "fear_anxiety"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "graded-practice",
+    "name": "If you can't do the highest, do the next",
+    "meaning": "If you cannot fix your mind steadily, practise; if you cannot practise, work for God; if you cannot even do that, give up the fruit of your actions. There is always a next step.",
+    "supporting": [
+      "BG.12.9",
+      "BG.12.10",
+      "BG.12.11",
+      "BG.12.12"
+    ],
+    "applies_when": "Someone feels they are failing at their ideal and are tempted to give up entirely.",
+    "misleads_when": "It is used to settle for less when someone could do more.",
+    "related": [
+      "effort-never-wasted",
+      "small-practice-protects"
+    ],
+    "conflicts_with": [],
+    "modern_application": "If your ideal routine is too much, drop to the level you can actually keep, and do that faithfully.",
+    "situations": [
+      "lack_of_motivation",
+      "failure_setback",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "giving-up-fruit-brings-peace",
+    "name": "Letting go of the fruit brings peace",
+    "meaning": "Giving up the fruit of action is ranked even above meditation: peace follows at once from it; the disciplined who give up the fruit find lasting peace.",
+    "supporting": [
+      "BG.12.12",
+      "BG.5.12"
+    ],
+    "applies_when": "Someone cannot find peace because they are fixated on a specific outcome.",
+    "misleads_when": "It is used to stop someone advocating for a fair result.",
+    "related": [
+      "work-not-results",
+      "relinquish-fruit-not-action"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Write the outcome you are holding on to, then write: 'I will do my part, and I will be all right either way.'",
+    "situations": [
+      "fear_anxiety",
+      "purpose_meaning",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "purpose-beyond-pleasure",
+    "name": "A purpose beyond pleasure",
+    "meaning": "Having glimpsed the ageless, who would delight in a long life of fading pleasures? The good leads beyond the merely pleasant.",
+    "supporting": [
+      "KaU.1.1.28",
+      "KaU.1.2.1",
+      "KaU.1.2.2"
+    ],
+    "applies_when": "Someone has comfort but feels their life lacks meaning.",
+    "misleads_when": "It is used to dismiss legitimate enjoyment of life.",
+    "related": [
+      "pleasant-versus-good",
+      "turn-inward"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Write one sentence about what you would want your life to have served, beyond your own comfort.",
+    "situations": [
+      "purpose_meaning",
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "the-light-within",
+    "name": "The light by which everything shines",
+    "meaning": "There the sun does not shine, nor moon or stars; everything shines after that light, and by its light all this is lit. It dwells in every heart.",
+    "supporting": [
+      "KaU.2.2.15",
+      "BG.13.17",
+      "BG.15.12",
+      "BG.5.24"
+    ],
+    "applies_when": "Someone feels in the dark and needs a sense that something within them does not go out.",
+    "misleads_when": "It is used to dismiss depression as a lack of inner light.",
+    "related": [
+      "the-witness",
+      "joy-that-lasts"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Sit in a dark room for two minutes with a single candle or lamp, and reflect that awareness itself is what lets you see anything.",
+    "situations": [
+      "purpose_meaning",
+      "fear_anxiety"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "friend-of-all-beings",
+    "name": "The divine is the friend of all",
+    "meaning": "Knowing God as the friend of all beings brings peace; God is the goal, support, refuge and friend.",
+    "supporting": [
+      "BG.5.29",
+      "BG.9.18"
+    ],
+    "applies_when": "Someone feels abandoned or unloved.",
+    "misleads_when": "It replaces human connection and support entirely.",
+    "related": [
+      "refuge-and-trust"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Let yourself be befriended today: accept one kindness offered to you without deflecting it.",
+    "situations": [
+      "fear_anxiety",
+      "grief_loss",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "excellence-as-sacred",
+    "name": "See the sacred in excellence",
+    "meaning": "Whatever is glorious, prosperous or powerful springs from a spark of the divine splendour.",
+    "supporting": [
+      "BG.10.41",
+      "BG.7.8"
+    ],
+    "applies_when": "Someone wants to connect their pursuit of excellence or beauty with something larger.",
+    "misleads_when": "It is used to worship power or success as such.",
+    "related": [
+      "skill-in-action"
+    ],
+    "conflicts_with": [],
+    "modern_application": "When you see something excellent, whether a skill, a kindness or a view, pause to appreciate where it comes from.",
+    "situations": [
+      "purpose_meaning",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "purity-of-intention",
+    "name": "Intention and faith give an act its worth",
+    "meaning": "An act done because it ought to be done, without seeking reward, is pure; whatever is done without faith is of no use here or hereafter.",
+    "supporting": [
+      "BG.17.11",
+      "BG.17.17",
+      "BG.17.28"
+    ],
+    "applies_when": "Someone is going through the motions of a duty or practice without meaning it.",
+    "misleads_when": "It is used to discourage doing good while one's motives are still mixed.",
+    "related": [
+      "no-recognition-seeking",
+      "give-without-expecting-return"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Before a routine duty, pause and name honestly why you are doing it. Adjust the 'why' if you can.",
+    "situations": [
+      "purpose_meaning",
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "name-the-confusion",
+    "name": "When duties conflict, name the confusion",
+    "meaning": "Arjuna's duties to family, teachers and his role collide; he says plainly that his mind is confused about what is right and asks for one clear answer. The Gita begins from that honesty.",
+    "supporting": [
+      "BG.2.7",
+      "BG.3.2",
+      "BG.5.1"
+    ],
+    "applies_when": "Two obligations genuinely conflict: career versus family, loyalty versus honesty, parent versus partner.",
+    "misleads_when": "It is used to look for one authority to decide everything.",
+    "related": [
+      "ask-for-help-when-lost",
+      "reflect-then-choose",
+      "clear-understanding"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Write each duty and to whom it is owed. Ask which can be partly met, which can wait, and which cannot be compromised.",
+    "situations": [
+      "conflict_of_duties",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "renounce-selfishness-not-the-world",
+    "name": "Renounce selfish intent, not your responsibilities",
+    "meaning": "A true renunciant is one who does what should be done without depending on its fruit, who neither hates nor craves; what they call renunciation is giving up selfish intentions.",
+    "supporting": [
+      "BG.6.1",
+      "BG.6.2",
+      "BG.6.4",
+      "BG.5.3"
+    ],
+    "applies_when": "Someone thinks spiritual growth means walking away from family, study or work.",
+    "misleads_when": "It is used to keep someone in a harmful or dangerous situation. Leaving abuse or danger is never 'selfish'.",
+    "related": [
+      "relinquish-fruit-not-action",
+      "action-over-inaction"
+    ],
+    "conflicts_with": [
+      "full-renunciation-path"
+    ],
+    "modern_application": "Keep your commitments, and look for the selfish intention inside them that you could let go of instead.",
+    "situations": [
+      "purpose_meaning",
+      "conflict_of_duties",
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "full-renunciation-path",
+    "name": "The path of withdrawal and solitude",
+    "meaning": "For some, the highest perfection comes through renunciation: solitude, light eating, controlled speech, dispassion, and giving up possessions and the sense of 'mine'.",
+    "supporting": [
+      "BG.18.49",
+      "BG.18.52",
+      "BG.18.53",
+      "BG.6.10"
+    ],
+    "applies_when": "An adult, usually in later life, with responsibilities fulfilled or handed over, is considering a life of retreat or full-time spiritual practice.",
+    "misleads_when": "It is presented to someone in distress, to anyone under 18, or to someone escaping responsibilities or problems. Never recommended to them.",
+    "related": [
+      "turn-inward",
+      "inward-meditation"
+    ],
+    "conflicts_with": [
+      "action-over-inaction",
+      "relinquish-fruit-not-action",
+      "renounce-selfishness-not-the-world"
+    ],
+    "modern_application": "Try retreat in measured steps (a weekend, then a week) while keeping your obligations covered, and discuss it with those who depend on you.",
+    "situations": [
+      "purpose_meaning",
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [
+      "under18",
+      "distress"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "two-paths-both-lead",
+    "name": "Renunciation and engaged action both lead to the good, but action is easier",
+    "meaning": "Renunciation and the yoga of action both lead to the highest good, but of the two the yoga of action is better; renunciation is hard to reach without it.",
+    "supporting": [
+      "BG.5.2",
+      "BG.5.6",
+      "BG.3.3"
+    ],
+    "applies_when": "Someone is choosing between a contemplative and an active life.",
+    "misleads_when": "It is used to dismiss genuinely contemplative vocations.",
+    "related": [
+      "many-paths-one-goal",
+      "renounce-selfishness-not-the-world"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Start by bringing contemplation into your active life (daily practice, service) before deciding on any larger change.",
+    "situations": [
+      "purpose_meaning",
+      "conflict_of_duties"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "hold-both-together",
+    "name": "Hold action and contemplation together",
+    "meaning": "The Isha warns against pursuing either ignorance or knowledge alone; whoever knows both together crosses death by one and reaches immortality by the other.",
+    "supporting": [
+      "IsU.9",
+      "IsU.11",
+      "IsU.2"
+    ],
+    "applies_when": "Someone has swung to one extreme: all work and no reflection, or all study and no engagement.",
+    "misleads_when": "It is used to avoid ever committing fully to anything.",
+    "related": [
+      "two-paths-both-lead",
+      "action-over-inaction"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Put one reflective practice into a busy week, or one practical commitment into a reflective life.",
+    "situations": [
+      "purpose_meaning",
+      "conflict_of_duties"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "your-nature-shapes-you",
+    "name": "Your nature shapes what you do",
+    "meaning": "Beings follow their nature, and no being is free of the three qualities; one's nature and faith shape what one becomes.",
+    "supporting": [
+      "BG.3.33",
+      "BG.18.40",
+      "BG.17.3"
+    ],
+    "applies_when": "Someone is fighting their temperament in choosing a career or way of life, and needs to work with it.",
+    "misleads_when": "It turns into fatalism ('I can't change'), or excuses harm. Never offered as fatalism to anyone in distress or under 18.",
+    "related": [
+      "suppression-backfires",
+      "own-path-over-imitation"
+    ],
+    "conflicts_with": [
+      "self-as-friend"
+    ],
+    "modern_application": "List what reliably energises you and what reliably drains you. Shape your next choice around the first list.",
+    "situations": [
+      "purpose_meaning",
+      "conflict_of_duties"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [
+      "distress"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "nature-and-the-inner-controller",
+    "name": "A larger power moves all beings",
+    "meaning": "The Lord dwells in every heart, moving all beings as if on a machine; what you refuse out of confusion, your nature will make you do.",
+    "supporting": [
+      "BG.18.61",
+      "BG.18.60",
+      "BG.18.59"
+    ],
+    "applies_when": "An adult wants to let go of excessive control and see their life in a larger frame.",
+    "misleads_when": "It is used as fatalism, to deny responsibility, or with anyone in distress or under 18. The surrounding verses also concern going to war. Restricted.",
+    "related": [
+      "not-the-sole-doer",
+      "refuge-and-trust"
+    ],
+    "conflicts_with": [
+      "reflect-then-choose",
+      "self-as-friend"
+    ],
+    "modern_application": "Notice where you are trying to control what you cannot. Hold your part firmly and the rest more loosely.",
+    "situations": [
+      "ego_pride_envy",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [
+      "under18",
+      "distress"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "keep-your-word",
+    "name": "Keep your word, as good people always have",
+    "meaning": "Nachiketas urges his father to keep his word: look at how those before acted and how good people act now; no one becomes ageless by breaking it.",
+    "supporting": [
+      "KaU.1.1.6"
+    ],
+    "applies_when": "An adult is tempted to break a serious promise for convenience.",
+    "misleads_when": "It is used to hold someone to a promise that would cause harm, or one made under pressure. The original story involves a child sent to Death; restricted for under-18s and anyone in distress.",
+    "related": [
+      "honesty"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Before breaking a promise, tell the person directly and offer what you can instead.",
+    "situations": [
+      "conflict_of_duties",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [
+      "under18",
+      "distress"
+    ],
+    "review_status": "draft"
+  },
+  {
+    "id": "duty-of-protection",
+    "name": "Dharma includes protecting the good",
+    "meaning": "Whenever dharma declines, the divine acts to protect the good and restore order; righteousness is not passive.",
+    "supporting": [
+      "BG.4.7",
+      "BG.4.8"
+    ],
+    "applies_when": "Someone is deciding whether to speak up or act against injustice they witness.",
+    "misleads_when": "It is used to justify violence or vigilantism. Viveka applies it only to lawful, non-violent protection and reporting.",
+    "related": [
+      "clear-understanding",
+      "non-violence"
+    ],
+    "conflicts_with": [],
+    "modern_application": "If you witness harm, take the safest effective step: support the person, document it, and report it to someone with authority.",
+    "situations": [
+      "conflict_of_duties",
+      "fear_anxiety",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "steadiness-under-pressure",
+    "name": "Steady understanding under pressure",
+    "meaning": "One of steady wisdom is not shaken by sorrow, does not crave pleasure, and is free of passion, fear and anger; such a mind does not waver.",
+    "supporting": [
+      "BG.2.56",
+      "BG.2.55",
+      "BG.14.23"
+    ],
+    "applies_when": "Someone faces a high-pressure situation (an exam, a negotiation, a crisis at work or home) and needs to stay clear.",
+    "misleads_when": "It is used to suppress the body's legitimate stress signals.",
+    "related": [
+      "calm-before-clarity",
+      "evenness-in-success-and-failure"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Prepare for the pressure moment: rehearse it once, plan your first sentence, and decide in advance how you will steady yourself.",
+    "situations": [
+      "fear_anxiety",
+      "anger_resentment",
+      "failure_setback"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "choose-again-after-delusion",
+    "name": "When clarity returns, act on it",
+    "meaning": "At the end, Arjuna says: my delusion is gone, my doubts resolved, I stand firm and will act. Clarity is meant to end in a decision.",
+    "supporting": [
+      "BG.18.73",
+      "BG.18.63"
+    ],
+    "applies_when": "Someone has reached clarity but keeps postponing the decision.",
+    "misleads_when": "It is used to rush a decision before clarity has really come.",
+    "related": [
+      "reflect-then-choose",
+      "name-the-confusion"
+    ],
+    "conflicts_with": [],
+    "modern_application": "If you know what you need to do, set a date this week to take the first step, and tell one person.",
+    "situations": [
+      "conflict_of_duties",
+      "purpose_meaning",
+      "lack_of_motivation"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  }
+]

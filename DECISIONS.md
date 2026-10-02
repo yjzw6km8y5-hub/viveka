@@ -232,3 +232,27 @@ Technical choices made without asking, newest last. Format: date, decision, why.
   - No situations, so they are never offered as advice.
   - They are flagged `death` and `distress_gentle`, even when the commentary reads them figuratively.
 - **Ritual and invocation passages** (peace chants, colophons) are skipped by the parsers, as the Gita's chapter colophons are. Only numbered units become records.
+
+## 2026-10-02: Answer engine, safety and privacy
+
+- **Safety rule revised (by the user):**
+  - Never recommend renunciation, abandoning responsibilities, or fatalism to someone in distress or under 18.
+  - Always support leaving abuse or danger, and point to help.
+  - Help numbers live in `data/help_resources.json`, each with its source and check date (2026-10-02):
+    - India: 112, Tele-MANAS 14416, Childline 1098, women's helpline 181
+    - US: 988
+    - UK: Samaritans 116 123
+- **Privacy check of the AI provider (Anthropic API terms, checked 2026-10-02):**
+  - API inputs and outputs are not used for training by default.
+  - They *are* stored for up to 30 days, and for up to 2 years if trust-and-safety systems flag them.
+  - Zero-data-retention agreements exist, subject to Anthropic's approval, but flagged content and legal holds are still exempt.
+  - Sources: privacy.claude.com, "How long do you store my organization's data?" (updated 2026-07-01), and docs.anthropic.com, "API and data retention".
+  - **Result:** the default API terms do NOT meet the promise that session context is never saved.
+- **Decision on the engine:**
+  - The answer engine runs locally, with deterministic retrieval and templates, and sends nothing to any provider.
+  - An optional LLM step (Claude) exists in the code but is off by default, and is blocked unless the setting `VIVEKA_PROVIDER_ZDR=1` declares that a zero-data-retention agreement is in place.
+  - Even then, the privacy notice must disclose the flagged-content exception.
+  - Signing a ZDR agreement is a contract and cost decision for the user.
+- **Drafts stay internal.**
+  - The engine has two modes: `public` (only records with `review_status` reviewed or approved) and `internal` (drafts allowed, every answer marked DRAFT).
+  - No record is reviewed yet, so tests run in internal mode. Public mode currently returns an honest "no reviewed material yet" answer.

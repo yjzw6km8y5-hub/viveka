@@ -1,0 +1,711 @@
+[
+  {
+    "id": "desire-anger-chain",
+    "name": "From dwelling comes desire; from desire, anger",
+    "meaning": "Dwelling on something breeds attachment, then desire, then anger when it is blocked, then confusion and the loss of judgement.",
+    "supporting": [
+      "BG.2.62",
+      "BG.2.63"
+    ],
+    "applies_when": "Anger, obsession, cravings or rumination are escalating, and the person wants to see where it starts.",
+    "misleads_when": "It is used to shame normal wishes or to tell someone their justified anger at injustice is merely a defect.",
+    "related": [
+      "three-gates",
+      "guard-the-senses",
+      "withstand-the-surge"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Next time anger rises, trace it back one step: what were you dwelling on just before? Interrupt the chain there.",
+    "situations": [
+      "anger_resentment",
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "guard-the-senses",
+    "name": "Draw the senses in like a tortoise",
+    "meaning": "Steady wisdom comes when one can withdraw the senses from their objects at will, as a tortoise draws in its limbs.",
+    "supporting": [
+      "BG.2.58",
+      "BG.2.68",
+      "BG.2.67",
+      "BG.2.61"
+    ],
+    "applies_when": "Constant stimulation (phones, cravings, distractions) is scattering attention.",
+    "misleads_when": "It becomes rigid suppression or avoidance of ordinary life and pleasures.",
+    "related": [
+      "chariot-of-the-mind",
+      "desire-anger-chain"
+    ],
+    "conflicts_with": [
+      "suppression-backfires"
+    ],
+    "modern_application": "Create one daily 'tortoise hour': no screens, no snacks, no background noise. Notice what pulls at you.",
+    "situations": [
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "suppression-backfires",
+    "name": "Forcing yourself rarely works; nature prevails",
+    "meaning": "Beings follow their nature, so mere suppression achieves little; holding back outwardly while dwelling on desire inwardly is self-deception.",
+    "supporting": [
+      "BG.3.33",
+      "BG.3.6",
+      "BG.2.59"
+    ],
+    "applies_when": "Someone is trying to change a habit by willpower alone and keeps failing, or is pretending to have given something up.",
+    "misleads_when": "It is used as an excuse to indulge any impulse ('it's my nature').",
+    "related": [
+      "three-gunas-awareness",
+      "your-nature-shapes-you"
+    ],
+    "conflicts_with": [
+      "guard-the-senses"
+    ],
+    "modern_application": "Instead of fighting the urge head-on, change the setting that triggers it, and replace it with something you value more.",
+    "situations": [
+      "temptation_self_control",
+      "failure_setback"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "desire-as-enemy",
+    "name": "Unchecked desire is the inner enemy",
+    "meaning": "Desire and anger, born of restlessness, cover wisdom as smoke covers fire; they sit in the senses, mind and intellect, and must be mastered.",
+    "supporting": [
+      "BG.3.37",
+      "BG.3.38",
+      "BG.3.39",
+      "BG.3.41",
+      "BG.3.43"
+    ],
+    "applies_when": "Someone keeps acting against their own values 'as if forced'.",
+    "misleads_when": "It produces shame about all desire, including healthy love, ambition or pleasure.",
+    "related": [
+      "desire-anger-chain",
+      "three-gates"
+    ],
+    "conflicts_with": [
+      "dharmic-desire-is-legitimate"
+    ],
+    "modern_application": "Name the desire that most often overrides your judgement, and decide in advance what you will do the next time it arises.",
+    "situations": [
+      "temptation_self_control",
+      "anger_resentment"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "dharmic-desire-is-legitimate",
+    "name": "Desire in harmony with dharma is sacred",
+    "meaning": "Not all desire is to be fought: desire that does not go against dharma is itself divine.",
+    "supporting": [
+      "BG.7.11"
+    ],
+    "applies_when": "Someone feels guilty for wanting love, family, success or comfort that harms no one.",
+    "misleads_when": "It is stretched to justify desires that do harm others or betray commitments.",
+    "related": [
+      "pleasant-versus-good"
+    ],
+    "conflicts_with": [
+      "desire-as-enemy"
+    ],
+    "modern_application": "Test a desire: does it harm anyone, break a promise or cost your integrity? If not, you may pursue it with a clear conscience.",
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "kama",
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "chariot-of-the-mind",
+    "name": "The chariot: intellect drives, mind is the reins",
+    "meaning": "The body is a chariot, the senses its horses, the mind the reins and the intellect the driver; with understanding at the reins, the senses go where you choose.",
+    "supporting": [
+      "KaU.1.3.3",
+      "KaU.1.3.4",
+      "KaU.1.3.5",
+      "KaU.1.3.6",
+      "KaU.1.3.9"
+    ],
+    "applies_when": "Someone feels pulled around by impulses and wants a practical picture of self-command.",
+    "misleads_when": "It is used to look down on people who struggle with impulse control for reasons beyond their choice.",
+    "related": [
+      "guard-the-senses",
+      "steady-practice"
+    ],
+    "conflicts_with": [],
+    "modern_application": "When an impulse pulls, ask: who is driving right now, my horses or me? Decide where the chariot is going before you loosen the reins.",
+    "situations": [
+      "temptation_self_control",
+      "lack_of_motivation"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "self-as-friend",
+    "name": "Be your own friend",
+    "meaning": "Lift yourself up by your own effort; the self can be one's friend or enemy, depending on whether one has learned to guide oneself.",
+    "supporting": [
+      "BG.6.5",
+      "BG.6.6"
+    ],
+    "applies_when": "Someone is waiting for rescue and needs to reclaim some agency, gently.",
+    "misleads_when": "It is used to blame someone who is depressed, grieving or overwhelmed for 'not lifting themselves'. For anyone in distress, present it only as kindness to oneself, alongside real support.",
+    "related": [
+      "reflect-then-choose",
+      "steady-practice"
+    ],
+    "conflicts_with": [
+      "not-the-sole-doer",
+      "your-nature-shapes-you",
+      "nature-and-the-inner-controller"
+    ],
+    "modern_application": "Speak to yourself as you would to a friend in the same situation; write down what you would tell them, and take one step of that advice yourself.",
+    "situations": [
+      "lack_of_motivation",
+      "failure_setback",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "restless-mind-can-be-trained",
+    "name": "The restless mind can be held",
+    "meaning": "Arjuna says the mind is as hard to hold as the wind; Krishna agrees, but says practice and detachment can hold it.",
+    "supporting": [
+      "BG.6.34",
+      "BG.6.35"
+    ],
+    "applies_when": "Someone despairs of ever calming their mind or overthinking.",
+    "misleads_when": "It replaces professional help for anxiety disorders or other conditions.",
+    "related": [
+      "steady-practice",
+      "calm-before-clarity"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Acknowledge the difficulty honestly, as Krishna did, then choose one five-minute practice and repeat it daily for two weeks.",
+    "situations": [
+      "fear_anxiety",
+      "temptation_self_control",
+      "failure_setback"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "three-gunas-awareness",
+    "name": "Notice which quality is driving you",
+    "meaning": "Clarity (sattva), restless craving (rajas) and inertia (tamas) take turns dominating the mind; seeing which one is active is the first step out of it.",
+    "supporting": [
+      "BG.14.5",
+      "BG.14.9",
+      "BG.14.10",
+      "BG.14.12",
+      "BG.14.17"
+    ],
+    "applies_when": "Someone wants to understand their own swings between energy, restlessness and lethargy.",
+    "misleads_when": "It is used to label people permanently ('he is tamasic') rather than describe passing states.",
+    "related": [
+      "states-arise-and-pass",
+      "suppression-backfires"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Three times a day, note in one word whether you feel clear, driven or dull. After a week, look for what tends to precede each.",
+    "situations": [
+      "temptation_self_control",
+      "lack_of_motivation",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "pleasant-versus-good",
+    "name": "Choose the good over the merely pleasant",
+    "meaning": "The good and the pleasant both present themselves; the wise tell them apart and choose the good, while the careless choose comfort.",
+    "supporting": [
+      "KaU.1.2.1",
+      "KaU.1.2.2",
+      "BG.18.37",
+      "BG.18.38"
+    ],
+    "applies_when": "A choice between short-term comfort and long-term wellbeing: study or scrolling, saving or spending, honesty or ease.",
+    "misleads_when": "It makes someone distrust every enjoyable thing, or choose hardship for its own sake.",
+    "related": [
+      "dharmic-desire-is-legitimate",
+      "resist-tempting-shortcuts"
+    ],
+    "conflicts_with": [],
+    "modern_application": "For a choice in front of you, ask: how will each option feel at the start, and how will it feel in a year?",
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "kama",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "contact-pleasures-end",
+    "name": "Pleasures of contact have an end",
+    "meaning": "Pleasures born of sense contact begin and end, and wear out the senses; the wise do not stake their happiness on them.",
+    "supporting": [
+      "BG.5.22",
+      "BG.2.14",
+      "KaU.1.1.26"
+    ],
+    "applies_when": "Someone is chasing a high (shopping, substances, novelty) and finds the satisfaction keeps fading.",
+    "misleads_when": "It turns into contempt for ordinary joys like food, music or affection.",
+    "related": [
+      "contentment-within",
+      "wealth-never-satisfies"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Track one habitual pleasure for a week: how long did the good feeling last each time?",
+    "situations": [
+      "temptation_self_control",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "kama",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "contentment-within",
+    "name": "Contentment is found within",
+    "meaning": "The person who is content in the self, whose joy and light are within, is at peace and does not depend on outer things.",
+    "supporting": [
+      "BG.2.55",
+      "BG.5.21",
+      "BG.5.24",
+      "BG.6.20"
+    ],
+    "applies_when": "Someone's happiness depends entirely on external outcomes, possessions or approval.",
+    "misleads_when": "It is used to tell someone to accept unjust material conditions they could change.",
+    "related": [
+      "contact-pleasures-end",
+      "joy-that-lasts"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Spend ten minutes doing nothing but noticing what is already well right now.",
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "wealth-never-satisfies",
+    "name": "No one is satisfied by wealth",
+    "meaning": "Desire is as hard to satisfy as fire; Nachiketas observes that no one is ever satisfied by wealth.",
+    "supporting": [
+      "KaU.1.1.27",
+      "BG.3.39",
+      "BG.16.12"
+    ],
+    "applies_when": "Someone is sacrificing health, relationships or integrity for ever more money or status.",
+    "misleads_when": "It is used to dismiss real poverty or the legitimate need for financial security.",
+    "related": [
+      "contact-pleasures-end",
+      "beware-intoxication-of-wealth"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Write down the amount that would be 'enough' and what you would do differently once you have it. Ask whether you could start some of it now.",
+    "situations": [
+      "success_wealth",
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "artha",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "three-gates",
+    "name": "Desire, anger and greed: the three gates of harm",
+    "meaning": "Desire, anger and greed are the threefold gate to self-destruction; freed from them, a person does what is truly good for themselves.",
+    "supporting": [
+      "BG.16.21",
+      "BG.16.22"
+    ],
+    "applies_when": "Someone is about to act out of rage, lust or greed and wants a quick check.",
+    "misleads_when": "It is used to condemn a person rather than an action or a state.",
+    "related": [
+      "desire-anger-chain",
+      "desire-as-enemy"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Before a big decision, ask which of the three, if any, is speaking. If one is, sleep on it.",
+    "situations": [
+      "anger_resentment",
+      "temptation_self_control",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "withstand-the-surge",
+    "name": "Withstand the surge of desire and anger",
+    "meaning": "Whoever can withstand the force of desire and anger here, in this life, is disciplined and happy.",
+    "supporting": [
+      "BG.5.23",
+      "BG.5.26",
+      "BG.5.28"
+    ],
+    "applies_when": "Someone is in the grip of a strong urge or a flash of anger right now.",
+    "misleads_when": "It encourages bottling up feelings instead of expressing them safely.",
+    "related": [
+      "desire-anger-chain",
+      "calm-before-clarity"
+    ],
+    "conflicts_with": [],
+    "modern_application": "When the surge comes, do not act for ten breaths. Urges peak and fall like waves.",
+    "situations": [
+      "anger_resentment",
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "single-pointed-resolve",
+    "name": "A resolute mind is single-pointed",
+    "meaning": "The resolute mind has one direction; the irresolute mind branches endlessly, especially when chasing pleasure and power.",
+    "supporting": [
+      "BG.2.41",
+      "BG.2.44"
+    ],
+    "applies_when": "Someone is scattered across too many goals and finishing none.",
+    "misleads_when": "It becomes tunnel vision that ignores other responsibilities or warning signs.",
+    "related": [
+      "steady-practice",
+      "skill-in-action"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Choose one goal for the next 30 days. Write the others on a 'later' list so they stop pulling at you.",
+    "situations": [
+      "purpose_meaning",
+      "lack_of_motivation"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "calm-before-clarity",
+    "name": "Calm comes before clear understanding",
+    "meaning": "In a calm mind sorrows end and understanding soon becomes steady; without calm there is no peace, and without peace no happiness.",
+    "supporting": [
+      "BG.2.65",
+      "BG.2.66"
+    ],
+    "applies_when": "Someone is trying to make a decision while agitated.",
+    "misleads_when": "It delays urgent action that cannot wait, such as getting to safety.",
+    "related": [
+      "restless-mind-can-be-trained",
+      "inward-meditation"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Before deciding, calm the body first: slow breathing for two minutes, then write the decision in one sentence.",
+    "situations": [
+      "fear_anxiety",
+      "grief_loss",
+      "conflict_of_duties"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "inward-meditation",
+    "name": "Draw the mind inward, step by step",
+    "meaning": "Meditation moves inward in stages: speech into mind, mind into intellect, intellect into the peaceful Self, until the senses and mind rest.",
+    "supporting": [
+      "KaU.1.3.13",
+      "KaU.2.3.10",
+      "BG.6.12",
+      "BG.6.19"
+    ],
+    "applies_when": "Someone wants a concrete method of meditation for calm and insight.",
+    "misleads_when": "It is offered as a substitute for medical care, or practised in a way that increases distress (some people with trauma need guided support).",
+    "related": [
+      "calm-before-clarity",
+      "turn-inward"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Sit for five minutes: first go quiet in speech, then notice thoughts without following them, then rest in simple awareness.",
+    "situations": [
+      "fear_anxiety",
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "turn-inward",
+    "name": "The senses face outward; the wise turn within",
+    "meaning": "We are built to look outward; only rarely does someone, seeking what lasts, turn their gaze inward and find the Self.",
+    "supporting": [
+      "KaU.2.1.1",
+      "KaU.2.1.2"
+    ],
+    "applies_when": "Someone has achieved outward goals and still feels empty.",
+    "misleads_when": "It is used to dismiss outward responsibilities and relationships.",
+    "related": [
+      "inward-meditation",
+      "lasting-versus-passing-treasure"
+    ],
+    "conflicts_with": [],
+    "modern_application": "For one week, end each day with five minutes of honest reflection: what did I learn about myself today?",
+    "situations": [
+      "purpose_meaning",
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "food-shapes-mind",
+    "name": "What you consume shapes your state",
+    "meaning": "Food and habits are of three kinds and shape the mind: wholesome food supports vitality and cheer, harsh food brings pain, stale food brings dullness.",
+    "supporting": [
+      "BG.17.8",
+      "BG.17.9",
+      "BG.17.10"
+    ],
+    "applies_when": "Someone notices that diet, substances or media intake affect their mood and energy.",
+    "misleads_when": "It turns into food moralising or disordered eating.",
+    "related": [
+      "moderation-in-living",
+      "three-gunas-awareness"
+    ],
+    "conflicts_with": [],
+    "modern_application": "For a week, note how you feel two hours after each meal, and after each hour of media. Keep what leaves you clearer.",
+    "situations": [
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "kama"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "guard-your-gains",
+    "name": "Stay vigilant: steadiness comes and goes",
+    "meaning": "Even the wise can be carried away by the senses, and the state of yoga arises and fades, so one must stay watchful.",
+    "supporting": [
+      "KaU.2.3.11",
+      "BG.2.60",
+      "BG.2.67"
+    ],
+    "applies_when": "Someone has made progress (sobriety, a new habit, calm) and is relaxing their guard.",
+    "misleads_when": "It creates constant fear of relapse instead of steady care.",
+    "related": [
+      "steady-practice",
+      "effort-never-wasted"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Write down your three biggest triggers and one plan for each, and look at it weekly even when things are going well.",
+    "situations": [
+      "temptation_self_control",
+      "failure_setback"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  }
+]

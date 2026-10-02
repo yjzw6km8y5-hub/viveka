@@ -93,10 +93,32 @@ After each piece of work, update `PROGRESS.md` with what's done and what's next.
   - Recommend one view by fit to the person's life stage, circumstances and question.
     Never present it as one school being true.
   - Say why that view fits, then name the strongest alternative.
-- **Safety overrides fit:** never recommend renunciation, leaving family, or
-  fatalism to anyone flagged as in distress or under 18.
+- **Safety overrides fit (revised by the user, 2026-10-02):**
+  - Never recommend renunciation, abandoning responsibilities, or fatalism to
+    anyone flagged as in distress or under 18.
+  - Always support leaving abuse or danger, and point to help
+    (`data/help_resources.json`). Leaving an abusive or unsafe home is never
+    framed as abandoning duty.
 - **Cross-links:** link related verses across texts.
 
 ## 9. Messages to the user
-- Keep them short: one brief summary when each text is finished.
+- Keep them short: one brief summary per milestone or finished text.
 - Don't print file contents or narrate step by step.
+
+## 10. Current plan (user-approved, 2026-10-02)
+- **Goal:** prove that Viveka gives more specific, grounded and useful guidance than
+  the alternatives, before the library is expanded.
+- **Sequence:** prototype, then a reviewed starter collection, then comparative
+  testing, then library expansion. The text queue is paused after the Katha.
+- **Answer engine steps:** understand, clarify (at most 2 questions), retrieve,
+  compare, recommend, challenge, act.
+- **Quoting and labels:**
+  - Quote only library text.
+  - Label every part as source text, commentator's view, historical example or
+    Viveka's application.
+  - Say so when a school's commentary is missing.
+- **What users see:** approved material only. Drafts stay internal.
+- **Life stage and age are separate.** Never infer one from the other.
+- **Privacy:** session context may exist temporarily but is never saved
+  (see DECISIONS.md for the provider check).
+- **Personas and thinker lenses come later**, after the prototype passes its tests.
