@@ -9,6 +9,7 @@ and `PROGRESS.md`). Items that need a human reader of Sanskrit are listed at the
 - After each change: `build_gita.py`, then `validate.py --allow-incomplete`.
 
 ## Done recently
+- `data/perspectives/` started with action vs renunciation (draft); validator checks it. Next topics: grief and death, anger, duty vs family, success and ego. Then wire perspectives into the engine's recommend step.
 - Vidura Niti complete (557 verses), strict validation passing.
 - Chanakya Niti registration backed out (review cycle 1): it broke the queue pause. The source choice
   is kept in DECISIONS.md; the work is in git history (commit 3a8a202).

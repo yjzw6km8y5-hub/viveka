@@ -362,6 +362,40 @@ def validate_examples(examples, unit_ids, principle_ids):
     return errors, warnings
 
 
+PERSPECTIVE_LABELS = ("source text", "commentator's view", "historical example", "Viveka's application")
+
+
+def load_perspectives():
+    return [load(p) for p in sorted((ROOT / "data" / "perspectives").glob("*.json"))]
+
+
+def validate_perspectives(perspectives, unit_ids):
+    errors, warnings = defaultdict(list), defaultdict(list)
+    for pid, count in Counter(p.get("id") for p in perspectives).items():
+        if count > 1:
+            errors["duplicate perspective id"].append(pid)
+    for p in perspectives:
+        pid = p.get("id", "?")
+        for f in ("topic", "summary", "positions", "agreements", "conflicts", "historical_change", "recommendation_rules"):
+            if is_empty(p.get(f)):
+                errors[f"perspective empty {f}"].append(pid)
+        if len(p.get("positions", [])) < 2:
+            errors["perspective needs at least two positions"].append(pid)
+        for pos in p.get("positions", []):
+            where = f"{pid}/{pos.get('id', '?')}"
+            for f in ("holder", "school", "era", "summary", "supporting_units"):
+                if is_empty(pos.get(f)):
+                    errors[f"position empty {f}"].append(where)
+            if pos.get("label") not in PERSPECTIVE_LABELS:
+                errors["position has no valid label"].append(where)
+            for uid in pos.get("supporting_units", []):
+                if uid not in unit_ids:
+                    errors["position cites unknown unit"].append(f"{where} -> {uid}")
+        if "never_recommend_for" not in p.get("recommendation_rules", {}):
+            errors["perspective lacks safety rule"].append(pid)
+    return errors, warnings
+
+
 def report(title, problems, limit=8):
     total = sum(len(v) for v in problems.values())
     print(f"  {title}: {total}")
@@ -403,6 +437,9 @@ def main():
     examples = load_examples()
     libraries["examples"] = examples
     results["examples"] = validate_examples(examples, unit_ids, {p.get("id") for p in principles})
+    perspectives = load_perspectives()
+    libraries["perspectives"] = perspectives
+    results["perspectives"] = validate_perspectives(perspectives, unit_ids)
 
     failed = False
     for name, (errors, warnings) in results.items():

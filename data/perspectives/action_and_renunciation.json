@@ -1,0 +1,75 @@
+{
+  "id": "action_and_renunciation",
+  "topic": "Should one act in the world or renounce it?",
+  "summary": "The Gita holds that no embodied person can stop acting, and that what matters is giving up attachment to the fruit of action. Its three classical commentators agree on this much but differ on how it relates to the path of knowledge and to formal renunciation.",
+  "review_status": "draft",
+  "positions": [
+    {
+      "id": "karma_yoga_over_renunciation",
+      "holder": "Bhagavad Gita (source text)",
+      "school": "text",
+      "era": "text, undated",
+      "summary": "Acting without attachment to results is better than giving up action; the two paths reach the same goal, but action is the better of the two.",
+      "supporting_units": ["BG.3.4", "BG.3.8", "BG.5.2", "BG.5.5", "BG.6.1"],
+      "label": "source text"
+    },
+    {
+      "id": "relinquish_fruit_not_action",
+      "holder": "Bhagavad Gita (source text)",
+      "school": "text",
+      "era": "text, undated",
+      "summary": "A body cannot give up action entirely. Real renunciation is giving up the fruit of action and the sense of 'mine'.",
+      "supporting_units": ["BG.18.2", "BG.18.6", "BG.18.11", "BG.12.12"],
+      "label": "source text"
+    },
+    {
+      "id": "action_purifies_toward_knowledge",
+      "holder": "Śaṅkara",
+      "school": "advaita",
+      "era": "about 8th century",
+      "summary": "On the library's notes: duty done without desire purifies the mind and leads to knowledge; both paths lead to liberation by giving rise to knowledge.",
+      "supporting_units": ["BG.3.4", "BG.5.2", "BG.5.5", "BG.6.1", "BG.18.11"],
+      "label": "commentator's view"
+    },
+    {
+      "id": "action_as_worship",
+      "holder": "Rāmānuja",
+      "school": "vishishtadvaita",
+      "era": "about 11th-12th century",
+      "summary": "On the library's notes: action done as worship of the Supreme Person is itself the goal; karma yoga is easier and better even for one capable of the path of knowledge.",
+      "supporting_units": ["BG.3.8", "BG.5.2", "BG.6.1", "BG.18.6", "BG.18.11"],
+      "label": "commentator's view"
+    },
+    {
+      "id": "knowledge_is_the_means",
+      "holder": "Madhva",
+      "school": "dvaita",
+      "era": "about 13th century",
+      "summary": "On the library's notes: action alone does not free, since knowledge is the means of liberation; the 'renunciation' of 5.2 is not the monastic stage of life, and duty should suit one's station.",
+      "supporting_units": ["BG.3.4", "BG.3.8", "BG.5.2"],
+      "label": "commentator's view"
+    }
+  ],
+  "agreements": [
+    "Not acting does not by itself bring freedom (3.4), and the body cannot be kept alive without action (3.8, 18.11).",
+    "What is given up is attachment to the fruit, not the work (6.1, 18.2, 18.11)."
+  ],
+  "conflicts": [
+    {
+      "point": "What action is for",
+      "views": "Śaṅkara: it purifies the mind so knowledge can arise. Rāmānuja: it is worship and a goal in itself. Madhva: it does not free; knowledge does.",
+      "why": "The schools disagree about what liberation is and what brings it about."
+    }
+  ],
+  "historical_change": "Not yet researched. The library holds no commentary from before Śaṅkara or after Madhva, so change over time is left blank rather than guessed.",
+  "gaps": [
+    "Śaṅkara's wider position on formal renunciation is not in the library's notes and is not claimed here.",
+    "Madhva has no note on 18.6; Rāmānuja and Śaṅkara are the only voices there."
+  ],
+  "recommendation_rules": {
+    "default": "Recommend karma_yoga_over_renunciation: it fits householders and students, is the Gita's own conclusion, and asks no one to leave their responsibilities.",
+    "name_alternative": "Always name the strongest alternative, and say that the commentators disagree on what action is for.",
+    "never_recommend_for": ["distress", "under18"],
+    "safety_note": "Never recommend renunciation or leaving responsibilities to anyone in distress or under 18. Leaving abuse or danger is always supported and is not abandoning duty (see data/help_resources.json)."
+  }
+}
