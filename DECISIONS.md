@@ -303,3 +303,10 @@ Technical choices made without asking, newest last. Format: date, decision, why.
     - Evidence: the runner from `logs/cycles.csv`, Codex from `reviews/*cycle*.md`, and the observer from the Desk.
     - Crosses: the runner after 3 hours without a successful cycle (as in v2) and the observer after 6 hours (as in v2). Codex after 3 hours, because it reviews every hourly cycle. The 8 PM task after 26 hours, which means an evening was missed.
     - "Both scheduled tasks" is read as the ChatGPT 2-hour observer, judged by its saved reviews, and the 8 PM summary task.
+- **PROCESS.md v3 adopted (2026-10-02, owner approved in chat: "the exact version on the Desk, 7,230 bytes"):**
+  - Verified before merging: 7230 bytes, sha256 e13e24cbe159…, identical to pending item 8; the merge re-checked the hash.
+  - **Version-bound approval:** every pending item records its source file name, modified time, size and SHA-256, plus a hash of the item itself. The summary shows these, and APPROVALS.md logs them in a new Version column. `approve` checks every chosen item before changing anything and refuses the whole merge on any mismatch. Drive file IDs are not available from Google Drive for desktop on the PC, so the content hash identifies the version.
+  - When a Desk file changes, its new findings are listed beside the older ones, and the older ones are marked "older version" so the owner can reject them.
+  - **Recommendation pass/fail gate:** it is must-fix 1 in STATUS.md as a product feature, per v3. The earlier must-fix 1, reporting pass/fail per test case, is folded into it.
+  - The other v3 sections (independent blind evaluation in `reviews/evaluations/`, release evidence, urgent-safety alerts) are in PROCESS.md for the builder to follow. No separate change was asked for now.
+  - Eight items wait for tonight's summary: six from the 16:56 version of PROCESS_AGREEMENT_chatgpt.md and the two re-queued observer items. That agreement file changed again at 17:02, so tonight's import will also list its eight newer findings.

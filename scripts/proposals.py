@@ -85,13 +85,26 @@ def write_proposal(st, kind, title, summary, body, source, extra=None):
     pid = st["next_id"]
     st["next_id"] += 1
     meta = {"id": pid, "kind": kind, "target": TARGETS[kind][0], "title": title, "summary": summary,
-            "source": source, "imported": now().strftime("%Y-%m-%d %H:%M"), **(extra or {})}
+            "source": source, "imported": now().strftime("%Y-%m-%d %H:%M"), **(extra or {}),
+            "body_sha256": sha(body.strip())}
     PENDING.mkdir(parents=True, exist_ok=True)
     slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")[:50] or "proposal"
     path = PENDING / f"{pid:03d}-{slug}.md"
     path.write_text("```json\n" + json.dumps(meta, ensure_ascii=False, indent=2) + "\n```\n\n" + body.strip() + "\n",
                     encoding="utf-8", newline="\n")
     return path
+
+
+def file_version(f):
+    """Exact version of a desk file: name, modified time, size and SHA-256 of its bytes (PROCESS.md v3).
+    Google Drive for desktop does not expose Drive file IDs locally, so the hash identifies the version."""
+    raw = f.read_bytes()
+    return {"file": f.name, "modified": datetime.datetime.fromtimestamp(f.stat().st_mtime).strftime("%Y-%m-%d %H:%M"),
+            "bytes": len(raw), "sha256": hashlib.sha256(raw).hexdigest()}
+
+
+def version_text(v):
+    return f"{v['file']}, modified {v['modified']}, {v['bytes']} bytes, sha256 {v['sha256'][:12]}" if v else "version not recorded"
 
 
 def read_proposal(path):
@@ -144,14 +157,14 @@ def item_summary(body):
 
 
 def log_decision(rows):
-    """rows: [(date, source, id, title, decision)] -> proposals/APPROVALS.md"""
+    """rows: [(date, source, version, id, title, decision)] -> proposals/APPROVALS.md"""
     if not APPROVALS.exists():
         APPROVALS.write_text("# Approvals\n\nEvery owner decision on outside input (PROCESS.md v2, gap 2).\n\n"
-                             "| Date | Source file | # | Finding | Decision |\n|---|---|---:|---|---|\n",
+                             "| Date | Source file | Version | # | Finding | Decision |\n|---|---|---|---:|---|---|\n",
                              encoding="utf-8", newline="\n")
     with APPROVALS.open("a", encoding="utf-8", newline="\n") as f:
-        for d, src, pid, title, dec in rows:
-            f.write(f"| {d} | {src} | {pid} | {title.replace('|', '/')} | {dec} |\n")
+        for d, src, ver, pid, title, dec in rows:
+            f.write(f"| {d} | {src} | {ver} | {pid} | {title.replace('|', '/')} | {dec} |\n")
 
 
 # ---------------------------------------------------------------- import
@@ -168,6 +181,7 @@ def cmd_import(args):
         if st["imported"].get(f.name) == digest:
             continue
         name, source = canonical(f.name), f"AI Review Desk/Viveka/{f.name}"
+        ver = {"version": file_version(f)}
         SOURCES.mkdir(parents=True, exist_ok=True)
         snap = SOURCES / name
         old = snap.read_text(encoding="utf-8") if snap.exists() else None
@@ -180,7 +194,7 @@ def cmd_import(args):
                                                   f"previous {name}", f"new {name}", lineterm=""))
             made.append(write_proposal(st, "doc", f"{'Update' if old else 'Add'} {name}",
                                        f"{'Replace' if old else 'Add'} {name} at the repo root: \"{heading}\"",
-                                       text + "\n\nChange:\n\n```diff\n" + diff + "\n```", source, {"doc_file": name}))
+                                       text + "\n\nChange:\n\n```diff\n" + diff + "\n```", source, {"doc_file": name, **ver}))
         elif name.upper().startswith("CONTEXT"):
             new = text.splitlines()
             added = [l[1:] for l in difflib.unified_diff((old or "").splitlines(), new, lineterm="", n=0)
@@ -191,15 +205,15 @@ def cmd_import(args):
                 body = "Lines to add to CONTEXT.md:\n\n" + "\n".join(added) + "\n\nFull change:\n\n```diff\n" + diff + "\n```"
                 made.append(write_proposal(st, "context", f"Context update from {name}",
                                            f"{len(added)} new or changed lines, e.g. \"{first_sentence(added[0].lstrip('-# '), 100)}\"",
-                                           body, source))
+                                           body, source, ver))
         else:
             snap.write_text(text, encoding="utf-8", newline="\n")
             items = split_review(text)
             for kind, title, body in items:
-                made.append(write_proposal(st, kind, title, item_summary(body), body, source, {"review_file": name}))
+                made.append(write_proposal(st, kind, title, item_summary(body), body, source, {"review_file": name, **ver}))
             if not items:
                 made.append(write_proposal(st, "file", f"Archive {name}", "No must-fix, should-fix or idea items "
-                                           "found; approving archives it in reviews/.", text, source, {"review_file": name}))
+                                           "found; approving archives it in reviews/.", text, source, {"review_file": name, **ver}))
         st["imported"][f.name] = digest
     save_state(st)
     print(f"{len(made)} new item(s) imported." + "".join(f"\n  {p.name}" for p in made))
@@ -307,6 +321,11 @@ def cmd_summary(_):
     for m, _, _ in items:
         print(f"{m['id']}. {m['title']} ({KIND_WORDS[m['kind']]}, would go into {m['target']}; from {m['source'].split('/')[-1]})")
         print(f"   {m['summary']}")
+        v = m.get("version")
+        newer = v and any(o.get("version") and o["version"]["file"] == v["file"] and o["version"]["sha256"] != v["sha256"]
+                          and o["version"]["modified"] > v["modified"] for o, _, _ in items)
+        print(f"   Version: {version_text(v)}" + (" (older version: a newer copy of this file is also listed)" if newer else ""))
+    print("\nAn approval covers only these exact versions. A file changed after this summary is listed again next time.")
     print('\nReply "approve" to merge all of these, or "approve except 2" to leave some out.')
 
 
@@ -331,6 +350,17 @@ def git(*a):
     subprocess.run([exe, *a], cwd=ROOT, check=True)
 
 
+def check_integrity(m, body):
+    if m.get("body_sha256") and sha(body.strip()) != m["body_sha256"]:
+        return "the pending item was edited after it was imported"
+    v = m.get("version")
+    if m["kind"] == "doc" and v:
+        content = body.rsplit("\n\nChange:\n\n```diff", 1)[0].rstrip() + "\n"
+        if hashlib.sha256(content.encode("utf-8")).hexdigest() != v["sha256"]:
+            return "the document does not match the hash of the version that was listed"
+    return None
+
+
 def cmd_approve(args):
     st = load_state()
     listed = set(st.get("last_listed", []))
@@ -344,14 +374,19 @@ def cmd_approve(args):
     touched, merged, refused, reviews, log = set(), [], [], {}, []
     APPROVED.mkdir(parents=True, exist_ok=True)
     DECLINED.mkdir(parents=True, exist_ok=True)
-    for m, body, path in pending():
-        if m["id"] not in listed or (only and m["id"] not in only and m["id"] not in declined):
-            continue  # arrived after the summary, or not part of this decision: stays pending
+    # Only items shown in the last summary; with --only, the rest stay pending.
+    chosen = [(m, body, path) for m, body, path in pending()
+              if m["id"] in listed and (not only or m["id"] in only or m["id"] in declined)]
+    for m, body, _ in chosen:  # check everything before changing anything
+        problem = None if m["id"] in declined else check_integrity(m, body)
+        if problem:
+            sys.exit(f"Refusing to merge item {m['id']}: {problem}. Nothing was merged.")
+    for m, body, path in chosen:
         src = m["source"].split("/")[-1]
         if m["id"] in declined:
             shutil.move(str(path), DECLINED / path.name)
             refused.append(m["id"])
-            log.append((today, src, m["id"], m["title"], "rejected"))
+            log.append((today, src, version_text(m.get("version")), m["id"], m["title"], "rejected"))
             continue
         target, heading = TARGETS[m["kind"]]
         if m["kind"] in ("must-fix", "should-fix", "idea"):
@@ -373,7 +408,7 @@ def cmd_approve(args):
         shutil.move(str(path), APPROVED / path.name)
         touched.add(f"proposals/approved/{path.name}")
         merged.append(m["id"])
-        log.append((today, src, m["id"], m["title"], "approved"))
+        log.append((today, src, version_text(m.get("version")), m["id"], m["title"], "approved"))
     for name, ids in reviews.items():  # archive the full review once any of its items is approved
         dest = ROOT / "reviews" / name
         dest.parent.mkdir(exist_ok=True)
@@ -402,7 +437,7 @@ def cmd_decline(args):
             sys.exit(f"No pending proposal {pid}.")
         m, _ = read_proposal(hits[0])
         shutil.move(str(hits[0]), DECLINED / hits[0].name)
-        log_decision([(today, m["source"].split("/")[-1], pid, m["title"], f"rejected: {args.reason}")])
+        log_decision([(today, m["source"].split("/")[-1], version_text(m.get("version")), pid, m["title"], f"rejected: {args.reason}")])
         print(f"Declined {pid}: {m['title']}")
 
 

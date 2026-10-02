@@ -3,7 +3,7 @@
 Text from outside the repo (ChatGPT observer reviews, context files and process documents in the
 Drive folder `AI Review Desk/Viveka`) never goes straight into instruction files: STATUS.md,
 CONTEXT.md, CLAUDE.md, PROCESS.md, PROJECT_BRIEF.md or `reviews/`. It waits for the owner's
-approval (PROCESS.md v2).
+approval (PROCESS.md v3).
 
 | Path | Holds | In git? |
 |---|---|---|
@@ -16,7 +16,10 @@ approval (PROCESS.md v2).
 
 ## How it runs
 1. **8 PM:** `python scripts/proposals.py import`, then `python scripts/proposals.py summary`.
-   - The summary starts with the Health section, then lists the pending items in plain language.
+   - The summary starts with the Health section, then lists the pending items in plain language,
+     each with the exact desk file version it came from (name, modified time, size, SHA-256).
+   - An approval covers only those versions; `approve` refuses any item whose content no longer
+     matches its hash. Every decision is logged with its version in APPROVALS.md.
    - Import splits observer reviews into one item per must-fix, should-fix or idea finding.
    - A changed context file becomes one item containing only its new lines.
    - PROCESS.md and PROJECT_BRIEF.md become items to add or replace that file at the repo root. Drive re-upload names such as "PROCESS (1).md" are treated as the same file.

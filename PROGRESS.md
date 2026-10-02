@@ -214,3 +214,4 @@ Every record is `review_status: "draft"`. Nothing has been reviewed by a person 
 
 ## Process (2026-10-02)
 - PROCESS.md v2 adopted; proposals gate with APPROVALS.md; Health section in the 8 PM summary; cycle log and pause rule (CLAUDE.md sections 11-12). Pending for the owner tonight: PROCESS.md v3, six findings from PROCESS_AGREEMENT_chatgpt.md, and two re-queued observer items.
+- PROCESS.md v3 adopted: version-bound approvals (file, time, size, SHA-256 in the summary and APPROVALS.md); recommendation pass/fail gate is must-fix 1.
