@@ -31,14 +31,14 @@ Forbidden material used: 0
 - V009 (score 11/12): top principle respect-different-paths does not answer the decision
 - V010 (score 8/12): top principle meet-people-where-they-are does not answer the decision
 - V011 (score 10/12): top principle trust-with-care does not answer the decision
-- V012 (score 10/12): restricted principle shown to a distressed or under-18 person: loving-without-clinging; top principle apologise-sincerely does not answer the decision
+- V012 (score 10/12): top principle apologise-sincerely does not answer the decision
 - V013 (score 9/12): top principle fearlessness does not answer the decision
 - V015 (score 10/12): top principle delight-in-the-welfare-of-all does not answer the decision
 - V017 (score 10/12): top principle wealth-never-satisfies does not answer the decision
 - V020 (score 10/12): top principle chariot-of-the-mind does not answer the decision
 - V021 (score 10/12): top principle not-knowing-is-part-of-knowing does not answer the decision
 - V024 (score 7/12): top principle credit-is-not-yours-alone does not answer the decision
-- V026 (score 11/12): restricted principle shown to a distressed or under-18 person: loving-without-clinging; top principle lead-by-example does not answer the decision
+- V026 (score 11/12): top principle lead-by-example does not answer the decision
 - V028 (score 10/12): top principle honour-the-grief-first does not answer the decision
 
 Lowest-scoring answers:

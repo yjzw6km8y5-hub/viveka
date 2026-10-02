@@ -104,7 +104,7 @@ def file_version(f):
 
 
 def version_text(v):
-    return f"{v['file']}, modified {v['modified']}, {v['bytes']} bytes, sha256 {v['sha256'][:12]}" if v else "version not recorded"
+    return f"{v['file']}, modified {v['modified']}, {v['bytes']} bytes, sha256 {v['sha256']}" if v else "version not recorded"
 
 
 def read_proposal(path):
@@ -208,6 +208,8 @@ def cmd_import(args):
                                            body, source, ver))
         else:
             snap.write_text(text, encoding="utf-8", newline="\n")
+            # Keep the exact version each item came from, so approving archives that version, not a later import.
+            (SOURCES / (ver["version"]["sha256"] + "-" + name)).write_text(text, encoding="utf-8", newline="\n")
             items = split_review(text)
             for kind, title, body in items:
                 made.append(write_proposal(st, kind, title, item_summary(body), body, source, {"review_file": name, **ver}))
@@ -404,16 +406,19 @@ def cmd_approve(args):
             (ROOT / m["doc_file"]).write_text(content.rstrip() + "\n", encoding="utf-8", newline="\n")
             touched.add(m["doc_file"])
         if m.get("review_file"):
-            reviews.setdefault(m["review_file"], []).append(m["id"])
+            reviews.setdefault((m["review_file"], (m.get("version") or {}).get("sha256")), []).append(m["id"])
         shutil.move(str(path), APPROVED / path.name)
         touched.add(f"proposals/approved/{path.name}")
         merged.append(m["id"])
         log.append((today, src, version_text(m.get("version")), m["id"], m["title"], "approved"))
-    for name, ids in reviews.items():  # archive the full review once any of its items is approved
+    for (name, digest), ids in reviews.items():  # archive the exact reviewed version once any of its items is approved
+        exact = SOURCES / ((digest or "none") + "-" + name)
+        if not exact.exists():
+            sys.exit(f"Exact reviewed version of {name} is not recorded; re-import before approving.")
         dest = ROOT / "reviews" / name
         dest.parent.mkdir(exist_ok=True)
         dest.write_text(f"_Imported from the AI Review Desk; owner approved items {ids} on {today}._\n\n"
-                        + (SOURCES / name).read_text(encoding="utf-8"), encoding="utf-8", newline="\n")
+                        + exact.read_text(encoding="utf-8"), encoding="utf-8", newline="\n")
         touched.add(f"reviews/{name}")
     if log:
         log_decision(log)

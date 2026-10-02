@@ -327,7 +327,7 @@ SAFETY_FOOTER = ("If you are in crisis, thinking of harming yourself, or not saf
                  "Children: 1098. Women: 181. US: 988. UK: 116 123.")
 
 
-def answer(question, profile=None, mode="internal", region=None):
+def _build(question, profile=None, mode="internal", region=None):
     lib = load_library()
     if mode not in ("internal", "public"):
         raise ValueError("mode must be 'internal' or 'public'")
@@ -466,6 +466,28 @@ def answer(question, profile=None, mode="internal", region=None):
     if sit.danger:
         out["next_step"]["text"] = ("Today, save one help-line number where it is safe to keep it, and tell one person "
                                     "you trust what is happening.")
+    return out
+
+
+def answer(question, profile=None, mode="internal", region=None, gate=True):
+    """Build an answer and run the pass/fail gate; a failing answer is withheld, never shown.
+
+    gate=False returns the raw answer (used only by the test runner to measure the engine).
+    """
+    from .gate import check
+    out = _build(question, profile, mode, region)
+    if not gate:
+        return out
+    fails = check(out, load_library())
+    out["gate_failures"] = fails
+    if fails:
+        out["withheld"] = True
+        out["recommendation"] = {"label": "Viveka's application",
+                                 "text": "I can't give a reliable recommendation for this yet, so I'm not going to guess."}
+        out["sources"], out["commentary"], out["comparison"] = [], [], []
+        out["challenge"], out["example"] = None, None
+        out["next_step"] = {"label": "Viveka's application",
+                            "text": "Talk it through with someone you trust, or a qualified person, and try rephrasing what you are deciding."}
     return out
 
 

@@ -1,0 +1,282 @@
+[
+ {
+  "id": "BG.1.1",
+  "speaker": "Dhritarashtra",
+  "devanagari": "धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।\nमामकाः पाण्डवाश्चैव किमकुर्वत संजय ॥",
+  "iast": "dharmakṣetre kurukṣetre samavetā yuyutsavaḥ |\nmāmakāḥ pāṇḍavāścaiva kimakurvata saṃjaya ||",
+  "english": "On the field of dharma, the field of the Kurus, my sons and the sons of Pandu have gathered, eager to fight. What did they do, Sanjaya?"
+ },
+ {
+  "id": "BG.1.2",
+  "speaker": "Sanjaya",
+  "devanagari": "दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।\nआचार्यमुपसंगम्य राजा वचनमब्रवीत् ॥",
+  "iast": "dṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanastadā |\nācāryamupasaṃgamya rājā vacanamabravīt ||",
+  "english": "But when King Duryodhana saw the Pandava army drawn up in battle order, he went up to his teacher and spoke these words."
+ },
+ {
+  "id": "BG.1.3",
+  "speaker": "Sanjaya",
+  "devanagari": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् ।\nव्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥",
+  "iast": "paśyaitāṃ pāṇḍuputrāṇāmācārya mahatīṃ camūm |\nvyūḍhāṃ drupadaputreṇa tava śiṣyeṇa dhīmatā ||",
+  "english": "Teacher, look at this great army of the sons of Pandu, arrayed by your gifted student, the son of Drupada."
+ },
+ {
+  "id": "BG.1.4",
+  "speaker": "Sanjaya",
+  "devanagari": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि ।\nयुयुधानो विराटश्च द्रुपदश्च महारथः ॥",
+  "iast": "atra śūrā maheṣvāsā bhīmārjunasamā yudhi |\nyuyudhāno virāṭaśca drupadaśca mahārathaḥ ||",
+  "english": "Here are heroes, mighty archers equal in battle to Bhima and Arjuna: Yuyudhana, Virata, and Drupada, a great chariot-warrior;"
+ },
+ {
+  "id": "BG.1.5",
+  "speaker": "Sanjaya",
+  "devanagari": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् ।\nपुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः ॥",
+  "iast": "dhṛṣṭaketuścekitānaḥ kāśirājaśca vīryavān |\npurujitkuntibhojaśca śaibyaśca narapuṅgavaḥ ||",
+  "english": "Dhrishtaketu, Chekitana, and the valiant king of Kashi; Purujit, Kuntibhoja, and Shaibya, a bull among men;"
+ },
+ {
+  "id": "BG.1.6",
+  "speaker": "Sanjaya",
+  "devanagari": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् ।\nसौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥",
+  "iast": "yudhāmanyuśca vikrānta uttamaujāśca vīryavān |\nsaubhadro draupadeyāśca sarva eva mahārathāḥ ||",
+  "english": "the bold Yudhamanyu and the valiant Uttamaujas, the son of Subhadra and the sons of Draupadi: all of them great chariot-warriors."
+ },
+ {
+  "id": "BG.1.7",
+  "speaker": "Sanjaya",
+  "devanagari": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम ।\nनायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ॥",
+  "iast": "asmākaṃ tu viśiṣṭā ye tānnibodha dvijottama |\nnāyakā mama sainyasya saṃjñārthaṃ tānbravīmi te ||",
+  "english": "Now hear, best of the twice-born, about the most distinguished among us, the leaders of my army. I name them for you so that you know them."
+ },
+ {
+  "id": "BG.1.8",
+  "speaker": "Sanjaya",
+  "devanagari": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिंजयः ।\nअश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ॥",
+  "iast": "bhavānbhīṣmaśca karṇaśca kṛpaśca samitiṃjayaḥ |\naśvatthāmā vikarṇaśca saumadattistathaiva ca ||",
+  "english": "You yourself, Bhishma, Karna, and Kripa, victorious in battle; Ashvatthama, Vikarna, and also the son of Somadatta."
+ },
+ {
+  "id": "BG.1.9",
+  "speaker": "Sanjaya",
+  "devanagari": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः ।\nनानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ॥",
+  "iast": "anye ca bahavaḥ śūrā madarthe tyaktajīvitāḥ |\nnānāśastrapraharaṇāḥ sarve yuddhaviśāradāḥ ||",
+  "english": "And many other heroes are ready to give up their lives for my sake, armed with many kinds of weapons, all of them skilled in war."
+ },
+ {
+  "id": "BG.1.10",
+  "speaker": "Sanjaya",
+  "devanagari": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् ।\nपर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ॥",
+  "iast": "aparyāptaṃ tadasmākaṃ balaṃ bhīṣmābhirakṣitam |\nparyāptaṃ tvidameteṣāṃ balaṃ bhīmābhirakṣitam ||",
+  "english": "Our army, guarded by Bhishma, is not enough, while their army, guarded by Bhima, is enough."
+ },
+ {
+  "id": "BG.1.11",
+  "speaker": "Sanjaya",
+  "devanagari": "अयनेषु च सर्वेषु यथाभागमवस्थिताः ।\nभीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि ॥",
+  "iast": "ayaneṣu ca sarveṣu yathābhāgamavasthitāḥ |\nbhīṣmamevābhirakṣantu bhavantaḥ sarva eva hi ||",
+  "english": "So all of you, standing in your assigned places at every point of the formation, must protect Bhishma above all."
+ },
+ {
+  "id": "BG.1.12",
+  "speaker": "Sanjaya",
+  "devanagari": "तस्य संजनयन्हर्षं कुरुवृद्धः पितामहः ।\nसिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान् ॥",
+  "iast": "tasya saṃjanayanharṣaṃ kuruvṛddhaḥ pitāmahaḥ |\nsiṃhanādaṃ vinadyoccaiḥ śaṅkhaṃ dadhmau pratāpavān ||",
+  "english": "Then, to cheer him, the mighty Bhishma, eldest of the Kurus and their grandfather, roared like a lion and blew his conch."
+ },
+ {
+  "id": "BG.1.13",
+  "speaker": "Sanjaya",
+  "devanagari": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः ।\nसहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् ॥",
+  "iast": "tataḥ śaṅkhāśca bheryaśca paṇavānakagomukhāḥ |\nsahasaivābhyahanyanta sa śabdastumulo'bhavat ||",
+  "english": "Then conches and kettledrums, tabors, drums and horns all sounded at once, and the noise was tremendous."
+ },
+ {
+  "id": "BG.1.14",
+  "speaker": "Sanjaya",
+  "devanagari": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ ।\nमाधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः ॥",
+  "iast": "tataḥ śvetairhayairyukte mahati syandane sthitau |\nmādhavaḥ pāṇḍavaścaiva divyau śaṅkhau pradadhmatuḥ ||",
+  "english": "Then Krishna and Arjuna, standing in their great chariot yoked to white horses, blew their divine conches."
+ },
+ {
+  "id": "BG.1.15",
+  "speaker": "Sanjaya",
+  "devanagari": "पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः ।\nपौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः ॥",
+  "iast": "pāñcajanyaṃ hṛṣīkeśo devadattaṃ dhanañjayaḥ |\npauṇḍraṃ dadhmau mahāśaṅkhaṃ bhīmakarmā vṛkodaraḥ ||",
+  "english": "Krishna blew Panchajanya, Arjuna blew Devadatta, and Bhima, doer of fearsome deeds, blew the great conch Paundra."
+ },
+ {
+  "id": "BG.1.16",
+  "speaker": "Sanjaya",
+  "devanagari": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः ।\nनकुलः सहदेवश्च सुघोषमणिपुष्पकौ ॥",
+  "iast": "anantavijayaṃ rājā kuntīputro yudhiṣṭhiraḥ |\nnakulaḥ sahadevaśca sughoṣamaṇipuṣpakau ||",
+  "english": "King Yudhishthira, son of Kunti, blew Anantavijaya; Nakula and Sahadeva blew Sughosha and Manipushpaka."
+ },
+ {
+  "id": "BG.1.17",
+  "speaker": "Sanjaya",
+  "devanagari": "काश्यश्च परमेष्वासः शिखण्डी च महारथः ।\nधृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः ॥",
+  "iast": "kāśyaśca parameṣvāsaḥ śikhaṇḍī ca mahārathaḥ |\ndhṛṣṭadyumno virāṭaśca sātyakiścāparājitaḥ ||",
+  "english": "The king of Kashi, a superb archer, and Shikhandi, a great chariot-warrior; Dhrishtadyumna, Virata, and the unconquered Satyaki;"
+ },
+ {
+  "id": "BG.1.18",
+  "speaker": "Sanjaya",
+  "devanagari": "द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते ।\nसौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक् ॥",
+  "iast": "drupado draupadeyāśca sarvaśaḥ pṛthivīpate |\nsaubhadraśca mahābāhuḥ śaṅkhāndadhmuḥ pṛthakpṛthak ||",
+  "english": "Drupada and the sons of Draupadi, O king, and the mighty-armed son of Subhadra: on every side, each blew his own conch."
+ },
+ {
+  "id": "BG.1.19",
+  "speaker": "Sanjaya",
+  "devanagari": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् ।\nनभश्च पृथिवीं चैव तुमुलो व्यनुनादयन् ॥",
+  "iast": "sa ghoṣo dhārtarāṣṭrāṇāṃ hṛdayāni vyadārayat |\nnabhaśca pṛthivīṃ caiva tumulo vyanunādayan ||",
+  "english": "That tumultuous roar, echoing through sky and earth, tore apart the hearts of Dhritarashtra's sons."
+ },
+ {
+  "id": "BG.1.20",
+  "speaker": "Sanjaya",
+  "devanagari": "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान्कपिध्वजः ।\nप्रवृत्ते शस्त्रसंपाते धनुरुद्यम्य पाण्डवः ॥",
+  "iast": "atha vyavasthitāndṛṣṭvā dhārtarāṣṭrānkapidhvajaḥ |\npravṛtte śastrasaṃpāte dhanurudyamya pāṇḍavaḥ ||",
+  "english": "Then Arjuna, whose banner bears a monkey, saw Dhritarashtra's sons drawn up in order. As the weapons were about to clash, the son of Pandu raised his bow"
+ },
+ {
+  "id": "BG.1.21",
+  "speaker": "Arjuna",
+  "devanagari": "हृषीकेशं तदा वाक्यमिदमाह महीपते ।\nसेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ॥",
+  "iast": "hṛṣīkeśaṃ tadā vākyamidamāha mahīpate |\nsenayorubhayormadhye rathaṃ sthāpaya me'cyuta ||",
+  "english": "and spoke these words to Krishna, O king: \"Krishna, halt my chariot between the two armies,"
+ },
+ {
+  "id": "BG.1.22",
+  "speaker": "Arjuna",
+  "devanagari": "यावदेतान्निरिक्षेऽहं योद्‌धुकामानवस्थितान् ।\nकैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे ॥",
+  "iast": "yāvadetānnirikṣe'haṃ yoddhukāmānavasthitān |\nkairmayā saha yoddhavyamasmin raṇasamudyame ||",
+  "english": "so that I can look at those standing here eager to fight, and see whom I must fight in this coming battle."
+ },
+ {
+  "id": "BG.1.23",
+  "speaker": "Arjuna",
+  "devanagari": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः ।\nधार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः ॥",
+  "iast": "yotsyamānānavekṣe'haṃ ya ete'tra samāgatāḥ |\ndhārtarāṣṭrasya durbuddheryuddhe priyacikīrṣavaḥ ||",
+  "english": "I want to see those who have gathered here to fight, wishing to please the evil-minded son of Dhritarashtra in battle.\""
+ },
+ {
+  "id": "BG.1.24",
+  "speaker": "Sanjaya",
+  "devanagari": "एवमुक्तो हृषीकेशो गुडाकेशेन भारत ।\nसेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ॥",
+  "iast": "evamukto hṛṣīkeśo guḍākeśena bhārata |\nsenayorubhayormadhye sthāpayitvā rathottamam ||",
+  "english": "Spoken to in this way by Arjuna, O king, Krishna drew up that finest of chariots between the two armies,"
+ },
+ {
+  "id": "BG.1.25",
+  "speaker": "Sanjaya",
+  "devanagari": "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् ।\nउवाच पार्थ पश्यैतान्समवेतान्कुरूनिति ॥",
+  "iast": "bhīṣmadroṇapramukhataḥ sarveṣāṃ ca mahīkṣitām |\nuvāca pārtha paśyaitānsamavetānkurūniti ||",
+  "english": "in front of Bhishma, Drona and all the rulers of the earth, and said: \"Son of Pritha, look at these Kurus gathered together.\""
+ },
+ {
+  "id": "BG.1.26",
+  "speaker": "Sanjaya",
+  "devanagari": "तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान् ।\nआचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा ॥",
+  "iast": "tatrāpaśyatsthitānpārthaḥ pitṝnatha pitāmahān |\nācāryānmātulānbhrātṝnputrānpautrānsakhīṃstathā ||",
+  "english": "There the son of Pritha saw them standing: fathers and grandfathers, teachers, uncles, brothers, sons, grandsons, and friends,"
+ },
+ {
+  "id": "BG.1.27",
+  "speaker": "Sanjaya",
+  "devanagari": "श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि ।\nतान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान् ॥",
+  "iast": "śvaśurānsuhṛdaścaiva senayorubhayorapi |\ntānsamīkṣya sa kaunteyaḥ sarvānbandhūnavasthitān ||",
+  "english": "fathers-in-law and companions, in both armies. Seeing all these relatives standing there, the son of Kunti"
+ },
+ {
+  "id": "BG.1.28",
+  "speaker": "Arjuna",
+  "devanagari": "कृपया परयाविष्टो विषीदन्निदमब्रवीत् ।\nदृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् ॥",
+  "iast": "kṛpayā parayāviṣṭo viṣīdannidamabravīt |\ndṛṣṭvemaṃ svajanaṃ kṛṣṇa yuyutsuṃ samupasthitam ||",
+  "english": "was overcome with deep compassion, and in despair he said: \"Krishna, seeing my own people standing here, eager to fight,"
+ },
+ {
+  "id": "BG.1.29",
+  "speaker": "Arjuna",
+  "devanagari": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति ।\nवेपथुश्च शरीरे मे रोमहर्षश्च जायते ॥",
+  "iast": "sīdanti mama gātrāṇi mukhaṃ ca pariśuṣyati |\nvepathuśca śarīre me romaharṣaśca jāyate ||",
+  "english": "my limbs give way and my mouth goes dry. My body trembles and my hair stands on end."
+ },
+ {
+  "id": "BG.1.30",
+  "speaker": "Arjuna",
+  "devanagari": "गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते ।\nन च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः ॥",
+  "iast": "gāṇḍīvaṃ sraṃsate hastāttvakcaiva paridahyate |\nna ca śaknomyavasthātuṃ bhramatīva ca me manaḥ ||",
+  "english": "My bow Gandiva slips from my hand and my skin is burning. I cannot stand steady, and my mind seems to be reeling."
+ },
+ {
+  "id": "BG.1.31",
+  "speaker": "Arjuna",
+  "devanagari": "निमित्तानि च पश्यामि विपरीतानि केशव ।\nन च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ॥",
+  "iast": "nimittāni ca paśyāmi viparītāni keśava |\nna ca śreyo'nupaśyāmi hatvā svajanamāhave ||",
+  "english": "Krishna, I see bad omens, and I see no good in killing my own people in battle."
+ },
+ {
+  "id": "BG.1.32",
+  "speaker": "Arjuna",
+  "devanagari": "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च ।\nकिं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा ॥",
+  "iast": "na kāṅkṣe vijayaṃ kṛṣṇa na ca rājyaṃ sukhāni ca |\nkiṃ no rājyena govinda kiṃ bhogairjīvitena vā ||",
+  "english": "Krishna, I do not want victory, or a kingdom, or pleasures. What use to us is a kingdom, or enjoyment, or even life?"
+ },
+ {
+  "id": "BG.1.33",
+  "speaker": "Arjuna",
+  "devanagari": "येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च ।\nत इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च ॥",
+  "iast": "yeṣāmarthe kāṅkṣitaṃ no rājyaṃ bhogāḥ sukhāni ca |\nta ime'vasthitā yuddhe prāṇāṃstyaktvā dhanāni ca ||",
+  "english": "The very people for whose sake we wanted a kingdom, enjoyment and pleasures stand here in battle, ready to give up their lives and wealth:"
+ },
+ {
+  "id": "BG.1.34",
+  "speaker": "Arjuna",
+  "devanagari": "आचार्याः पितरः पुत्रास्तथैव च पितामहाः ।\nमातुलाः श्वशुराः पौत्राः श्यालाः संबन्धिनस्तथा ॥",
+  "iast": "ācāryāḥ pitaraḥ putrāstathaiva ca pitāmahāḥ |\nmātulāḥ śvaśurāḥ pautrāḥ śyālāḥ saṃbandhinastathā ||",
+  "english": "teachers, fathers, sons and grandfathers, uncles, fathers-in-law, grandsons, brothers-in-law, and other relatives."
+ },
+ {
+  "id": "BG.1.35",
+  "speaker": "Arjuna",
+  "devanagari": "एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन ।\nअपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते ॥",
+  "iast": "etānna hantumicchāmi ghnato'pi madhusūdana |\napi trailokyarājyasya hetoḥ kiṃ nu mahīkṛte ||",
+  "english": "I do not want to kill them, Krishna, even if they kill me, not even to rule the three worlds, let alone this earth."
+ },
+ {
+  "id": "BG.1.36",
+  "speaker": "Arjuna",
+  "devanagari": "निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन ।\nपापमेवाश्रयेदस्मान्हत्वैतानाततायिनः ॥",
+  "iast": "nihatya dhārtarāṣṭrānnaḥ kā prītiḥ syājjanārdana |\npāpamevāśrayedasmānhatvaitānātatāyinaḥ ||",
+  "english": "What joy could we have from killing the sons of Dhritarashtra, Krishna? Only sin would come to us from killing these aggressors."
+ },
+ {
+  "id": "BG.1.37",
+  "speaker": "Arjuna",
+  "devanagari": "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् ।\nस्वजनं हि कथं हत्वा सुखिनः स्याम माधव ॥",
+  "iast": "tasmānnārhā vayaṃ hantuṃ dhārtarāṣṭrānsvabāndhavān |\nsvajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava ||",
+  "english": "So it is not right for us to kill the sons of Dhritarashtra, our own relatives. How could we be happy after killing our own people, Krishna?"
+ },
+ {
+  "id": "BG.1.38",
+  "speaker": "Arjuna",
+  "devanagari": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः ।\nकुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् ॥",
+  "iast": "yadyapyete na paśyanti lobhopahatacetasaḥ |\nkulakṣayakṛtaṃ doṣaṃ mitradrohe ca pātakam ||",
+  "english": "Even if they, their minds overcome by greed, do not see the wrong in destroying a family, or the sin in betraying friends,"
+ },
+ {
+  "id": "BG.1.39",
+  "speaker": "Arjuna",
+  "devanagari": "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् ।\nकुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन ॥",
+  "iast": "kathaṃ na jñeyamasmābhiḥ pāpādasmānnivartitum |\nkulakṣayakṛtaṃ doṣaṃ prapaśyadbhirjanārdana ||",
+  "english": "why should we not know to turn back from this sin, Krishna, when we can clearly see the wrong in destroying a family?"
+ },
+ {
+  "id": "BG.1.40",
+  "speaker": "Arjuna",
+  "devanagari": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः ।\nधर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत ॥",
+  "iast": "kulakṣaye praṇaśyanti kuladharmāḥ sanātanāḥ |\ndharme naṣṭe kulaṃ kṛtsnamadharmo'bhibhavatyuta ||",
+  "english": "When a family is destroyed, its timeless family traditions perish; and when that dharma is lost, lawlessness overtakes the whole family."
+ }
+]

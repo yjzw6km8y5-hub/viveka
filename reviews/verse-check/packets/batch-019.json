@@ -1,0 +1,282 @@
+[
+ {
+  "id": "KeU.1.3",
+  "speaker": "teacher",
+  "devanagari": "न तत्र चक्षुर्गच्छति न वाग्गच्छति नो मनः ।\nन विद्मो न विजानीमो यथैतदनुशिष्यात् ॥",
+  "iast": "na tatra cakṣurgacchati na vāggacchati no manaḥ |\nna vidmo na vijānīmo yathaitadanuśiṣyāt ||",
+  "english": "There the eye does not go, nor speech, nor the mind. We do not know, we do not understand, how one could teach it."
+ },
+ {
+  "id": "KeU.1.4",
+  "speaker": "teacher",
+  "devanagari": "अन्यदेव तद्विदितादथो अविदितादधि ।\nइति शुश्रुम पूर्वेषां ये नस्तद्व्याचचक्षिरे ॥",
+  "iast": "anyadeva tadviditādatho aviditādadhi |\niti śuśruma pūrveṣāṃ ye nastadvyācacakṣire ||",
+  "english": "It is other than the known, and beyond the unknown. So we have heard from those of old who explained it to us."
+ },
+ {
+  "id": "KeU.1.5",
+  "speaker": "teacher",
+  "devanagari": "यद्वाचाऽनभ्युदितं येन वागभ्युद्यते ।\nतदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥",
+  "iast": "yadvācā'nabhyuditaṃ yena vāgabhyudyate |\ntadeva brahma tvaṃ viddhi nedaṃ yadidamupāsate ||",
+  "english": "What speech cannot express, but by which speech is expressed: know that alone as Brahman, not this which people worship here."
+ },
+ {
+  "id": "KeU.1.6",
+  "speaker": "teacher",
+  "devanagari": "यन्मनसा न मनुते येनाहुर्मनो मतम् ।\nतदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥",
+  "iast": "yanmanasā na manute yenāhurmano matam |\ntadeva brahma tvaṃ viddhi nedaṃ yadidamupāsate ||",
+  "english": "What one cannot think with the mind, but by which, they say, the mind is thought: know that alone as Brahman, not this which people worship here."
+ },
+ {
+  "id": "KeU.1.7",
+  "speaker": "teacher",
+  "devanagari": "यच्चक्षुषा न पश्यति येन चक्षूँषि पश्यति ।\nतदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥",
+  "iast": "yaccakṣuṣā na paśyati yena cakṣūm̐ṣi paśyati |\ntadeva brahma tvaṃ viddhi nedaṃ yadidamupāsate ||",
+  "english": "What one cannot see with the eye, but by which the eyes are seen: know that alone as Brahman, not this which people worship here."
+ },
+ {
+  "id": "KeU.1.8",
+  "speaker": "teacher",
+  "devanagari": "यच्छ्रोत्रेण न शृणोति येन श्रोत्रमिदं श्रुतम् ।\nतदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥",
+  "iast": "yacchrotreṇa na śṛṇoti yena śrotramidaṃ śrutam |\ntadeva brahma tvaṃ viddhi nedaṃ yadidamupāsate ||",
+  "english": "What one cannot hear with the ear, but by which this ear is heard: know that alone as Brahman, not this which people worship here."
+ },
+ {
+  "id": "KeU.1.9",
+  "speaker": "teacher",
+  "devanagari": "यत्प्राणेन न प्राणिति येन प्राणः प्रणीयते ।\nतदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥",
+  "iast": "yatprāṇena na prāṇiti yena prāṇaḥ praṇīyate |\ntadeva brahma tvaṃ viddhi nedaṃ yadidamupāsate ||",
+  "english": "What one does not breathe with the breath, but by which the breath is led forth: know that alone as Brahman, not this which people worship here."
+ },
+ {
+  "id": "KeU.2.1",
+  "speaker": "teacher",
+  "devanagari": "यदि मन्यसे सुवेदेति दहरमेवापि\nनूनं त्वं वेत्थ ब्रह्मणो रूपम् ।\nयदस्य त्वं यदस्य देवेष्वथ नु\nमीमाँस्येमेव ते मन्ये विदितम् ॥",
+  "iast": "yadi manyase suvedeti daharamevāpi\nnūnaṃ tvaṃ vettha brahmaṇo rūpam |\nyadasya tvaṃ yadasya deveṣvatha nu\nmīmām̐syemeva te manye viditam ||",
+  "english": "If you think, 'I know it well,' then surely you know only a little of Brahman's form: the form that is in you, and the form that is among the gods. So I think you must still inquire into it. 'I think I know it.'"
+ },
+ {
+  "id": "KeU.2.2",
+  "speaker": "student",
+  "devanagari": "नाहं मन्ये सुवेदेति नो न वेदेति वेद च ।\nयो नस्तद्वेद तद्वेद नो न वेदेति वेद च ॥",
+  "iast": "nāhaṃ manye suvedeti no na vedeti veda ca |\nyo nastadveda tadveda no na vedeti veda ca ||",
+  "english": "I do not think I know it well; yet it is not that I do not know it, and I do know it. Whoever among us understands 'it is not that I do not know it, and I do know it' knows it."
+ },
+ {
+  "id": "KeU.2.3",
+  "speaker": "Upanishad",
+  "devanagari": "यस्यामतं तस्य मतं मतं यस्य न वेद सः ।\nअविज्ञातं विजानतां विज्ञातमविजानताम् ॥",
+  "iast": "yasyāmataṃ tasya mataṃ mataṃ yasya na veda saḥ |\navijñātaṃ vijānatāṃ vijñātamavijānatām ||",
+  "english": "One for whom it is unthought has thought it; one for whom it is thought does not know it. It is unknown to those who know it, and known to those who do not."
+ },
+ {
+  "id": "KeU.2.4",
+  "speaker": "Upanishad",
+  "devanagari": "प्रतिबोधविदितं मतममृतत्वं हि विन्दते ।\nआत्मना विन्दते वीर्यं विद्यया विन्दतेऽमृतम् ॥",
+  "iast": "pratibodhaviditaṃ matamamṛtatvaṃ hi vindate |\nātmanā vindate vīryaṃ vidyayā vindate'mṛtam ||",
+  "english": "It is known when it is known in every act of awareness, for by this one gains immortality. Through the Self one gains strength; through knowledge, immortality."
+ },
+ {
+  "id": "KeU.2.5",
+  "speaker": "Upanishad",
+  "devanagari": "इह चेदवेदीदथ सत्यमस्ति\nन चेदिहावेदीन्महती विनष्टिः ।\nभूतेषु भूतेषु विचित्य धीराः\nप्रेत्यास्माल्लोकादमृता भवन्ति ॥",
+  "iast": "iha cedavedīdatha satyamasti\nna cedihāvedīnmahatī vinaṣṭiḥ |\nbhūteṣu bhūteṣu vicitya dhīrāḥ\npretyāsmāllokādamṛtā bhavanti ||",
+  "english": "If one knows it here, then there is truth; if one does not know it here, great is the loss. Discerning it in every being, the wise, departing from this world, become immortal."
+ },
+ {
+  "id": "KeU.3.1",
+  "speaker": "narrator",
+  "devanagari": "ब्रह्म ह देवेभ्यो विजिग्ये तस्य ह ब्रह्मणो\nविजये देवा अमहीयन्त ॥",
+  "iast": "brahma ha devebhyo vijigye tasya ha brahmaṇo\nvijaye devā amahīyanta ||",
+  "english": "Brahman, it is told, won a victory for the gods, and in Brahman's victory the gods grew great."
+ },
+ {
+  "id": "KeU.3.2",
+  "speaker": "narrator",
+  "devanagari": "त ऐक्षन्तास्माकमेवायं विजयोऽस्माकमेवायं महिमेति ।\nतद्धैषां विजज्ञौ तेभ्यो ह प्रादुर्बभूव तन्न व्यजानत\nकिमिदं यक्षमिति ॥",
+  "iast": "ta aikṣantāsmākamevāyaṃ vijayo'smākamevāyaṃ mahimeti |\ntaddhaiṣāṃ vijajñau tebhyo ha prādurbabhūva tanna vyajānata\nkimidaṃ yakṣamiti ||",
+  "english": "They thought, 'This victory is ours alone; this greatness is ours alone.' Brahman knew this of them and appeared before them. They did not know what it was: 'What is this wondrous being?'"
+ },
+ {
+  "id": "KeU.3.3",
+  "speaker": "narrator",
+  "devanagari": "तेऽग्निमब्रुवन् जातवेद एतद्विजानीहि\nकिमिदं यक्षमिति तथेति ॥",
+  "iast": "te'gnimabruvan jātaveda etadvijānīhi\nkimidaṃ yakṣamiti tatheti ||",
+  "english": "They said to Agni, 'Jatavedas, find out what this wondrous being is.' 'Very well,' he said."
+ },
+ {
+  "id": "KeU.3.4",
+  "speaker": "narrator",
+  "devanagari": "तदभ्यद्रवत्तमभ्यवदत्कोऽसीत्यग्निर्वा\nअहमस्मीत्यब्रवीज्जातवेदा वा अहमस्मीति ॥",
+  "iast": "tadabhyadravattamabhyavadatko'sītyagnirvā\nahamasmītyabravījjātavedā vā ahamasmīti ||",
+  "english": "He ran towards it. It asked him, 'Who are you?' 'I am Agni,' he said, 'I am Jatavedas.'"
+ },
+ {
+  "id": "KeU.3.5",
+  "speaker": "narrator",
+  "devanagari": "तस्मिँस्त्वयि किं वीर्यमित्यपीदँ सर्वं\nदहेयं यदिदं पृथिव्यामिति ॥",
+  "iast": "tasmim̐stvayi kiṃ vīryamityapīdam̐ sarvaṃ\ndaheyaṃ yadidaṃ pṛthivyāmiti ||",
+  "english": "'What power is there in you?' 'I could burn all this, whatever is on earth.'"
+ },
+ {
+  "id": "KeU.3.6",
+  "speaker": "narrator",
+  "devanagari": "तस्मै तृणं निदधावेतद्दहेति ।\nतदुपप्रेयाय सर्वजवेन तन्न शशाक दग्धुं स तत एव\nनिववृते नैतदशकं विज्ञातुं यदेतद्यक्षमिति ॥",
+  "iast": "tasmai tṛṇaṃ nidadhāvetaddaheti |\ntadupapreyāya sarvajavena tanna śaśāka dagdhuṃ sa tata eva\nnivavṛte naitadaśakaṃ vijñātuṃ yadetadyakṣamiti ||",
+  "english": "It set a blade of grass before him: 'Burn this.' He went at it with all his speed but could not burn it. He turned back from there: 'I could not find out what this wondrous being is.'"
+ },
+ {
+  "id": "KeU.3.7",
+  "speaker": "narrator",
+  "devanagari": "अथ वायुमब्रुवन्वायवेतद्विजानीहि\nकिमेतद्यक्षमिति तथेति ॥",
+  "iast": "atha vāyumabruvanvāyavetadvijānīhi\nkimetadyakṣamiti tatheti ||",
+  "english": "Then they said to Vayu, 'Vayu, find out what this wondrous being is.' 'Very well,' he said."
+ },
+ {
+  "id": "KeU.3.8",
+  "speaker": "narrator",
+  "devanagari": "तदभ्यद्रवत्तमभ्यवदत्कोऽसीति वायुर्वा\nअहमस्मीत्यब्रवीन्मातरिश्वा वा अहमस्मीति ॥",
+  "iast": "tadabhyadravattamabhyavadatko'sīti vāyurvā\nahamasmītyabravīnmātariśvā vā ahamasmīti ||",
+  "english": "He ran towards it. It asked him, 'Who are you?' 'I am Vayu,' he said, 'I am Matarishvan.'"
+ },
+ {
+  "id": "KeU.3.9",
+  "speaker": "narrator",
+  "devanagari": "तस्मिँस्त्वयि किं वीर्यमित्यपीदँ\nसर्वमाददीय यदिदं पृथिव्यामिति ॥",
+  "iast": "tasmim̐stvayi kiṃ vīryamityapīdam̐\nsarvamādadīya yadidaṃ pṛthivyāmiti ||",
+  "english": "'What power is there in you?' 'I could carry off all this, whatever is on earth.'"
+ },
+ {
+  "id": "KeU.3.10",
+  "speaker": "narrator",
+  "devanagari": "तस्मै तृणं निदधावेतदादत्स्वेति\nतदुपप्रेयाय सर्वजवेन तन्न शशाकादतुम् ।\nस तत एव निववृते नैतदशकं विज्ञातुं यदेतद्यक्षमिति ॥",
+  "iast": "tasmai tṛṇaṃ nidadhāvetadādatsveti\ntadupapreyāya sarvajavena tanna śaśākādatum |\nsa tata eva nivavṛte naitadaśakaṃ vijñātuṃ yadetadyakṣamiti ||",
+  "english": "It set a blade of grass before him: 'Carry this off.' He went at it with all his speed but could not move it. He turned back from there: 'I could not find out what this wondrous being is.'"
+ },
+ {
+  "id": "KeU.3.11",
+  "speaker": "narrator",
+  "devanagari": "अथेन्द्रमब्रुवन्मघवन्नेतद्विजानीहि किमेतद्यक्षमिति तथेति\nतदभ्यद्रवत्तस्मात्तिरोदधे ॥",
+  "iast": "athendramabruvanmaghavannetadvijānīhi kimetadyakṣamiti tatheti\ntadabhyadravattasmāttirodadhe ||",
+  "english": "Then they said to Indra, 'Maghavan, find out what this wondrous being is.' 'Very well.' He ran towards it, and it vanished from before him."
+ },
+ {
+  "id": "KeU.3.12",
+  "speaker": "narrator",
+  "devanagari": "स तस्मिन्नेवाकाशे स्त्रियमाजगाम बहुशोभमानामुमाँ\nहैमवतीं ताँहोवाच किमेतद्यक्षमिति ॥",
+  "iast": "sa tasminnevākāśe striyamājagāma bahuśobhamānāmumām̐\nhaimavatīṃ tām̐hovāca kimetadyakṣamiti ||",
+  "english": "In that very space he came upon a woman of great beauty, Uma, daughter of the Himalaya. He asked her, 'What is this wondrous being?'"
+ },
+ {
+  "id": "KeU.4.1",
+  "speaker": "narrator",
+  "devanagari": "सा ब्रह्मेति होवाच ब्रह्मणो वा एतद्विजये महीयध्वमिति\nततो हैव विदाञ्चकार ब्रह्मेति ॥",
+  "iast": "sā brahmeti hovāca brahmaṇo vā etadvijaye mahīyadhvamiti\ntato haiva vidāñcakāra brahmeti ||",
+  "english": "'It is Brahman,' she said. 'It was in Brahman's victory that you grew great.' Only then did he know that it was Brahman."
+ },
+ {
+  "id": "KeU.4.2",
+  "speaker": "narrator",
+  "devanagari": "तस्माद्वा एते देवा अतितरामिवान्यान्देवान्यदग्निर्वायुरिन्द्रस्ते\nह्येनन्नेदिष्ठं पस्पर्शुस्ते ह्येनत्प्रथमो विदाञ्चकार ब्रह्मेति ॥",
+  "iast": "tasmādvā ete devā atitarāmivānyāndevānyadagnirvāyurindraste\nhyenannediṣṭhaṃ pasparśuste hyenatprathamo vidāñcakāra brahmeti ||",
+  "english": "So these gods, Agni, Vayu and Indra, surpass the other gods, as it were, for they came nearest to it and were the first to know it as Brahman."
+ },
+ {
+  "id": "KeU.4.3",
+  "speaker": "narrator",
+  "devanagari": "तस्माद्वा इन्द्रोऽतितरामिवान्यान्देवान्\nसह्येनन्नेदिष्ठं पस्पर्श स ह्येनत्प्रथमो विदाञ्चकार ब्रह्मेति ॥",
+  "iast": "tasmādvā indro'titarāmivānyāndevān\nsahyenannediṣṭhaṃ pasparśa sa hyenatprathamo vidāñcakāra brahmeti ||",
+  "english": "So Indra surpasses the other gods, as it were, for he came nearest to it and was the first to know it as Brahman."
+ },
+ {
+  "id": "KeU.4.4",
+  "speaker": "Upanishad",
+  "devanagari": "तस्यैष आदेशो यदेतद्विद्युतो व्यद्युतदा३इतीन् न्यमीमिषदा३\nइत्यधिदैवतम् ॥",
+  "iast": "tasyaiṣa ādeśo yadetadvidyuto vyadyutadā3itīn nyamīmiṣadā3\nityadhidaivatam ||",
+  "english": "This is the teaching about it, by likeness: as it flashed in the lightning, ah! as it made the eye blink, ah! This is with regard to the divine."
+ },
+ {
+  "id": "KeU.4.5",
+  "speaker": "Upanishad",
+  "devanagari": "अथाध्यात्मं यद्देतद्गच्छतीव च मनोऽनेन\nचैतदुपस्मरत्यभीक्ष्णँ सङ्कल्पः ॥",
+  "iast": "athādhyātmaṃ yaddetadgacchatīva ca mano'nena\ncaitadupasmaratyabhīkṣṇam̐ saṅkalpaḥ ||",
+  "english": "Now with regard to the self: the mind seems to go to it, and by the mind one calls it to memory again and again, and resolves upon it."
+ },
+ {
+  "id": "KeU.4.6",
+  "speaker": "Upanishad",
+  "devanagari": "तद्ध तद्वनं नाम तद्वनमित्युपासितव्यं स य एतदेवं वेदाभि\nहैनँ सर्वाणि भूतानि संवाञ्छन्ति ॥",
+  "iast": "taddha tadvanaṃ nāma tadvanamityupāsitavyaṃ sa ya etadevaṃ vedābhi\nhainam̐ sarvāṇi bhūtāni saṃvāñchanti ||",
+  "english": "It is called Tadvana, 'the one to be loved'; it should be worshipped as Tadvana. All beings long for whoever knows it this way."
+ },
+ {
+  "id": "KeU.4.7",
+  "speaker": "teacher",
+  "devanagari": "उपनिषदं भो ब्रूहीत्युक्ता त उपनिषद्ब्राह्मीं वाव त\nउपनिषदमब्रूमेति ॥",
+  "iast": "upaniṣadaṃ bho brūhītyuktā ta upaniṣadbrāhmīṃ vāva ta\nupaniṣadamabrūmeti ||",
+  "english": "'Sir, tell me the Upanishad.' 'The Upanishad has been told to you. We have told you the Upanishad about Brahman.'"
+ },
+ {
+  "id": "KeU.4.8",
+  "speaker": "teacher",
+  "devanagari": "तसै तपो दमः कर्मेति प्रतिष्ठा वेदाः सर्वाङ्गानि\nसत्यमायतनम् ॥",
+  "iast": "tasai tapo damaḥ karmeti pratiṣṭhā vedāḥ sarvāṅgāni\nsatyamāyatanam ||",
+  "english": "Austerity, self-control and work are its foundation; the Vedas are all its limbs; truth is its home."
+ },
+ {
+  "id": "KeU.4.9",
+  "speaker": "teacher",
+  "devanagari": "यो वा एतामेवं वेदापहत्य पाप्मानमनन्ते स्वर्गे\nलोके ज्येये प्रतितिष्ठति प्रतितिष्ठति ॥",
+  "iast": "yo vā etāmevaṃ vedāpahatya pāpmānamanante svarge\nloke jyeye pratitiṣṭhati pratitiṣṭhati ||",
+  "english": "Whoever knows it in this way strikes away evil and stands firm in the endless, highest heaven, stands firm."
+ },
+ {
+  "id": "KaU.1.1.1",
+  "speaker": "narrator",
+  "devanagari": "ॐ उशन् ह वै वाजश्रवसः सर्ववेदसं ददौ ।\nतस्य ह नचिकेता नाम पुत्र आस ॥",
+  "iast": "oṃ uśan ha vai vājaśravasaḥ sarvavedasaṃ dadau |\ntasya ha naciketā nāma putra āsa ||",
+  "english": "Om. Wanting its reward, the son of Vajashravas, it is told, gave away all he owned. He had a son named Nachiketas."
+ },
+ {
+  "id": "KaU.1.1.2",
+  "speaker": "narrator",
+  "devanagari": "तँ ह कुमारँ सन्तं दक्षिणासु\nनीयमानासु श्रद्धाविवेश सोऽमन्यत ॥",
+  "iast": "tam̐ ha kumāram̐ santaṃ dakṣiṇāsu\nnīyamānāsu śraddhāviveśa so'manyata ||",
+  "english": "Though he was only a boy, faith entered him as the gifts were being led away, and he thought:"
+ },
+ {
+  "id": "KaU.1.1.3",
+  "speaker": "Nachiketas",
+  "devanagari": "पीतोदका जग्धतृणा दुग्धदोहा निरिन्द्रियाः ।\nअनन्दा नाम ते लोकास्तान् स गच्छति ता ददत् ॥ ३ ॥",
+  "iast": "pītodakā jagdhatṛṇā dugdhadohā nirindriyāḥ |\nanandā nāma te lokāstān sa gacchati tā dadat || 3 ||",
+  "english": "'They have drunk their water, eaten their grass, given their milk, and are barren. Joyless are the worlds he goes to who gives such cows.'"
+ },
+ {
+  "id": "KaU.1.1.4",
+  "speaker": "narrator",
+  "devanagari": "स होवाच पितरं तत कस्मै मां दास्यसीति ।\nद्वितीयं तृतीयं तँ होवाच मृत्यवे त्वा ददामीति ॥",
+  "iast": "sa hovāca pitaraṃ tata kasmai māṃ dāsyasīti |\ndvitīyaṃ tṛtīyaṃ tam̐ hovāca mṛtyave tvā dadāmīti ||",
+  "english": "He said to his father, 'Father, to whom will you give me?' He said it a second time, and a third. His father said to him, 'To Death I give you!'"
+ },
+ {
+  "id": "KaU.1.1.5",
+  "speaker": "Nachiketas",
+  "devanagari": "बहूनामेमि प्रथमो बहूनामेमि मध्यमः ।\nकिँ स्विद्यमस्य कर्तव्यं यन्मयाऽद्य करिष्यति ॥",
+  "iast": "bahūnāmemi prathamo bahūnāmemi madhyamaḥ |\nkim̐ svidyamasya kartavyaṃ yanmayā'dya kariṣyati ||",
+  "english": "Among many I go as the first; among many I go as one of the middle. What work does Yama have that he will do through me today?"
+ },
+ {
+  "id": "KaU.1.1.6",
+  "speaker": "Nachiketas",
+  "devanagari": "अनुपश्य यथा पूर्वे प्रतिपश्य तथाऽपरे ।\nसस्यमिव मर्त्यः पच्यते सस्यमिवाजायते पुनः ॥",
+  "iast": "anupaśya yathā pūrve pratipaśya tathā'pare |\nsasyamiva martyaḥ pacyate sasyamivājāyate punaḥ ||",
+  "english": "Look back at how those before us acted; look around at how others act now. A mortal ripens like grain, and like grain is born again."
+ },
+ {
+  "id": "KaU.1.1.7",
+  "speaker": "Yama's household",
+  "devanagari": "वैश्वानरः प्रविशत्यतिथिर्ब्राह्मणो गृहान् ।\nतस्यैताँ शान्तिं कुर्वन्ति हर वैवस्वतोदकम् ॥",
+  "iast": "vaiśvānaraḥ praviśatyatithirbrāhmaṇo gṛhān |\ntasyaitām̐ śāntiṃ kurvanti hara vaivasvatodakam ||",
+  "english": "A brahmin guest enters houses like fire itself. People make this offering of peace to him: bring water, son of Vivasvat!"
+ }
+]

@@ -1,0 +1,40 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "results"
+  ],
+  "properties": {
+    "results": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "verdict",
+          "problem",
+          "sanskrit_says"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "verdict": {
+            "type": "string",
+            "enum": [
+              "agree",
+              "disagree"
+            ]
+          },
+          "problem": {
+            "type": "string"
+          },
+          "sanskrit_says": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

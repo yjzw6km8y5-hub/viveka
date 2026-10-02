@@ -316,3 +316,7 @@ Technical choices made without asking, newest last. Format: date, decision, why.
 - **Why:** STATUS.md must-fix 1 (PROCESS.md v3). A failure must not be averaged away by a high score.
 - **Baseline:** heldout2 15/30 fail, heldout 6/30 fail, situations 19/100 fail. Engine-side withholding/regeneration is the next step.
 - Scratch file `scripts/_q.py` could not be deleted in a cycle; it is gitignored (it caused the earlier "uncommitted changes" failure).
+
+## 2026-10-02: Gate wired into answer(); proposal versions kept by hash
+- **Decision:** `answer()` runs `engine/gate.py` and withholds a failing answer (correcting the claim above: until now the gate was test-only). The test runner uses `gate=False` to measure the raw engine and exits nonzero on gate failures. `proposals.py` stores each imported review under its SHA-256, archives that exact version on approval, and shows full hashes.
+- **Why:** reviewer cycle 3 found the gate was not in the product path and that approval could archive a newer unapproved review.

@@ -17,7 +17,7 @@ _Item 1 is from PROCESS.md v3 (approved by the owner 2026-10-02). Items 2-3 are 
 3. **Answer the actual decision:** V001 (remarriage under in-laws' pressure) centres grief, not the decision; it also claims the user said "householder" when they did not. V024 (why bad things happen) got a success principle. Label inferred context as inference; add paired cases.
 
 ## Next step
-Must-fix 1 follow-up: gate exists and is reported in tests (`engine/gate.py`; heldout2 15/30 fail). Now make `answer()` run the gate and regenerate with the next principle, or withhold; then fix failing cases. Then must-fix 2 and 3.
+Must-fix 1 follow-up: gate exists and is reported in tests (`engine/gate.py`; heldout2 15/30 fail). `answer()` now runs the gate and withholds failing answers (`tests/test_gate.py`). Next: regenerate with the next principle instead of withholding, then fix failing cases; add proposals version tests and cycle-log evidence. Then must-fix 2 and 3.
 The text queue is paused after the Katha (CLAUDE.md section 10). Do not add or annotate new texts.
 Work the plan instead: reviewed starter collection, then comparative testing (see `tests/README.md`
 and `PROGRESS.md`). Items that need a human reader of Sanskrit are listed at the end of `PROGRESS.md`.

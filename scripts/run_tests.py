@@ -157,7 +157,7 @@ def main():
     results, totals, by_cat = [], defaultdict(int), defaultdict(lambda: defaultdict(int))
     counts = defaultdict(int)
     for case in cases:
-        a = answer(case["text"], case.get("profile"), mode=mode)
+        a = answer(case["text"], case.get("profile"), mode=mode, gate=False)
         sc, notes = score(case, a, lib)
         results.append({"id": case["id"], "category": case["category"], "text": case["text"],
                         "scores": sc, "total": sum(sc.values()), "notes": notes,
@@ -196,6 +196,8 @@ def main():
     lines += [f"- {r['id']} ({r['total']}/12, top: {r['top']}): {'; '.join(r['notes'])}" for r in weak]
     (OUT / f"{test_set}_summary.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
     print("\n".join(lines))
+    if failed and "--no-fail" not in sys.argv:
+        sys.exit(1)
 
 
 if __name__ == "__main__":
