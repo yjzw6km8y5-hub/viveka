@@ -308,6 +308,58 @@ def validate_principles(principles, unit_ids):
     return errors, warnings
 
 
+EXAMPLE_FIELDS = ["id", "kind", "title", "event", "source", "source_units", "lesson",
+                  "limits_of_analogy", "principles", "situations", "life_stages",
+                  "restricted_for", "verified", "review_status"]
+
+
+def load_examples():
+    out = []
+    for path in sorted((ROOT / "data" / "examples").glob("*.json")):
+        out += load(path)
+    return out
+
+
+def validate_examples(examples, unit_ids, principle_ids):
+    errors, warnings = defaultdict(list), defaultdict(list)
+    for eid, n in Counter(e.get("id") for e in examples).items():
+        if n > 1:
+            errors["duplicate example id"].append(f"{eid} x{n}")
+    for e in examples:
+        eid = e.get("id", "?")
+        missing = [f for f in EXAMPLE_FIELDS if f not in e]
+        extra = [f for f in e if f not in EXAMPLE_FIELDS]
+        if missing:
+            errors["example missing field"].append(f"{eid}: {', '.join(missing)}")
+        if extra:
+            errors["example unknown field"].append(f"{eid}: {', '.join(extra)}")
+        if e.get("kind") not in ("scripture_story", "historical"):
+            errors["example unknown kind"].append(eid)
+        for f in ("title", "event", "source", "lesson", "limits_of_analogy"):
+            if is_empty(e.get(f)):
+                errors[f"example empty {f}"].append(eid)
+        if e.get("kind") == "scripture_story" and not e.get("source_units"):
+            errors["scripture story without source units"].append(eid)
+        if e.get("kind") == "scripture_story" and e.get("verified") is not True:
+            errors["scripture story must be verified against the library"].append(eid)
+        for uid in e.get("source_units", []):
+            if uid not in unit_ids:
+                errors["example cites unknown unit"].append(f"{eid} -> {uid}")
+        for pid in e.get("principles", []):
+            if pid not in principle_ids:
+                errors["example cites unknown principle"].append(f"{eid} -> {pid}")
+        for f, allowed in (("situations", VOCAB["situations"]), ("life_stages", VOCAB["life_stages"])):
+            bad = [v for v in e.get(f, []) if v not in allowed]
+            if bad:
+                errors[f"example unknown {f}"].append(f"{eid}: {bad}")
+        bad = [v for v in e.get("restricted_for", []) if v not in RESTRICTION_VALUES]
+        if bad:
+            errors["example unknown restriction"].append(f"{eid}: {bad}")
+        if e.get("kind") == "historical" and e.get("verified") is not True:
+            warnings["historical example not yet verified against its source"].append(eid)
+    return errors, warnings
+
+
 def report(title, problems, limit=8):
     total = sum(len(v) for v in problems.values())
     print(f"  {title}: {total}")
@@ -346,6 +398,9 @@ def main():
     principles = load_principles()
     libraries["principles"] = principles
     results["principles"] = validate_principles(principles, unit_ids)
+    examples = load_examples()
+    libraries["examples"] = examples
+    results["examples"] = validate_examples(examples, unit_ids, {p.get("id") for p in principles})
 
     failed = False
     for name, (errors, warnings) in results.items():

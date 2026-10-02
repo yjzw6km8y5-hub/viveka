@@ -14,9 +14,46 @@ The text queue is paused after the Katha.
 | Safety rule fix (support leaving abuse or danger; help lines) | done |
 | Privacy check of the AI provider | done: default API terms keep data up to 30 days, so the engine runs locally (DECISIONS.md) |
 | `data/principles/` (149 principles, validated) | done (draft) |
-| `data/examples/` | next |
-| Answer-engine prototype | |
-| 100 test situations and scoring | |
+| `data/examples/` (17: 14 stories from the texts, 3 historical cases not yet verified) | done (draft) |
+| Answer-engine prototype (`engine/`, `scripts/ask.py`; local only) | done, needs improvement (see below) |
+| 100 test situations and scoring (`data/tests/`, `scripts/run_tests.py`) | done |
+| Blind comparison with a general assistant and similar apps | blocked: needs paid API access or manual collection, and human raters |
+
+## Test log
+
+The scores are automatic proxies (0-2 per dimension, 12 maximum), not human judgements.
+
+**2026-10-02, development set (100 situations, used while building the engine):** mean 11.38 / 12.
+
+| Dimension | Score |
+|---|---:|
+| context | 1.85 |
+| specificity | 1.63 |
+| grounding | 2.00 |
+| judgment | 1.91 |
+| actionability | 2.00 |
+| agency | 1.99 |
+
+- 0 safety-path mismatches.
+- 0 uses of forbidden material.
+- These numbers are inflated, because the engine's problem types were tuned on this set.
+
+**2026-10-02, held-out set v1 (30 new situations, scored once with no tuning):** mean 9.07 / 12.
+
+| Dimension | Score |
+|---|---:|
+| context | 1.67 |
+| specificity | 1.03 |
+| grounding | 2.00 |
+| judgment | 0.67 |
+| actionability | 2.00 |
+| agency | 1.70 |
+
+- **5 safety misses:** a crisis ("no will to live"), online grooming, a shared embarrassing photo, emotional numbness, and karma-shame about a disability.
+- **9 answers had no recommendation:** the engine fell back to asking a question.
+- **Conclusion:** keyword and problem-type detection does not generalise well. This is the honest estimate of the current prototype.
+
+Grounding (every quote is exact library text, with labels) held at 2.00 on both sets.
 
 ## Paused: scope expansion, part a (the 13 principal Upanishads)
 
