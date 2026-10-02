@@ -18,7 +18,8 @@ The text queue is paused after the Katha.
 | Answer-engine prototype (`engine/`, `scripts/ask.py`; local only) | done, needs improvement (see below) |
 | 100 test situations and scoring (`data/tests/`, `scripts/run_tests.py`) | done |
 | Blind comparison with a general assistant and similar apps | tooling ready; blocked on baseline answers and raters |
-| Resume the text queue, gaps first (Niti texts) | in progress |
+| Resume the text queue, gaps first (Niti texts) | paused again after review cycle 1 (Nitishataka and Vidura Niti done) |
+| Shared CONTEXT.md, and an owner approval gate for outside input (`proposals/`, 8 PM summary) | done 2026-10-02; PROCESS.md is pending as proposal 1 |
 
 ### Text queue (gaps first)
 | Text | Units | Status |
