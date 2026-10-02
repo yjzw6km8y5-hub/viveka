@@ -216,9 +216,11 @@ def validate_text(text_id, meta, records, commentaries, allow_incomplete=False):
         by_parent[".".join(map(str, ref[:-1]))].append(ref[-1])
 
     expected = meta["expected_units"]
+    missing = meta.get("missing_units", {})
     for parent, n in expected.items():
         got = sorted(by_parent.get(parent, []))
-        if got != list(range(1, n + 1)):
+        want = [x for x in range(1, n + 1) if x not in missing.get(parent, [])]
+        if got != want:
             errors["units per division"].append(
                 f"{parent or '(top)'}: {len(got)} units, expected {n}"
                 + ("" if got == list(range(1, len(got) + 1)) else " (numbering has gaps or repeats)"))

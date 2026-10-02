@@ -78,11 +78,11 @@
     },
     {
      "id": "dont-quit-because-its-hard",
-     "score": 10.5
+     "score": 10.54
     },
     {
      "id": "seek-a-parents-peace",
-     "score": 9.47
+     "score": 9.58
     },
     {
      "id": "work-for-the-good-of-all",
@@ -90,7 +90,7 @@
     },
     {
      "id": "keep-your-word",
-     "score": 8.14
+     "score": 8.21
     }
    ],
    "comparison": [
@@ -263,15 +263,15 @@
    "shortlist": [
     {
      "id": "work-not-results",
-     "score": 12.51
+     "score": 12.43
     },
     {
      "id": "evenness-in-success-and-failure",
-     "score": 8.92
+     "score": 8.8
     },
     {
      "id": "steadiness-under-pressure",
-     "score": 6.59
+     "score": 6.63
     },
     {
      "id": "chariot-of-the-mind",
@@ -283,15 +283,15 @@
     },
     {
      "id": "effort-never-wasted",
-     "score": 4.24
+     "score": 4.21
     },
     {
      "id": "pleasant-versus-good",
      "score": 4.0
     },
     {
-     "id": "giving-up-fruit-brings-peace",
-     "score": 3.0
+     "id": "effort-over-fate",
+     "score": 3.8
     }
    ],
    "comparison": [
@@ -438,14 +438,16 @@
   "scores": {
    "context": 2,
    "grounding": 2,
-   "judgment": 2,
+   "judgment": 1,
    "specificity": 1,
    "actionability": 2,
    "agency": 2
   },
-  "total": 11,
-  "notes": [],
-  "top": "effort-never-wasted",
+  "total": 10,
+  "notes": [
+   "top it-grows-back not acceptable; acceptable one in top 3"
+  ],
+  "top": "it-grows-back",
   "safety": null,
   "questions": [],
   "answer": {
@@ -481,19 +483,15 @@
    "safety": null,
    "shortlist": [
     {
+     "id": "it-grows-back",
+     "score": 9.55
+    },
+    {
      "id": "effort-never-wasted",
      "score": 9.0
     },
     {
      "id": "graded-practice",
-     "score": 8.0
-    },
-    {
-     "id": "voice-your-fear-of-failing",
-     "score": 8.0
-    },
-    {
-     "id": "evenness-in-success-and-failure",
      "score": 7.0
     },
     {
@@ -501,19 +499,36 @@
      "score": 7.0
     },
     {
+     "id": "voice-your-fear-of-failing",
+     "score": 7.0
+    },
+    {
      "id": "skill-in-action",
-     "score": 6.43
+     "score": 6.47
     },
     {
      "id": "more-than-body-and-roles",
-     "score": 6.43
+     "score": 6.47
     },
     {
      "id": "the-wish-carries-you",
-     "score": 6.07
+     "score": 6.08
     }
    ],
    "comparison": [
+    {
+     "principle": "it-grows-back",
+     "name": "A cut tree grows again",
+     "fit": [
+      "addresses the kind of problem you describe",
+      "speaks to a setback",
+      "echoes your words: after",
+      "fits the householder stage you described"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "After a loss, failure or setback, when someone fears they will never recover.",
+     "limits": "It is used to rush someone through grief, or to deny that some losses are permanent."
+    },
     {
      "principle": "effort-never-wasted",
      "name": "No sincere effort is wasted",
@@ -537,76 +552,36 @@
      "disagrees_with": [],
      "consequence_if_followed": "Someone feels they are failing at their ideal and are tempted to give up entirely.",
      "limits": "It is used to settle for less when someone could do more."
-    },
-    {
-     "principle": "voice-your-fear-of-failing",
-     "name": "Ask your fear of failure out loud",
-     "fit": [
-      "addresses the kind of problem you describe",
-      "speaks to a setback",
-      "fits the householder stage you described"
-     ],
-     "disagrees_with": [],
-     "consequence_if_followed": "Fear of failing is stopping someone from starting, or they fear their past failures define them.",
-     "limits": "It is used to promise that nothing will go wrong."
     }
    ],
    "recommendation": {
     "label": "Viveka's application",
-    "principle": "effort-never-wasted",
-    "name": "No sincere effort is wasted",
-    "text": "No sincere effort is wasted. Effort towards the good is never lost, even when it falls short; a person who tries and slips comes to no ruin and can start again from where they were.",
-    "why_it_fits_you": "For your situation (you describe yourself as a householder): addresses the kind of problem you describe; speaks to a setback; fits the householder stage you described.",
-    "application": "Write down three things your effort built that remain even though the result failed (skills, habits, relationships). Restart from those, not from zero."
+    "principle": "it-grows-back",
+    "name": "A cut tree grows again",
+    "text": "A cut tree grows again. A tree that is cut grows again, and the waning moon fills again; reflecting on this, the good are not crushed by misfortune.",
+    "why_it_fits_you": "For your situation (you describe yourself as a householder): addresses the kind of problem you describe; speaks to a setback; echoes your words: after; fits the householder stage you described.",
+    "application": "Recall one earlier time you recovered from something you thought would break you. Write down what helped then."
    },
    "sources": [
     {
      "label": "Source text",
-     "id": "BG.2.40",
-     "english": "On this path no effort is wasted and no harm comes from falling short. Even a little of this practice protects a person from great fear.",
-     "devanagari": "नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते ।\nस्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात् ॥",
+     "id": "NS.87",
+     "english": "A tree, though cut, grows again; the moon, though waning, fills again. Reflecting on this, the good are not tormented by misfortune.",
+     "devanagari": "छिन्नोऽपि रोहति तरुः क्षीणोऽप्युपचीयते पुनश्चन्द्रः।\nइति विमृशन्तः सन्तः संतप्यन्ते न ते विपदा ॥",
      "review_status": "draft"
     },
     {
      "label": "Source text",
-     "id": "BG.6.40",
-     "english": "Son of Pritha, there is no destruction for such a person, neither in this world nor in the next; for no one who does good, my friend, ever comes to a bad end.",
-     "devanagari": "पार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते ।\nन हि कल्याणकृत्कश्चिद्‌दुर्गतिं तात गच्छति ॥",
+     "id": "NS.106",
+     "english": "Even when a steadfast person is ill-treated, the qualities of steadfastness cannot be wiped away; even when a fire is turned upside down, its flame never goes downward.",
+     "devanagari": "कदर्थितस्यापि हि धैर्यवृत्तेर्न शक्यते धैर्यगुणाः प्रमार्ष्टुम्।\nअधोमुखस्यापि कृतस्य वह्नेर्नाधः शिखा याति कदाचिदेव ॥",
      "review_status": "draft"
     }
    ],
    "commentary": [
     {
      "label": "Commentator's view",
-     "unit": "BG.2.40",
-     "school": "advaita",
-     "commentator": "Śaṅkara (Advaita)",
-     "note": "Unlike farming, a start on this path never goes to waste, and unlike an unfinished course of medicine, an incomplete practice does no harm; even a little protects from the great fear of birth and death."
-    },
-    {
-     "label": "Commentator's view",
-     "unit": "BG.2.40",
-     "school": "vishishtadvaita",
-     "commentator": "Rāmānuja (Viśiṣṭādvaita)",
-     "note": "Karma yoga, even begun and broken off, is not fruitless and brings no penalty; even a small part protects from the fear of rebirth. He links this to 6.40."
-    },
-    {
-     "label": "Commentator's view",
-     "unit": "BG.6.40",
-     "school": "advaita",
-     "commentator": "Śaṅkara (Advaita)",
-     "note": "Destruction here means a birth lower than before, which does not happen to one fallen from yoga. Krishna calls Arjuna 'tāta', a word for a son, since a father extends himself in his son."
-    },
-    {
-     "label": "Commentator's view",
-     "unit": "BG.6.40",
-     "school": "vishishtadvaita",
-     "commentator": "Rāmānuja (Viśiṣṭādvaita)",
-     "note": "For one who began yoga with faith and fell away, there is no loss in either world: neither failure to gain what was desired nor meeting with harm."
-    },
-    {
-     "label": "Commentator's view",
-     "missing": "Our source has no comment from Madhva (Dvaita) on BG.2.40; Madhva (Dvaita) on BG.6.40."
+     "missing": "No classical commentary on the Nitishataka of Bhartrihari is in the library yet."
     }
    ],
    "example": {
@@ -621,19 +596,19 @@
    },
    "challenge": {
     "label": "Viveka's application",
-    "principle": "graded-practice",
-    "name": "If you can't do the highest, do the next",
-    "text": "If your conscience leans the other way, here is the other view: If you can't do the highest, do the next. If you cannot fix your mind steadily, practise; if you cannot practise, work for God; if you cannot even do that, give up the fruit of your actions. There is always a next step.",
+    "principle": "effort-never-wasted",
+    "name": "No sincere effort is wasted",
+    "text": "If your conscience leans the other way, here is the other view: No sincere effort is wasted. Effort towards the good is never lost, even when it falls short; a person who tries and slips comes to no ruin and can start again from where they were.",
     "source": {
      "label": "Source text",
-     "id": "BG.12.9",
-     "english": "If you cannot keep your mind steadily on me, then seek to reach me through the yoga of practice, Arjuna."
+     "id": "BG.2.40",
+     "english": "On this path no effort is wasted and no harm comes from falling short. Even a little of this practice protects a person from great fear."
     },
-    "when_the_recommendation_misleads": "It is used to keep pouring effort into a path that is clearly wrong for the person (sunk cost)."
+    "when_the_recommendation_misleads": "It is used to rush someone through grief, or to deny that some losses are permanent."
    },
    "next_step": {
     "label": "Viveka's application",
-    "text": "Write down three things your effort built that remain even though the result failed (skills, habits, relationships). Restart from those, not from zero."
+    "text": "Recall one earlier time you recovered from something you thought would break you. Write down what helped then."
    },
    "safety_footer": {
     "label": "Viveka's application",
@@ -699,11 +674,11 @@
     },
     {
      "id": "forgiveness-as-strength",
-     "score": 7.01
+     "score": 7.04
     },
     {
      "id": "seek-a-parents-peace",
-     "score": 7.01
+     "score": 7.04
     },
     {
      "id": "withstand-the-surge",
@@ -715,11 +690,11 @@
     },
     {
      "id": "honour-and-dishonour-alike",
-     "score": 6.59
+     "score": 6.63
     },
     {
      "id": "let-go-of-mine",
-     "score": 6.59
+     "score": 6.63
     },
     {
      "id": "three-gates",
@@ -875,7 +850,7 @@
    "shortlist": [
     {
      "id": "credit-is-not-yours-alone",
-     "score": 10.36
+     "score": 10.39
     },
     {
      "id": "humility",
@@ -891,19 +866,19 @@
     },
     {
      "id": "nourish-one-another",
-     "score": 4.71
+     "score": 4.61
     },
     {
      "id": "reciprocity",
-     "score": 4.36
+     "score": 4.39
     },
     {
      "id": "beware-intoxication-of-wealth",
-     "score": 3.86
+     "score": 3.9
     },
     {
      "id": "not-knowing-is-part-of-knowing",
-     "score": 3.86
+     "score": 3.9
     }
    ],
    "comparison": [
@@ -1076,7 +1051,7 @@
     },
     {
      "id": "praise-and-blame-alike",
-     "score": 10.26
+     "score": 10.22
     },
     {
      "id": "delight-in-the-welfare-of-all",
@@ -1088,15 +1063,15 @@
     },
     {
      "id": "apologise-sincerely",
-     "score": 6.66
+     "score": 6.55
     },
     {
      "id": "meet-people-where-they-are",
-     "score": 6.66
+     "score": 6.55
     },
     {
      "id": "reciprocity",
-     "score": 6.23
+     "score": 6.26
     },
     {
      "id": "do-not-covet",
@@ -1284,15 +1259,15 @@
    "shortlist": [
     {
      "id": "keep-contributing",
-     "score": 12.16
+     "score": 12.17
     },
     {
      "id": "act-as-offering",
-     "score": 12.03
+     "score": 12.06
     },
     {
      "id": "purpose-beyond-pleasure",
-     "score": 10.23
+     "score": 10.26
     },
     {
      "id": "more-than-body-and-roles",
@@ -1300,19 +1275,19 @@
     },
     {
      "id": "turn-inward",
-     "score": 8.59
+     "score": 8.63
     },
     {
      "id": "know-it-in-this-life",
-     "score": 8.23
+     "score": 8.26
     },
     {
      "id": "the-real-does-not-perish",
-     "score": 7.39
+     "score": 7.44
     },
     {
      "id": "see-the-pain-of-ageing-clearly",
-     "score": 7.16
+     "score": 7.17
     }
    ],
    "comparison": [
@@ -1493,35 +1468,35 @@
    "shortlist": [
     {
      "id": "wealth-never-satisfies",
-     "score": 13.06
+     "score": 12.98
+    },
+    {
+     "id": "use-wealth-or-lose-it",
+     "score": 11.98
     },
     {
      "id": "gold-and-stone-alike",
-     "score": 10.24
+     "score": 9.18
     },
     {
      "id": "give-without-expecting-return",
-     "score": 9.06
-    },
-    {
-     "id": "lasting-versus-passing-treasure",
-     "score": 8.0
+     "score": 8.98
     },
     {
      "id": "pleasant-versus-good",
-     "score": 7.59
+     "score": 7.39
     },
     {
      "id": "contentment-within",
-     "score": 7.59
+     "score": 7.39
     },
     {
-     "id": "resist-tempting-shortcuts",
-     "score": 7.06
+     "id": "choose-your-company",
+     "score": 7.39
     },
     {
-     "id": "reciprocity",
-     "score": 6.19
+     "id": "lasting-versus-passing-treasure",
+     "score": 7.0
     }
    ],
    "comparison": [
@@ -1539,6 +1514,19 @@
      "limits": "It is used to dismiss real poverty or the legitimate need for financial security."
     },
     {
+     "principle": "use-wealth-or-lose-it",
+     "name": "Give it, enjoy it, or lose it",
+     "fit": [
+      "addresses the kind of problem you describe",
+      "speaks to self-control, money or success",
+      "echoes your words: money",
+      "fits the householder stage you described"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "Someone is hoarding out of fear, or unsure what their money is for.",
+     "limits": "It is used to discourage prudent saving for real needs, or to justify reckless spending."
+    },
+    {
      "principle": "gold-and-stone-alike",
      "name": "Gold and stone alike",
      "fit": [
@@ -1550,19 +1538,6 @@
      "disagrees_with": [],
      "consequence_if_followed": "Money worries or money greed are dominating someone's thinking.",
      "limits": "It is used to excuse financial irresponsibility towards dependants."
-    },
-    {
-     "principle": "give-without-expecting-return",
-     "name": "Give because it is right to give",
-     "fit": [
-      "addresses the kind of problem you describe",
-      "speaks to a relationship, money or success",
-      "echoes your words: money",
-      "fits the householder stage you described"
-     ],
-     "disagrees_with": [],
-     "consequence_if_followed": "Deciding whether, how or to whom to give money, time or help.",
-     "limits": "It pushes someone to give beyond their means, or to tolerate being taken advantage of."
     }
    ],
    "recommendation": {
@@ -1635,13 +1610,13 @@
    },
    "challenge": {
     "label": "Viveka's application",
-    "principle": "gold-and-stone-alike",
-    "name": "Gold and stone alike",
-    "text": "If your conscience leans the other way, here is the other view: Gold and stone alike. To the steady yogi, a lump of earth, a stone and gold are the same; their worth does not rule the mind.",
+    "principle": "use-wealth-or-lose-it",
+    "name": "Give it, enjoy it, or lose it",
+    "text": "If your conscience leans the other way, here is the other view: Give it, enjoy it, or lose it. Wealth has three courses: giving, enjoyment and loss; whoever neither gives nor enjoys it meets the third.",
     "source": {
      "label": "Source text",
-     "id": "BG.6.8",
-     "english": "The yogi who is satisfied with knowledge and wisdom, unshakable, with senses mastered, to whom a lump of earth, a stone and gold are the same, is called disciplined."
+     "id": "NS.43",
+     "english": "Giving, enjoyment and loss: these are the three courses that wealth takes. Whoever neither gives nor enjoys it, theirs takes the third course."
     },
     "when_the_recommendation_misleads": "It is used to dismiss real poverty or the legitimate need for financial security."
    },
@@ -1710,11 +1685,11 @@
    "shortlist": [
     {
      "id": "ask-for-help-when-lost",
-     "score": 8.95
+     "score": 8.98
     },
     {
      "id": "self-is-not-destroyed",
-     "score": 8.9
+     "score": 8.97
     },
     {
      "id": "honour-the-grief-first",
@@ -1726,7 +1701,7 @@
     },
     {
      "id": "sorrow-ends-in-stillness",
-     "score": 7.72
+     "score": 7.75
     },
     {
      "id": "chariot-of-the-mind",
@@ -1738,7 +1713,7 @@
     },
     {
      "id": "knowledge-handed-down",
-     "score": 5.96
+     "score": 5.95
     }
    ],
    "comparison": [
@@ -1941,7 +1916,7 @@
     },
     {
      "id": "understand-before-acting",
-     "score": 7.86
+     "score": 7.89
     },
     {
      "id": "clear-understanding",
@@ -1949,7 +1924,7 @@
     },
     {
      "id": "duty-of-protection",
-     "score": 6.01
+     "score": 6.04
     },
     {
      "id": "choose-again-after-delusion",
@@ -1957,7 +1932,7 @@
     },
     {
      "id": "dont-quit-because-its-hard",
-     "score": 5.36
+     "score": 5.39
     }
    ],
    "comparison": [
@@ -2150,7 +2125,7 @@
     },
     {
      "id": "pleasant-versus-good",
-     "score": 5.01
+     "score": 5.04
     },
     {
      "id": "engage-without-attraction-or-aversion",
@@ -2158,7 +2133,7 @@
     },
     {
      "id": "no-self-torture",
-     "score": 4.36
+     "score": 4.39
     },
     {
      "id": "guard-the-senses",
@@ -2356,11 +2331,11 @@
    "shortlist": [
     {
      "id": "name-the-confusion",
-     "score": 12.99
+     "score": 12.79
     },
     {
      "id": "reflect-then-choose",
-     "score": 10.72
+     "score": 10.75
     },
     {
      "id": "apologise-sincerely",
@@ -2376,15 +2351,15 @@
     },
     {
      "id": "clear-understanding",
-     "score": 7.92
+     "score": 7.95
     },
     {
      "id": "honesty",
      "score": 7.9
     },
     {
-     "id": "no-hatred",
-     "score": 7.0
+     "id": "choose-your-company",
+     "score": 7.82
     }
    ],
    "comparison": [
@@ -2573,7 +2548,7 @@
     },
     {
      "id": "dont-quit-because-its-hard",
-     "score": 12.36
+     "score": 12.43
     },
     {
      "id": "name-the-confusion",
@@ -2581,7 +2556,7 @@
     },
     {
      "id": "pleasant-versus-good",
-     "score": 9.88
+     "score": 9.94
     },
     {
      "id": "reflect-then-choose",
@@ -2789,35 +2764,35 @@
    "shortlist": [
     {
      "id": "name-the-confusion",
-     "score": 12.46
+     "score": 12.49
     },
     {
      "id": "reflect-then-choose",
-     "score": 12.1
+     "score": 12.09
     },
     {
      "id": "loving-without-clinging",
-     "score": 10.81
+     "score": 10.87
     },
     {
      "id": "seek-a-parents-peace",
-     "score": 10.56
+     "score": 10.59
     },
     {
      "id": "meet-people-where-they-are",
-     "score": 10.3
+     "score": 10.29
     },
     {
      "id": "weigh-consequences-and-capacity",
      "score": 7.6
     },
     {
-     "id": "own-path-over-imitation",
-     "score": 7.25
-    },
-    {
      "id": "respect-different-paths",
      "score": 7.2
+    },
+    {
+     "id": "own-path-over-imitation",
+     "score": 7.19
     }
    ],
    "comparison": [
@@ -3001,35 +2976,35 @@
    "shortlist": [
     {
      "id": "forgiveness-as-strength",
-     "score": 10.59
+     "score": 10.63
+    },
+    {
+     "id": "apologise-sincerely",
+     "score": 7.02
     },
     {
      "id": "no-hatred",
      "score": 7.0
     },
     {
-     "id": "apologise-sincerely",
-     "score": 6.95
-    },
-    {
-     "id": "feel-others-pain-as-your-own",
+     "id": "keep-distance-from-harmful-people",
      "score": 6.0
     },
     {
-     "id": "same-regard-for-all",
+     "id": "feel-others-pain-as-your-own",
      "score": 5.0
     },
     {
      "id": "pass-it-on",
-     "score": 4.59
+     "score": 4.63
     },
     {
      "id": "seeing-oneness",
-     "score": 4.59
+     "score": 4.63
     },
     {
      "id": "seek-a-parents-peace",
-     "score": 4.36
+     "score": 4.39
     }
    ],
    "comparison": [
@@ -3046,17 +3021,6 @@
      "limits": "It is used to demand immediate forgiveness from someone who was harmed, or to restore access to someone dangerous. Forgiving is not the same as reconciling."
     },
     {
-     "principle": "no-hatred",
-     "name": "Bear no hatred; be friendly and compassionate",
-     "fit": [
-      "addresses the kind of problem you describe",
-      "speaks to a relationship"
-     ],
-     "disagrees_with": [],
-     "consequence_if_followed": "Resentment towards someone is consuming the person.",
-     "limits": "It is used to pressure a victim to drop justified anger or to stay in contact with an abuser."
-    },
-    {
      "principle": "apologise-sincerely",
      "name": "Own your words and ask forgiveness",
      "fit": [
@@ -3066,6 +3030,17 @@
      "disagrees_with": [],
      "consequence_if_followed": "Someone realises they have taken a person for granted or spoken carelessly.",
      "limits": "It is used to force an apology from someone who did nothing wrong."
+    },
+    {
+     "principle": "no-hatred",
+     "name": "Bear no hatred; be friendly and compassionate",
+     "fit": [
+      "addresses the kind of problem you describe",
+      "speaks to a relationship"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "Resentment towards someone is consuming the person.",
+     "limits": "It is used to pressure a victim to drop justified anger or to stay in contact with an abuser."
     }
    ],
    "recommendation": {
@@ -3145,13 +3120,13 @@
    },
    "challenge": {
     "label": "Viveka's application",
-    "principle": "no-hatred",
-    "name": "Bear no hatred; be friendly and compassionate",
-    "text": "If your conscience leans the other way, here is the other view: Bear no hatred; be friendly and compassionate. The devotee dear to God bears no hatred towards any being, is friendly and compassionate, free of possessiveness and ego, and forgiving.",
+    "principle": "apologise-sincerely",
+    "name": "Own your words and ask forgiveness",
+    "text": "If your conscience leans the other way, here is the other view: Own your words and ask forgiveness. After seeing who Krishna truly is, Arjuna asks forgiveness for every careless or disrespectful word, 'as a father bears with a son, a friend with a friend'.",
     "source": {
      "label": "Source text",
-     "id": "BG.12.13",
-     "english": "One who bears no hatred towards any being, who is friendly and compassionate, free of possessiveness and ego, the same in pain and pleasure, and forgiving,"
+     "id": "BG.11.41",
+     "english": "Whatever I said rashly, thinking of you as a friend, \"Hey Krishna! Hey Yadava! Hey friend!\", not knowing this greatness of yours, out of carelessness or out of affection,"
     },
     "when_the_recommendation_misleads": "It is used to demand immediate forgiveness from someone who was harmed, or to restore access to someone dangerous. Forgiving is not the same as reconciling."
    },
@@ -3232,7 +3207,7 @@
     },
     {
      "id": "speech-without-harm",
-     "score": 5.53
+     "score": 5.49
     },
     {
      "id": "calm-before-clarity",
@@ -3240,11 +3215,11 @@
     },
     {
      "id": "duty-of-protection",
-     "score": 4.06
+     "score": 4.09
     },
     {
      "id": "three-gates",
-     "score": 4.06
+     "score": 4.09
     },
     {
      "id": "free-of-elation-and-agitation",
@@ -3425,7 +3400,7 @@
    "shortlist": [
     {
      "id": "procrastination-as-a-state",
-     "score": 9.01
+     "score": 9.04
     },
     {
      "id": "hard-at-first-sweet-later",
@@ -3437,7 +3412,7 @@
     },
     {
      "id": "ask-for-help-when-lost",
-     "score": 3.46
+     "score": 3.49
     },
     {
      "id": "the-wish-carries-you",
@@ -3445,7 +3420,7 @@
     },
     {
      "id": "dharmic-desire-is-legitimate",
-     "score": 2.59
+     "score": 2.63
     },
     {
      "id": "steady-practice",
@@ -3628,35 +3603,35 @@
    "shortlist": [
     {
      "id": "purpose-beyond-pleasure",
-     "score": 10.49
+     "score": 10.55
     },
     {
      "id": "act-as-offering",
-     "score": 10.31
+     "score": 10.38
     },
     {
      "id": "know-it-in-this-life",
-     "score": 7.23
+     "score": 7.26
     },
     {
      "id": "turn-inward",
-     "score": 6.25
+     "score": 6.29
     },
     {
      "id": "the-light-within",
-     "score": 5.31
+     "score": 5.38
     },
     {
      "id": "enjoy-through-letting-go",
-     "score": 5.31
+     "score": 5.38
     },
     {
      "id": "skill-in-action",
-     "score": 5.25
+     "score": 5.29
     },
     {
      "id": "resist-tempting-shortcuts",
-     "score": 4.63
+     "score": 4.66
     }
    ],
    "comparison": [
@@ -3816,7 +3791,7 @@
    "shortlist": [
     {
      "id": "apologise-sincerely",
-     "score": 15.05
+     "score": 14.98
     },
     {
      "id": "even-the-wrongdoer-can-cross",
@@ -3832,19 +3807,19 @@
     },
     {
      "id": "many-paths-one-goal",
-     "score": 6.01
+     "score": 6.04
     },
     {
      "id": "loving-without-clinging",
-     "score": 5.59
+     "score": 5.63
     },
     {
      "id": "speech-without-harm",
-     "score": 5.06
+     "score": 5.09
     },
     {
-     "id": "voice-your-fear-of-failing",
-     "score": 3.59
+     "id": "choose-your-company",
+     "score": 4.55
     }
    ],
    "comparison": [
@@ -4027,15 +4002,19 @@
    "shortlist": [
     {
      "id": "forgiveness-as-strength",
-     "score": 12.36
+     "score": 12.39
     },
     {
      "id": "no-hatred",
-     "score": 11.36
+     "score": 11.39
     },
     {
      "id": "name-the-confusion",
      "score": 11.2
+    },
+    {
+     "id": "keep-distance-from-harmful-people",
+     "score": 8.0
     },
     {
      "id": "moderation-in-living",
@@ -4043,10 +4022,6 @@
     },
     {
      "id": "work-for-the-good-of-all",
-     "score": 7.0
-    },
-    {
-     "id": "same-regard-for-all",
      "score": 7.0
     },
     {
@@ -4251,32 +4226,32 @@
      "score": 8.0
     },
     {
-     "id": "lasting-versus-passing-treasure",
+     "id": "use-wealth-or-lose-it",
      "score": 7.0
     },
     {
      "id": "lead-by-example",
-     "score": 6.65
+     "score": 6.72
     },
     {
      "id": "give-without-expecting-return",
      "score": 6.0
     },
     {
-     "id": "gold-and-stone-alike",
+     "id": "lasting-versus-passing-treasure",
      "score": 6.0
     },
     {
      "id": "reciprocity",
-     "score": 5.72
+     "score": 5.75
     },
     {
      "id": "do-not-covet",
-     "score": 5.01
+     "score": 5.04
     },
     {
      "id": "pleasant-versus-good",
-     "score": 5.01
+     "score": 5.04
     }
    ],
    "comparison": [
@@ -4292,15 +4267,15 @@
      "limits": "It is used to dismiss real poverty or the legitimate need for financial security."
     },
     {
-     "principle": "lasting-versus-passing-treasure",
-     "name": "The lasting is not reached by passing things",
+     "principle": "use-wealth-or-lose-it",
+     "name": "Give it, enjoy it, or lose it",
      "fit": [
       "addresses the kind of problem you describe",
       "speaks to money or success"
      ],
      "disagrees_with": [],
-     "consequence_if_followed": "Someone hopes possessions, status or achievement will finally give them security or meaning.",
-     "limits": "It is used to dismiss saving, planning or caring for material needs."
+     "consequence_if_followed": "Someone is hoarding out of fear, or unsure what their money is for.",
+     "limits": "It is used to discourage prudent saving for real needs, or to justify reckless spending."
     },
     {
      "principle": "lead-by-example",
@@ -4384,13 +4359,13 @@
    },
    "challenge": {
     "label": "Viveka's application",
-    "principle": "lasting-versus-passing-treasure",
-    "name": "The lasting is not reached by passing things",
-    "text": "If your conscience leans the other way, here is the other view: The lasting is not reached by passing things. Treasure is impermanent, and what is permanent is not reached by impermanent means; the wise seek nothing lasting among unstable things.",
+    "principle": "use-wealth-or-lose-it",
+    "name": "Give it, enjoy it, or lose it",
+    "text": "If your conscience leans the other way, here is the other view: Give it, enjoy it, or lose it. Wealth has three courses: giving, enjoyment and loss; whoever neither gives nor enjoys it meets the third.",
     "source": {
      "label": "Source text",
-     "id": "KaU.1.2.10",
-     "english": "I know that what is called treasure is impermanent, for the permanent is not reached by impermanent things. So I built the Nachiketa fire with impermanent things, and gained what is lasting."
+     "id": "NS.43",
+     "english": "Giving, enjoyment and loss: these are the three courses that wealth takes. Whoever neither gives nor enjoys it, theirs takes the third course."
     },
     "when_the_recommendation_misleads": "It is used to dismiss real poverty or the legitimate need for financial security."
    },
@@ -4462,35 +4437,35 @@
    "shortlist": [
     {
      "id": "honesty",
-     "score": 13.78
+     "score": 13.81
     },
     {
      "id": "wealth-never-satisfies",
-     "score": 13.55
+     "score": 13.48
+    },
+    {
+     "id": "use-wealth-or-lose-it",
+     "score": 12.48
     },
     {
      "id": "resist-tempting-shortcuts",
      "score": 11.12
     },
     {
-     "id": "give-without-expecting-return",
-     "score": 9.55
-    },
-    {
-     "id": "gold-and-stone-alike",
-     "score": 9.55
-    },
-    {
      "id": "withstand-the-surge",
-     "score": 9.5
+     "score": 9.49
+    },
+    {
+     "id": "give-without-expecting-return",
+     "score": 9.48
     },
     {
      "id": "duty-of-protection",
-     "score": 9.3
+     "score": 9.29
     },
     {
      "id": "chariot-of-the-mind",
-     "score": 8.5
+     "score": 8.49
     }
    ],
    "comparison": [
@@ -4521,16 +4496,17 @@
      "limits": "It is used to dismiss real poverty or the legitimate need for financial security."
     },
     {
-     "principle": "resist-tempting-shortcuts",
-     "name": "Turn down the tempting substitute",
+     "principle": "use-wealth-or-lose-it",
+     "name": "Give it, enjoy it, or lose it",
      "fit": [
+      "addresses the kind of problem you describe",
       "speaks to money or success, self-control",
-      "echoes your words: money, offer, someone, tempt",
+      "echoes your words: money, someone",
       "fits the householder stage you described"
      ],
      "disagrees_with": [],
-     "consequence_if_followed": "Someone is offered money, comfort or status to give up something they value: integrity, a calling, a relationship.",
-     "limits": "It is used to turn down genuinely good opportunities, or to romanticise hardship."
+     "consequence_if_followed": "Someone is hoarding out of fear, or unsure what their money is for.",
+     "limits": "It is used to discourage prudent saving for real needs, or to justify reckless spending."
     }
    ],
    "recommendation": {
@@ -4671,11 +4647,11 @@
    "shortlist": [
     {
      "id": "moderation-in-living",
-     "score": 18.58
+     "score": 18.72
     },
     {
      "id": "no-self-torture",
-     "score": 8.36
+     "score": 8.4
     },
     {
      "id": "name-the-confusion",
@@ -4687,7 +4663,7 @@
     },
     {
      "id": "no-recognition-seeking",
-     "score": 4.48
+     "score": 4.52
     },
     {
      "id": "ask-for-help-when-lost",
@@ -4695,7 +4671,7 @@
     },
     {
      "id": "know-it-in-this-life",
-     "score": 3.78
+     "score": 3.84
     },
     {
      "id": "evenness-in-success-and-failure",
@@ -4885,35 +4861,35 @@
    "shortlist": [
     {
      "id": "give-without-expecting-return",
-     "score": 16.28
+     "score": 16.24
     },
     {
      "id": "reciprocity",
-     "score": 13.52
+     "score": 13.55
     },
     {
      "id": "wealth-never-satisfies",
-     "score": 10.06
+     "score": 9.98
+    },
+    {
+     "id": "use-wealth-or-lose-it",
+     "score": 8.98
     },
     {
      "id": "speech-without-harm",
-     "score": 8.92
+     "score": 8.84
     },
     {
      "id": "gold-and-stone-alike",
-     "score": 8.06
+     "score": 6.98
     },
     {
      "id": "lasting-versus-passing-treasure",
-     "score": 7.0
+     "score": 6.0
     },
     {
      "id": "honesty",
      "score": 5.9
-    },
-    {
-     "id": "let-go-of-mine",
-     "score": 5.72
     }
    ],
    "comparison": [
@@ -5096,7 +5072,7 @@
     },
     {
      "id": "envy-and-comparison",
-     "score": 6.59
+     "score": 6.63
     },
     {
      "id": "speech-without-harm",
@@ -5104,15 +5080,15 @@
     },
     {
      "id": "reciprocity",
-     "score": 5.72
+     "score": 5.75
     },
     {
      "id": "meet-people-where-they-are",
-     "score": 5.72
+     "score": 5.75
     },
     {
      "id": "independent-of-the-crowd",
-     "score": 4.59
+     "score": 4.63
     },
     {
      "id": "humility",
@@ -5502,35 +5478,35 @@
    "shortlist": [
     {
      "id": "effort-never-wasted",
-     "score": 10.19
+     "score": 10.22
+    },
+    {
+     "id": "it-grows-back",
+     "score": 8.43
     },
     {
      "id": "voice-your-fear-of-failing",
-     "score": 9.19
-    },
-    {
-     "id": "graded-practice",
-     "score": 7.19
+     "score": 8.22
     },
     {
      "id": "honour-and-dishonour-alike",
-     "score": 7.01
+     "score": 7.04
+    },
+    {
+     "id": "graded-practice",
+     "score": 6.22
     },
     {
      "id": "evenness-in-success-and-failure",
-     "score": 6.0
+     "score": 5.0
     },
     {
      "id": "suppression-backfires",
-     "score": 4.19
+     "score": 4.22
     },
     {
      "id": "three-gunas-awareness",
-     "score": 4.15
-    },
-    {
-     "id": "not-the-sole-doer",
-     "score": 4.0
+     "score": 4.06
     }
    ],
    "comparison": [
@@ -5547,6 +5523,18 @@
      "limits": "It is used to keep pouring effort into a path that is clearly wrong for the person (sunk cost)."
     },
     {
+     "principle": "it-grows-back",
+     "name": "A cut tree grows again",
+     "fit": [
+      "addresses the kind of problem you describe",
+      "speaks to a setback",
+      "echoes your words: time"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "After a loss, failure or setback, when someone fears they will never recover.",
+     "limits": "It is used to rush someone through grief, or to deny that some losses are permanent."
+    },
+    {
      "principle": "voice-your-fear-of-failing",
      "name": "Ask your fear of failure out loud",
      "fit": [
@@ -5557,18 +5545,6 @@
      "disagrees_with": [],
      "consequence_if_followed": "Fear of failing is stopping someone from starting, or they fear their past failures define them.",
      "limits": "It is used to promise that nothing will go wrong."
-    },
-    {
-     "principle": "graded-practice",
-     "name": "If you can't do the highest, do the next",
-     "fit": [
-      "addresses the kind of problem you describe",
-      "speaks to a setback",
-      "echoes your words: fail"
-     ],
-     "disagrees_with": [],
-     "consequence_if_followed": "Someone feels they are failing at their ideal and are tempted to give up entirely.",
-     "limits": "It is used to settle for less when someone could do more."
     }
    ],
    "recommendation": {
@@ -5641,13 +5617,13 @@
    },
    "challenge": {
     "label": "Viveka's application",
-    "principle": "voice-your-fear-of-failing",
-    "name": "Ask your fear of failure out loud",
-    "text": "If your conscience leans the other way, here is the other view: Ask your fear of failure out loud. Arjuna asks what becomes of one who tries and fails, 'like a scattered cloud'. Krishna answers that no one who does good comes to ruin.",
+    "principle": "it-grows-back",
+    "name": "A cut tree grows again",
+    "text": "If your conscience leans the other way, here is the other view: A cut tree grows again. A tree that is cut grows again, and the waning moon fills again; reflecting on this, the good are not crushed by misfortune.",
     "source": {
      "label": "Source text",
-     "id": "BG.6.37",
-     "english": "Krishna, what becomes of one who has faith but does not strive enough, whose mind strays from yoga, and who fails to reach perfection in yoga?"
+     "id": "NS.87",
+     "english": "A tree, though cut, grows again; the moon, though waning, fills again. Reflecting on this, the good are not tormented by misfortune."
     },
     "when_the_recommendation_misleads": "It is used to keep pouring effort into a path that is clearly wrong for the person (sunk cost)."
    },
@@ -5713,11 +5689,11 @@
    "shortlist": [
     {
      "id": "renounce-selfishness-not-the-world",
-     "score": 12.75
+     "score": 12.78
     },
     {
      "id": "two-paths-both-lead",
-     "score": 11.22
+     "score": 11.25
     },
     {
      "id": "hold-both-together",
@@ -5725,23 +5701,23 @@
     },
     {
      "id": "many-paths-one-goal",
-     "score": 6.9
+     "score": 6.97
     },
     {
      "id": "the-light-within",
-     "score": 6.78
+     "score": 6.84
     },
     {
      "id": "full-renunciation-path",
-     "score": 5.85
+     "score": 5.88
     },
     {
      "id": "work-for-the-good-of-all",
-     "score": 5.59
+     "score": 5.39
     },
     {
      "id": "act-as-offering",
-     "score": 5.06
+     "score": 5.09
     }
    ],
    "comparison": [
@@ -5944,7 +5920,7 @@
    "shortlist": [
     {
      "id": "more-than-body-and-roles",
-     "score": 15.55
+     "score": 15.66
     },
     {
      "id": "renounce-selfishness-not-the-world",
@@ -5952,11 +5928,15 @@
     },
     {
      "id": "pleasant-versus-good",
-     "score": 9.38
+     "score": 9.21
     },
     {
      "id": "two-paths-both-lead",
      "score": 7.5
+    },
+    {
+     "id": "choose-your-company",
+     "score": 7.39
     },
     {
      "id": "keep-contributing",
@@ -5964,15 +5944,11 @@
     },
     {
      "id": "knowledge-handed-down",
-     "score": 6.95
+     "score": 6.98
     },
     {
      "id": "hold-both-together",
      "score": 6.2
-    },
-    {
-     "id": "see-the-pain-of-ageing-clearly",
-     "score": 6.0
     }
    ],
    "comparison": [
@@ -6174,7 +6150,7 @@
    "shortlist": [
     {
      "id": "reflect-then-choose",
-     "score": 12.06
+     "score": 12.09
     },
     {
      "id": "weigh-consequences-and-capacity",
@@ -6186,7 +6162,7 @@
     },
     {
      "id": "dont-quit-because-its-hard",
-     "score": 11.01
+     "score": 11.04
     },
     {
      "id": "clear-understanding",
@@ -6409,11 +6385,11 @@
     },
     {
      "id": "suppression-backfires",
-     "score": 7.44
+     "score": 7.43
     },
     {
      "id": "skill-in-action",
-     "score": 6.1
+     "score": 6.17
     },
     {
      "id": "pleasant-versus-good",
@@ -6421,11 +6397,11 @@
     },
     {
      "id": "steady-practice",
-     "score": 5.66
+     "score": 5.69
     },
     {
      "id": "moderation-in-living",
-     "score": 5.62
+     "score": 5.52
     }
    ],
    "comparison": [
@@ -6589,7 +6565,7 @@
     },
     {
      "id": "suppression-backfires",
-     "score": 7.44
+     "score": 7.43
     },
     {
      "id": "chariot-of-the-mind",
@@ -6597,19 +6573,19 @@
     },
     {
      "id": "engage-without-attraction-or-aversion",
-     "score": 6.79
+     "score": 6.82
     },
     {
      "id": "resist-tempting-shortcuts",
-     "score": 5.79
+     "score": 5.82
     },
     {
      "id": "joy-that-lasts",
-     "score": 4.59
+     "score": 4.63
     },
     {
      "id": "inward-meditation",
-     "score": 4.59
+     "score": 4.63
     },
     {
      "id": "do-not-covet",
@@ -6796,35 +6772,35 @@
    "shortlist": [
     {
      "id": "effort-never-wasted",
-     "score": 12.14
+     "score": 12.21
     },
     {
      "id": "voice-your-fear-of-failing",
-     "score": 11.37
+     "score": 10.31
     },
     {
      "id": "evenness-in-success-and-failure",
-     "score": 10.19
+     "score": 9.09
+    },
+    {
+     "id": "it-grows-back",
+     "score": 9.09
     },
     {
      "id": "graded-practice",
-     "score": 7.19
+     "score": 6.22
     },
     {
      "id": "content-with-what-comes",
-     "score": 6.19
+     "score": 6.09
     },
     {
      "id": "ego-that-will-not-listen",
-     "score": 6.01
+     "score": 6.08
     },
     {
      "id": "guard-your-gains",
-     "score": 5.01
-    },
-    {
-     "id": "the-steady-doer",
-     "score": 4.19
+     "score": 5.04
     }
    ],
    "comparison": [
@@ -7007,35 +6983,35 @@
    "shortlist": [
     {
      "id": "name-the-confusion",
-     "score": 11.59
+     "score": 11.62
     },
     {
      "id": "reflect-then-choose",
-     "score": 9.72
+     "score": 9.64
     },
     {
      "id": "weigh-consequences-and-capacity",
      "score": 6.6
     },
     {
+     "id": "patience",
+     "score": 5.22
+    },
+    {
      "id": "clear-understanding",
      "score": 5.2
     },
     {
-     "id": "patience",
-     "score": 5.19
+     "id": "keep-distance-from-harmful-people",
+     "score": 4.64
     },
     {
      "id": "neither-troubling-nor-troubled",
-     "score": 4.72
+     "score": 4.64
     },
     {
      "id": "forgiveness-as-strength",
-     "score": 4.72
-    },
-    {
-     "id": "inward-meditation",
-     "score": 4.2
+     "score": 4.64
     }
    ],
    "comparison": [
@@ -7218,7 +7194,7 @@
     },
     {
      "id": "knowledge-purifies",
-     "score": 7.86
+     "score": 7.89
     },
     {
      "id": "even-the-wrongdoer-can-cross",
@@ -7242,7 +7218,7 @@
     },
     {
      "id": "trust-alongside-effort",
-     "score": 4.51
+     "score": 4.57
     }
    ],
    "comparison": [
@@ -7426,11 +7402,11 @@
     },
     {
      "id": "voice-your-fear-of-failing",
-     "score": 5.6
+     "score": 5.26
     },
     {
      "id": "weigh-consequences-and-capacity",
-     "score": 5.01
+     "score": 5.04
     },
     {
      "id": "speech-without-harm",
@@ -7438,11 +7414,11 @@
     },
     {
      "id": "strength-without-passion",
-     "score": 3.95
+     "score": 3.98
     },
     {
-     "id": "knowledge-purifies",
-     "score": 2.59
+     "id": "it-grows-back",
+     "score": 3.04
     }
    ],
    "comparison": [
@@ -7593,7 +7569,7 @@
    "shortlist": [
     {
      "id": "speech-without-harm",
-     "score": 12.95
+     "score": 12.84
     },
     {
      "id": "honesty",
@@ -7613,7 +7589,7 @@
     },
     {
      "id": "meet-people-where-they-are",
-     "score": 8.86
+     "score": 8.75
     },
     {
      "id": "withstand-the-surge",
@@ -7621,7 +7597,7 @@
     },
     {
      "id": "suppression-backfires",
-     "score": 7.44
+     "score": 7.4
     }
    ],
    "comparison": [
@@ -7825,15 +7801,15 @@
     },
     {
      "id": "envy-and-comparison",
-     "score": 2.59
+     "score": 2.63
     },
     {
      "id": "trust-alongside-effort",
-     "score": 2.59
+     "score": 2.63
     },
     {
      "id": "independent-of-the-crowd",
-     "score": 2.59
+     "score": 2.63
     }
    ],
    "comparison": [
@@ -8015,7 +7991,7 @@
     },
     {
      "id": "apologise-sincerely",
-     "score": 6.01
+     "score": 5.94
     },
     {
      "id": "feel-others-pain-as-your-own",
@@ -8023,15 +7999,15 @@
     },
     {
      "id": "seek-a-parents-peace",
-     "score": 4.36
+     "score": 4.39
     },
     {
      "id": "three-gunas-awareness",
-     "score": 4.25
+     "score": 4.18
     },
     {
-     "id": "the-light-within",
-     "score": 3.38
+     "id": "choose-your-company",
+     "score": 3.55
     }
    ],
    "comparison": [
@@ -8216,35 +8192,35 @@
    "shortlist": [
     {
      "id": "steady-practice",
-     "score": 10.21
+     "score": 10.26
     },
     {
      "id": "restless-mind-can-be-trained",
-     "score": 6.21
+     "score": 6.22
     },
     {
      "id": "graded-practice",
-     "score": 5.21
+     "score": 5.22
     },
     {
      "id": "inward-meditation",
-     "score": 4.21
+     "score": 4.22
     },
     {
      "id": "evenness-in-success-and-failure",
-     "score": 3.56
+     "score": 3.61
     },
     {
      "id": "remember-the-highest",
-     "score": 3.39
+     "score": 3.44
     },
     {
      "id": "envy-and-comparison",
-     "score": 3.39
+     "score": 3.44
     },
     {
      "id": "free-of-elation-and-agitation",
-     "score": 2.36
+     "score": 2.39
     }
    ],
    "comparison": [
@@ -8421,35 +8397,35 @@
    "shortlist": [
     {
      "id": "effort-never-wasted",
-     "score": 10.82
-    },
-    {
-     "id": "voice-your-fear-of-failing",
-     "score": 9.82
+     "score": 10.77
     },
     {
      "id": "not-the-sole-doer",
      "score": 9.2
     },
     {
-     "id": "evenness-in-success-and-failure",
-     "score": 7.31
+     "id": "voice-your-fear-of-failing",
+     "score": 8.77
+    },
+    {
+     "id": "it-grows-back",
+     "score": 8.26
     },
     {
      "id": "praise-and-blame-alike",
      "score": 6.8
     },
     {
+     "id": "evenness-in-success-and-failure",
+     "score": 6.26
+    },
+    {
      "id": "credit-is-not-yours-alone",
      "score": 6.0
     },
     {
-     "id": "graded-practice",
-     "score": 5.0
-    },
-    {
      "id": "wealth-never-satisfies",
-     "score": 4.11
+     "score": 4.13
     }
    ],
    "comparison": [
@@ -8466,18 +8442,6 @@
      "limits": "It is used to keep pouring effort into a path that is clearly wrong for the person (sunk cost)."
     },
     {
-     "principle": "voice-your-fear-of-failing",
-     "name": "Ask your fear of failure out loud",
-     "fit": [
-      "addresses the kind of problem you describe",
-      "speaks to a setback",
-      "echoes your words: good, start"
-     ],
-     "disagrees_with": [],
-     "consequence_if_followed": "Fear of failing is stopping someone from starting, or they fear their past failures define them.",
-     "limits": "It is used to promise that nothing will go wrong."
-    },
-    {
      "principle": "not-the-sole-doer",
      "name": "You are not the only doer",
      "fit": [
@@ -8489,6 +8453,18 @@
      ],
      "consequence_if_followed": "Someone is crushed by blaming themselves entirely for an outcome, or inflated by taking all the credit.",
      "limits": "It is used to dodge responsibility for one's own choices."
+    },
+    {
+     "principle": "voice-your-fear-of-failing",
+     "name": "Ask your fear of failure out loud",
+     "fit": [
+      "addresses the kind of problem you describe",
+      "speaks to a setback",
+      "echoes your words: good, start"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "Fear of failing is stopping someone from starting, or they fear their past failures define them.",
+     "limits": "It is used to promise that nothing will go wrong."
     }
    ],
    "recommendation": {
@@ -8561,13 +8537,13 @@
    },
    "challenge": {
     "label": "Viveka's application",
-    "principle": "voice-your-fear-of-failing",
-    "name": "Ask your fear of failure out loud",
-    "text": "If your conscience leans the other way, here is the other view: Ask your fear of failure out loud. Arjuna asks what becomes of one who tries and fails, 'like a scattered cloud'. Krishna answers that no one who does good comes to ruin.",
+    "principle": "not-the-sole-doer",
+    "name": "You are not the only doer",
+    "text": "If your conscience leans the other way, here is the other view: You are not the only doer. Every action has many causes: the body, the agent, the instruments, the efforts and the unseen; one who sees oneself as the sole doer does not see truly.",
     "source": {
      "label": "Source text",
-     "id": "BG.6.37",
-     "english": "Krishna, what becomes of one who has faith but does not strive enough, whose mind strays from yoga, and who fails to reach perfection in yoga?"
+     "id": "BG.18.14",
+     "english": "The seat of action, the doer, the various instruments, the many kinds of effort, and fifth, the divine."
     },
     "when_the_recommendation_misleads": "It is used to keep pouring effort into a path that is clearly wrong for the person (sunk cost)."
    },
@@ -8636,15 +8612,15 @@
    "shortlist": [
     {
      "id": "name-the-confusion",
-     "score": 12.59
-    },
-    {
-     "id": "lasting-versus-passing-treasure",
-     "score": 9.19
+     "score": 12.62
     },
     {
      "id": "reflect-then-choose",
      "score": 9.0
+    },
+    {
+     "id": "lasting-versus-passing-treasure",
+     "score": 8.09
     },
     {
      "id": "wealth-never-satisfies",
@@ -8655,15 +8631,15 @@
      "score": 7.6
     },
     {
+     "id": "use-wealth-or-lose-it",
+     "score": 7.0
+    },
+    {
      "id": "clear-understanding",
      "score": 6.2
     },
     {
      "id": "gold-and-stone-alike",
-     "score": 6.0
-    },
-    {
-     "id": "trust-alongside-effort",
      "score": 5.0
     }
    ],
@@ -8681,18 +8657,6 @@
      "limits": "It is used to look for one authority to decide everything."
     },
     {
-     "principle": "lasting-versus-passing-treasure",
-     "name": "The lasting is not reached by passing things",
-     "fit": [
-      "addresses the kind of problem you describe",
-      "speaks to money or success",
-      "echoes your words: big"
-     ],
-     "disagrees_with": [],
-     "consequence_if_followed": "Someone hopes possessions, status or achievement will finally give them security or meaning.",
-     "limits": "It is used to dismiss saving, planning or caring for material needs."
-    },
-    {
      "principle": "reflect-then-choose",
      "name": "Reflect fully, then choose for yourself",
      "fit": [
@@ -8705,6 +8669,18 @@
      ],
      "consequence_if_followed": "Someone has gathered advice and must now decide, or is being pressured to decide someone else's way.",
      "limits": "It is used to dismiss all guidance and tradition as irrelevant."
+    },
+    {
+     "principle": "lasting-versus-passing-treasure",
+     "name": "The lasting is not reached by passing things",
+     "fit": [
+      "addresses the kind of problem you describe",
+      "speaks to money or success",
+      "echoes your words: big"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "Someone hopes possessions, status or achievement will finally give them security or meaning.",
+     "limits": "It is used to dismiss saving, planning or caring for material needs."
     }
    ],
    "recommendation": {
@@ -8770,13 +8746,13 @@
    },
    "challenge": {
     "label": "Viveka's application",
-    "principle": "lasting-versus-passing-treasure",
-    "name": "The lasting is not reached by passing things",
-    "text": "If your conscience leans the other way, here is the other view: The lasting is not reached by passing things. Treasure is impermanent, and what is permanent is not reached by impermanent means; the wise seek nothing lasting among unstable things.",
+    "principle": "reflect-then-choose",
+    "name": "Reflect fully, then choose for yourself",
+    "text": "If your conscience leans the other way, here is the other view: Reflect fully, then choose for yourself. After teaching everything, Krishna tells Arjuna: 'Reflect on it fully, then do as you choose.' The final decision is the person's own.",
     "source": {
      "label": "Source text",
-     "id": "KaU.1.2.10",
-     "english": "I know that what is called treasure is impermanent, for the permanent is not reached by impermanent things. So I built the Nachiketa fire with impermanent things, and gained what is lasting."
+     "id": "BG.18.63",
+     "english": "Thus I have taught you wisdom more secret than all secrets. Reflect on it fully, and then do as you choose."
     },
     "when_the_recommendation_misleads": "It is used to look for one authority to decide everything."
    },
@@ -8855,11 +8831,11 @@
     },
     {
      "id": "reciprocity",
-     "score": 5.72
+     "score": 5.75
     },
     {
      "id": "meet-people-where-they-are",
-     "score": 5.72
+     "score": 5.75
     },
     {
      "id": "humility",
@@ -8882,7 +8858,9 @@
       "addresses the kind of problem you describe",
       "speaks to a relationship"
      ],
-     "disagrees_with": [],
+     "disagrees_with": [
+      "keep-distance-from-harmful-people"
+     ],
      "consequence_if_followed": "Someone is treating people very differently depending on whether they like them, or is caught in factional conflict.",
      "limits": "It is used to deny the right to keep away from people who are harmful. Equal regard does not mean equal trust or access."
     },
@@ -8976,13 +8954,13 @@
    "example": null,
    "challenge": {
     "label": "Viveka's application",
-    "principle": "even-the-wrongdoer-can-cross",
-    "name": "Even the worst wrongdoer can change",
-    "text": "If your conscience leans the other way, here is the other view: Even the worst wrongdoer can change. Even the worst wrongdoer can cross over by knowledge; even a person of bad conduct who turns wholeheartedly to the good soon becomes righteous.",
+    "principle": "keep-distance-from-harmful-people",
+    "name": "Keep your distance from those who harm",
+    "text": "If your conscience leans the other way, here is the other view: Keep your distance from those who harm. A harmful person is to be avoided even if learned, as a snake adorned with a jewel is still dangerous; friendship with the wicked starts big and dwindles.",
     "source": {
      "label": "Source text",
-     "id": "BG.4.36",
-     "english": "Even if you were the worst wrongdoer of all, you would cross over all wrongdoing by the boat of knowledge alone."
+     "id": "NS.53",
+     "english": "A wicked person should be avoided, even if adorned with learning. Is a snake adorned with a jewel any less frightening?"
     },
     "when_the_recommendation_misleads": "It is used to deny the right to keep away from people who are harmful. Equal regard does not mean equal trust or access."
    },
@@ -9264,7 +9242,7 @@
    "shortlist": [
     {
      "id": "more-than-body-and-roles",
-     "score": 8.01
+     "score": 8.04
     },
     {
      "id": "keep-contributing",
@@ -9280,11 +9258,11 @@
     },
     {
      "id": "joy-that-lasts",
-     "score": 2.59
+     "score": 2.63
     },
     {
      "id": "inward-meditation",
-     "score": 2.59
+     "score": 2.63
     },
     {
      "id": "impermanence",
@@ -9292,7 +9270,7 @@
     },
     {
      "id": "dont-quit-because-its-hard",
-     "score": 1.95
+     "score": 1.98
     }
    ],
    "comparison": [
@@ -9467,7 +9445,7 @@
    "shortlist": [
     {
      "id": "even-the-wrongdoer-can-cross",
-     "score": 9.81
+     "score": 9.76
     },
     {
      "id": "fearlessness",
@@ -9495,7 +9473,7 @@
     },
     {
      "id": "contentment-within",
-     "score": 4.73
+     "score": 4.79
     }
    ],
    "comparison": [
@@ -9684,7 +9662,7 @@
    "shortlist": [
     {
      "id": "duty-of-protection",
-     "score": 13.81
+     "score": 13.84
     },
     {
      "id": "clear-understanding",
@@ -9708,7 +9686,7 @@
     },
     {
      "id": "forgiveness-as-strength",
-     "score": 6.01
+     "score": 6.04
     },
     {
      "id": "understand-before-acting",
@@ -9866,15 +9844,15 @@
    "shortlist": [
     {
      "id": "respect-different-paths",
-     "score": 11.93
+     "score": 11.99
     },
     {
      "id": "forgiveness-as-strength",
-     "score": 11.72
+     "score": 11.75
     },
     {
      "id": "meet-people-where-they-are",
-     "score": 11.52
+     "score": 11.55
     },
     {
      "id": "seek-a-parents-peace",
@@ -9885,11 +9863,11 @@
      "score": 9.0
     },
     {
-     "id": "same-regard-for-all",
-     "score": 7.0
+     "id": "keep-distance-from-harmful-people",
+     "score": 8.0
     },
     {
-     "id": "feel-others-pain-as-your-own",
+     "id": "same-regard-for-all",
      "score": 6.0
     },
     {
@@ -10115,11 +10093,11 @@
     },
     {
      "id": "praise-and-blame-alike",
-     "score": 8.66
+     "score": 8.55
     },
     {
      "id": "no-hatred",
-     "score": 8.66
+     "score": 8.55
     }
    ],
    "comparison": [
@@ -10262,7 +10240,7 @@
     },
     {
      "id": "ask-for-help-when-lost",
-     "score": 6.75
+     "score": 6.78
     },
     {
      "id": "friend-of-all-beings",
@@ -10270,19 +10248,19 @@
     },
     {
      "id": "act-as-offering",
-     "score": 5.04
+     "score": 5.03
     },
     {
      "id": "meet-people-where-they-are",
-     "score": 4.31
+     "score": 4.37
     },
     {
      "id": "no-recognition-seeking",
-     "score": 3.39
+     "score": 3.42
     },
     {
      "id": "engage-without-attraction-or-aversion",
-     "score": 3.01
+     "score": 3.04
     },
     {
      "id": "keep-contributing",
@@ -10476,19 +10454,19 @@
     },
     {
      "id": "dharmic-desire-is-legitimate",
-     "score": 3.01
-    },
-    {
-     "id": "work-for-the-good-of-all",
-     "score": 2.59
-    },
-    {
-     "id": "dont-quit-because-its-hard",
-     "score": 2.59
+     "score": 3.04
     },
     {
      "id": "effort-never-wasted",
-     "score": 2.36
+     "score": 2.39
+    },
+    {
+     "id": "work-for-the-good-of-all",
+     "score": 2.39
+    },
+    {
+     "id": "dont-quit-because-its-hard",
+     "score": 2.39
     }
    ],
    "comparison": [
@@ -10697,7 +10675,7 @@
    "shortlist": [
     {
      "id": "fearlessness",
-     "score": 15.59
+     "score": 15.63
     },
     {
      "id": "reflect-then-choose",
@@ -10903,7 +10881,7 @@
    "shortlist": [
     {
      "id": "weigh-consequences-and-capacity",
-     "score": 18.32
+     "score": 18.35
     },
     {
      "id": "name-the-confusion",
@@ -10919,19 +10897,19 @@
     },
     {
      "id": "pleasant-versus-good",
-     "score": 8.01
+     "score": 8.04
     },
     {
      "id": "wealth-never-satisfies",
      "score": 8.0
     },
     {
-     "id": "gold-and-stone-alike",
-     "score": 7.72
+     "id": "use-wealth-or-lose-it",
+     "score": 7.0
     },
     {
-     "id": "lasting-versus-passing-treasure",
-     "score": 7.0
+     "id": "gold-and-stone-alike",
+     "score": 6.75
     }
    ],
    "comparison": [
@@ -11116,23 +11094,23 @@
    "shortlist": [
     {
      "id": "reflect-then-choose",
-     "score": 15.34
+     "score": 15.29
     },
     {
      "id": "clear-understanding",
-     "score": 11.86
+     "score": 11.9
     },
     {
      "id": "weigh-consequences-and-capacity",
-     "score": 9.07
+     "score": 9.08
     },
     {
      "id": "renounce-selfishness-not-the-world",
-     "score": 7.07
+     "score": 7.08
     },
     {
      "id": "choose-again-after-delusion",
-     "score": 4.22
+     "score": 4.29
     },
     {
      "id": "hold-both-together",
@@ -11140,11 +11118,11 @@
     },
     {
      "id": "not-knowing-is-part-of-knowing",
-     "score": 3.72
+     "score": 3.79
     },
     {
      "id": "the-wish-carries-you",
-     "score": 3.43
+     "score": 3.47
     }
    ],
    "comparison": [
@@ -11340,7 +11318,7 @@
     },
     {
      "id": "knowledge-dissolves-fear",
-     "score": 5.39
+     "score": 5.42
     },
     {
      "id": "praise-and-blame-alike",
@@ -11348,15 +11326,15 @@
     },
     {
      "id": "learn-from-those-who-know",
-     "score": 4.53
+     "score": 4.51
     },
     {
      "id": "contact-pleasures-end",
-     "score": 3.09
+     "score": 3.08
     },
     {
      "id": "no-recognition-seeking",
-     "score": 2.74
+     "score": 2.69
     },
     {
      "id": "every-reason-to-seek-is-valid",
@@ -11576,7 +11554,7 @@
     },
     {
      "id": "ask-for-help-when-lost",
-     "score": 9.95
+     "score": 9.98
     },
     {
      "id": "duty-of-protection",
@@ -11771,7 +11749,7 @@
    "shortlist": [
     {
      "id": "name-the-confusion",
-     "score": 12.46
+     "score": 12.49
     },
     {
      "id": "reflect-then-choose",
@@ -11779,7 +11757,7 @@
     },
     {
      "id": "seek-a-parents-peace",
-     "score": 10.56
+     "score": 10.59
     },
     {
      "id": "meet-people-where-they-are",
@@ -11992,27 +11970,27 @@
     },
     {
      "id": "clear-understanding",
-     "score": 6.92
+     "score": 6.95
     },
     {
      "id": "fearlessness",
-     "score": 5.62
+     "score": 5.65
     },
     {
      "id": "lead-by-example",
-     "score": 4.06
+     "score": 4.09
     },
     {
      "id": "seek-a-parents-peace",
-     "score": 4.06
+     "score": 4.09
     },
     {
      "id": "meet-people-where-they-are",
-     "score": 3.95
+     "score": 3.98
     },
     {
      "id": "nourish-one-another",
-     "score": 3.72
+     "score": 3.75
     }
    ],
    "comparison": [
@@ -12146,14 +12124,16 @@
   "scores": {
    "context": 2,
    "grounding": 2,
-   "judgment": 2,
+   "judgment": 1,
    "specificity": 1,
    "actionability": 2,
    "agency": 2
   },
-  "total": 11,
-  "notes": [],
-  "top": "independent-of-the-crowd",
+  "total": 10,
+  "notes": [
+   "top choose-your-company not acceptable; acceptable one in top 3"
+  ],
+  "top": "choose-your-company",
   "safety": null,
   "questions": [],
   "answer": {
@@ -12188,39 +12168,51 @@
    "safety": null,
    "shortlist": [
     {
+     "id": "choose-your-company",
+     "score": 8.55
+    },
+    {
      "id": "independent-of-the-crowd",
      "score": 6.0
     },
     {
      "id": "meet-people-where-they-are",
-     "score": 5.61
-    },
-    {
-     "id": "pleasant-versus-good",
-     "score": 4.0
+     "score": 5.53
     },
     {
      "id": "friend-of-all-beings",
-     "score": 3.66
+     "score": 3.55
     },
     {
      "id": "pass-it-on",
-     "score": 3.66
+     "score": 3.55
+    },
+    {
+     "id": "marks-of-a-true-friend",
+     "score": 3.55
     },
     {
      "id": "same-regard-for-all",
-     "score": 3.66
+     "score": 3.55
     },
     {
      "id": "no-hatred",
-     "score": 3.66
-    },
-    {
-     "id": "forgiveness-as-strength",
-     "score": 3.66
+     "score": 3.55
     }
    ],
    "comparison": [
+    {
+     "principle": "choose-your-company",
+     "name": "You become like the company you keep",
+     "fit": [
+      "addresses the kind of problem you describe",
+      "speaks to a relationship",
+      "echoes your words: friend"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "Someone is choosing friends, a peer group, a workplace or a partner's circle, or noticing how others are shaping them.",
+     "limits": "It is used to look down on people, or to cut off someone who simply needs help."
+    },
     {
      "principle": "independent-of-the-crowd",
      "name": "The wise are awake when the world sleeps",
@@ -12245,85 +12237,54 @@
      ],
      "consequence_if_followed": "Someone wants to change a family member's or friend's beliefs or habits, or impose their own new insight.",
      "limits": "It is used to stay silent about something harmful."
-    },
-    {
-     "principle": "pleasant-versus-good",
-     "name": "Choose the good over the merely pleasant",
-     "fit": [
-      "addresses the kind of problem you describe"
-     ],
-     "disagrees_with": [],
-     "consequence_if_followed": "A choice between short-term comfort and long-term wellbeing: study or scrolling, saving or spending, honesty or ease.",
-     "limits": "It makes someone distrust every enjoyable thing, or choose hardship for its own sake."
     }
    ],
    "recommendation": {
     "label": "Viveka's application",
-    "principle": "independent-of-the-crowd",
-    "name": "The wise are awake when the world sleeps",
-    "text": "The wise are awake when the world sleeps. What is night for all beings is waking for the self-controlled; few among thousands strive for what matters most, and fewer still truly know it.",
-    "why_it_fits_you": "For your situation (you are 17): addresses the kind of problem you describe.",
-    "application": "Write down one value you hold that your group does not. Decide one way to keep it this week without fighting the group."
+    "principle": "choose-your-company",
+    "name": "You become like the company you keep",
+    "text": "You become like the company you keep. Good company clears the mind, puts truth into speech and raises one's honour; the same drop of water vanishes on hot iron and becomes a pearl in a shell.",
+    "why_it_fits_you": "For your situation (you are 17): addresses the kind of problem you describe; speaks to a relationship; echoes your words: friend.",
+    "application": "List the five people you spend most time with. For each, ask whether you are clearer, kinder and more honest after time with them. Spend a little more time with those who raise you up."
    },
    "sources": [
     {
      "label": "Source text",
-     "id": "BG.2.69",
-     "english": "What is night for all beings is the time of waking for the self-controlled; and when other beings are awake, that is night for the sage who truly sees.",
-     "devanagari": "या निशा सर्वभूतानां तस्यां जागर्ति संयमी ।\nयस्यां जाग्रति भूतानि सा निशा पश्यतो मुनेः ॥",
+     "id": "NS.23",
+     "english": "It removes dullness of mind, sprinkles truth on speech, raises one's honour, drives away wrongdoing, clears the heart and spreads one's good name in every direction: tell me, what does the company of good people not do for a person?",
+     "devanagari": "जाड्यं धियो हरति सिञ्चति वाचि सत्यं मानोन्नतिं दिशति पापमपाकरोति।\nचेतः प्रसादयति दिक्षु तनोति कीर्तिं सत्संगतिः कथय किं न करोति पुंसाम् ॥",
      "review_status": "draft"
     },
     {
      "label": "Source text",
-     "id": "BG.7.3",
-     "english": "Among thousands of people, hardly one strives for perfection; and among those who strive and succeed, hardly one knows me as I truly am.",
-     "devanagari": "मनुष्याणां सहस्रेषु कश्चिद्यतति सिद्धये ।\nयततामपि सिद्धानां कश्चिन्मां वेत्ति तत्त्वतः ॥",
+     "id": "NS.67",
+     "english": "On red-hot iron, a drop of water leaves not even a trace; on a lotus leaf, the same drop shines like a pearl; falling into a sea-shell at the right season, it becomes a pearl. As a rule, low, middling and high qualities come from the company one keeps.",
+     "devanagari": "संतप्तायसि संस्थितस्य पयसो नामाऽपि न ज्ञायते मुक्ताकारतया तदेव नलिनीपत्रस्थितं राजते।\nस्वात्यां सागरशुक्तिमध्यपतितं तन्मौक्तिकं जायते प्रायेणाधममध्यमोत्तमगुणः संसर्गतो जायते ॥",
      "review_status": "draft"
     }
    ],
    "commentary": [
     {
      "label": "Commentator's view",
-     "unit": "BG.7.3",
-     "school": "advaita",
-     "commentator": "Śaṅkara (Advaita)",
-     "note": "Among thousands, one strives for perfection; and of those who strive, who are already accomplished in a sense, only one knows me truly."
-    },
-    {
-     "label": "Commentator's view",
-     "unit": "BG.7.3",
-     "school": "vishishtadvaita",
-     "commentator": "Rāmānuja (Viśiṣṭādvaita)",
-     "note": "Among thousands fit for scripture, few strive all the way to perfection; among those, few know me and strive through me; and among thousands who know me, hardly one knows me as I truly am."
-    },
-    {
-     "label": "Commentator's view",
-     "unit": "BG.7.3",
-     "school": "dvaita",
-     "commentator": "Madhva (Dvaita)",
-     "note": "Shows how rare this knowledge is."
-    },
-    {
-     "label": "Commentator's view",
-     "missing": "Our source has no comment from Śaṅkara (Advaita) on BG.2.69; Rāmānuja (Viśiṣṭādvaita) on BG.2.69; Madhva (Dvaita) on BG.2.69."
+     "missing": "No classical commentary on the Nitishataka of Bhartrihari is in the library yet."
     }
    ],
    "example": null,
    "challenge": {
     "label": "Viveka's application",
-    "principle": "meet-people-where-they-are",
-    "name": "Don't unsettle others; meet them where they are",
-    "text": "If your conscience leans the other way, here is the other view: Don't unsettle others; meet them where they are. The wise should not unsettle those attached to their way of acting, but encourage them by example; God receives people however they approach.",
+    "principle": "independent-of-the-crowd",
+    "name": "The wise are awake when the world sleeps",
+    "text": "If your conscience leans the other way, here is the other view: The wise are awake when the world sleeps. What is night for all beings is waking for the self-controlled; few among thousands strive for what matters most, and fewer still truly know it.",
     "source": {
      "label": "Source text",
-     "id": "BG.3.26",
-     "english": "The wise should not unsettle the minds of the unknowing who are attached to action; acting with discipline themselves, they should encourage others in all their work."
+     "id": "BG.2.69",
+     "english": "What is night for all beings is the time of waking for the self-controlled; and when other beings are awake, that is night for the sage who truly sees."
     },
-    "when_the_recommendation_misleads": "It turns into contempt for other people or a feeling of superiority."
+    "when_the_recommendation_misleads": "It is used to look down on people, or to cut off someone who simply needs help."
    },
    "next_step": {
     "label": "Viveka's application",
-    "text": "Write down one value you hold that your group does not. Decide one way to keep it this week without fighting the group."
+    "text": "List the five people you spend most time with. For each, ask whether you are clearer, kinder and more honest after time with them. Spend a little more time with those who raise you up."
    },
    "safety_footer": {
     "label": "Viveka's application",
@@ -12389,15 +12350,15 @@
     },
     {
      "id": "steady-practice",
-     "score": 8.01
+     "score": 8.04
     },
     {
      "id": "pleasant-versus-good",
-     "score": 6.95
+     "score": 6.98
     },
     {
      "id": "hard-at-first-sweet-later",
-     "score": 6.95
+     "score": 6.98
     },
     {
      "id": "guard-the-senses",
@@ -12409,11 +12370,11 @@
     },
     {
      "id": "many-paths-one-goal",
-     "score": 4.95
+     "score": 4.98
     },
     {
      "id": "no-ill-will-between-teacher-and-student",
-     "score": 4.95
+     "score": 4.98
     }
    ],
    "comparison": [
@@ -12579,7 +12540,7 @@
     },
     {
      "id": "sorrow-ends-in-stillness",
-     "score": 7.72
+     "score": 7.75
     },
     {
      "id": "ask-for-help-when-lost",
@@ -12767,11 +12728,11 @@
    "shortlist": [
     {
      "id": "seek-a-parents-peace",
-     "score": 12.74
+     "score": 12.81
     },
     {
      "id": "meet-people-where-they-are",
-     "score": 11.75
+     "score": 11.78
     },
     {
      "id": "renounce-selfishness-not-the-world",
@@ -12783,7 +12744,7 @@
     },
     {
      "id": "dont-quit-because-its-hard",
-     "score": 6.9
+     "score": 6.6
     },
     {
      "id": "two-paths-both-lead",
@@ -12795,7 +12756,7 @@
     },
     {
      "id": "work-for-the-good-of-all",
-     "score": 4.59
+     "score": 4.39
     }
    ],
    "comparison": [
@@ -12980,11 +12941,11 @@
     },
     {
      "id": "inward-meditation",
-     "score": 4.59
+     "score": 4.63
     },
     {
      "id": "no-self-torture",
-     "score": 4.36
+     "score": 4.39
     },
     {
      "id": "guard-the-senses",
@@ -13183,35 +13144,35 @@
    "shortlist": [
     {
      "id": "wealth-never-satisfies",
-     "score": 10.06
+     "score": 9.98
     },
     {
      "id": "apologise-sincerely",
      "score": 9.8
     },
     {
+     "id": "use-wealth-or-lose-it",
+     "score": 8.98
+    },
+    {
      "id": "give-without-expecting-return",
-     "score": 8.06
+     "score": 7.98
     },
     {
      "id": "gold-and-stone-alike",
-     "score": 8.06
-    },
-    {
-     "id": "lasting-versus-passing-treasure",
-     "score": 7.0
+     "score": 6.98
     },
     {
      "id": "even-the-wrongdoer-can-cross",
      "score": 6.5
     },
     {
-     "id": "honesty",
-     "score": 5.9
+     "id": "lasting-versus-passing-treasure",
+     "score": 6.0
     },
     {
-     "id": "knowledge-purifies",
-     "score": 5.2
+     "id": "honesty",
+     "score": 5.9
     }
    ],
    "comparison": [
@@ -13239,16 +13200,16 @@
      "limits": "It is used to force an apology from someone who did nothing wrong."
     },
     {
-     "principle": "give-without-expecting-return",
-     "name": "Give because it is right to give",
+     "principle": "use-wealth-or-lose-it",
+     "name": "Give it, enjoy it, or lose it",
      "fit": [
       "addresses the kind of problem you describe",
-      "speaks to a relationship, money or success",
+      "speaks to money or success",
       "echoes your words: money"
      ],
      "disagrees_with": [],
-     "consequence_if_followed": "Deciding whether, how or to whom to give money, time or help.",
-     "limits": "It pushes someone to give beyond their means, or to tolerate being taken advantage of."
+     "consequence_if_followed": "Someone is hoarding out of fear, or unsure what their money is for.",
+     "limits": "It is used to discourage prudent saving for real needs, or to justify reckless spending."
     }
    ],
    "recommendation": {
@@ -13348,14 +13309,16 @@
   "scores": {
    "context": 2,
    "grounding": 2,
-   "judgment": 2,
+   "judgment": 1,
    "specificity": 2,
    "actionability": 2,
    "agency": 2
   },
-  "total": 12,
-  "notes": [],
-  "top": "speech-without-harm",
+  "total": 11,
+  "notes": [
+   "top marks-of-a-true-friend not acceptable; acceptable one in top 3"
+  ],
+  "top": "marks-of-a-true-friend",
   "safety": null,
   "questions": [],
   "answer": {
@@ -13393,39 +13356,51 @@
    "safety": null,
    "shortlist": [
     {
+     "id": "marks-of-a-true-friend",
+     "score": 10.05
+    },
+    {
      "id": "speech-without-harm",
      "score": 9.8
     },
     {
      "id": "feel-others-pain-as-your-own",
-     "score": 8.5
+     "score": 7.2
     },
     {
-     "id": "nourish-one-another",
-     "score": 5.9
+     "id": "choose-your-company",
+     "score": 5.14
     },
     {
      "id": "same-regard-for-all",
-     "score": 5.32
+     "score": 5.14
     },
     {
      "id": "meet-people-where-they-are",
-     "score": 5.32
+     "score": 5.14
     },
     {
-     "id": "honour-the-grief-first",
-     "score": 5.2
+     "id": "nourish-one-another",
+     "score": 4.6
     },
     {
      "id": "give-without-expecting-return",
-     "score": 4.36
-    },
-    {
-     "id": "lead-by-example",
-     "score": 3.66
+     "score": 4.22
     }
    ],
    "comparison": [
+    {
+     "principle": "marks-of-a-true-friend",
+     "name": "The marks of a true friend",
+     "fit": [
+      "addresses the kind of problem you describe",
+      "speaks to a relationship",
+      "echoes your words: friend"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "Someone is unsure whether a friendship is good for them, or wants to be a better friend.",
+     "limits": "It is used to demand perfection from friends, or to keep a secret that endangers someone's safety."
+    },
     {
      "principle": "speech-without-harm",
      "name": "Speak truthfully, kindly and helpfully",
@@ -13447,100 +13422,54 @@
      "disagrees_with": [],
      "consequence_if_followed": "Someone needs to understand another person's position in a conflict.",
      "limits": "It leads to taking on others' distress to the point of burnout."
-    },
-    {
-     "principle": "nourish-one-another",
-     "name": "Nourish one another",
-     "fit": [
-      "addresses the kind of problem you describe",
-      "speaks to a relationship"
-     ],
-     "disagrees_with": [],
-     "consequence_if_followed": "A relationship or team has become one-sided or transactional.",
-     "limits": "It obliges someone to keep nourishing a relationship that only harms them."
     }
    ],
    "recommendation": {
     "label": "Viveka's application",
-    "principle": "speech-without-harm",
-    "name": "Speak truthfully, kindly and helpfully",
-    "text": "Speak truthfully, kindly and helpfully. The discipline of speech is speech that causes no distress and is true, pleasant and beneficial.",
-    "why_it_fits_you": "For your situation (you are 13; this involves your friend, best friend): addresses the kind of problem you describe; speaks to a relationship.",
-    "application": "Since this involves your friend, think about what they need as well as what you need. Run what you plan to say through three filters: is it true, is it kind in how it is said, and does it help?"
+    "principle": "marks-of-a-true-friend",
+    "name": "The marks of a true friend",
+    "text": "The marks of a true friend. A true friend keeps you from wrong, joins you to what is good, keeps your secrets, makes your virtues known, stays in trouble and gives at the right time.",
+    "why_it_fits_you": "For your situation (you are 13; this involves your friend, best friend): addresses the kind of problem you describe; speaks to a relationship; echoes your words: friend.",
+    "application": "Since this involves your friend, think about what they need as well as what you need. Check one friendship against the six marks. Then check yourself as a friend against them, and do one of them this week."
    },
    "sources": [
     {
      "label": "Source text",
-     "id": "BG.17.15",
-     "english": "Speech that causes no distress, that is true, pleasant and beneficial, and the regular study of scripture: this is called austerity of speech.",
-     "devanagari": "अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत् ।\nस्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते ॥",
+     "id": "NS.73",
+     "english": "He holds you back from wrong and joins you to what is good; he keeps your secrets and makes your virtues known; he does not abandon you in trouble and gives at the right time. The good say these are the marks of a true friend.",
+     "devanagari": "पापान्निवारयति योजयते हिताय गुह्यञ्च गूहति गुणान्प्रकटीकरोति।\nआपद्गतञ्च न जहाति ददाति काले सन्मित्रलक्षणमिदं प्रवदन्ति सन्तः ॥",
      "review_status": "draft"
     },
     {
      "label": "Source text",
-     "id": "BG.16.2",
-     "english": "non-violence, truthfulness, freedom from anger, renunciation, calm, not slandering others, compassion for all beings, freedom from greed, gentleness, modesty and steadiness,",
-     "devanagari": "अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम् ।\nदया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम् ॥",
+     "id": "NS.76",
+     "english": "Milk once gave all its qualities to the water mixed with it; the water, seeing the milk suffering in the heat, offered itself into the fire; the milk, seeing its friend in trouble, rose up to follow into the fire, and is calmed only when water is sprinkled back. Such is the friendship of the good.",
+     "devanagari": "क्षीरेणात्मगतोदकाय हि गुणा दत्ताः पुरा तेऽखिलाः क्षीरे तापमवेक्ष्य तेन पयसा स्वात्मा कृशानौ हुतः।\nगन्तुं पावकमुन्मनस्तदभवद्दृष्ट्वा तु मित्रापदं युक्तं तेन जलेन शाम्यति सतां मैत्री पुनस्त्वीदृशी ॥",
      "review_status": "draft"
     }
    ],
    "commentary": [
     {
      "label": "Commentator's view",
-     "unit": "BG.17.15",
-     "school": "advaita",
-     "commentator": "Śaṅkara (Advaita)",
-     "note": "Speech must cause no distress and be true, pleasant and beneficial together; if any one of these is missing, it is not austerity of speech."
-    },
-    {
-     "label": "Commentator's view",
-     "unit": "BG.17.15",
-     "school": "vishishtadvaita",
-     "commentator": "Rāmānuja (Viśiṣṭādvaita)",
-     "note": "Words that do not upset others and are true, pleasant and beneficial, together with the practice of reciting scripture, are austerity of speech."
-    },
-    {
-     "label": "Commentator's view",
-     "unit": "BG.16.2",
-     "school": "advaita",
-     "commentator": "Śaṅkara (Advaita)",
-     "note": "Truth is saying what is so, without unkind falsehood; freedom from anger is calming anger that arises when one is abused or struck; not slandering is not exposing others' faults."
-    },
-    {
-     "label": "Commentator's view",
-     "unit": "BG.16.2",
-     "school": "vishishtadvaita",
-     "commentator": "Rāmānuja (Viśiṣṭādvaita)",
-     "note": "Freedom from anger is having no change of mind that leads to harming others; compassion is being unable to bear the suffering of any being; renunciation is letting go of possessions that work against one's true good."
-    },
-    {
-     "label": "Commentator's view",
-     "unit": "BG.16.2",
-     "school": "dvaita",
-     "commentator": "Madhva (Dvaita)",
-     "note": "Slander is telling a king or others of faults in order to bring trouble on someone; steadiness is not being fickle."
-    },
-    {
-     "label": "Commentator's view",
-     "missing": "Our source has no comment from Madhva (Dvaita) on BG.17.15."
+     "missing": "No classical commentary on the Nitishataka of Bhartrihari is in the library yet."
     }
    ],
    "example": null,
    "challenge": {
     "label": "Viveka's application",
-    "principle": "feel-others-pain-as-your-own",
-    "name": "Feel others' joy and pain as your own",
-    "text": "If your conscience leans the other way, here is the other view: Feel others' joy and pain as your own. The highest yogi is the one who, comparing with oneself, sees the same pleasure and pain in all beings.",
+    "principle": "speech-without-harm",
+    "name": "Speak truthfully, kindly and helpfully",
+    "text": "If your conscience leans the other way, here is the other view: Speak truthfully, kindly and helpfully. The discipline of speech is speech that causes no distress and is true, pleasant and beneficial.",
     "source": {
      "label": "Source text",
-     "id": "BG.6.32",
-     "english": "One who, by comparison with oneself, sees the same in all beings, Arjuna, whether it is pleasure or pain, is considered the highest yogi."
+     "id": "BG.17.15",
+     "english": "Speech that causes no distress, that is true, pleasant and beneficial, and the regular study of scripture: this is called austerity of speech."
     },
-    "when_the_recommendation_misleads": "It is used to avoid ever saying a necessary hard truth. Truth comes first in the list."
+    "when_the_recommendation_misleads": "It is used to demand perfection from friends, or to keep a secret that endangers someone's safety."
    },
    "next_step": {
     "label": "Viveka's application",
-    "text": "Run what you plan to say through three filters: is it true, is it kind in how it is said, and does it help?"
+    "text": "Check one friendship against the six marks. Then check yourself as a friend against them, and do one of them this week."
    },
    "safety_footer": {
     "label": "Viveka's application",
@@ -13606,23 +13535,27 @@
    "shortlist": [
     {
      "id": "effort-never-wasted",
-     "score": 10.19
+     "score": 10.22
     },
     {
      "id": "voice-your-fear-of-failing",
-     "score": 9.19
+     "score": 8.22
+    },
+    {
+     "id": "it-grows-back",
+     "score": 7.0
     },
     {
      "id": "graded-practice",
-     "score": 7.19
-    },
-    {
-     "id": "evenness-in-success-and-failure",
-     "score": 6.0
+     "score": 6.22
     },
     {
      "id": "chariot-of-the-mind",
      "score": 6.0
+    },
+    {
+     "id": "evenness-in-success-and-failure",
+     "score": 5.0
     },
     {
      "id": "guard-the-senses",
@@ -13630,11 +13563,7 @@
     },
     {
      "id": "work-not-results",
-     "score": 4.59
-    },
-    {
-     "id": "steadiness-under-pressure",
-     "score": 4.59
+     "score": 4.63
     }
    ],
    "comparison": [
@@ -13663,16 +13592,15 @@
      "limits": "It is used to promise that nothing will go wrong."
     },
     {
-     "principle": "graded-practice",
-     "name": "If you can't do the highest, do the next",
+     "principle": "it-grows-back",
+     "name": "A cut tree grows again",
      "fit": [
       "addresses the kind of problem you describe",
-      "speaks to a setback",
-      "echoes your words: fail"
+      "speaks to a setback"
      ],
      "disagrees_with": [],
-     "consequence_if_followed": "Someone feels they are failing at their ideal and are tempted to give up entirely.",
-     "limits": "It is used to settle for less when someone could do more."
+     "consequence_if_followed": "After a loss, failure or setback, when someone fears they will never recover.",
+     "limits": "It is used to rush someone through grief, or to deny that some losses are permanent."
     }
    ],
    "recommendation": {
@@ -13827,11 +13755,11 @@
     },
     {
      "id": "honour-and-dishonour-alike",
-     "score": 6.36
+     "score": 6.22
     },
     {
      "id": "humility",
-     "score": 6.19
+     "score": 6.09
     },
     {
      "id": "work-not-results",
@@ -14036,7 +13964,7 @@
     },
     {
      "id": "apologise-sincerely",
-     "score": 7.66
+     "score": 7.55
     },
     {
      "id": "speech-without-harm",
@@ -14044,23 +13972,23 @@
     },
     {
      "id": "lead-by-example",
-     "score": 4.06
+     "score": 4.09
     },
     {
      "id": "seek-a-parents-peace",
-     "score": 4.06
+     "score": 4.09
+    },
+    {
+     "id": "choose-your-company",
+     "score": 3.55
     },
     {
      "id": "name-the-confusion",
-     "score": 2.06
+     "score": 2.09
     },
     {
      "id": "see-the-pain-of-ageing-clearly",
-     "score": 2.06
-    },
-    {
-     "id": "work-for-the-good-of-all",
-     "score": 2.0
+     "score": 2.09
     }
    ],
    "comparison": [
@@ -14251,7 +14179,7 @@
     },
     {
      "id": "dont-quit-because-its-hard",
-     "score": 11.71
+     "score": 11.44
     },
     {
      "id": "name-the-confusion",
@@ -14798,11 +14726,11 @@
     },
     {
      "id": "seek-a-parents-peace",
-     "score": 5.01
+     "score": 5.04
     },
     {
      "id": "equal-dignity",
-     "score": 5.01
+     "score": 5.04
     }
    ],
    "comparison": [
@@ -14979,7 +14907,7 @@
    "shortlist": [
     {
      "id": "work-not-results",
-     "score": 12.19
+     "score": 12.24
     },
     {
      "id": "steadiness-under-pressure",
@@ -14987,7 +14915,7 @@
     },
     {
      "id": "evenness-in-success-and-failure",
-     "score": 8.47
+     "score": 8.51
     },
     {
      "id": "fearlessness",
@@ -15291,7 +15219,7 @@
    "shortlist": [
     {
      "id": "chariot-of-the-mind",
-     "score": 8.72
+     "score": 8.69
     },
     {
      "id": "withstand-the-surge",
@@ -15299,11 +15227,11 @@
     },
     {
      "id": "more-than-body-and-roles",
-     "score": 6.72
+     "score": 6.69
     },
     {
      "id": "no-self-torture",
-     "score": 6.07
+     "score": 6.08
     },
     {
      "id": "envy-and-comparison",
@@ -15481,11 +15409,11 @@
    "shortlist": [
     {
      "id": "name-the-confusion",
-     "score": 10.46
+     "score": 10.49
     },
     {
      "id": "reflect-then-choose",
-     "score": 8.56
+     "score": 8.55
     },
     {
      "id": "weigh-consequences-and-capacity",
@@ -15497,19 +15425,19 @@
     },
     {
      "id": "lead-by-example",
-     "score": 4.06
+     "score": 4.09
     },
     {
      "id": "seek-a-parents-peace",
-     "score": 4.06
+     "score": 4.09
     },
     {
      "id": "many-paths-one-goal",
-     "score": 3.95
+     "score": 3.98
     },
     {
      "id": "let-go-of-mine",
-     "score": 3.95
+     "score": 3.98
     }
    ],
    "comparison": [
@@ -15689,7 +15617,7 @@
     },
     {
      "id": "persist-in-the-real-question",
-     "score": 8.29
+     "score": 8.32
     },
     {
      "id": "fearlessness",
@@ -15713,7 +15641,7 @@
     },
     {
      "id": "independent-of-the-crowd",
-     "score": 3.01
+     "score": 3.04
     }
    ],
    "comparison": [
@@ -15902,7 +15830,7 @@
     },
     {
      "id": "dont-quit-because-its-hard",
-     "score": 10.01
+     "score": 10.04
     },
     {
      "id": "reflect-then-choose",
@@ -16328,11 +16256,11 @@
     },
     {
      "id": "envy-and-comparison",
-     "score": 10.59
+     "score": 10.63
     },
     {
      "id": "seek-a-parents-peace",
-     "score": 10.56
+     "score": 10.59
     },
     {
      "id": "respect-different-paths",
@@ -16348,11 +16276,11 @@
     },
     {
      "id": "do-not-covet",
-     "score": 4.95
+     "score": 4.9
     },
     {
      "id": "reflect-then-choose",
-     "score": 4.55
+     "score": 4.5
     }
    ],
    "comparison": [
@@ -16605,7 +16533,7 @@
    "shortlist": [
     {
      "id": "reflect-then-choose",
-     "score": 10.72
+     "score": 10.75
     },
     {
      "id": "name-the-confusion",
@@ -16613,7 +16541,7 @@
     },
     {
      "id": "clear-understanding",
-     "score": 7.92
+     "score": 7.95
     },
     {
      "id": "weigh-consequences-and-capacity",
@@ -16621,7 +16549,7 @@
     },
     {
      "id": "choose-again-after-delusion",
-     "score": 6.52
+     "score": 6.55
     },
     {
      "id": "understand-before-acting",
@@ -16842,7 +16770,7 @@
     },
     {
      "id": "act-as-offering",
-     "score": 8.31
+     "score": 8.38
     },
     {
      "id": "ask-for-help-when-lost",
@@ -16850,23 +16778,23 @@
     },
     {
      "id": "states-arise-and-pass",
-     "score": 7.65
+     "score": 7.69
     },
     {
      "id": "purpose-beyond-pleasure",
-     "score": 7.25
+     "score": 7.29
     },
     {
      "id": "small-practice-protects",
-     "score": 6.21
+     "score": 6.24
     },
     {
      "id": "every-reason-to-seek-is-valid",
-     "score": 6.05
+     "score": 6.09
     },
     {
      "id": "turn-inward",
-     "score": 4.25
+     "score": 4.29
     }
    ],
    "comparison": [
@@ -17011,35 +16939,35 @@
    "shortlist": [
     {
      "id": "wealth-never-satisfies",
-     "score": 10.06
+     "score": 9.98
+    },
+    {
+     "id": "use-wealth-or-lose-it",
+     "score": 8.98
     },
     {
      "id": "gold-and-stone-alike",
-     "score": 8.06
+     "score": 6.98
     },
     {
      "id": "lasting-versus-passing-treasure",
-     "score": 7.0
+     "score": 6.0
     },
     {
      "id": "give-without-expecting-return",
-     "score": 6.06
+     "score": 5.98
     },
     {
      "id": "trust-alongside-effort",
-     "score": 5.0
+     "score": 4.0
     },
     {
      "id": "beware-intoxication-of-wealth",
-     "score": 4.06
+     "score": 3.98
     },
     {
      "id": "resist-tempting-shortcuts",
-     "score": 4.06
-    },
-    {
-     "id": "understand-before-acting",
-     "score": 2.19
+     "score": 3.98
     }
    ],
    "comparison": [
@@ -17056,6 +16984,18 @@
      "limits": "It is used to dismiss real poverty or the legitimate need for financial security."
     },
     {
+     "principle": "use-wealth-or-lose-it",
+     "name": "Give it, enjoy it, or lose it",
+     "fit": [
+      "addresses the kind of problem you describe",
+      "speaks to money or success",
+      "echoes your words: money"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "Someone is hoarding out of fear, or unsure what their money is for.",
+     "limits": "It is used to discourage prudent saving for real needs, or to justify reckless spending."
+    },
+    {
      "principle": "gold-and-stone-alike",
      "name": "Gold and stone alike",
      "fit": [
@@ -17066,17 +17006,6 @@
      "disagrees_with": [],
      "consequence_if_followed": "Money worries or money greed are dominating someone's thinking.",
      "limits": "It is used to excuse financial irresponsibility towards dependants."
-    },
-    {
-     "principle": "lasting-versus-passing-treasure",
-     "name": "The lasting is not reached by passing things",
-     "fit": [
-      "addresses the kind of problem you describe",
-      "speaks to money or success"
-     ],
-     "disagrees_with": [],
-     "consequence_if_followed": "Someone hopes possessions, status or achievement will finally give them security or meaning.",
-     "limits": "It is used to dismiss saving, planning or caring for material needs."
     }
    ],
    "recommendation": {
@@ -17149,13 +17078,13 @@
    },
    "challenge": {
     "label": "Viveka's application",
-    "principle": "gold-and-stone-alike",
-    "name": "Gold and stone alike",
-    "text": "If your conscience leans the other way, here is the other view: Gold and stone alike. To the steady yogi, a lump of earth, a stone and gold are the same; their worth does not rule the mind.",
+    "principle": "use-wealth-or-lose-it",
+    "name": "Give it, enjoy it, or lose it",
+    "text": "If your conscience leans the other way, here is the other view: Give it, enjoy it, or lose it. Wealth has three courses: giving, enjoyment and loss; whoever neither gives nor enjoys it meets the third.",
     "source": {
      "label": "Source text",
-     "id": "BG.6.8",
-     "english": "The yogi who is satisfied with knowledge and wisdom, unshakable, with senses mastered, to whom a lump of earth, a stone and gold are the same, is called disciplined."
+     "id": "NS.43",
+     "english": "Giving, enjoyment and loss: these are the three courses that wealth takes. Whoever neither gives nor enjoys it, theirs takes the third course."
     },
     "when_the_recommendation_misleads": "It is used to dismiss real poverty or the legitimate need for financial security."
    },
@@ -17219,7 +17148,7 @@
    "shortlist": [
     {
      "id": "name-the-confusion",
-     "score": 10.12
+     "score": 10.15
     },
     {
      "id": "reflect-then-choose",
@@ -17231,7 +17160,7 @@
     },
     {
      "id": "many-paths-one-goal",
-     "score": 4.9
+     "score": 5.0
     },
     {
      "id": "clear-understanding",
@@ -17239,15 +17168,15 @@
     },
     {
      "id": "choose-again-after-delusion",
-     "score": 3.96
+     "score": 3.97
     },
     {
      "id": "engage-without-attraction-or-aversion",
-     "score": 3.67
+     "score": 3.74
     },
     {
      "id": "meet-people-where-they-are",
-     "score": 3.67
+     "score": 3.74
     }
    ],
    "comparison": [
@@ -17507,16 +17436,16 @@
      "score": 5.2
     },
     {
-     "id": "credit-is-not-yours-alone",
-     "score": 4.01
-    },
-    {
      "id": "knowledge-dissolves-fear",
      "score": 3.9
     },
     {
+     "id": "credit-is-not-yours-alone",
+     "score": 3.77
+    },
+    {
      "id": "know-it-in-this-life",
-     "score": 3.01
+     "score": 3.04
     },
     {
      "id": "humility-before-the-unknown",
@@ -17524,11 +17453,11 @@
     },
     {
      "id": "understand-before-acting",
-     "score": 2.36
+     "score": 2.22
     },
     {
      "id": "no-hatred",
-     "score": 2.36
+     "score": 2.22
     }
    ],
    "comparison": [
@@ -17555,14 +17484,14 @@
      "limits": "It is used to minimise the real suffering of loss."
     },
     {
-     "principle": "credit-is-not-yours-alone",
-     "name": "The victory was not yours alone",
+     "principle": "knowledge-dissolves-fear",
+     "name": "Understanding dissolves fear",
      "fit": [
-      "echoes your words: after, happen"
+      "addresses the kind of problem you describe"
      ],
      "disagrees_with": [],
-     "consequence_if_followed": "Success has made someone proud, dismissive of the team, or blind to luck and help.",
-     "limits": "It is used to deny someone fair credit for their real contribution."
+     "consequence_if_followed": "Fear comes from not understanding a situation, or from a sense of being separate and under threat.",
+     "limits": "It is used to dismiss real dangers that call for practical protection."
     }
    ],
    "recommendation": {
@@ -17692,32 +17621,32 @@
      "score": 6.0
     },
     {
-     "id": "voice-your-fear-of-failing",
+     "id": "it-grows-back",
      "score": 5.0
     },
     {
-     "id": "evenness-in-success-and-failure",
+     "id": "voice-your-fear-of-failing",
      "score": 4.0
     },
     {
-     "id": "graded-practice",
+     "id": "evenness-in-success-and-failure",
      "score": 3.0
     },
     {
      "id": "act-as-offering",
-     "score": 2.06
+     "score": 2.09
     },
     {
      "id": "the-light-within",
-     "score": 2.06
+     "score": 2.09
     },
     {
      "id": "enjoy-through-letting-go",
-     "score": 2.06
+     "score": 2.09
     },
     {
      "id": "reflect-then-choose",
-     "score": 2.06
+     "score": 2.09
     }
    ],
    "comparison": [
@@ -17732,6 +17661,16 @@
      "limits": "It is used to keep pouring effort into a path that is clearly wrong for the person (sunk cost)."
     },
     {
+     "principle": "it-grows-back",
+     "name": "A cut tree grows again",
+     "fit": [
+      "addresses the kind of problem you describe"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "After a loss, failure or setback, when someone fears they will never recover.",
+     "limits": "It is used to rush someone through grief, or to deny that some losses are permanent."
+    },
+    {
      "principle": "voice-your-fear-of-failing",
      "name": "Ask your fear of failure out loud",
      "fit": [
@@ -17740,16 +17679,6 @@
      "disagrees_with": [],
      "consequence_if_followed": "Fear of failing is stopping someone from starting, or they fear their past failures define them.",
      "limits": "It is used to promise that nothing will go wrong."
-    },
-    {
-     "principle": "evenness-in-success-and-failure",
-     "name": "Stay the same in success and failure",
-     "fit": [
-      "addresses the kind of problem you describe"
-     ],
-     "disagrees_with": [],
-     "consequence_if_followed": "A result (good or bad) is swinging your mood and self-worth, or you are about to make a big decision on the high or low of one outcome.",
-     "limits": "It is used to suppress real disappointment or joy, or to stop learning from what went wrong."
     }
    ],
    "recommendation": {
@@ -17822,13 +17751,13 @@
    },
    "challenge": {
     "label": "Viveka's application",
-    "principle": "voice-your-fear-of-failing",
-    "name": "Ask your fear of failure out loud",
-    "text": "If your conscience leans the other way, here is the other view: Ask your fear of failure out loud. Arjuna asks what becomes of one who tries and fails, 'like a scattered cloud'. Krishna answers that no one who does good comes to ruin.",
+    "principle": "it-grows-back",
+    "name": "A cut tree grows again",
+    "text": "If your conscience leans the other way, here is the other view: A cut tree grows again. A tree that is cut grows again, and the waning moon fills again; reflecting on this, the good are not crushed by misfortune.",
     "source": {
      "label": "Source text",
-     "id": "BG.6.37",
-     "english": "Krishna, what becomes of one who has faith but does not strive enough, whose mind strays from yoga, and who fails to reach perfection in yoga?"
+     "id": "NS.87",
+     "english": "A tree, though cut, grows again; the moon, though waning, fills again. Reflecting on this, the good are not tormented by misfortune."
     },
     "when_the_recommendation_misleads": "It is used to keep pouring effort into a path that is clearly wrong for the person (sunk cost)."
    },
@@ -17899,7 +17828,7 @@
    "shortlist": [
     {
      "id": "forgiveness-as-strength",
-     "score": 10.59
+     "score": 10.63
     },
     {
      "id": "name-the-confusion",
@@ -17922,11 +17851,11 @@
      "score": 6.2
     },
     {
-     "id": "feel-others-pain-as-your-own",
+     "id": "keep-distance-from-harmful-people",
      "score": 6.0
     },
     {
-     "id": "same-regard-for-all",
+     "id": "feel-others-pain-as-your-own",
      "score": 5.0
     }
    ],
@@ -18129,24 +18058,24 @@
      "score": 6.2
     },
     {
+     "id": "choose-your-company",
+     "score": 4.39
+    },
+    {
      "id": "no-ill-will-between-teacher-and-student",
-     "score": 4.59
+     "score": 4.39
     },
     {
      "id": "name-the-confusion",
-     "score": 4.46
+     "score": 4.29
     },
     {
      "id": "honesty",
-     "score": 3.86
+     "score": 3.9
     },
     {
      "id": "independent-of-the-crowd",
-     "score": 2.59
-    },
-    {
-     "id": "lead-by-example",
-     "score": 2.0
+     "score": 2.63
     }
    ],
    "comparison": [
@@ -18634,7 +18563,7 @@
     },
     {
      "id": "renounce-selfishness-not-the-world",
-     "score": 10.52
+     "score": 10.55
     },
     {
      "id": "ask-for-help-when-lost",
@@ -18654,7 +18583,7 @@
     },
     {
      "id": "small-practice-protects",
-     "score": 5.92
+     "score": 5.95
     },
     {
      "id": "every-reason-to-seek-is-valid",
@@ -18763,14 +18692,16 @@
   "scores": {
    "context": 2,
    "grounding": 2,
-   "judgment": 2,
+   "judgment": 1,
    "specificity": 1,
    "actionability": 2,
    "agency": 2
   },
-  "total": 11,
-  "notes": [],
-  "top": "honour-the-grief-first",
+  "total": 10,
+  "notes": [
+   "top effort-over-fate not acceptable; acceptable one in top 3"
+  ],
+  "top": "effort-over-fate",
   "safety": "support",
   "questions": [],
   "answer": {
@@ -18820,12 +18751,12 @@
    },
    "shortlist": [
     {
-     "id": "honour-the-grief-first",
-     "score": 9.6
+     "id": "effort-over-fate",
+     "score": 9.63
     },
     {
-     "id": "small-practice-protects",
-     "score": 8.8
+     "id": "honour-the-grief-first",
+     "score": 9.6
     },
     {
      "id": "effort-never-wasted",
@@ -18840,19 +18771,32 @@
      "score": 7.6
     },
     {
-     "id": "graded-practice",
-     "score": 7.0
+     "id": "small-practice-protects",
+     "score": 7.4
     },
     {
      "id": "states-arise-and-pass",
      "score": 6.4
     },
     {
-     "id": "the-wish-carries-you",
-     "score": 6.39
+     "id": "graded-practice",
+     "score": 5.6
     }
    ],
    "comparison": [
+    {
+     "principle": "effort-over-fate",
+     "name": "Effort is the friend; laziness the enemy",
+     "fit": [
+      "addresses the kind of problem you describe",
+      "echoes your words: fate"
+     ],
+     "disagrees_with": [
+      "fate-decides"
+     ],
+     "consequence_if_followed": "Someone is waiting for luck or fate to change their situation, or has slipped into inertia.",
+     "limits": "It is used to blame people whose struggles come from illness, injustice or circumstances beyond their control."
+    },
     {
      "principle": "honour-the-grief-first",
      "name": "Grief is real; it is heard before it is answered",
@@ -18864,16 +18808,6 @@
      ],
      "consequence_if_followed": "Someone is in fresh grief or overwhelmed by feeling; the first need is to be heard, not corrected.",
      "limits": "It is used to stay in despair indefinitely without ever seeking help or perspective."
-    },
-    {
-     "principle": "small-practice-protects",
-     "name": "Even a little practice protects",
-     "fit": [
-      "addresses the kind of problem you describe"
-     ],
-     "disagrees_with": [],
-     "consequence_if_followed": "Someone thinks a practice is pointless unless they can do it fully.",
-     "limits": "It is used to promise protection from real-world dangers."
     },
     {
      "principle": "effort-never-wasted",
@@ -18888,25 +18822,32 @@
    ],
    "recommendation": {
     "label": "Viveka's application",
-    "principle": "honour-the-grief-first",
-    "name": "Grief is real; it is heard before it is answered",
-    "text": "Grief is real; it is heard before it is answered. The Gita opens with Arjuna's grief described in full: his trembling, his despair, his refusal. Krishna answers only after Arjuna has spoken all of it.",
-    "why_it_fits_you": "For your situation: addresses the kind of problem you describe.",
-    "application": "Write down, or say aloud to someone you trust, exactly what you are feeling, without trying to fix it yet."
+    "principle": "effort-over-fate",
+    "name": "Effort is the friend; laziness the enemy",
+    "text": "Effort is the friend; laziness the enemy. Laziness is the great enemy inside the body; there is no friend like effort, and one who keeps working does not sink. Even if results follow past actions, the wise act after careful thought.",
+    "why_it_fits_you": "For your situation: addresses the kind of problem you describe; echoes your words: fate.",
+    "application": "Pick the one action that is fully in your hands today, and do it before anything else."
    },
    "sources": [
     {
      "label": "Source text",
-     "id": "BG.1.29",
-     "english": "my limbs give way and my mouth goes dry. My body trembles and my hair stands on end.",
-     "devanagari": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति ।\nवेपथुश्च शरीरे मे रोमहर्षश्च जायते ॥",
+     "id": "NS.86",
+     "english": "Laziness is the great enemy dwelling in people's own bodies. There is no friend like effort; one who keeps working does not sink.",
+     "devanagari": "आलस्यं हि मनुष्याणां शरीरस्थो महान् रिपुः।\nनास्त्युद्यमसमो बन्धुः कुर्वाणो नावसीदति ॥",
+     "review_status": "draft"
+    },
+    {
+     "label": "Source text",
+     "id": "NS.98",
+     "english": "Right action can make the wicked good, fools wise, enemies friends, the hidden plain, and poison nectar in a moment. Good person, worship that goddess, right action, to gain the fruit you desire; do not vainly put your trust in many virtues won with toil.",
+     "devanagari": "या साधूंश्च खलान्करोति विदुषो मूर्खान्हितान्द्वेषिणः प्रत्यक्षं कुरुते परोक्षममृतं हालाहलं तत्क्षणात्।\nतामाराधय सत्क्रियां भगवतीं भोक्तुं फलं वाञ्छितं हे साधो ! व्यसनैर्गुणेषु विपुलेष्वास्थां वृथा माकृथाः ॥",
      "review_status": "draft"
     }
    ],
    "commentary": [
     {
      "label": "Commentator's view",
-     "missing": "Our source has no comment from Śaṅkara (Advaita) on BG.1.29; Rāmānuja (Viśiṣṭādvaita) on BG.1.29; Madhva (Dvaita) on BG.1.29."
+     "missing": "No classical commentary on the Nitishataka of Bhartrihari is in the library yet."
     }
    ],
    "example": {
@@ -18921,19 +18862,19 @@
    },
    "challenge": {
     "label": "Viveka's application",
-    "principle": "small-practice-protects",
-    "name": "Even a little practice protects",
-    "text": "If your conscience leans the other way, here is the other view: Even a little practice protects. On this path no effort is wasted, and even a little of it protects a person from great fear.",
+    "principle": "honour-the-grief-first",
+    "name": "Grief is real; it is heard before it is answered",
+    "text": "If your conscience leans the other way, here is the other view: Grief is real; it is heard before it is answered. The Gita opens with Arjuna's grief described in full: his trembling, his despair, his refusal. Krishna answers only after Arjuna has spoken all of it.",
     "source": {
      "label": "Source text",
-     "id": "BG.2.40",
-     "english": "On this path no effort is wasted and no harm comes from falling short. Even a little of this practice protects a person from great fear."
+     "id": "BG.1.29",
+     "english": "my limbs give way and my mouth goes dry. My body trembles and my hair stands on end."
     },
-    "when_the_recommendation_misleads": "It is used to stay in despair indefinitely without ever seeking help or perspective."
+    "when_the_recommendation_misleads": "It is used to blame people whose struggles come from illness, injustice or circumstances beyond their control."
    },
    "next_step": {
     "label": "Viveka's application",
-    "text": "Write down, or say aloud to someone you trust, exactly what you are feeling, without trying to fix it yet."
+    "text": "Pick the one action that is fully in your hands today, and do it before anything else."
    },
    "safety_footer": {
     "label": "Viveka's application",
@@ -19004,7 +18945,7 @@
    "shortlist": [
     {
      "id": "reflect-then-choose",
-     "score": 17.92
+     "score": 17.99
     },
     {
      "id": "clear-understanding",
@@ -19012,7 +18953,7 @@
     },
     {
      "id": "renounce-selfishness-not-the-world",
-     "score": 9.95
+     "score": 9.98
     },
     {
      "id": "weigh-consequences-and-capacity",
@@ -19020,19 +18961,19 @@
     },
     {
      "id": "lead-by-example",
-     "score": 6.06
+     "score": 6.09
     },
     {
      "id": "hold-both-together",
      "score": 6.0
     },
     {
-     "id": "many-paths-one-goal",
-     "score": 5.95
+     "id": "name-the-confusion",
+     "score": 5.99
     },
     {
-     "id": "name-the-confusion",
-     "score": 5.92
+     "id": "many-paths-one-goal",
+     "score": 5.98
     }
    ],
    "comparison": [
@@ -19457,7 +19398,7 @@
     },
     {
      "id": "non-violence",
-     "score": 12.19
+     "score": 12.22
     },
     {
      "id": "withstand-the-surge",
@@ -19473,11 +19414,11 @@
     },
     {
      "id": "weigh-consequences-and-capacity",
-     "score": 4.19
+     "score": 4.22
     },
     {
      "id": "honour-and-dishonour-alike",
-     "score": 4.19
+     "score": 4.22
     }
    ],
    "comparison": [
@@ -19576,14 +19517,14 @@
   "scores": {
    "context": 2,
    "grounding": 2,
-   "judgment": 0,
+   "judgment": 1,
    "specificity": 2,
    "actionability": 2,
    "agency": 2
   },
-  "total": 10,
+  "total": 11,
   "notes": [
-   "top name-the-confusion not acceptable"
+   "top name-the-confusion not acceptable; acceptable one in top 3"
   ],
   "top": "name-the-confusion",
   "safety": null,
@@ -19630,31 +19571,31 @@
     },
     {
      "id": "persist-in-the-real-question",
-     "score": 10.29
+     "score": 10.32
+    },
+    {
+     "id": "self-is-not-destroyed",
+     "score": 9.62
     },
     {
      "id": "weigh-consequences-and-capacity",
      "score": 9.6
     },
     {
-     "id": "self-is-not-destroyed",
-     "score": 9.59
-    },
-    {
      "id": "reflect-then-choose",
      "score": 9.0
     },
     {
-     "id": "pleasant-versus-good",
-     "score": 6.95
-    },
-    {
      "id": "mortality-is-certain",
-     "score": 6.74
+     "score": 6.81
     },
     {
-     "id": "clear-understanding",
-     "score": 6.2
+     "id": "pleasant-versus-good",
+     "score": 6.78
+    },
+    {
+     "id": "resist-tempting-shortcuts",
+     "score": 6.21
     }
    ],
    "comparison": [
@@ -19684,17 +19625,15 @@
      "limits": "It turns into stubbornness about a question that has been answered."
     },
     {
-     "principle": "weigh-consequences-and-capacity",
-     "name": "Weigh consequences, harm and your own capacity",
+     "principle": "self-is-not-destroyed",
+     "name": "The self is not destroyed when the body dies",
      "fit": [
       "addresses the kind of problem you describe",
-      "speaks to conflicting duties, self-control"
+      "echoes your words: death"
      ],
-     "disagrees_with": [
-      "work-not-results"
-     ],
-     "consequence_if_followed": "An impulsive or dramatic decision is being made without thinking through its effects.",
-     "limits": "It becomes endless deliberation that prevents any action."
+     "disagrees_with": [],
+     "consequence_if_followed": "An adult mourning a death seeks consolation that the one they lost is not simply gone.",
+     "limits": "It is used to make death seem harmless, to justify violence, or near anyone at risk of self-harm. It also says nothing about how to live with the absence. Restricted for under-18s and anyone in distress."
     }
    ],
    "recommendation": {
@@ -19830,35 +19769,35 @@
    "shortlist": [
     {
      "id": "fearlessness",
-     "score": 10.05
+     "score": 10.0
     },
     {
      "id": "knowledge-dissolves-fear",
-     "score": 8.56
+     "score": 8.51
     },
     {
      "id": "steadiness-under-pressure",
-     "score": 8.05
+     "score": 8.0
     },
     {
      "id": "small-practice-protects",
-     "score": 6.05
+     "score": 6.0
     },
     {
      "id": "humility-before-the-unknown",
-     "score": 5.56
+     "score": 5.62
     },
     {
      "id": "calm-before-clarity",
-     "score": 5.5
+     "score": 5.49
     },
     {
      "id": "ego-that-will-not-listen",
-     "score": 4.55
+     "score": 4.58
     },
     {
      "id": "dont-quit-because-its-hard",
-     "score": 4.05
+     "score": 4.0
     }
    ],
    "comparison": [

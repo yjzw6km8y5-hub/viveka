@@ -267,3 +267,10 @@ Technical choices made without asking, newest last. Format: date, decision, why.
 - **Test integrity:**
   - The engine's author also wrote the tests, so every held-out set is scored once before any changes, and that first score is the one reported.
   - Sets used for tuning are marked as spent in `tests/README.md`.
+- **Nitishataka (2026-10-02):**
+  - Source: the Wikisource page `नीतिशतकम्`.
+  - The two unnumbered opening verses (an invocation, and the famous 'yāṃ cintayāmi') are not units, following the rule that only numbered units become records. The source has no verse 7; `missing_units` in the registry records this, and the validator accepts it.
+  - **New flag `fatalism`:** marks verses saying outcomes are fixed by fate or past deeds. The engine never shows them to anyone in distress or not known to be an adult.
+  - **Verses that demean women or rank people by birth** (e.g. 'boldness with women', royal policy likened to a courtesan) are flagged `caste_gender`. Their English stays faithful.
+  - Verses calling the unlearned 'beasts' are flagged `distress_gentle`.
+  - **Transliteration:** nukta letters such as ड़ are now handled (needed for Hindi and Awadhi texts too).

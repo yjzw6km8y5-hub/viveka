@@ -1,0 +1,3994 @@
+[
+  {
+    "id": "NS.1",
+    "text": "nitishataka",
+    "ref": [
+      1
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Bhartrihari opens by lamenting that good sayings find no fit audience: the learned are envious, the powerful proud, the rest uncomprehending.",
+    "devanagari": "बोद्धारो मत्सरग्रस्ताः प्रभवः स्मयदूषिताः ।\nअबोधोपहताश्चान्ये जीर्णमङ्गे सुभाषितम् ॥",
+    "iast": "boddhāro matsaragrastāḥ prabhavaḥ smayadūṣitāḥ |\nabodhopahatāścānye jīrṇamaṅge subhāṣitam ||",
+    "english": "Those who could understand are consumed by envy; the powerful are spoiled by pride; the rest are struck by ignorance. So fine sayings wither away within me.",
+    "situations": [
+      "ego_pride_envy",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.2",
+    "text": "nitishataka",
+    "ref": [
+      2
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On fools: Bhartrihari says the ignorant and the expert can be persuaded, but not someone with a little half-baked knowledge.",
+    "devanagari": "अज्ञः सुखमाराध्यः सुखतरमाराध्यते विशेषज्ञः ।\nज्ञानलवदुर्विदग्धं ब्रह्माऽपि तं नरं न रञ्जयति ॥",
+    "iast": "ajñaḥ sukhamārādhyaḥ sukhataramārādhyate viśeṣajñaḥ |\njñānalavadurvidagdhaṃ brahmā'pi taṃ naraṃ na rañjayati ||",
+    "english": "An ignorant person is easily persuaded; an expert is persuaded more easily still; but someone puffed up by a scrap of knowledge, not even Brahma himself can win over.",
+    "situations": [
+      "ego_pride_envy",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [
+      "KeU.2.1"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.3",
+    "text": "nitishataka",
+    "ref": [
+      3
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On fools: impossible feats are easier than changing the mind of a stubborn fool.",
+    "devanagari": "प्रसह्यमणिमुद्धरेन्मकरवक्त्रदंष्ट्रान्तरात्\nसमुद्रमपिसन्तरेत्प्रचलदूर्मिमालाकुलम् ।\nभुजङ्गमपि कोपितं शिरसि पुष्पवद्धारयेत्\nन तु प्रतिनिविष्टमूर्खजनचित्तमाराधयेत् ॥",
+    "iast": "prasahyamaṇimuddharenmakaravaktradaṃṣṭrāntarāt\nsamudramapisantaretpracaladūrmimālākulam |\nbhujaṅgamapi kopitaṃ śirasi puṣpavaddhārayet\nna tu pratiniviṣṭamūrkhajanacittamārādhayet ||",
+    "english": "One might pull a jewel by force from between a crocodile's jaws, swim across an ocean tossed by rolling waves, or wear an angry snake on one's head like a flower; but one cannot win over the mind of an obstinate fool.",
+    "situations": [
+      "relationships_forgiveness",
+      "anger_resentment"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.4",
+    "text": "nitishataka",
+    "ref": [
+      4
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On fools: Bhartrihari continues with more impossible things that are still easier than persuading a stubborn fool.",
+    "devanagari": "लभेत सिकतासुतैलमपि यत्नतः पीडयन्\nपिबेच्च मृगतृष्णिकासु सलिलं पिपासार्दितः ।\nकदाचिदपि पर्यटन् शशविषाणमासादयेत्\nन तु प्रतिनिविष्टमूर्खजनचित्तमाराधयेत् ॥",
+    "iast": "labheta sikatāsutailamapi yatnataḥ pīḍayan\npibecca mṛgatṛṣṇikāsu salilaṃ pipāsārditaḥ |\nkadācidapi paryaṭan śaśaviṣāṇamāsādayet\nna tu pratiniviṣṭamūrkhajanacittamārādhayet ||",
+    "english": "Squeezing hard, one might get oil from sand; a thirsty person might drink water from a mirage; wandering about, one might even find a hare's horn; but one cannot win over the mind of an obstinate fool.",
+    "situations": [
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.5",
+    "text": "nitishataka",
+    "ref": [
+      5
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On fools: trying to reform fools by force with sweet words is as futile as taming a snake with lotus fibres.",
+    "devanagari": "व्यालं बालमृणालतन्तुभिरसौ रोद्धुं समुज्जृम्भते\nछेत्तुं वज्रमणिञ्छिरीषकुसुमप्रान्तेन संनह्यते ।\nमाधुर्यं मधुबिन्दुना रचयितुं क्षाराम्बुधेरीहते\nमूर्खान् यः प्रतिनेतुमिच्छति बलात् सूक्तैः सुधास्यन्दिभिः ॥",
+    "iast": "vyālaṃ bālamṛṇālatantubhirasau roddhuṃ samujjṛmbhate\nchettuṃ vajramaṇiñchirīṣakusumaprāntena saṃnahyate |\nmādhuryaṃ madhubindunā racayituṃ kṣārāmbudherīhate\nmūrkhān yaḥ pratinetumicchati balāt sūktaiḥ sudhāsyandibhiḥ ||",
+    "english": "Whoever tries to lead fools by force with nectar-sweet sayings is trying to bind a wild elephant with tender lotus fibres, to cut a diamond with the tip of a shirisha flower, or to sweeten the salt ocean with a drop of honey.",
+    "situations": [
+      "relationships_forgiveness",
+      "anger_resentment"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.6",
+    "text": "nitishataka",
+    "ref": [
+      6
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On fools: silence is the natural cover for one who lacks knowledge, especially among the learned.",
+    "devanagari": "स्वायत्तमेकान्तगुणं विधात्रा विनिर्मितं छादनमज्ञतायाः ।\nविशेषतः सर्वविदां समाजे विभूषणं मौनमपण्डितानाम् ॥",
+    "iast": "svāyattamekāntaguṇaṃ vidhātrā vinirmitaṃ chādanamajñatāyāḥ |\nviśeṣataḥ sarvavidāṃ samāje vibhūṣaṇaṃ maunamapaṇḍitānām ||",
+    "english": "The Creator made a covering for ignorance that is always at one's command and wholly good: silence, the ornament of the unlearned, especially in a gathering of those who know.",
+    "situations": [
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.8",
+    "text": "nitishataka",
+    "ref": [
+      8
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Bhartrihari confesses how a little learning made him proud, until time with the wise cured him.",
+    "devanagari": "यदा किञ्चिज्ज्ञोऽहं द्विप इव मदान्धः समभवं तदा सर्वज्ञोऽस्मीत्यभवदवलिप्तं मम मनः।\nयदा किञ्चित्किञ्चिद्बुधजनसकाशादवगतं तदा मूर्खोऽस्मीति ज्वर इव मदो मे व्यपगतः ॥",
+    "iast": "yadā kiñcijjño'haṃ dvipa iva madāndhaḥ samabhavaṃ tadā sarvajño'smītyabhavadavaliptaṃ mama manaḥ|\nyadā kiñcitkiñcidbudhajanasakāśādavagataṃ tadā mūrkho'smīti jvara iva mado me vyapagataḥ ||",
+    "english": "When I knew a little, I was blind with pride like an elephant in rut, and my mind swelled with the thought 'I know everything'. When, little by little, I learned from the wise, the thought 'I am a fool' came, and my pride left me like a fever.",
+    "situations": [
+      "ego_pride_envy",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [
+      "KeU.2.1",
+      "KaU.1.2.5"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.9",
+    "text": "nitishataka",
+    "ref": [
+      9
+    ],
+    "speaker": "Bhartrihari",
+    "context": "An image of petty attachment: a dog gnawing a filthy bone fears no one, not even the king of the gods.",
+    "devanagari": "कृमिकुलचितं लालाक्लिन्नं विगन्धि जुगुप्सितं निरुपमरसं प्रीत्या खादन्नरास्थि निरामिषम्।\nसुरपतिमपि श्वा पार्श्वस्थं विलोक्य न शङ्कते न हि गणयति क्षुद्रो जन्तुः परिग्रहफल्गुताम् ॥",
+    "iast": "kṛmikulacitaṃ lālāklinnaṃ vigandhi jugupsitaṃ nirupamarasaṃ prītyā khādannarāsthi nirāmiṣam|\nsurapatimapi śvā pārśvasthaṃ vilokya na śaṅkate na hi gaṇayati kṣudro jantuḥ parigrahaphalgutām ||",
+    "english": "Gnawing with relish a human bone, crawling with worms, wet with saliva, foul-smelling, disgusting and without meat, a dog does not flinch even at Indra standing beside it; a petty creature does not see how worthless its possession is.",
+    "situations": [
+      "temptation_self_control",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.10",
+    "text": "nitishataka",
+    "ref": [
+      10
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Using the Ganga's descent from heaven as an image, Bhartrihari says those who lose discernment fall in a hundred ways.",
+    "devanagari": "शिरः शार्वं स्वर्गात्पशुपतिशिरस्तः क्षितिधरं महीध्रादुत्तुङ्गादवनिमवनेश्चापि जलधिम्।\nअधोऽधो गङ्गेयं पदमुपगता स्तोकमथवा विवेकभ्रष्टानां भवति विनिपातः शतमुखः ॥",
+    "iast": "śiraḥ śārvaṃ svargātpaśupatiśirastaḥ kṣitidharaṃ mahīdhrāduttuṅgādavanimavaneścāpi jaladhim|\nadho'dho gaṅgeyaṃ padamupagatā stokamathavā vivekabhraṣṭānāṃ bhavati vinipātaḥ śatamukhaḥ ||",
+    "english": "From heaven to Shiva's head, from Shiva's head to the mountain, from the high mountain to the earth, and from the earth to the ocean: this Ganga has gone lower and lower, to a lowly place. For those who lose discernment, the fall has a hundred ways.",
+    "situations": [
+      "temptation_self_control",
+      "failure_setback"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.2.63"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.11",
+    "text": "nitishataka",
+    "ref": [
+      11
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On fools: every ill has a remedy except foolishness.",
+    "devanagari": "शक्यो वारयितुं जलेन हुतभुक्छत्रेण सूर्यातपो नागेन्द्रो निशिताङ्कुशेन समदो दण्डेन गोगर्दभौ।\nव्याधिर्भेषजसङ्ग्रहैश्च विविधैर्मन्त्रप्रयोगैर्विषं सर्वस्यौषधमस्ति शास्त्रविहितं मूर्खस्य नास्त्यौषधम् ॥",
+    "iast": "śakyo vārayituṃ jalena hutabhukchatreṇa sūryātapo nāgendro niśitāṅkuśena samado daṇḍena gogardabhau|\nvyādhirbheṣajasaṅgrahaiśca vividhairmantraprayogairviṣaṃ sarvasyauṣadhamasti śāstravihitaṃ mūrkhasya nāstyauṣadham ||",
+    "english": "Fire can be checked with water, the sun's heat with an umbrella, a rutting elephant with a sharp goad, an ox or donkey with a stick, disease with medicines, poison with various charms: for everything scripture gives a remedy, but for the fool there is none.",
+    "situations": [
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.12",
+    "text": "nitishataka",
+    "ref": [
+      12
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Bhartrihari's harsh judgement of a person without literature, music or art.",
+    "devanagari": "साहित्यसङ्गीतकलाविहीनः साक्षात्पशुः पुच्छविषाणहीनः।\nतृणं न खादन्नपि जीवमान-स्तद्भागधेयं परमं पशूनाम् ॥",
+    "iast": "sāhityasaṅgītakalāvihīnaḥ sākṣātpaśuḥ pucchaviṣāṇahīnaḥ|\ntṛṇaṃ na khādannapi jīvamāna-stadbhāgadheyaṃ paramaṃ paśūnām ||",
+    "english": "One without literature, music or art is plainly an animal without tail or horns; that it lives without eating grass is the great good fortune of the animals.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [
+      "distress_gentle"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.13",
+    "text": "nitishataka",
+    "ref": [
+      13
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Bhartrihari's harsh judgement of those without learning, discipline, generosity or virtue.",
+    "devanagari": "येषां न विद्या न तपो न दानं ज्ञानं न शीलं न गुणो न धर्मः।\nते मर्त्यलोके भुवि भारभूता मनुष्यरूपेण मृगाश्चरन्ति ॥",
+    "iast": "yeṣāṃ na vidyā na tapo na dānaṃ jñānaṃ na śīlaṃ na guṇo na dharmaḥ|\nte martyaloke bhuvi bhārabhūtā manuṣyarūpeṇa mṛgāścaranti ||",
+    "english": "Those who have no learning, no discipline, no generosity, no knowledge, no good character, no virtue and no dharma are a burden on the earth in the world of mortals; they roam about as beasts in human form.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [
+      "distress_gentle"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.14",
+    "text": "nitishataka",
+    "ref": [
+      14
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On company: wandering wild mountains is better than living among fools, even in luxury.",
+    "devanagari": "वरं पर्वतदुर्गेषु भ्रान्तं वनचरैः सह।\nन मूर्खजनसम्पर्कः सुरेन्द्रभवनेष्वपि ॥",
+    "iast": "varaṃ parvatadurgeṣu bhrāntaṃ vanacaraiḥ saha|\nna mūrkhajanasamparkaḥ surendrabhavaneṣvapi ||",
+    "english": "Better to wander among mountain fastnesses with forest dwellers than to keep the company of fools, even in the palace of the king of the gods.",
+    "situations": [
+      "relationships_forgiveness",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.15",
+    "text": "nitishataka",
+    "ref": [
+      15
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On the learned: if poets live in poverty in a land, the shame belongs to its ruler, not to them.",
+    "devanagari": "शास्त्रोपस्कृतशब्दसुन्दरगिरः शिष्यप्रदेयागमा विख्याताः कवयो वसन्ति विषये यस्य प्रभोर्निर्धनाः।\nतज्जाड्यं वसुधाधिपस्य कवयोऽप्यर्थं विनापीश्वराः कुत्स्याः स्युः कुपरीक्षका हि मणयो यैरर्घतः पातिताः ॥",
+    "iast": "śāstropaskṛtaśabdasundaragiraḥ śiṣyapradeyāgamā vikhyātāḥ kavayo vasanti viṣaye yasya prabhornirdhanāḥ|\ntajjāḍyaṃ vasudhādhipasya kavayo'pyarthaṃ vināpīśvarāḥ kutsyāḥ syuḥ kuparīkṣakā hi maṇayo yairarghataḥ pātitāḥ ||",
+    "english": "If renowned poets, whose speech is beautiful and refined by learning and whose knowledge is worth passing to students, live poor in some lord's realm, the dullness is the ruler's; poets are masters even without wealth. It is the poor judges who are blamed, who let gems fall in price.",
+    "situations": [
+      "success_wealth",
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "artha",
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.16",
+    "text": "nitishataka",
+    "ref": [
+      16
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On the learned: knowledge is an inner wealth that thieves cannot take and that grows by being given.",
+    "devanagari": "हर्त्तुर्याति न गोचरं किमपि शं पुष्णाति यत्सर्वदा ह्यर्थिभ्यः प्रतिपाद्यमानमनिशं प्राप्नोति वृद्धिं पराम्।\nकल्पान्तेष्वऽपि न प्रयाति निधनं विद्याख्यमन्तर्धनं येषां तान्प्रति मानमुज्झत नृपाः कस्तैः सह स्पर्धते ॥",
+    "iast": "hartturyāti na gocaraṃ kimapi śaṃ puṣṇāti yatsarvadā hyarthibhyaḥ pratipādyamānamaniśaṃ prāpnoti vṛddhiṃ parām|\nkalpānteṣva'pi na prayāti nidhanaṃ vidyākhyamantardhanaṃ yeṣāṃ tānprati mānamujjhata nṛpāḥ kastaiḥ saha spardhate ||",
+    "english": "It never comes within a thief's reach; it always brings some good; given constantly to those who ask, it grows ever greater; even at the end of the ages it does not perish. Kings, put away your pride before those who have this inner wealth called learning: who can compete with them?",
+    "situations": [
+      "success_wealth",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "artha",
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.17",
+    "text": "nitishataka",
+    "ref": [
+      17
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On the learned: do not look down on the wise; wealth cannot bind them.",
+    "devanagari": "अधिगतपरमार्थान्पण्डितान्मावमंस्था-स्तृणमिव लघु लक्ष्मीर्नैव तान्संरुणद्धि।\nअभिनवमदलेखाश्यामगण्डस्थलानां भवति न विसतन्तुर्वारणं वारणानाम् ॥",
+    "iast": "adhigataparamārthānpaṇḍitānmāvamaṃsthā-stṛṇamiva laghu lakṣmīrnaiva tānsaṃruṇaddhi|\nabhinavamadalekhāśyāmagaṇḍasthalānāṃ bhavati na visatanturvāraṇaṃ vāraṇānām ||",
+    "english": "Do not despise the learned who have grasped the highest truth. Fortune, light as a straw, cannot hold them back; a lotus fibre does not restrain elephants whose temples are dark with fresh streams of rut.",
+    "situations": [
+      "ego_pride_envy",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.18",
+    "text": "nitishataka",
+    "ref": [
+      18
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On the learned: fate may take away comforts, but not a person's real skill.",
+    "devanagari": "अम्भोजिनीवननिवासविलासमेव हंसस्य हन्ति नितरां कुपितो विधाता।\nन त्वस्य दुग्धजलभेदविधौ प्रसिद्धां वैदग्ध्यकीर्तिमपहर्तुमसौ समर्थः ॥",
+    "iast": "ambhojinīvananivāsavilāsameva haṃsasya hanti nitarāṃ kupito vidhātā|\nna tvasya dugdhajalabhedavidhau prasiddhāṃ vaidagdhyakīrtimapahartumasau samarthaḥ ||",
+    "english": "Moreover: an angry Creator may utterly destroy the swan's pleasure of living in the lotus pond, but he cannot take away its famous skill of separating milk from water.",
+    "situations": [
+      "failure_setback",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.19",
+    "text": "nitishataka",
+    "ref": [
+      19
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On the learned: refined speech, not jewellery or perfume, truly adorns a person.",
+    "devanagari": "केयूराणि न भूषयन्ति पुरुषं हारा न चन्द्रोज्ज्वला\nन स्नानं न विलेपनं न कुसुमं नालङ्कृता मूर्धजाः।\nवाण्येका समलङ्करोति पुरुषं या संस्कृता धार्यते\nक्षीयन्ते खलु भूषणानि सततं वाग्भूषणं भूषणम् ॥",
+    "iast": "keyūrāṇi na bhūṣayanti puruṣaṃ hārā na candrojjvalā\nna snānaṃ na vilepanaṃ na kusumaṃ nālaṅkṛtā mūrdhajāḥ|\nvāṇyekā samalaṅkaroti puruṣaṃ yā saṃskṛtā dhāryate\nkṣīyante khalu bhūṣaṇāni satataṃ vāgbhūṣaṇaṃ bhūṣaṇam ||",
+    "english": "Armlets do not adorn a person, nor necklaces bright as the moon, nor bathing, nor perfume, nor flowers, nor styled hair. Speech alone adorns a person, when it is refined and well kept; other ornaments wear away, but the ornament of speech is the true ornament.",
+    "situations": [
+      "ego_pride_envy",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.17.15"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.20",
+    "text": "nitishataka",
+    "ref": [
+      20
+    ],
+    "speaker": "Bhartrihari",
+    "context": "In praise of learning: it is beauty, hidden wealth, a friend abroad and honoured even by kings.",
+    "devanagari": "विद्या नाम नरस्य रूपमधिकं प्रच्छन्नगुप्तं धनं\nविद्या भोगकरी यशःसुखकरी विद्या गुरूणां गुरुः।\nविद्या बन्धुजनो विदेशगमने विद्या परं दैवतं\nविद्या राजसु पूजिता न तु धनं विद्या विहीनः पशुः ॥",
+    "iast": "vidyā nāma narasya rūpamadhikaṃ pracchannaguptaṃ dhanaṃ\nvidyā bhogakarī yaśaḥsukhakarī vidyā gurūṇāṃ guruḥ|\nvidyā bandhujano videśagamane vidyā paraṃ daivataṃ\nvidyā rājasu pūjitā na tu dhanaṃ vidyā vihīnaḥ paśuḥ ||",
+    "english": "Learning is a person's highest beauty, a treasure hidden and safe. Learning brings enjoyment, fame and happiness; learning is the teacher of teachers. Learning is a kinsman when travelling abroad; learning is the highest deity. Learning, not wealth, is honoured by kings; one without learning is an animal.",
+    "situations": [
+      "purpose_meaning",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder"
+    ],
+    "aims": [
+      "dharma",
+      "artha"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.21",
+    "text": "nitishataka",
+    "ref": [
+      21
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Bhartrihari lists what makes other things unnecessary: patience needs no armour, good learning needs no wealth.",
+    "devanagari": "क्षान्तिश्चेद्वचनेन किं किमरिभिः क्रोधोऽस्ति चेद्देहिनां\nज्ञातिश्चेदनलेन किं यदि सुहृद्दिव्यौषधैः किं फलम्।\nकिं सर्पैर्यदि दुर्जनाः किमु धनैर्विद्याऽनवद्या यदि\nव्रीडा चेत्किमु भूषणैः सुकविता यद्यस्ति राज्येन किम् ॥",
+    "iast": "kṣāntiścedvacanena kiṃ kimaribhiḥ krodho'sti ceddehināṃ\njñātiścedanalena kiṃ yadi suhṛddivyauṣadhaiḥ kiṃ phalam|\nkiṃ sarpairyadi durjanāḥ kimu dhanairvidyā'navadyā yadi\nvrīḍā cetkimu bhūṣaṇaiḥ sukavitā yadyasti rājyena kim ||",
+    "english": "If one has forbearance, what need of armour? If anger, what need of enemies? If kin, what need of fire? If a true friend, what use are divine medicines? If wicked people are near, what need of snakes? If one has faultless learning, what use is wealth? If modesty, what need of ornaments? If fine poetry, what need of a kingdom?",
+    "situations": [
+      "anger_resentment",
+      "relationships_forgiveness",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.22",
+    "text": "nitishataka",
+    "ref": [
+      22
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Bhartrihari lists how a skilled person behaves towards each kind of person; the world rests on such people.",
+    "devanagari": "दाक्षिण्यं स्वजने दया परजने शाठ्यं सदा दुर्जने\nप्रीतिः साधुजने नयो नृपजने विद्वज्जनेष्वार्जवम्।\nशौर्यं शत्रुजने क्षमा गुरुजने कान्ताजने धृष्टता,\nये चैवं पुरुषाः कलासु कुशलास्तेष्वेव लोकस्थितिः ॥",
+    "iast": "dākṣiṇyaṃ svajane dayā parajane śāṭhyaṃ sadā durjane\nprītiḥ sādhujane nayo nṛpajane vidvajjaneṣvārjavam|\nśauryaṃ śatrujane kṣamā gurujane kāntājane dhṛṣṭatā,\nye caivaṃ puruṣāḥ kalāsu kuśalāsteṣveva lokasthitiḥ ||",
+    "english": "Courtesy towards one's own people, kindness towards strangers, cunning always towards the wicked, affection for the good, tact with those in power, straightforwardness with the learned, courage against enemies, forbearance towards elders, boldness with women: the world rests on people skilled in these arts.",
+    "situations": [
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "artha"
+    ],
+    "school_notes": [],
+    "safety_flags": [
+      "war",
+      "caste_gender"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.23",
+    "text": "nitishataka",
+    "ref": [
+      23
+    ],
+    "speaker": "Bhartrihari",
+    "context": "In praise of good company: it clears dullness, brings truth to speech and lifts the mind.",
+    "devanagari": "जाड्यं धियो हरति सिञ्चति वाचि सत्यं मानोन्नतिं दिशति पापमपाकरोति।\nचेतः प्रसादयति दिक्षु तनोति कीर्तिं सत्संगतिः कथय किं न करोति पुंसाम् ॥",
+    "iast": "jāḍyaṃ dhiyo harati siñcati vāci satyaṃ mānonnatiṃ diśati pāpamapākaroti|\ncetaḥ prasādayati dikṣu tanoti kīrtiṃ satsaṃgatiḥ kathaya kiṃ na karoti puṃsām ||",
+    "english": "It removes dullness of mind, sprinkles truth on speech, raises one's honour, drives away wrongdoing, clears the heart and spreads one's good name in every direction: tell me, what does the company of good people not do for a person?",
+    "situations": [
+      "relationships_forgiveness",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.24",
+    "text": "nitishataka",
+    "ref": [
+      24
+    ],
+    "speaker": "Bhartrihari",
+    "context": "In praise of great poets, whose fame outlives old age and death.",
+    "devanagari": "जयन्ति ते सुकृतिनो रससिद्धाः कवीश्वराः।\nनास्ति येषां यशःकाये जरामरणजं भयम् ॥",
+    "iast": "jayanti te sukṛtino rasasiddhāḥ kavīśvarāḥ|\nnāsti yeṣāṃ yaśaḥkāye jarāmaraṇajaṃ bhayam ||",
+    "english": "Victorious are those virtuous master poets, perfected in their art, whose body of fame knows no fear of old age and death.",
+    "situations": [
+      "purpose_meaning",
+      "ageing_death_impermanence"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.25",
+    "text": "nitishataka",
+    "ref": [
+      25
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Bhartrihari lists the blessings that come to a person when the divine is pleased.",
+    "devanagari": "सूनुः सच्चरितः सती प्रियतमा स्वामी प्रसादोन्मुखः स्निग्धं मित्रमवञ्चकः परिजनो निक्लेशलेशं मनः।\nआकारो रुचिरः स्थिरश्च विभवो विद्यावदातं मुखं तुष्टे विष्टपहारिणीष्टदहरौ संप्राप्यते देहिना ॥",
+    "iast": "sūnuḥ saccaritaḥ satī priyatamā svāmī prasādonmukhaḥ snigdhaṃ mitramavañcakaḥ parijano nikleśaleśaṃ manaḥ|\nākāro ruciraḥ sthiraśca vibhavo vidyāvadātaṃ mukhaṃ tuṣṭe viṣṭapahāriṇīṣṭadaharau saṃprāpyate dehinā ||",
+    "english": "A son of good conduct, a faithful beloved, a gracious master, an affectionate friend, honest servants, a mind without the least distress, a pleasing appearance, steady wealth, a face made bright by learning: these come to an embodied being when Vishnu, who grants all wishes, is pleased.",
+    "situations": [
+      "success_wealth",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "householder"
+    ],
+    "aims": [
+      "artha",
+      "kama"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.26",
+    "text": "nitishataka",
+    "ref": [
+      26
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Bhartrihari sums up the common path to the good, taught by every scripture.",
+    "devanagari": "प्राणाघातान्निवृत्तिः परधनहरणे संयमः सत्यवाक्यं काले शक्त्या प्रदानं युवतिजनकथामूकभावः परेषाम्।\nतृष्णास्रोतोविभङ्गो गुरुषु च विनयः सर्वभूतानुकम्पा सामान्यः सर्वशास्त्रेष्वनुपहतविधिः श्रेयसामेष पन्थाः ॥",
+    "iast": "prāṇāghātānnivṛttiḥ paradhanaharaṇe saṃyamaḥ satyavākyaṃ kāle śaktyā pradānaṃ yuvatijanakathāmūkabhāvaḥ pareṣām|\ntṛṣṇāsrotovibhaṅgo guruṣu ca vinayaḥ sarvabhūtānukampā sāmānyaḥ sarvaśāstreṣvanupahatavidhiḥ śreyasāmeṣa panthāḥ ||",
+    "english": "Refraining from taking life, restraint from taking others' wealth, truthful speech, giving at the right time according to one's means, silence about other people's young women, breaking the stream of craving, humility before teachers, and compassion for all beings: this is the path to the good, common to all the scriptures and never contradicted.",
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.16.2",
+      "BG.13.7"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.27",
+    "text": "nitishataka",
+    "ref": [
+      27
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On perseverance: the lowly never start for fear of obstacles; the middling stop; the best never give up.",
+    "devanagari": "प्रारभ्यते न खलु विघ्नभयेन नीचैः प्रारभ्य विघ्नविहता विरमन्ति मध्याः।\nविघ्नैः पुनः पुनरपि प्रतिहन्यमानाः प्रारब्धमुत्तमगुणा न परित्यजन्ति ॥",
+    "iast": "prārabhyate na khalu vighnabhayena nīcaiḥ prārabhya vighnavihatā viramanti madhyāḥ|\nvighnaiḥ punaḥ punarapi pratihanyamānāḥ prārabdhamuttamaguṇā na parityajanti ||",
+    "english": "The lowly do not even begin, for fear of obstacles; the middling begin but stop when obstacles strike; the best, struck by obstacles again and again, never give up what they have begun.",
+    "situations": [
+      "failure_setback",
+      "lack_of_motivation",
+      "fear_anxiety"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "artha"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.6.40"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.28",
+    "text": "nitishataka",
+    "ref": [
+      28
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Bhartrihari describes the hard 'sword-edge vow' of the good: no begging from the wicked, no wrongdoing even at the cost of life.",
+    "devanagari": "असन्तो नाभ्यर्थ्याः सुहृदपि न याच्यः कृशधनः प्रिया न्याय्या वृत्तिर्मलिनमसुभङ्गेऽप्यसुकरम्।\nविपद्युच्चैः स्थेयं पदमनुविधेयं च महतां सतां केनोद्दिष्टं विषममसिधाराव्रतमिदम् ॥",
+    "iast": "asanto nābhyarthyāḥ suhṛdapi na yācyaḥ kṛśadhanaḥ priyā nyāyyā vṛttirmalinamasubhaṅge'pyasukaram|\nvipadyuccaiḥ stheyaṃ padamanuvidheyaṃ ca mahatāṃ satāṃ kenoddiṣṭaṃ viṣamamasidhārāvratamidam ||",
+    "english": "The wicked are not to be begged from; a friend with little money is not to be asked; one's living should be just and dear to one; a wrong act should be avoided even at the cost of life; in adversity, stand tall; follow the path of the great. Who taught the good this hard vow, like walking on a sword's edge?",
+    "situations": [
+      "conflict_of_duties",
+      "success_wealth",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [
+      "death"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.29",
+    "text": "nitishataka",
+    "ref": [
+      29
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On self-respect: a starving old lion still will not eat dry grass.",
+    "devanagari": "क्षुत्क्षामोऽपि जराकृशोऽपि शिथिलप्राणोऽपि कष्टां दशा-मापन्नोऽपि विपन्नदीधितिरपि प्राणेषु नश्यत्स्वपि।\nमत्तेभेन्द्रविभिन्नकुम्भकवलग्रासैकबद्धस्पृहः किं जीर्णं तृणमत्ति मानमहतामग्रेसरः केसरी ॥",
+    "iast": "kṣutkṣāmo'pi jarākṛśo'pi śithilaprāṇo'pi kaṣṭāṃ daśā-māpanno'pi vipannadīdhitirapi prāṇeṣu naśyatsvapi|\nmattebhendravibhinnakumbhakavalagrāsaikabaddhaspṛhaḥ kiṃ jīrṇaṃ tṛṇamatti mānamahatāmagresaraḥ kesarī ||",
+    "english": "Though weak with hunger, thin with age, failing in strength, fallen into hard times, its splendour gone and its life ebbing away, does the lion, foremost of the proud, whose only desire is a mouthful from the split temple of a rutting elephant, eat dry grass?",
+    "situations": [
+      "ego_pride_envy",
+      "failure_setback"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.30",
+    "text": "nitishataka",
+    "ref": [
+      30
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On self-respect: a dog is content with a bare bone, but a lion seeks prey worthy of it; people want results that match their spirit.",
+    "devanagari": "स्वल्पस्नायुवसावशेषमलिनं निर्मांसमप्यस्थिकं श्वा लब्ध्वा परितोषमेति न तु तत्तस्य क्षुधाशान्तये।\nसिंहो जम्बुकमङ्कमागतमपि त्यक्त्वा निहन्ति द्विपं सर्वः कृच्छ्गतोऽपि वाञ्छति जनः सत्त्वानुरूपं फलम् ॥",
+    "iast": "svalpasnāyuvasāvaśeṣamalinaṃ nirmāṃsamapyasthikaṃ śvā labdhvā paritoṣameti na tu tattasya kṣudhāśāntaye|\nsiṃho jambukamaṅkamāgatamapi tyaktvā nihanti dvipaṃ sarvaḥ kṛcchgato'pi vāñchati janaḥ sattvānurūpaṃ phalam ||",
+    "english": "A dog, finding a dirty bone with a little sinew and fat and no flesh, is satisfied, though it does not even ease its hunger; a lion lets a jackal that has come into its grasp go, and kills an elephant. Everyone, even in hardship, wants a result that matches their strength of spirit.",
+    "situations": [
+      "ego_pride_envy",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder"
+    ],
+    "aims": [
+      "dharma",
+      "artha"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.31",
+    "text": "nitishataka",
+    "ref": [
+      31
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On self-respect: a dog grovels before whoever feeds it, while an elephant eats with dignity.",
+    "devanagari": "लाङ्गूलचालनमधश्चरणावपातं भूमौ निपत्य वदनोदरदर्शनञ्च।\nश्वा पिण्डदस्य कुरुते गजपुङ्गवस्तु धीरं विलोकयति चाटुशतैश्च भुङ्क्ते ॥",
+    "iast": "lāṅgūlacālanamadhaścaraṇāvapātaṃ bhūmau nipatya vadanodaradarśanañca|\nśvā piṇḍadasya kurute gajapuṅgavastu dhīraṃ vilokayati cāṭuśataiśca bhuṅkte ||",
+    "english": "A dog wags its tail, falls at the feet, rolls on the ground and shows its mouth and belly to the one who feeds it; but a noble elephant looks on steadily and eats only after a hundred coaxing words.",
+    "situations": [
+      "ego_pride_envy",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.32",
+    "text": "nitishataka",
+    "ref": [
+      32
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Bhartrihari says that in the cycle of birth and death, only one whose life lifts their family is truly born.",
+    "devanagari": "परिवर्तिनि संसारे मृतः को वा न जायते।\nस जातो येन जातेन याति वंशः समुन्नतिम् ॥",
+    "iast": "parivartini saṃsāre mṛtaḥ ko vā na jāyate|\nsa jāto yena jātena yāti vaṃśaḥ samunnatim ||",
+    "english": "In this turning world, who that has died is not born again? That one alone is born by whose birth the family rises to greatness.",
+    "situations": [
+      "purpose_meaning",
+      "ageing_death_impermanence"
+    ],
+    "life_stages": [
+      "householder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [
+      "death"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.33",
+    "text": "nitishataka",
+    "ref": [
+      33
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On the high-minded: like a cluster of flowers, they either crown the world or wither in the forest.",
+    "devanagari": "कुसुमस्तबकस्येव द्वयी वृत्तिर्मनस्विनः।\nमूर्ध्नि वा सर्वलोकस्य शीर्यते वन एव वा ॥",
+    "iast": "kusumastabakasyeva dvayī vṛttirmanasvinaḥ|\nmūrdhni vā sarvalokasya śīryate vana eva vā ||",
+    "english": "Like a cluster of flowers, a high-minded person has two courses: to rest on the head of the whole world, or to wither away in the forest.",
+    "situations": [
+      "purpose_meaning",
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.34",
+    "text": "nitishataka",
+    "ref": [
+      34
+    ],
+    "speaker": "Bhartrihari",
+    "context": "A mythic image: Rahu attacks only the sun and moon, not lesser planets; the great choose great opponents.",
+    "devanagari": "सन्त्यन्येऽपि बृहस्पतिप्रभृतयः सम्भाविताः पञ्चषा-स्तान्प्रत्येषविशेषविक्रमरुची राहुर्न वैरायते।\nद्वावेव ग्रसते दिनेश्वरनिशाप्राणेश्वरौ भास्करौ भ्रातः! पर्वणि पश्य दानवपतिः शीर्षावशेषाकृतिः ॥",
+    "iast": "santyanye'pi bṛhaspatiprabhṛtayaḥ sambhāvitāḥ pañcaṣā-stānpratyeṣaviśeṣavikramarucī rāhurna vairāyate|\ndvāveva grasate dineśvaraniśāprāṇeśvarau bhāskarau bhrātaḥ! parvaṇi paśya dānavapatiḥ śīrṣāvaśeṣākṛtiḥ ||",
+    "english": "There are five or six other honoured planets, Jupiter and the rest, yet Rahu, who delights in special valour, bears them no enmity. Brother, see: the demon king, though only a head remains, swallows at the time of eclipse only the two lights, the lord of day and the lord of night.",
+    "situations": [
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "householder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.35",
+    "text": "nitishataka",
+    "ref": [
+      35
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On the greatness of the great: Shesha bears the worlds, the tortoise bears Shesha, and the ocean holds even the tortoise.",
+    "devanagari": "वहति भुवनश्रेणिं शेषः फणाफलकस्थितां कमठपतिना मध्ये पृष्ठं सदा स विधार्यते।\nतमपि कुरुते क्रोडाधीनं पयोधिरनादरा-दहह महतां निःसीमानश्चरित्रविभूतयः ॥",
+    "iast": "vahati bhuvanaśreṇiṃ śeṣaḥ phaṇāphalakasthitāṃ kamaṭhapatinā madhye pṛṣṭhaṃ sadā sa vidhāryate|\ntamapi kurute kroḍādhīnaṃ payodhiranādarā-dahaha mahatāṃ niḥsīmānaścaritravibhūtayaḥ ||",
+    "english": "Shesha bears the rows of worlds set on his hood; he in turn is always carried on the back of the lord of tortoises; and the ocean, without effort, holds even him in its lap. Ah, the glories of the great have no limits.",
+    "situations": [
+      "ego_pride_envy",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.36",
+    "text": "nitishataka",
+    "ref": [
+      36
+    ],
+    "speaker": "Bhartrihari",
+    "context": "A mythic image: the mountain Mainaka hid in the ocean rather than face Indra, while his father suffered; better to lose one's wings than desert a parent.",
+    "devanagari": "वरं पक्षच्छेदः समदमघवन्मुक्तकुलिश-प्रहारैरुद्गच्छद्बहुलदहनोद्गारगुरुभिः।\nतुषाराद्रेः सूनोरहह ! पितरि क्लेशविवशे न चासौ सम्पातः पयसि पयसां पत्युरुचितः ॥",
+    "iast": "varaṃ pakṣacchedaḥ samadamaghavanmuktakuliśa-prahārairudgacchadbahuladahanodgāragurubhiḥ|\ntuṣārādreḥ sūnorahaha ! pitari kleśavivaśe na cāsau sampātaḥ payasi payasāṃ patyurucitaḥ ||",
+    "english": "Better to have one's wings cut off by blows of the proud Indra's thunderbolt, heavy with bursting flames, than this: that the son of the snowy mountain, while his father suffered helplessly, should drop into the waters of the ocean. That was not fitting.",
+    "situations": [
+      "conflict_of_duties",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "householder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [
+      "war"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.37",
+    "text": "nitishataka",
+    "ref": [
+      37
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On honour: even an unconscious sunstone blazes when touched by feet; how can a spirited person bear insult?",
+    "devanagari": "यदचेतनोऽपि पादैः, स्पृष्टः प्रज्वलति सवितुरिनकान्तः।\nतत्तेजस्वी पुरुषः, परकृतनिकृतिं कथं सहते ॥",
+    "iast": "yadacetano'pi pādaiḥ, spṛṣṭaḥ prajvalati saviturinakāntaḥ|\ntattejasvī puruṣaḥ, parakṛtanikṛtiṃ kathaṃ sahate ||",
+    "english": "If even the lifeless sunstone, touched by the sun's rays, blazes up, how can a person of spirit endure an insult done by another?",
+    "situations": [
+      "anger_resentment",
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "student",
+      "householder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.38",
+    "text": "nitishataka",
+    "ref": [
+      38
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On inner strength: a lion cub attacks elephants; strength is a matter of nature, not age.",
+    "devanagari": "सिंहः शिशुरपि निपतति मदमलिनकपोलभित्तिषु गजेषु।\nप्रकृतिरियं सत्त्ववतां न खलु वयस्तेजसो हेतुः ॥",
+    "iast": "siṃhaḥ śiśurapi nipatati madamalinakapolabhittiṣu gajeṣu|\nprakṛtiriyaṃ sattvavatāṃ na khalu vayastejaso hetuḥ ||",
+    "english": "Even a lion cub springs upon elephants whose temples are dark with rut. This is the nature of the strong: age is not the cause of spirit.",
+    "situations": [
+      "fear_anxiety",
+      "lack_of_motivation"
+    ],
+    "life_stages": [
+      "student",
+      "householder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.39",
+    "text": "nitishataka",
+    "ref": [
+      39
+    ],
+    "speaker": "Bhartrihari",
+    "context": "In mock praise of money: let birth, virtue and character all perish, so long as wealth remains.",
+    "devanagari": "जातिर्यातु रसातलं गुणगणस्तस्याऽप्यधो गच्छता-च्छीलं शैलतटात्पतत्वभिजनः संदह्यतां वह्निना।\nशौर्ये वैरिणि वज्रमाशु निपतत्वर्थोऽस्तु नः केवलं येनैकेन विना गुणास्तृणलवप्रायाः समस्ता इमे ॥",
+    "iast": "jātiryātu rasātalaṃ guṇagaṇastasyā'pyadho gacchatā-cchīlaṃ śailataṭātpatatvabhijanaḥ saṃdahyatāṃ vahninā|\nśaurye vairiṇi vajramāśu nipatatvartho'stu naḥ kevalaṃ yenaikena vinā guṇāstṛṇalavaprāyāḥ samastā ime ||",
+    "english": "Let birth go down to the underworld; let all one's virtues sink even lower; let character fall from a cliff; let noble family burn in fire; let a thunderbolt strike courage, our enemy. May we have money alone, without which all these virtues are worth no more than a blade of grass.",
+    "situations": [
+      "success_wealth",
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "artha",
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.40",
+    "text": "nitishataka",
+    "ref": [
+      40
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On wealth: the same person, with the same senses and mind, becomes someone else the moment money is gone.",
+    "devanagari": "तानीन्द्रियाणि सकलानि तदेव कर्म सा बुद्धिरप्रतिहता वचनं तदेव।\nअर्थोष्मणा विरहितः पुरुषः स एव त्वन्यः क्षणेन भवतीति विचित्रमेतत् ॥",
+    "iast": "tānīndriyāṇi sakalāni tadeva karma sā buddhirapratihatā vacanaṃ tadeva|\narthoṣmaṇā virahitaḥ puruṣaḥ sa eva tvanyaḥ kṣaṇena bhavatīti vicitrametat ||",
+    "english": "The same senses, the same work, the same unobstructed intellect, the same speech: yet the same person, without the warmth of wealth, becomes someone else in an instant. This is strange.",
+    "situations": [
+      "success_wealth",
+      "failure_setback"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "artha"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.41",
+    "text": "nitishataka",
+    "ref": [
+      41
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On wealth: whoever has money is treated as well-born, learned and eloquent.",
+    "devanagari": "अपि च - यस्यास्ति वित्तं स नरः कुलीनः, स पण्डितः स श्रुतवान् गुणज्ञः।\nस एव वक्ता स च दर्शनीयःसर्वे गुणाः काञ्चनमाश्रयन्ति ॥",
+    "iast": "api ca - yasyāsti vittaṃ sa naraḥ kulīnaḥ, sa paṇḍitaḥ sa śrutavān guṇajñaḥ|\nsa eva vaktā sa ca darśanīyaḥsarve guṇāḥ kāñcanamāśrayanti ||",
+    "english": "Moreover: whoever has wealth is the well-born one, the scholar, the learned, the judge of merit, the speaker and the handsome one. All virtues take refuge in gold.",
+    "situations": [
+      "success_wealth",
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "artha"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.42",
+    "text": "nitishataka",
+    "ref": [
+      42
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Bhartrihari lists what ruins each thing: bad counsel ruins a king, attachment a renunciant, pampering a son.",
+    "devanagari": "दौर्मन्त्र्यान्नृपतिर्विनश्यति यतिः सङ्गात्सुतो लालना- द्विप्रोऽनध्ययनात्कुलं कुतनयाच्छीलं खलोपासनात्।\nह्रीर्मद्यादनवेक्षणादपि कृषिः स्नेहः प्रवासाश्रया- न्मैत्री चाप्रणयात्समृद्धिरनयात्त्यागात्प्रमादाद्धनम् ॥",
+    "iast": "daurmantryānnṛpatirvinaśyati yatiḥ saṅgātsuto lālanā- dvipro'nadhyayanātkulaṃ kutanayācchīlaṃ khalopāsanāt|\nhrīrmadyādanavekṣaṇādapi kṛṣiḥ snehaḥ pravāsāśrayā- nmaitrī cāpraṇayātsamṛddhiranayāttyāgātpramādāddhanam ||",
+    "english": "A king is ruined by bad counsel, an ascetic by attachment, a son by pampering, a brahmin by not studying, a family by a bad son, good conduct by serving the wicked, modesty by drink, farming by neglect, affection by living away, friendship by lack of warmth, prosperity by misrule, and wealth by careless spending.",
+    "situations": [
+      "temptation_self_control",
+      "relationships_forgiveness",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "artha",
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.43",
+    "text": "nitishataka",
+    "ref": [
+      43
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On wealth: money has three fates; whoever neither gives nor enjoys it meets the third, loss.",
+    "devanagari": "दानं भोगो नाशस्तिस्रो गतयो भवन्ति वित्तस्य।\nयो न ददाति न भुङ्क्ते तस्य तृतीया गतिर्भवति ॥",
+    "iast": "dānaṃ bhogo nāśastisro gatayo bhavanti vittasya|\nyo na dadāti na bhuṅkte tasya tṛtīyā gatirbhavati ||",
+    "english": "Giving, enjoyment and loss: these are the three courses that wealth takes. Whoever neither gives nor enjoys it, theirs takes the third course.",
+    "situations": [
+      "success_wealth",
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "artha",
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.17.20"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.44",
+    "text": "nitishataka",
+    "ref": [
+      44
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Bhartrihari lists things made more beautiful by being worn down, including those who have spent their wealth on others.",
+    "devanagari": "मणिः शाणोल्लीढः समरविजयी हेतिनिहतो मदक्षीणो नागः शरदि सरितः श्यानपुलिनाः।\nकलाशेषश्चन्द्रः सुरतमृदिता बालललना स्तनिम्ना शोभन्ते गलितविभवाश्चार्थिषु जनाः ॥",
+    "iast": "maṇiḥ śāṇollīḍhaḥ samaravijayī hetinihato madakṣīṇo nāgaḥ śaradi saritaḥ śyānapulināḥ|\nkalāśeṣaścandraḥ suratamṛditā bālalalanā stanimnā śobhante galitavibhavāścārthiṣu janāḥ ||",
+    "english": "A gem polished on the whetstone, a victor wounded in battle, an elephant spent after rut, rivers with dry banks in autumn, the moon reduced to a sliver, a young woman tired from love-making, and people who have given away their wealth to those in need: these shine in their thinness.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [
+      "war",
+      "caste_gender"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.45",
+    "text": "nitishataka",
+    "ref": [
+      45
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On wealth: need and plenty change how a person values things.",
+    "devanagari": "परिक्षीणः कश्चित्स्पृहयति यवानां प्रसृतये स पश्चात्सम्पूर्णो गणयति धरित्रीं तृणसमाम्।\nअतश्चानैकान्त्याद्गुरुलघुतयाऽर्थेषु धनिना- मवस्था वस्तूनि प्रथयति च सङ्कोचयति च ॥",
+    "iast": "parikṣīṇaḥ kaścitspṛhayati yavānāṃ prasṛtaye sa paścātsampūrṇo gaṇayati dharitrīṃ tṛṇasamām|\nataścānaikāntyādgurulaghutayā'rtheṣu dhaninā- mavasthā vastūni prathayati ca saṅkocayati ca ||",
+    "english": "A destitute person longs for a handful of barley; later, when full, the same person counts the whole earth as worth a straw. So, because nothing is fixed, the circumstances of the wealthy make things seem great or small, expanding them and shrinking them.",
+    "situations": [
+      "success_wealth",
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "artha"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.46",
+    "text": "nitishataka",
+    "ref": [
+      46
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Advice to a ruler: to milk the earth like a cow, nourish the people like its calf.",
+    "devanagari": "राजन्! दुधुक्षसि यदि क्षितिधेनुमेतां तेनाद्य वत्समिव लोकममुं पुषाण।\nतस्मिंश्च सम्यगनिशं परिपोष्यमाणे नानाफलैः फलति कल्पलतेव भूमिः ॥",
+    "iast": "rājan! dudhukṣasi yadi kṣitidhenumetāṃ tenādya vatsamiva lokamamuṃ puṣāṇa|\ntasmiṃśca samyaganiśaṃ paripoṣyamāṇe nānāphalaiḥ phalati kalpalateva bhūmiḥ ||",
+    "english": "King, if you wish to milk this earth-cow, then nourish these people now as you would her calf. When they are well nourished day and night, the earth bears many fruits like a wish-granting creeper.",
+    "situations": [
+      "success_wealth",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "householder"
+    ],
+    "aims": [
+      "artha",
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.3.11"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.47",
+    "text": "nitishataka",
+    "ref": [
+      47
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Bhartrihari compares royal policy, in its changing faces, to a courtesan.",
+    "devanagari": "सत्यानृता च परुषा प्रियवादिनी च हिंस्रा दयालुरपि चार्थपरा वदान्या।\nनित्यव्यया प्रचुरनित्यधनागमा च वाराङ्गनेव नृपनीतिरनेकरूपा ॥",
+    "iast": "satyānṛtā ca paruṣā priyavādinī ca hiṃsrā dayālurapi cārthaparā vadānyā|\nnityavyayā pracuranityadhanāgamā ca vārāṅganeva nṛpanītiranekarūpā ||",
+    "english": "Truthful and false, harsh and sweet-spoken, cruel and kind, grasping and generous, always spending yet always gathering wealth: the policy of kings has many forms, like a courtesan.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [
+      "caste_gender"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.48",
+    "text": "nitishataka",
+    "ref": [
+      48
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On serving kings: if a king lacks six qualities, there is no point in depending on him.",
+    "devanagari": "आज्ञा कीर्तिः पालनं ब्राह्मणानां दानं भोगो मित्रसंरक्षणञ्च।\nयेषामेते षड्गुणा न प्रवृत्ताः कोऽर्थस्तेषां पार्थिवोपाश्रयेण ॥",
+    "iast": "ājñā kīrtiḥ pālanaṃ brāhmaṇānāṃ dānaṃ bhogo mitrasaṃrakṣaṇañca|\nyeṣāmete ṣaḍguṇā na pravṛttāḥ ko'rthasteṣāṃ pārthivopāśrayeṇa ||",
+    "english": "Command, fame, protection of brahmins, generosity, enjoyment and protecting friends: for those in whom these six qualities are not active, what is the use of relying on a king?",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [
+      "caste_gender"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.49",
+    "text": "nitishataka",
+    "ref": [
+      49
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On fate and wealth: what is written on the forehead comes even in a desert; so do not beg from the rich.",
+    "devanagari": "यद्धात्रा निजभालपट्टलिखितं स्तोकं महद्वा धनं तत्प्राप्नोति मरुस्थलेऽपि नितरां मेरौ ततो नाधिकम्।\nतद्धीरो भव वित्तवत्सु कृपणां वृत्तिं वृथा मा कृथाः कूपे पश्य पयोनिधावपि घटो गृद्य्णाति तुल्यं जलम् ॥",
+    "iast": "yaddhātrā nijabhālapaṭṭalikhitaṃ stokaṃ mahadvā dhanaṃ tatprāpnoti marusthale'pi nitarāṃ merau tato nādhikam|\ntaddhīro bhava vittavatsu kṛpaṇāṃ vṛttiṃ vṛthā mā kṛthāḥ kūpe paśya payonidhāvapi ghaṭo gṛdyṇāti tulyaṃ jalam ||",
+    "english": "Whatever wealth, small or great, the Creator has written on one's forehead, one gets it even in the desert, and on Mount Meru no more than that. So be steady; do not humble yourself in vain before the wealthy. See: whether in a well or in the ocean, a pot holds the same amount of water.",
+    "situations": [
+      "success_wealth",
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "artha"
+    ],
+    "school_notes": [],
+    "safety_flags": [
+      "fatalism"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.50",
+    "text": "nitishataka",
+    "ref": [
+      50
+    ],
+    "speaker": "Bhartrihari",
+    "context": "The chataka bird, which drinks only rain, addresses the cloud: why wait for me to beg?",
+    "devanagari": "त्वमेव चातकाधारोऽसीति केषां न गोचरः।\nकिमम्भोदवरास्माकं कार्पण्योक्तिं प्रतीक्षसे ॥",
+    "iast": "tvameva cātakādhāro'sīti keṣāṃ na gocaraḥ|\nkimambhodavarāsmākaṃ kārpaṇyoktiṃ pratīkṣase ||",
+    "english": "Who does not know that you alone are the chataka's support? Best of clouds, why do you wait for our pitiful plea?",
+    "situations": [
+      "ego_pride_envy",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "householder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.51",
+    "text": "nitishataka",
+    "ref": [
+      51
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Advice to the chataka bird: not every cloud gives rain, so do not plead before everyone.",
+    "devanagari": "रे रे चातक ! सावधानमनसा मित्र ! क्षणं श्रूयता- मम्भोदा बहवो हि सन्ति गगने सर्वे तु नैतादृशाः।\nकेचिद्वृष्टिभिरार्द्रयन्ति वसुधां गर्जन्ति केचिद्वृथा यं यं पश्यसि तस्य तस्य पुरतो मा ब्रूहि दीनं वचः ॥",
+    "iast": "re re cātaka ! sāvadhānamanasā mitra ! kṣaṇaṃ śrūyatā- mambhodā bahavo hi santi gagane sarve tu naitādṛśāḥ|\nkecidvṛṣṭibhirārdrayanti vasudhāṃ garjanti kecidvṛthā yaṃ yaṃ paśyasi tasya tasya purato mā brūhi dīnaṃ vacaḥ ||",
+    "english": "O chataka, my friend, listen for a moment with attention: there are many clouds in the sky, but not all are alike. Some soak the earth with rain; some only thunder in vain. Do not speak pitiful words before every one you see.",
+    "situations": [
+      "ego_pride_envy",
+      "relationships_forgiveness",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.52",
+    "text": "nitishataka",
+    "ref": [
+      52
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On the wicked: their natural traits are cruelty, needless quarrels and coveting others' wealth and wives.",
+    "devanagari": "अकरुणत्वमकारणविग्रहः परधने परयोषिति च स्पृहा।\nस्वजनबन्धुजनेष्वसहिष्णुता प्रकृतिसिद्धमिदं हि दुरात्मनाम् ॥",
+    "iast": "akaruṇatvamakāraṇavigrahaḥ paradhane parayoṣiti ca spṛhā|\nsvajanabandhujaneṣvasahiṣṇutā prakṛtisiddhamidaṃ hi durātmanām ||",
+    "english": "Cruelty, quarrels without cause, longing for another's wealth and another's wife, and intolerance of their own family and friends: this is the inborn nature of the wicked.",
+    "situations": [
+      "anger_resentment",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.16.4"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.53",
+    "text": "nitishataka",
+    "ref": [
+      53
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On the wicked: avoid a wicked person even if they are learned, as you would a jewelled snake.",
+    "devanagari": "दुर्जनः परिहर्त्तव्यो विद्ययाऽलङ्कृतोऽपि सन्।\nमणिना भूषितः सर्पः किमसौ न भयङ्करः ॥",
+    "iast": "durjanaḥ pariharttavyo vidyayā'laṅkṛto'pi san|\nmaṇinā bhūṣitaḥ sarpaḥ kimasau na bhayaṅkaraḥ ||",
+    "english": "A wicked person should be avoided, even if adorned with learning. Is a snake adorned with a jewel any less frightening?",
+    "situations": [
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.54",
+    "text": "nitishataka",
+    "ref": [
+      54
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On the wicked: they twist every virtue into a fault.",
+    "devanagari": "जाड्यं ह्रीमति गण्यते व्रतरुचौ दम्भः शुचौ कैतवं शूरे निर्घृणता ऋजौ विमतिता दैन्यं प्रियालापिनि।\nतेजस्विन्यवलिप्तता मुखरिता वक्तर्यशक्तिः स्थिरे- तत्को नाम गुणो भवेत्स गुणिनां यो दुर्जनैर्नाड़्कितः ॥",
+    "iast": "jāḍyaṃ hrīmati gaṇyate vratarucau dambhaḥ śucau kaitavaṃ śūre nirghṛṇatā ṛjau vimatitā dainyaṃ priyālāpini|\ntejasvinyavaliptatā mukharitā vaktaryaśaktiḥ sthire- tatko nāma guṇo bhavetsa guṇināṃ yo durjanairnāṛkitaḥ ||",
+    "english": "Modesty is counted as dullness, devotion to vows as hypocrisy, purity as pretence, courage as cruelty, straightforwardness as stupidity, sweet speech as servility, brilliance as arrogance, eloquence as chatter, steadiness as weakness. What virtue of the virtuous is there that the wicked do not stain?",
+    "situations": [
+      "anger_resentment",
+      "ego_pride_envy",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.55",
+    "text": "nitishataka",
+    "ref": [
+      55
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Bhartrihari says one quality makes others unnecessary: if greed is present, what need of other faults?",
+    "devanagari": "लोभश्चेदगुणेन किं पिशुनता यद्यस्ति किं पातकैःसत्यं चेत्तपसा च किं शुचि मनो यद्यस्ति तीर्थेन किम्।\nसौजन्यं यदि किं निजैः सुमहिमा यद्यस्ति किं मण्डनैः सद्विद्या यदि किं धनैरपयशो यद्यस्ति किं मृत्युना ॥",
+    "iast": "lobhaścedaguṇena kiṃ piśunatā yadyasti kiṃ pātakaiḥsatyaṃ cettapasā ca kiṃ śuci mano yadyasti tīrthena kim|\nsaujanyaṃ yadi kiṃ nijaiḥ sumahimā yadyasti kiṃ maṇḍanaiḥ sadvidyā yadi kiṃ dhanairapayaśo yadyasti kiṃ mṛtyunā ||",
+    "english": "If there is greed, what need of other vices? If slander, what need of sins? If truth, what need of austerity? If the mind is pure, what need of pilgrimage? If goodness, what need of kin? If greatness, what need of ornaments? If true learning, what need of wealth? If disgrace, what need of death?",
+    "situations": [
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [
+      "death",
+      "distress_gentle"
+    ],
+    "cross_refs": [
+      "KeU.4.8"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.56",
+    "text": "nitishataka",
+    "ref": [
+      56
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Bhartrihari names seven things that pain him like thorns, among them a good person always in hardship and a wicked one at court.",
+    "devanagari": "शशी दिवसधूसरो गलितयौवना कामिनी सरो विगतवारिजं मुखमनक्षरं स्वाकृतेः।\nप्रभुर्धनपरायणः सततदुर्गतः सज्जनो नृपाङ्गनगतः खलो मनसि सप्त शल्यानि मे ॥",
+    "iast": "śaśī divasadhūsaro galitayauvanā kāminī saro vigatavārijaṃ mukhamanakṣaraṃ svākṛteḥ|\nprabhurdhanaparāyaṇaḥ satatadurgataḥ sajjano nṛpāṅganagataḥ khalo manasi sapta śalyāni me ||",
+    "english": "The moon grey in daytime, a lovely woman whose youth has passed, a lake without lotuses, a handsome face without learning, a master bent only on money, a good person always in hardship, and a wicked person at the king's court: these seven are thorns in my mind.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [
+      "caste_gender"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.57",
+    "text": "nitishataka",
+    "ref": [
+      57
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On serving the powerful: hot-tempered rulers have no one they hold close, as fire burns even the priest who feeds it.",
+    "devanagari": "न कश्चिच्चण्डकोपानामात्मीयो नाम भूभुजाम्।\nहोतारमपि जुह्वानं स्पृष्टो दहति पावकः ॥",
+    "iast": "na kaściccaṇḍakopānāmātmīyo nāma bhūbhujām|\nhotāramapi juhvānaṃ spṛṣṭo dahati pāvakaḥ ||",
+    "english": "Kings of fierce temper have no one truly their own; fire, when touched, burns even the priest who offers into it.",
+    "situations": [
+      "anger_resentment",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "householder"
+    ],
+    "aims": [
+      "artha"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.58",
+    "text": "nitishataka",
+    "ref": [
+      58
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On service to the powerful: whatever a servant does is criticised, so the duty of service is harder than yogis' discipline.",
+    "devanagari": "मौनान्मूकः प्रवचनपटुर्वातुलो जल्पको वा धृष्टः पार्श्वे वसति च तदा दूरतश्चाप्रगल्भः।\nक्षान्त्या भीरुर्यदि न सहते प्रायशो नाभिजातः सेवाधर्मः परमगहनो योगिनामप्यगम्यः ॥",
+    "iast": "maunānmūkaḥ pravacanapaṭurvātulo jalpako vā dhṛṣṭaḥ pārśve vasati ca tadā dūrataścāpragalbhaḥ|\nkṣāntyā bhīruryadi na sahate prāyaśo nābhijātaḥ sevādharmaḥ paramagahano yogināmapyagamyaḥ ||",
+    "english": "Silent, he is called dumb; skilled in speech, a babbler or chatterer; staying close, impudent; keeping away, timid; patient, a coward; impatient, usually ill-bred. The duty of service is deeply difficult, beyond even yogis.",
+    "situations": [
+      "ego_pride_envy",
+      "failure_setback"
+    ],
+    "life_stages": [
+      "householder"
+    ],
+    "aims": [
+      "artha"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.59",
+    "text": "nitishataka",
+    "ref": [
+      59
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On the wicked who rise by luck: who can be happy around a low person who got wealth by chance and hates virtue?",
+    "devanagari": "उद्भासिताऽखिलखलस्य विश्रृङ्खलस्य प्राग्जातविस्तृतनिजाधमकर्मवृत्तेः।\nदैवादवाप्तविभवस्य गुणद्विषोऽस्य नीचस्य गोचरगतैः सुखमाप्यते कैः ॥",
+    "iast": "udbhāsitā'khilakhalasya viśrṛṅkhalasya prāgjātavistṛtanijādhamakarmavṛtteḥ|\ndaivādavāptavibhavasya guṇadviṣo'sya nīcasya gocaragataiḥ sukhamāpyate kaiḥ ||",
+    "english": "Who can find happiness in the sight of this low person, whose wickedness is plain, who knows no restraint, whose base ways began long ago and spread, who has gained wealth by luck, and who hates virtue?",
+    "situations": [
+      "anger_resentment",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.60",
+    "text": "nitishataka",
+    "ref": [
+      60
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On friendship: friendship with the wicked starts big and shrinks; with the good it starts small and grows.",
+    "devanagari": "आरम्भगुर्वी क्षयिणी क्रमेण लघ्वी पुरा वृद्धिमती च पश्चात्।\nदिनस्य पूर्वार्धपरार्धभिन्ना छायेव मैत्री खलसज्जनानाम् ॥",
+    "iast": "ārambhagurvī kṣayiṇī krameṇa laghvī purā vṛddhimatī ca paścāt|\ndinasya pūrvārdhaparārdhabhinnā chāyeva maitrī khalasajjanānām ||",
+    "english": "Great at the start and dwindling step by step, or small at first and growing afterwards: friendship with the wicked and with the good differs like the shadow in the first and second halves of the day.",
+    "situations": [
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.61",
+    "text": "nitishataka",
+    "ref": [
+      61
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On the wicked: hunters, fishermen and slanderers are enemies without cause to deer, fish and good people.",
+    "devanagari": "मृगमीनसज्जनानां तृणजलसंतोषविहितवृत्तीनाम्।\nलुब्धकधीवरपिशुना निष्कारणवैरिणो जगति ॥",
+    "iast": "mṛgamīnasajjanānāṃ tṛṇajalasaṃtoṣavihitavṛttīnām|\nlubdhakadhīvarapiśunā niṣkāraṇavairiṇo jagati ||",
+    "english": "Deer, fish and good people live content with grass, water and contentment; yet hunters, fishermen and slanderers are their enemies in the world without any cause.",
+    "situations": [
+      "anger_resentment",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.62",
+    "text": "nitishataka",
+    "ref": [
+      62
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Bhartrihari salutes people of pure virtue: they seek good company, delight in others' merits and master themselves.",
+    "devanagari": "वाञ्छा सज्जनसङ्गमे परगुणे प्रीर्तिगुरौ नम्रता विद्यायां व्यसनं स्वयोषिति रतिर्लोकापवादाद्भयम्।\nभक्तिः शूलिनि शक्तिरात्मदमने संसर्गमुक्तिः खले येष्वेते निवसन्ति निर्मलगुणास्तेभ्यो नरेभ्यो नमः ॥",
+    "iast": "vāñchā sajjanasaṅgame paraguṇe prīrtigurau namratā vidyāyāṃ vyasanaṃ svayoṣiti ratirlokāpavādādbhayam|\nbhaktiḥ śūlini śaktirātmadamane saṃsargamuktiḥ khale yeṣvete nivasanti nirmalaguṇāstebhyo narebhyo namaḥ ||",
+    "english": "Longing for the company of the good, delight in others' virtues, humility before teachers, a passion for learning, love for one's own spouse, fear of public disgrace, devotion to Shiva, the strength to master oneself, and freedom from the company of the wicked: salutations to those people in whom these pure virtues live.",
+    "situations": [
+      "relationships_forgiveness",
+      "temptation_self_control",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.63",
+    "text": "nitishataka",
+    "ref": [
+      63
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On the great-souled: their nature shows in steadiness in trouble and forbearance in success.",
+    "devanagari": "विपदि धैर्यमथाभ्युदये क्षमा सदसि वाक्पटुता युधि विक्रमः।\nयशसि चाभिरुचिर्व्यसनं श्रुतौ प्रकृतिसिद्धमिदं हि महात्मनाम् ॥",
+    "iast": "vipadi dhairyamathābhyudaye kṣamā sadasi vākpaṭutā yudhi vikramaḥ|\nyaśasi cābhirucirvyasanaṃ śrutau prakṛtisiddhamidaṃ hi mahātmanām ||",
+    "english": "Steadiness in adversity, forbearance in prosperity, eloquence in the assembly, valour in battle, a taste for good repute, and a passion for learning: this is the inborn nature of the great-souled.",
+    "situations": [
+      "failure_setback",
+      "success_wealth",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [
+      "war"
+    ],
+    "cross_refs": [
+      "BG.2.48"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.64",
+    "text": "nitishataka",
+    "ref": [
+      64
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On the good: they give in secret, welcome guests, keep quiet about favours they do, and speak of others without contempt.",
+    "devanagari": "प्रदानं प्रच्छन्नं गृहमुपगते संभ्रमविधिः प्रियं कृत्वा मौनं सदसि कथनं चाप्युपकृतेः।\nअनुत्सेको लक्ष्म्यां निरभिभवसाराः परकथाः सतां केनोद्दिष्टं विषममसिधाराव्रतमिदम् ॥",
+    "iast": "pradānaṃ pracchannaṃ gṛhamupagate saṃbhramavidhiḥ priyaṃ kṛtvā maunaṃ sadasi kathanaṃ cāpyupakṛteḥ|\nanutseko lakṣmyāṃ nirabhibhavasārāḥ parakathāḥ satāṃ kenoddiṣṭaṃ viṣamamasidhārāvratamidam ||",
+    "english": "Giving in secret, eager welcome for anyone who comes to the house, silence after doing a kindness, speaking in the assembly of favours received, no arrogance in prosperity, talk of others free of contempt: who taught the good this hard vow, like walking on a sword's edge?",
+    "situations": [
+      "ego_pride_envy",
+      "success_wealth",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.17.20"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.65",
+    "text": "nitishataka",
+    "ref": [
+      65
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On the naturally great: their real ornaments are generosity, humility before teachers and truthful speech, even without wealth.",
+    "devanagari": "करे श्लाघ्यस्त्यागः शिरसि गुरुपादप्रणयिता मुखे सत्या वाणी विजयि भुजयोर्वीर्यमतुलम्।\nहृदि स्वच्छा वृत्तिः श्रुतमधिगतैकव्रतफलं विनाऽप्यैश्वर्येण प्रकृतिमहतां मण्डनमिदम् ॥",
+    "iast": "kare ślāghyastyāgaḥ śirasi gurupādapraṇayitā mukhe satyā vāṇī vijayi bhujayorvīryamatulam|\nhṛdi svacchā vṛttiḥ śrutamadhigataikavrataphalaṃ vinā'pyaiśvaryeṇa prakṛtimahatāṃ maṇḍanamidam ||",
+    "english": "Praiseworthy giving in the hand, devotion to the teacher's feet on the head, truthful speech in the mouth, unequalled victorious strength in the arms, a clear disposition in the heart, learning in the ears: these adorn the naturally great, even without riches.",
+    "situations": [
+      "purpose_meaning",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [
+      "war"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.66",
+    "text": "nitishataka",
+    "ref": [
+      66
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On the great: soft as a lotus in good times, hard as mountain rock in bad times.",
+    "devanagari": "संपत्सु महतां चित्तं भवत्युत्पलकोमलम्।\nआपत्सु च महाशैलशिलासंघातकर्कशम् ॥",
+    "iast": "saṃpatsu mahatāṃ cittaṃ bhavatyutpalakomalam|\nāpatsu ca mahāśailaśilāsaṃghātakarkaśam ||",
+    "english": "In prosperity the hearts of the great are soft as a lotus; in adversity they are hard as a mass of mountain rock.",
+    "situations": [
+      "failure_setback",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.67",
+    "text": "nitishataka",
+    "ref": [
+      67
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On company: the same drop of water vanishes on hot iron, shines on a lotus leaf, and becomes a pearl in a shell.",
+    "devanagari": "संतप्तायसि संस्थितस्य पयसो नामाऽपि न ज्ञायते मुक्ताकारतया तदेव नलिनीपत्रस्थितं राजते।\nस्वात्यां सागरशुक्तिमध्यपतितं तन्मौक्तिकं जायते प्रायेणाधममध्यमोत्तमगुणः संसर्गतो जायते ॥",
+    "iast": "saṃtaptāyasi saṃsthitasya payaso nāmā'pi na jñāyate muktākāratayā tadeva nalinīpatrasthitaṃ rājate|\nsvātyāṃ sāgaraśuktimadhyapatitaṃ tanmauktikaṃ jāyate prāyeṇādhamamadhyamottamaguṇaḥ saṃsargato jāyate ||",
+    "english": "On red-hot iron, a drop of water leaves not even a trace; on a lotus leaf, the same drop shines like a pearl; falling into a sea-shell at the right season, it becomes a pearl. As a rule, low, middling and high qualities come from the company one keeps.",
+    "situations": [
+      "relationships_forgiveness",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.68",
+    "text": "nitishataka",
+    "ref": [
+      68
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Bhartrihari defines a true son, spouse and friend; only the fortunate find all three.",
+    "devanagari": "यः प्रीणयेत्सुचरितैः पितरं स पुत्रो यद्भर्तुरेव हितमिच्छति तत्कलत्रम्।\nतन्मित्रमापदि सुखे च समक्रियं य- देतत्त्रयं जगति पुण्यकृतो लभन्ते ॥",
+    "iast": "yaḥ prīṇayetsucaritaiḥ pitaraṃ sa putro yadbhartureva hitamicchati tatkalatram|\ntanmitramāpadi sukhe ca samakriyaṃ ya- detattrayaṃ jagati puṇyakṛto labhante ||",
+    "english": "A son is one who pleases his father by good conduct; a wife is one who wishes only for her husband's good; a friend is one who acts the same in trouble and in happiness. Those who have done good deeds find these three in the world.",
+    "situations": [
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "student",
+      "householder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [
+      "caste_gender"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.69",
+    "text": "nitishataka",
+    "ref": [
+      69
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Bhartrihari's wish for single-minded commitment: one god, one friend, one dwelling, one wife.",
+    "devanagari": "एको देवः केशवो वा शिवो वा ह्येकं मित्रं भूपतिर्वा यतिर्वा।\nएको वासः पत्तने वा वने वा ह्येका भार्या सुन्दरी वा दरी वा ॥",
+    "iast": "eko devaḥ keśavo vā śivo vā hyekaṃ mitraṃ bhūpatirvā yatirvā|\neko vāsaḥ pattane vā vane vā hyekā bhāryā sundarī vā darī vā ||",
+    "english": "One god, Keshava or Shiva; one friend, a king or an ascetic; one dwelling, in a city or a forest; one wife, a beautiful woman or a cave.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [
+      "renunciation",
+      "caste_gender"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.70",
+    "text": "nitishataka",
+    "ref": [
+      70
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On the good: they rise by bowing, praise others' virtues and serve others' interests, winning over critics by patience.",
+    "devanagari": "नम्रत्वेनोन्नमन्तः परगुणकथनैः स्वान्गुणान्ख्यापयन्तः स्वार्थान्सम्पादयन्तो विततपृथुतरारम्भयत्नाः परार्थे।\nक्षान्त्यैवाऽऽक्षेपरूक्षाक्षरमुखरमुखान् दुर्मुखान्दूषयन्तः सन्तः साश्चर्यचर्या जगति बहुमताः कस्य नाभ्यर्चनीयाः ॥",
+    "iast": "namratvenonnamantaḥ paraguṇakathanaiḥ svānguṇānkhyāpayantaḥ svārthānsampādayanto vitatapṛthutarārambhayatnāḥ parārthe|\nkṣāntyaivā''kṣeparūkṣākṣaramukharamukhān durmukhāndūṣayantaḥ santaḥ sāścaryacaryā jagati bahumatāḥ kasya nābhyarcanīyāḥ ||",
+    "english": "Rising by humility, making their own virtues known by speaking of others' virtues, achieving their own aims by great efforts for others, and shaming harsh-tongued slanderers by forbearance alone: who would not honour the good, whose ways are a wonder in the world?",
+    "situations": [
+      "ego_pride_envy",
+      "relationships_forgiveness",
+      "anger_resentment"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.71",
+    "text": "nitishataka",
+    "ref": [
+      71
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On those who help others: like trees bending with fruit, good people grow humble as they prosper.",
+    "devanagari": "भवन्ति नम्रास्तरवः फलोद्गमैः नवाम्बुभिर्भूमिविलम्बिनो घनाः।\nअनुद्धताः सत्पुरुषाः समृद्धिभिः स्वभाव एवैष परोपकारिणाम् ॥",
+    "iast": "bhavanti namrāstaravaḥ phalodgamaiḥ navāmbubhirbhūmivilambino ghanāḥ|\nanuddhatāḥ satpuruṣāḥ samṛddhibhiḥ svabhāva evaiṣa paropakāriṇām ||",
+    "english": "Trees bend low with the coming of fruit; clouds hang low with fresh water; good people are not puffed up by prosperity. This is simply the nature of those who help others.",
+    "situations": [
+      "success_wealth",
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.13.7"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.72",
+    "text": "nitishataka",
+    "ref": [
+      72
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On those who help others: the ear is adorned by learning, the hand by giving, the body by service, not by jewellery.",
+    "devanagari": "श्रोत्रं श्रुतेनैव न कुण्डलेन दानेन पाणिर्न तु कङ्कणेन।\nविभाति कायः करुणापराणां परोपकारैर्न तु चन्दनेन ॥",
+    "iast": "śrotraṃ śrutenaiva na kuṇḍalena dānena pāṇirna tu kaṅkaṇena|\nvibhāti kāyaḥ karuṇāparāṇāṃ paropakārairna tu candanena ||",
+    "english": "The ear shines through learning, not through an earring; the hand through giving, not through a bracelet; the body of the compassionate shines through helping others, not through sandalwood.",
+    "situations": [
+      "purpose_meaning",
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.73",
+    "text": "nitishataka",
+    "ref": [
+      73
+    ],
+    "speaker": "Bhartrihari",
+    "context": "The good describe a true friend: one who keeps you from wrong, keeps your secrets and stays in hard times.",
+    "devanagari": "पापान्निवारयति योजयते हिताय गुह्यञ्च गूहति गुणान्प्रकटीकरोति।\nआपद्गतञ्च न जहाति ददाति काले सन्मित्रलक्षणमिदं प्रवदन्ति सन्तः ॥",
+    "iast": "pāpānnivārayati yojayate hitāya guhyañca gūhati guṇānprakaṭīkaroti|\nāpadgatañca na jahāti dadāti kāle sanmitralakṣaṇamidaṃ pravadanti santaḥ ||",
+    "english": "He holds you back from wrong and joins you to what is good; he keeps your secrets and makes your virtues known; he does not abandon you in trouble and gives at the right time. The good say these are the marks of a true friend.",
+    "situations": [
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.74",
+    "text": "nitishataka",
+    "ref": [
+      74
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On the good: like the sun and the rain cloud, they help without being asked.",
+    "devanagari": "पद्माकरं दिनकरो विकचीकरोति चन्द्रो विकासयति कैरवचक्रवालम्।\nनाभ्यर्थितो जलधरोऽपि जलं ददाति सन्तः स्वयं परहिताभिहिताभियोगाः ॥",
+    "iast": "padmākaraṃ dinakaro vikacīkaroti candro vikāsayati kairavacakravālam|\nnābhyarthito jaladharo'pi jalaṃ dadāti santaḥ svayaṃ parahitābhihitābhiyogāḥ ||",
+    "english": "The sun opens the lotus beds; the moon opens the night lilies; the cloud gives water without being asked. The good, of their own accord, set themselves to the welfare of others.",
+    "situations": [
+      "purpose_meaning",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.12.4"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.75",
+    "text": "nitishataka",
+    "ref": [
+      75
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Bhartrihari ranks people by how they treat others' good: the good, the ordinary, the human demons, and those beyond naming.",
+    "devanagari": "एते सत्पुरुषाः परार्थघटकाः स्वार्थं परित्यज्य ये सामान्यास्तु परार्थमुद्यमभृतः स्वार्थाऽविरोधेन ये।\nतेऽमी मानुषराक्षसाः परहितं स्वार्थाय निघ्नन्ति ये ये निघ्नन्ति निरर्थकं परहितं ते के न जानीमहे ॥",
+    "iast": "ete satpuruṣāḥ parārthaghaṭakāḥ svārthaṃ parityajya ye sāmānyāstu parārthamudyamabhṛtaḥ svārthā'virodhena ye|\nte'mī mānuṣarākṣasāḥ parahitaṃ svārthāya nighnanti ye ye nighnanti nirarthakaṃ parahitaṃ te ke na jānīmahe ||",
+    "english": "These are the good, who work for others' good, giving up their own; the ordinary strive for others' good where it does not conflict with their own; those who destroy others' good for their own sake are demons in human form; and those who destroy others' good for no reason at all, we do not know what to call them.",
+    "situations": [
+      "purpose_meaning",
+      "relationships_forgiveness",
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.76",
+    "text": "nitishataka",
+    "ref": [
+      76
+    ],
+    "speaker": "Bhartrihari",
+    "context": "An image of true friendship: milk and water sacrifice for each other in the fire.",
+    "devanagari": "क्षीरेणात्मगतोदकाय हि गुणा दत्ताः पुरा तेऽखिलाः क्षीरे तापमवेक्ष्य तेन पयसा स्वात्मा कृशानौ हुतः।\nगन्तुं पावकमुन्मनस्तदभवद्दृष्ट्वा तु मित्रापदं युक्तं तेन जलेन शाम्यति सतां मैत्री पुनस्त्वीदृशी ॥",
+    "iast": "kṣīreṇātmagatodakāya hi guṇā dattāḥ purā te'khilāḥ kṣīre tāpamavekṣya tena payasā svātmā kṛśānau hutaḥ|\ngantuṃ pāvakamunmanastadabhavaddṛṣṭvā tu mitrāpadaṃ yuktaṃ tena jalena śāmyati satāṃ maitrī punastvīdṛśī ||",
+    "english": "Milk once gave all its qualities to the water mixed with it; the water, seeing the milk suffering in the heat, offered itself into the fire; the milk, seeing its friend in trouble, rose up to follow into the fire, and is calmed only when water is sprinkled back. Such is the friendship of the good.",
+    "situations": [
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.77",
+    "text": "nitishataka",
+    "ref": [
+      77
+    ],
+    "speaker": "Bhartrihari",
+    "context": "In praise of the ocean's vastness, which holds Vishnu asleep, his enemies, refugee mountains and the undersea fire alike.",
+    "devanagari": "इतः स्वपिति केशवः कुलमितस्तदीयद्विषा-मितश्च शरणार्थिनां शिखरिणां गणाः शेरते।\nइतोऽपि वडवानलः सह समस्तसंवर्त्तकै-रहो विततमूर्जितं भरसहञ्च सिन्धोर्वपुः ॥",
+    "iast": "itaḥ svapiti keśavaḥ kulamitastadīyadviṣā-mitaśca śaraṇārthināṃ śikhariṇāṃ gaṇāḥ śerate|\nito'pi vaḍavānalaḥ saha samastasaṃvarttakai-raho vitatamūrjitaṃ bharasahañca sindhorvapuḥ ||",
+    "english": "Here Keshava sleeps; here lies the race of his enemies; here rest the crowds of mountains that came for refuge; here too is the undersea fire with all the fires of dissolution. Ah, how vast, mighty and able to bear every burden is the body of the ocean!",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.78",
+    "text": "nitishataka",
+    "ref": [
+      78
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Bhartrihari lists the marks of the good: cut craving, practise patience, drop pride, speak truth.",
+    "devanagari": "तृष्णां छिन्धि भज क्षमां जहि मदं पापे रतिं मा कृथाः सत्यं ब्रूह्यनुयाहि साधुपदवीं सेवस्व विद्वज्जनान्।\nमान्यान्मानय विद्विषोऽप्यनुनय प्रख्यापय स्वान्गुणान्-कीर्तिं पालय दुःखिते कुरु दयामेतत्सतां लक्षणम् ॥",
+    "iast": "tṛṣṇāṃ chindhi bhaja kṣamāṃ jahi madaṃ pāpe ratiṃ mā kṛthāḥ satyaṃ brūhyanuyāhi sādhupadavīṃ sevasva vidvajjanān|\nmānyānmānaya vidviṣo'pyanunaya prakhyāpaya svānguṇān-kīrtiṃ pālaya duḥkhite kuru dayāmetatsatāṃ lakṣaṇam ||",
+    "english": "Cut off craving, practise forbearance, give up pride, take no pleasure in wrongdoing, speak the truth, follow the path of the good, serve the learned, honour those worthy of honour, conciliate even enemies, make your virtues known, guard your good name, and show compassion to those who suffer: these are the marks of the good.",
+    "situations": [
+      "temptation_self_control",
+      "anger_resentment",
+      "relationships_forgiveness",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.16.2",
+      "BG.16.3"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.79",
+    "text": "nitishataka",
+    "ref": [
+      79
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Bhartrihari asks how many good people there are who, full of goodness in thought, word and deed, magnify others' small virtues.",
+    "devanagari": "मनसि वचसि काये पुण्यपीयूषपूर्णा- स्त्रिभुवनमुपकारश्रेणिभिः प्रीणयन्तः।\nपरगुणपरमाणून्पर्वतीकृत्य नित्यं निजहृदि विकसन्तः सन्ति सन्तः कियन्तः ॥",
+    "iast": "manasi vacasi kāye puṇyapīyūṣapūrṇā- stribhuvanamupakāraśreṇibhiḥ prīṇayantaḥ|\nparaguṇaparamāṇūnparvatīkṛtya nityaṃ nijahṛdi vikasantaḥ santi santaḥ kiyantaḥ ||",
+    "english": "Full of the nectar of merit in mind, speech and body, delighting the three worlds with a series of kindnesses, always making mountains of others' tiny virtues and blossoming in their own hearts: how many such good people are there?",
+    "situations": [
+      "relationships_forgiveness",
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.80",
+    "text": "nitishataka",
+    "ref": [
+      80
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On true greatness: the sandal mountain, which turns even bitter trees fragrant, is worth more than mountains of gold or silver.",
+    "devanagari": "किं तेन हेमगिरिणा रजताद्रिणा वा यत्राश्रिताश्च तरवस्तरवस्त एव।\nमन्यामहे मलयमेव यदाश्रयेण कङ्कोलनिम्बकुटजा अपि चन्दनाः स्युः ॥",
+    "iast": "kiṃ tena hemagiriṇā rajatādriṇā vā yatrāśritāśca taravastaravasta eva|\nmanyāmahe malayameva yadāśrayeṇa kaṅkolanimbakuṭajā api candanāḥ syuḥ ||",
+    "english": "What use is the mountain of gold or the mountain of silver, where the trees that grow remain just trees? We value the Malaya mountain, by whose shelter even the kankola, neem and kutaja become sandalwood.",
+    "situations": [
+      "purpose_meaning",
+      "relationships_forgiveness",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.81",
+    "text": "nitishataka",
+    "ref": [
+      81
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On steadfastness: the gods churning the ocean were not satisfied by jewels nor stopped by poison until they got nectar; the steadfast do not stop short of their goal.",
+    "devanagari": "रत्नैर्महार्हैस्तुतुषुर्न देवा न भेजिरे भीमविषेण भीतिम्।\nसुधां विना न प्रययुर्विरामं न निश्चितार्थाद्विरमन्ति धीराः ॥",
+    "iast": "ratnairmahārhaistutuṣurna devā na bhejire bhīmaviṣeṇa bhītim|\nsudhāṃ vinā na prayayurvirāmaṃ na niścitārthādviramanti dhīrāḥ ||",
+    "english": "The gods were not satisfied by precious jewels, nor did they give way to fear at the terrible poison; they did not rest until they had the nectar. The steadfast do not turn back from their set purpose.",
+    "situations": [
+      "lack_of_motivation",
+      "fear_anxiety",
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "student",
+      "householder"
+    ],
+    "aims": [
+      "dharma",
+      "artha"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.82",
+    "text": "nitishataka",
+    "ref": [
+      82
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On steadfastness: a determined person minds neither hardship nor comfort while pursuing a goal.",
+    "devanagari": "क्वचिद्भूमौ शय्या क्वचिदपि च पर्यङ्कशयनं क्वचिच्छाकाहारी क्वचिदपि च शाल्योदनरुचिः।\nक्वचित्कन्थाधारी क्वचिदपि च दिव्याम्बरधरो- मनस्वी कार्यार्थी न गणयति दुःखं न च सुखम् ॥",
+    "iast": "kvacidbhūmau śayyā kvacidapi ca paryaṅkaśayanaṃ kvacicchākāhārī kvacidapi ca śālyodanaruciḥ|\nkvacitkanthādhārī kvacidapi ca divyāmbaradharo- manasvī kāryārthī na gaṇayati duḥkhaṃ na ca sukham ||",
+    "english": "Sometimes sleeping on the ground, sometimes on a fine bed; sometimes eating only vegetables, sometimes enjoying rice; sometimes in rags, sometimes in fine clothes: a determined person, intent on the goal, counts neither hardship nor comfort.",
+    "situations": [
+      "lack_of_motivation",
+      "failure_setback",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder"
+    ],
+    "aims": [
+      "dharma",
+      "artha"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.2.14"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.83",
+    "text": "nitishataka",
+    "ref": [
+      83
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Bhartrihari names the ornament of each quality: goodness for power, restraint of speech for courage, and character as the highest of all.",
+    "devanagari": "ऐश्वर्यस्य विभूषणं सुजनता शौर्यस्य वाक्संयमो ज्ञानस्योपशमः श्रुतस्य विनयो वित्तस्य पात्रे व्ययः।\nअक्रोघस्तपसः क्षमा प्रभवितुर्धर्मस्य निर्व्याजता सर्वेषामपि सर्वकारणमिदं शीलं परं भूषणम् ॥",
+    "iast": "aiśvaryasya vibhūṣaṇaṃ sujanatā śauryasya vāksaṃyamo jñānasyopaśamaḥ śrutasya vinayo vittasya pātre vyayaḥ|\nakroghastapasaḥ kṣamā prabhaviturdharmasya nirvyājatā sarveṣāmapi sarvakāraṇamidaṃ śīlaṃ paraṃ bhūṣaṇam ||",
+    "english": "Goodness is the ornament of power; restraint of speech, of courage; calm, of knowledge; humility, of learning; giving to the worthy, of wealth; freedom from anger, of austerity; forgiveness, of the powerful; sincerity, of dharma. But for all of these, character, the source of all, is the highest ornament.",
+    "situations": [
+      "ego_pride_envy",
+      "success_wealth",
+      "anger_resentment",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.84",
+    "text": "nitishataka",
+    "ref": [
+      84
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On steadfastness: whatever the experts say, whether wealth comes or goes, whether death comes now or later, the steadfast do not leave the just path.",
+    "devanagari": "निन्दन्तु नीतिनिपुणा यदि वा स्तुवन्तु लक्ष्मीः समाविशतु गच्छतु वा यथेष्टम्।\nअद्यैव वा मरणमस्तु युगान्तरे वा न्यायात्पथः प्रविचलन्ति पदं न धीराः ॥",
+    "iast": "nindantu nītinipuṇā yadi vā stuvantu lakṣmīḥ samāviśatu gacchatu vā yatheṣṭam|\nadyaiva vā maraṇamastu yugāntare vā nyāyātpathaḥ pravicalanti padaṃ na dhīrāḥ ||",
+    "english": "Let the experts in policy blame or praise; let fortune come or go as it pleases; let death come today or after an age: the steadfast do not stray a single step from the path of justice.",
+    "situations": [
+      "conflict_of_duties",
+      "fear_anxiety",
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [
+      "death"
+    ],
+    "cross_refs": [
+      "BG.12.18"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.85",
+    "text": "nitishataka",
+    "ref": [
+      85
+    ],
+    "speaker": "Bhartrihari",
+    "context": "A fable on fate: a trapped, starving snake eats a rat that gnawed its way in, and escapes through the rat's hole.",
+    "devanagari": "भग्नाशस्य करण्डपीडिततनोर्म्लानेन्द्रियस्य क्षुधा कृत्वाऽऽखुर्विवरं स्वयं निपतितो नक्तं मुखे भोगिनः।\nतृप्तस्तत्पिशितेन सत्वरमसौ तेनैव यातः पथा लोकाः पश्यत दैवमेव हि नृणां वृद्धौ क्षये कारणम् ॥",
+    "iast": "bhagnāśasya karaṇḍapīḍitatanormlānendriyasya kṣudhā kṛtvā''khurvivaraṃ svayaṃ nipatito naktaṃ mukhe bhoginaḥ|\ntṛptastatpiśitena satvaramasau tenaiva yātaḥ pathā lokāḥ paśyata daivameva hi nṛṇāṃ vṛddhau kṣaye kāraṇam ||",
+    "english": "A snake, hopeless, its body crushed in a basket, its senses fading with hunger: a rat gnawed a hole and fell into its mouth at night by itself. Satisfied by its flesh, the snake quickly escaped by that same path. People, see: fate alone is the cause of rise and fall for humans.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [
+      "fatalism"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.86",
+    "text": "nitishataka",
+    "ref": [
+      86
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On effort: laziness is the great enemy within, and there is no friend like effort.",
+    "devanagari": "आलस्यं हि मनुष्याणां शरीरस्थो महान् रिपुः।\nनास्त्युद्यमसमो बन्धुः कुर्वाणो नावसीदति ॥",
+    "iast": "ālasyaṃ hi manuṣyāṇāṃ śarīrastho mahān ripuḥ|\nnāstyudyamasamo bandhuḥ kurvāṇo nāvasīdati ||",
+    "english": "Laziness is the great enemy dwelling in people's own bodies. There is no friend like effort; one who keeps working does not sink.",
+    "situations": [
+      "lack_of_motivation",
+      "failure_setback"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "artha"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.3.8",
+      "BG.6.5"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.87",
+    "text": "nitishataka",
+    "ref": [
+      87
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On resilience: a cut tree grows again and the waning moon grows full; the good, reflecting on this, are not crushed by misfortune.",
+    "devanagari": "छिन्नोऽपि रोहति तरुः क्षीणोऽप्युपचीयते पुनश्चन्द्रः।\nइति विमृशन्तः सन्तः संतप्यन्ते न ते विपदा ॥",
+    "iast": "chinno'pi rohati taruḥ kṣīṇo'pyupacīyate punaścandraḥ|\niti vimṛśantaḥ santaḥ saṃtapyante na te vipadā ||",
+    "english": "A tree, though cut, grows again; the moon, though waning, fills again. Reflecting on this, the good are not tormented by misfortune.",
+    "situations": [
+      "failure_setback",
+      "grief_loss",
+      "fear_anxiety"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.2.14"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.88",
+    "text": "nitishataka",
+    "ref": [
+      88
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On fate: even Indra, with every advantage, was beaten in battle, so the speaker concludes fate alone is refuge and effort is useless.",
+    "devanagari": "नेता यस्य बृहस्पतिः प्रहरणं वज्रं सुराः सैनिकाः स्वर्गो दुर्गमनुग्रहः किल हरेरैरावतो वारणः।\nइत्यैश्वर्यबलान्वितोऽपि बलभिद्भग्नः परैः सङ्गरे तद्युक्तं ननु दैवमेव शरणं धिग्धिग्वृथा पौरुषम् ॥",
+    "iast": "netā yasya bṛhaspatiḥ praharaṇaṃ vajraṃ surāḥ sainikāḥ svargo durgamanugrahaḥ kila harerairāvato vāraṇaḥ|\nityaiśvaryabalānvito'pi balabhidbhagnaḥ paraiḥ saṅgare tadyuktaṃ nanu daivameva śaraṇaṃ dhigdhigvṛthā pauruṣam ||",
+    "english": "His leader was Brihaspati, his weapon the thunderbolt, the gods his soldiers, heaven his fortress, Hari's favour his support, Airavata his elephant: yet even Indra, with all this power and strength, was defeated by enemies in battle. So fate alone is the refuge; shame, shame on useless human effort.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [
+      "fatalism",
+      "war"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.89",
+    "text": "nitishataka",
+    "ref": [
+      89
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On action and fate: results follow past actions and the mind follows them too, yet the wise should still act only after careful thought.",
+    "devanagari": "कर्मायत्तं फलं पुंसां बुद्धिः कर्मानुसारिणी।\nतथाऽपि सुधिया भाव्यं सुविचार्यैव कुर्वता ॥",
+    "iast": "karmāyattaṃ phalaṃ puṃsāṃ buddhiḥ karmānusāriṇī|\ntathā'pi sudhiyā bhāvyaṃ suvicāryaiva kurvatā ||",
+    "english": "The fruits people reap depend on their actions, and the mind follows their actions. Even so, the wise should act only after careful thought.",
+    "situations": [
+      "conflict_of_duties",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [
+      "fatalism"
+    ],
+    "cross_refs": [
+      "BG.18.25"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.90",
+    "text": "nitishataka",
+    "ref": [
+      90
+    ],
+    "speaker": "Bhartrihari",
+    "context": "A wry fable on bad luck: a bald man escapes the sun under a palm tree and is struck on the head by a falling fruit.",
+    "devanagari": "खल्वाटो दिवसेश्वरस्य किरणैः संतापितो मस्तके वाञ्छन्देशमनातपं विधिवशात्तालस्य मूलं गतः।\nतत्राऽप्यस्य महाफलेन पतता भग्नं सशब्दं शिरः प्रायो गच्छति यत्र भाग्यरहितस्तत्रैव यान्त्यापदः ॥",
+    "iast": "khalvāṭo divaseśvarasya kiraṇaiḥ saṃtāpito mastake vāñchandeśamanātapaṃ vidhivaśāttālasya mūlaṃ gataḥ|\ntatrā'pyasya mahāphalena patatā bhagnaṃ saśabdaṃ śiraḥ prāyo gacchati yatra bhāgyarahitastatraiva yāntyāpadaḥ ||",
+    "english": "A bald man, his head scorched by the rays of the sun, seeking a shady spot, went by fate to the foot of a palm tree; there too, a great falling fruit broke his head with a crack. Usually, wherever the luckless go, misfortunes go too.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [
+      "fatalism"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.91",
+    "text": "nitishataka",
+    "ref": [
+      91
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On fate: seeing elephants and snakes bound, sun and moon eclipsed, and the wise poor, the poet concludes fate is strong.",
+    "devanagari": "गजभुजङ्गमयोरपि बन्धनं शशिदिवाकरयोर्ग्रहपीडनम्।\nमतिमताञ्च विलोक्य दरिद्रतां विधिरहो ! बलवानिति मे मतिः ॥",
+    "iast": "gajabhujaṅgamayorapi bandhanaṃ śaśidivākarayorgrahapīḍanam|\nmatimatāñca vilokya daridratāṃ vidhiraho ! balavāniti me matiḥ ||",
+    "english": "Seeing even elephants and snakes in bonds, the moon and sun troubled by eclipse, and the intelligent in poverty, my view is: ah, fate is strong.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [
+      "fatalism"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.92",
+    "text": "nitishataka",
+    "ref": [
+      92
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On fate: the Creator makes a jewel of a person and then destroys him in a moment; what foolishness of fate.",
+    "devanagari": "सृजति तावदशेषगुणाकरं पुरुषरत्नमलङ्करणं भुवः।\nतदपि तत्क्षणभङ्गि करोति चे- दहह ! कष्टमपण्डितता विधेः ॥",
+    "iast": "sṛjati tāvadaśeṣaguṇākaraṃ puruṣaratnamalaṅkaraṇaṃ bhuvaḥ|\ntadapi tatkṣaṇabhaṅgi karoti ce- dahaha ! kaṣṭamapaṇḍitatā vidheḥ ||",
+    "english": "Fate creates a jewel of a person, a mine of every virtue, an ornament to the earth, and then makes him perish in a moment. Alas, what a pity, the folly of fate!",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [
+      "fatalism",
+      "death"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.93",
+    "text": "nitishataka",
+    "ref": [
+      93
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On fate: no one blames spring or the sun or the cloud for what is lacking; who can wipe away what is written on the forehead?",
+    "devanagari": "पत्रं नैव यदा करीरविटपे दोषो वसन्तस्य किं-नोलूकोऽप्यवलोकते यदि दिवा सूर्यस्य किं दूषणम्।\nधारा नैव पतन्ति चातकमुखे मेघस्य किं दूषणं यत्पूर्वं विधिना ललाटलिखितं तन्मार्जितुं कः क्षमः ॥",
+    "iast": "patraṃ naiva yadā karīraviṭape doṣo vasantasya kiṃ-nolūko'pyavalokate yadi divā sūryasya kiṃ dūṣaṇam|\ndhārā naiva patanti cātakamukhe meghasya kiṃ dūṣaṇaṃ yatpūrvaṃ vidhinā lalāṭalikhitaṃ tanmārjituṃ kaḥ kṣamaḥ ||",
+    "english": "If the karira bush has no leaves, is spring at fault? If the owl does not see by day, is it the sun's fault? If rain does not fall into the chataka's mouth, is it the cloud's fault? Who can wipe away what the Creator wrote on the forehead long ago?",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [
+      "fatalism"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.94",
+    "text": "nitishataka",
+    "ref": [
+      94
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On karma: the gods are under fate, fate gives only the fruits of action, so the poet bows to action itself.",
+    "devanagari": "नमस्यामो देवान्ननु हतविधेस्तेऽपि वशगा विधिर्वन्द्यः सोऽपि प्रतिनियतकर्मैकफलदः।\nफलं कर्मायत्तं किममरगणैः किञ्च विधिना नमस्तत्कर्मभ्यो विधिरपि न येभ्यः प्रभवति ॥",
+    "iast": "namasyāmo devānnanu hatavidheste'pi vaśagā vidhirvandyaḥ so'pi pratiniyatakarmaikaphaladaḥ|\nphalaṃ karmāyattaṃ kimamaragaṇaiḥ kiñca vidhinā namastatkarmabhyo vidhirapi na yebhyaḥ prabhavati ||",
+    "english": "We bow to the gods; but they are under the power of wretched fate. Fate is to be revered; but it gives only the fixed fruit of actions. If the fruit depends on action, what use are the gods, and what use is fate? Salutations to those actions, over which even fate has no power.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [
+      "fatalism"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.95",
+    "text": "nitishataka",
+    "ref": [
+      95
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Hymn to karma: even Brahma, Vishnu, Rudra and the sun are bound by it.",
+    "devanagari": "अपि च - ब्रह्मा येन कुलालवन्नियमितो ब्रह्माण्डभाण्डोदरे विष्णुर्येन दशावतारगहने क्षिप्तो महासंकटे।\nरुद्रो येन कपालपाणिपुटके भिक्षाटनं कारितः सूर्यो भ्राम्यति नित्यमेव गगने तस्मै नमः कर्मणे ॥",
+    "iast": "api ca - brahmā yena kulālavanniyamito brahmāṇḍabhāṇḍodare viṣṇuryena daśāvatāragahane kṣipto mahāsaṃkaṭe|\nrudro yena kapālapāṇipuṭake bhikṣāṭanaṃ kāritaḥ sūryo bhrāmyati nityameva gagane tasmai namaḥ karmaṇe ||",
+    "english": "Moreover: by which Brahma is held like a potter within the pot of the universe, Vishnu is thrown into the great trouble of ten incarnations, Rudra is made to beg with a skull in his hand, and the sun wanders the sky every day: salutations to that karma.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [
+      "fatalism"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.96",
+    "text": "nitishataka",
+    "ref": [
+      96
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On karma: neither looks, family, character, learning nor hard service bear fruit; only merit stored by past austerity ripens in time.",
+    "devanagari": "नैवाकृतिः फलति नैव कुलं न शीलं विद्यापि नैव न च यत्नकृताऽपि सेवा।\nभाग्यानि पूर्वतपसा खलु सञ्चितानि काले फलन्ति पुरुषस्य यथैव वृक्षाः ॥",
+    "iast": "naivākṛtiḥ phalati naiva kulaṃ na śīlaṃ vidyāpi naiva na ca yatnakṛtā'pi sevā|\nbhāgyāni pūrvatapasā khalu sañcitāni kāle phalanti puruṣasya yathaiva vṛkṣāḥ ||",
+    "english": "Neither appearance bears fruit, nor family, nor character, nor even learning, nor service done with effort. Only the fortunes stored up by past austerities bear fruit for a person in time, as trees do.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [
+      "fatalism"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.97",
+    "text": "nitishataka",
+    "ref": [
+      97
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On merit: good deeds done in the past protect a person in danger.",
+    "devanagari": "वने रणे शत्रुजलाग्निमध्ये महार्णवे पर्वतमस्तके वा।\nसुप्तं प्रमत्तं विषमस्थितं वा रक्षन्ति पुण्यानि पुरा कृतानि ॥",
+    "iast": "vane raṇe śatrujalāgnimadhye mahārṇave parvatamastake vā|\nsuptaṃ pramattaṃ viṣamasthitaṃ vā rakṣanti puṇyāni purā kṛtāni ||",
+    "english": "In the forest, in battle, amid enemies, water and fire, on the great ocean or a mountain top, whether asleep, careless or in danger, the good deeds done before protect a person.",
+    "situations": [
+      "fear_anxiety"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [
+      "war",
+      "fatalism"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.98",
+    "text": "nitishataka",
+    "ref": [
+      98
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Bhartrihari urges cultivating right action, which can turn the wicked good and poison to nectar.",
+    "devanagari": "या साधूंश्च खलान्करोति विदुषो मूर्खान्हितान्द्वेषिणः प्रत्यक्षं कुरुते परोक्षममृतं हालाहलं तत्क्षणात्।\nतामाराधय सत्क्रियां भगवतीं भोक्तुं फलं वाञ्छितं हे साधो ! व्यसनैर्गुणेषु विपुलेष्वास्थां वृथा माकृथाः ॥",
+    "iast": "yā sādhūṃśca khalānkaroti viduṣo mūrkhānhitāndveṣiṇaḥ pratyakṣaṃ kurute parokṣamamṛtaṃ hālāhalaṃ tatkṣaṇāt|\ntāmārādhaya satkriyāṃ bhagavatīṃ bhoktuṃ phalaṃ vāñchitaṃ he sādho ! vyasanairguṇeṣu vipuleṣvāsthāṃ vṛthā mākṛthāḥ ||",
+    "english": "Right action can make the wicked good, fools wise, enemies friends, the hidden plain, and poison nectar in a moment. Good person, worship that goddess, right action, to gain the fruit you desire; do not vainly put your trust in many virtues won with toil.",
+    "situations": [
+      "purpose_meaning",
+      "lack_of_motivation"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.99",
+    "text": "nitishataka",
+    "ref": [
+      99
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On prudence: before acting, the wise carefully weigh the outcome, since rash acts burn the heart like a thorn.",
+    "devanagari": "गुणवदगुणवद्वा कुर्वता कार्यमादौ परिणतिरवधार्या यत्नतः पण्डितेन।\nअतिरभसकृतानां कर्मणामाविपत्ते-र्भवति हृदयदाही शल्यतुल्यो विपाकः ॥",
+    "iast": "guṇavadaguṇavadvā kurvatā kāryamādau pariṇatiravadhāryā yatnataḥ paṇḍitena|\natirabhasakṛtānāṃ karmaṇāmāvipatte-rbhavati hṛdayadāhī śalyatulyo vipākaḥ ||",
+    "english": "Whether doing something good or bad, the wise should first carefully consider how it will turn out. The result of acts done in great haste burns the heart like a thorn until death.",
+    "situations": [
+      "conflict_of_duties",
+      "anger_resentment",
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.18.25"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.100",
+    "text": "nitishataka",
+    "ref": [
+      100
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On wasting this life: one who gets a human birth and does no good is like someone cooking sesame in a jewelled pot.",
+    "devanagari": "स्थाल्यां वैदूर्यमय्यां पचति तिलकणांश्चन्दनैरिन्धनाद्यैः सौवर्णैर्लाङ्गलाग्रैर्विलिखति वसुधामर्कमूलस्य हेतोः।\nकृत्वा कर्पूरखण्डान्वृतिमिह कुरुते कोद्रवाणां समन्ता- त्प्राप्येमां कर्मभूमिं न चरति मनुजो यस्तपो मन्दभाग्यः ॥",
+    "iast": "sthālyāṃ vaidūryamayyāṃ pacati tilakaṇāṃścandanairindhanādyaiḥ sauvarṇairlāṅgalāgrairvilikhati vasudhāmarkamūlasya hetoḥ|\nkṛtvā karpūrakhaṇḍānvṛtimiha kurute kodravāṇāṃ samantā- tprāpyemāṃ karmabhūmiṃ na carati manujo yastapo mandabhāgyaḥ ||",
+    "english": "He cooks sesame seeds in a pot of beryl with sandalwood for fuel; he ploughs the earth with golden ploughshares for the sake of arka roots; he builds a fence of camphor around a field of kodo millet: such is the unlucky person who, having reached this land of action, does not practise austerity.",
+    "situations": [
+      "purpose_meaning",
+      "lack_of_motivation"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [
+      "KeU.2.5"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.101",
+    "text": "nitishataka",
+    "ref": [
+      101
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On fate: whatever great efforts one makes, what is not destined will not happen, and what is destined cannot be stopped.",
+    "devanagari": "मज्जत्वम्भसि यातु मेरुशिखरं शत्रूञ्जयत्वाहवे वाणिज्यं कृषिसेवनादिसकला विद्याः कलाः शिक्षताम्।\nआकाशं विपुलं प्रयातु खगवत्कृत्वा प्रयत्नं महा- न्नाभाव्यं भवतीह कर्मवशतो भाव्यस्य नाशः कुतः ॥",
+    "iast": "majjatvambhasi yātu meruśikharaṃ śatrūñjayatvāhave vāṇijyaṃ kṛṣisevanādisakalā vidyāḥ kalāḥ śikṣatām|\nākāśaṃ vipulaṃ prayātu khagavatkṛtvā prayatnaṃ mahā- nnābhāvyaṃ bhavatīha karmavaśato bhāvyasya nāśaḥ kutaḥ ||",
+    "english": "Let him dive into the water, go to the top of Meru, conquer enemies in battle, learn trade, farming, service and all the arts and sciences, fly through the wide sky like a bird with great effort: what is not to be will not happen here, through the power of karma, and how can what is to be be destroyed?",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [
+      "fatalism",
+      "war"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.102",
+    "text": "nitishataka",
+    "ref": [
+      102
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On merit: for one with great past good deeds, a fearsome forest becomes a fine city and everyone becomes kind.",
+    "devanagari": "भीमं वनं भवति तस्य पुरं प्रधानं सर्वे जनाः सुजनतामुपयान्ति तस्य।\nकृत्स्ना च भूर्भवति सन्निधिरत्नपूर्णा यस्यास्ति पूर्वसुकृतं विपुलं नरस्य ॥",
+    "iast": "bhīmaṃ vanaṃ bhavati tasya puraṃ pradhānaṃ sarve janāḥ sujanatāmupayānti tasya|\nkṛtsnā ca bhūrbhavati sannidhiratnapūrṇā yasyāsti pūrvasukṛtaṃ vipulaṃ narasya ||",
+    "english": "For the person who has abundant past good deeds, a fearsome forest becomes a chief city, all people become good to him, and the whole earth becomes full of treasures and jewels.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [],
+    "safety_flags": [
+      "fatalism"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.103",
+    "text": "nitishataka",
+    "ref": [
+      103
+    ],
+    "speaker": "Bhartrihari",
+    "context": "Questions and answers on what truly matters: gain is good company, loss is missing the moment, wealth is learning.",
+    "devanagari": "को लाभो गुणिसङ्गमः किमसुखं प्राज्ञेतरैः सङ्गतिः का हानिः समयच्युतिर्निपुणता का धर्मतत्त्वे रतिः।\nकः शूरो विजितेन्द्रियः प्रियतमा काऽनुव्रता किं धनं विद्या किं सुखमप्रवासगमनं राज्यं किमाज्ञाफलम् ॥",
+    "iast": "ko lābho guṇisaṅgamaḥ kimasukhaṃ prājñetaraiḥ saṅgatiḥ kā hāniḥ samayacyutirnipuṇatā kā dharmatattve ratiḥ|\nkaḥ śūro vijitendriyaḥ priyatamā kā'nuvratā kiṃ dhanaṃ vidyā kiṃ sukhamapravāsagamanaṃ rājyaṃ kimājñāphalam ||",
+    "english": "What is gain? The company of the virtuous. What is unhappiness? Company with fools. What is loss? Missing the right moment. What is skill? Delight in the truth of dharma. Who is a hero? One who has mastered the senses. Who is dearest? A faithful partner. What is wealth? Learning. What is happiness? Not having to live away from home. What is a kingdom? Having one's word obeyed.",
+    "situations": [
+      "purpose_meaning",
+      "relationships_forgiveness",
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.104",
+    "text": "nitishataka",
+    "ref": [
+      104
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On the high-minded (a variant of verse 33): like a jasmine flower, they either crown the world or wither in the forest.",
+    "devanagari": "मालतीकुसुमस्येव द्वे गतीह मनस्विनः।\nमूर्ध्नि सर्वस्य लोकस्य शीर्यते वन एव वा ॥",
+    "iast": "mālatīkusumasyeva dve gatīha manasvinaḥ|\nmūrdhni sarvasya lokasya śīryate vana eva vā ||",
+    "english": "Like a jasmine flower, a high-minded person has two courses here: on the head of the whole world, or withering in the forest.",
+    "situations": [
+      "purpose_meaning",
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.105",
+    "text": "nitishataka",
+    "ref": [
+      105
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On the rare good: the earth is adorned here and there by people who speak kindly and do not slander.",
+    "devanagari": "अप्रियवचनदरिद्रैः प्रियवचनाढ्यैः स्वदारपरितुष्टैः।\nपरपरिवादनिवृत्तैः क्वचित्क्वचिन्मण्डिता वसुधा ॥",
+    "iast": "apriyavacanadaridraiḥ priyavacanāḍhyaiḥ svadāraparituṣṭaiḥ|\nparaparivādanivṛttaiḥ kvacitkvacinmaṇḍitā vasudhā ||",
+    "english": "Poor in harsh words, rich in kind words, content with their own spouses, and turned away from slandering others: only here and there is the earth adorned by such people.",
+    "situations": [
+      "relationships_forgiveness",
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.17.15"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.106",
+    "text": "nitishataka",
+    "ref": [
+      106
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On steadfastness: even when mistreated, a steadfast person's character cannot be wiped out, as a flame held downward still burns upward.",
+    "devanagari": "कदर्थितस्यापि हि धैर्यवृत्तेर्न शक्यते धैर्यगुणाः प्रमार्ष्टुम्।\nअधोमुखस्यापि कृतस्य वह्नेर्नाधः शिखा याति कदाचिदेव ॥",
+    "iast": "kadarthitasyāpi hi dhairyavṛtterna śakyate dhairyaguṇāḥ pramārṣṭum|\nadhomukhasyāpi kṛtasya vahnernādhaḥ śikhā yāti kadācideva ||",
+    "english": "Even when a steadfast person is ill-treated, the qualities of steadfastness cannot be wiped away; even when a fire is turned upside down, its flame never goes downward.",
+    "situations": [
+      "failure_setback",
+      "anger_resentment",
+      "fear_anxiety"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.107",
+    "text": "nitishataka",
+    "ref": [
+      107
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On the steadfast: one whose mind is not pierced by desire, burnt by anger or dragged by greed conquers the three worlds.",
+    "devanagari": "कान्ताकटाक्षविशखा न लुनन्ति यस्य चित्तं न निर्दहति कोपकृशानुतापः।\nकर्षन्ति भूरिविषयाश्च न लोभपाशै- र्लोकत्रयं जयति कृत्स्नमिदं स धीरः ॥",
+    "iast": "kāntākaṭākṣaviśakhā na lunanti yasya cittaṃ na nirdahati kopakṛśānutāpaḥ|\nkarṣanti bhūriviṣayāśca na lobhapāśai- rlokatrayaṃ jayati kṛtsnamidaṃ sa dhīraḥ ||",
+    "english": "Whose mind is not pierced by the arrows of a lover's glances, not burnt by the fire of anger, and not dragged by the many objects of the senses with the nooses of greed: that steadfast person conquers all three worlds.",
+    "situations": [
+      "temptation_self_control",
+      "anger_resentment"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "school_notes": [],
+    "safety_flags": [
+      "caste_gender"
+    ],
+    "cross_refs": [
+      "BG.16.21"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.108",
+    "text": "nitishataka",
+    "ref": [
+      108
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On courage: one brave person can set foot on the whole earth, as the sun does with its radiance.",
+    "devanagari": "एकेनापि हि शूरेण पादाक्रान्तं महीतलम्।\nक्रियते भास्करेणेव स्फारस्फुरिततेजसा ॥",
+    "iast": "ekenāpi hi śūreṇa pādākrāntaṃ mahītalam|\nkriyate bhāskareṇeva sphārasphuritatejasā ||",
+    "english": "Even by one brave person the whole earth is brought under foot, as by the sun with its blazing brilliance.",
+    "situations": [
+      "fear_anxiety",
+      "lack_of_motivation"
+    ],
+    "life_stages": [
+      "student",
+      "householder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [
+      "war"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.109",
+    "text": "nitishataka",
+    "ref": [
+      109
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On good character: for one whose character shines, fire becomes water and poison becomes nectar.",
+    "devanagari": "वह्निस्तस्य जलायते जलनिधिः कुल्यायते तत्क्षणा-न्मेरुः स्वल्पशिलायते मृगपतिः सद्यः कुरङ्गायते।\nव्यालो माल्यगुणायते विषरसः पीयूषवर्षायते यस्याङ्गेऽखिललोकवल्लभतमं शीलं समुन्मीलति ॥",
+    "iast": "vahnistasya jalāyate jalanidhiḥ kulyāyate tatkṣaṇā-nmeruḥ svalpaśilāyate mṛgapatiḥ sadyaḥ kuraṅgāyate|\nvyālo mālyaguṇāyate viṣarasaḥ pīyūṣavarṣāyate yasyāṅge'khilalokavallabhatamaṃ śīlaṃ samunmīlati ||",
+    "english": "For one in whom good character, dearest of all to the whole world, blossoms, fire becomes like water, the ocean like a stream, Meru like a small stone, the lion like a deer, the snake like a garland of flowers, and poison like a shower of nectar, at once.",
+    "situations": [
+      "purpose_meaning",
+      "fear_anxiety"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "NS.110",
+    "text": "nitishataka",
+    "ref": [
+      110
+    ],
+    "speaker": "Bhartrihari",
+    "context": "On keeping one's word: the spirited, devoted to truth, will give up life itself rather than break a promise.",
+    "devanagari": "लज्जागुणौघजननीं जननीमिव स्वा-मत्यन्तशुद्धहृदयामनुवर्त्तमानाम्।\nतेजस्विनः सुखमसूनपि संत्यजन्ति सत्यव्रतव्यसनिनो न पुनः प्रतिज्ञाम् ॥",
+    "iast": "lajjāguṇaughajananīṃ jananīmiva svā-matyantaśuddhahṛdayāmanuvarttamānām|\ntejasvinaḥ sukhamasūnapi saṃtyajanti satyavratavyasanino na punaḥ pratijñām ||",
+    "english": "Those of spirit, devoted to the vow of truth, will gladly give up even their life, but never their promise, which, like their own mother, is pure of heart, gives birth to a flood of virtues such as modesty, and always follows them.",
+    "situations": [
+      "conflict_of_duties",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "school_notes": [],
+    "safety_flags": [
+      "death",
+      "under18_hold"
+    ],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "नीतिशतकम्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A4%A4%E0%A4%95%E0%A4%AE%E0%A5%8D",
+      "revision": 417785,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=417785",
+      "retrieved": "2026-10-02"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  }
+]

@@ -13,7 +13,9 @@
       "seeing-oneness",
       "no-hatred"
     ],
-    "conflicts_with": [],
+    "conflicts_with": [
+      "keep-distance-from-harmful-people"
+    ],
     "modern_application": "Treat the person you are in conflict with exactly as courteously as you would a stranger, while keeping whatever boundary you need.",
     "situations": [
       "relationships_forgiveness",
@@ -38,7 +40,8 @@
     "supporting": [
       "BG.12.13",
       "BG.11.55",
-      "BG.16.2"
+      "BG.16.2",
+      "NS.78"
     ],
     "applies_when": "Resentment towards someone is consuming the person.",
     "misleads_when": "It is used to pressure a victim to drop justified anger or to stay in contact with an abuser.",
@@ -133,7 +136,9 @@
     "meaning": "The discipline of speech is speech that causes no distress and is true, pleasant and beneficial.",
     "supporting": [
       "BG.17.15",
-      "BG.16.2"
+      "BG.16.2",
+      "NS.105",
+      "NS.19"
     ],
     "applies_when": "Someone has to deliver hard news, give feedback, or is tempted to say something cruel.",
     "misleads_when": "It is used to avoid ever saying a necessary hard truth. Truth comes first in the list.",
@@ -164,7 +169,9 @@
     "meaning": "Forgiveness, fortitude and freedom from malice are listed among the divine qualities, alongside vigour.",
     "supporting": [
       "BG.16.3",
-      "BG.12.13"
+      "BG.12.13",
+      "NS.78",
+      "NS.83"
     ],
     "applies_when": "Someone is deciding whether to forgive a family member, friend or colleague.",
     "misleads_when": "It is used to demand immediate forgiveness from someone who was harmed, or to restore access to someone dangerous. Forgiving is not the same as reconciling.",
@@ -285,7 +292,8 @@
     "meaning": "The sages who reach peace delight in the welfare of all beings; even those who follow the hardest inner path are marked by this.",
     "supporting": [
       "BG.5.25",
-      "BG.12.4"
+      "BG.12.4",
+      "NS.74"
     ],
     "applies_when": "Envy or rivalry makes someone unable to be glad of others' good fortune.",
     "misleads_when": "It is used to deny one's own needs.",
@@ -353,7 +361,8 @@
     "supporting": [
       "KeU.4.8",
       "BG.16.2",
-      "BG.13.7"
+      "BG.13.7",
+      "NS.26"
     ],
     "applies_when": "Someone is tempted to lie, cover up, or present a false image.",
     "misleads_when": "It is used to justify brutal honesty that does needless harm, or to demand disclosure that would put someone in danger.",

@@ -90,6 +90,7 @@ public domain and the digital edition we copy from is openly licensed.
 |---|---|---|---|---|---|
 | Bhagavad Gita, with Śaṅkara, Rāmānuja and Madhva | `gita.json` | Sanskrit Wikisource (pinned revisions) | CC BY-SA 4.0 | Public domain (ancient/medieval) | 2026-10-01 |
 | 13 principal Upanishads | `<name>_upanishad.json` | Sanskrit Wikisource (pinned revisions, `data/raw/upanishads/`) | CC BY-SA 4.0 | Public domain (ancient) | 2026-10-01 |
+| Nitishataka of Bhartrihari (109 verses) | `nitishataka.json` | Sanskrit Wikisource, `नीतिशतकम्` (pinned revision, `data/raw/niti/`) | CC BY-SA 4.0 | Public domain (c. 5th century) | 2026-10-02 |
 | Śaṅkara's Upanishad bhāṣyas | `commentaries/<name>_upanishad.json` | Sanskrit Wikisource, `उपनिषद्भाष्यम्` pages | CC BY-SA 4.0 | Public domain (8th century) | 2026-10-01 |
 
 **Not used:**

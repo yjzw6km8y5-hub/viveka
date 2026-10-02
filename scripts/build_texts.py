@@ -62,6 +62,7 @@ def clean_lines(wikitext):
         line = re.sub(r"\s+", " ", line).strip()
         line = line.strip("=").strip()
         line = re.sub(r"\s\|(?=\s|$)", " ।", line)  # ASCII pipe used as a danda
+        line = line.replace("।।", "॥")  # two single dandas typed for a double danda
         if line:
             lines.append(unicodedata.normalize("NFC", line))
     return lines
@@ -317,10 +318,36 @@ def bhashya_katha(raw, records):
     return {r: {"advaita": c} for r, c in found.items()}
 
 
+def split_numbered(lines, drop=None):
+    """Units end at a numbered double danda. Text closed by an unnumbered ॥
+    (invocations, prefatory verses) is dropped, as are lines matching `drop`."""
+    units, current = [], []
+    for ln in lines:
+        if drop and re.fullmatch(drop, ln):
+            continue
+        current.append(ln)
+        m = END_MARK.search(ln)
+        if m:
+            units.append((number(m.group(1)), current))
+            current = []
+        elif ln.rstrip().endswith("॥"):
+            current = []  # unnumbered verse: not a unit
+    return units
+
+
+def parse_nitishataka(raw):
+    page = raw["text"][0]
+    lines = clean_lines(page["wikitext"])
+    stop = next((i for i, ln in enumerate(lines) if ln.startswith("सम्बद्धसम्पर्कतन्तु")), len(lines))
+    units = split_numbered(lines[:stop], drop=r"अपि च\s*[-–:]?")
+    return [(n, ulines, page) for n, ulines in units]
+
+
 PARSERS = {
     "isha_upanishad": (parse_isha, bhashya_isha),
     "kena_upanishad": (parse_kena, bhashya_kena),
     "katha_upanishad": (parse_katha, bhashya_katha),
+    "nitishataka": (parse_nitishataka, None),
 }
 
 

@@ -1,0 +1,2250 @@
+{
+ "NS.1": {
+  "speaker": "Bhartrihari",
+  "context": "Bhartrihari opens by lamenting that good sayings find no fit audience: the learned are envious, the powerful proud, the rest uncomprehending.",
+  "english": "Those who could understand are consumed by envy; the powerful are spoiled by pride; the rest are struck by ignorance. So fine sayings wither away within me.",
+  "situations": [
+   "ego_pride_envy",
+   "purpose_meaning"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.2": {
+  "speaker": "Bhartrihari",
+  "context": "On fools: Bhartrihari says the ignorant and the expert can be persuaded, but not someone with a little half-baked knowledge.",
+  "english": "An ignorant person is easily persuaded; an expert is persuaded more easily still; but someone puffed up by a scrap of knowledge, not even Brahma himself can win over.",
+  "situations": [
+   "ego_pride_envy",
+   "relationships_forgiveness"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [
+   "KeU.2.1"
+  ],
+  "review_status": "draft"
+ },
+ "NS.3": {
+  "speaker": "Bhartrihari",
+  "context": "On fools: impossible feats are easier than changing the mind of a stubborn fool.",
+  "english": "One might pull a jewel by force from between a crocodile's jaws, swim across an ocean tossed by rolling waves, or wear an angry snake on one's head like a flower; but one cannot win over the mind of an obstinate fool.",
+  "situations": [
+   "relationships_forgiveness",
+   "anger_resentment"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.4": {
+  "speaker": "Bhartrihari",
+  "context": "On fools: Bhartrihari continues with more impossible things that are still easier than persuading a stubborn fool.",
+  "english": "Squeezing hard, one might get oil from sand; a thirsty person might drink water from a mirage; wandering about, one might even find a hare's horn; but one cannot win over the mind of an obstinate fool.",
+  "situations": [
+   "relationships_forgiveness"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.5": {
+  "speaker": "Bhartrihari",
+  "context": "On fools: trying to reform fools by force with sweet words is as futile as taming a snake with lotus fibres.",
+  "english": "Whoever tries to lead fools by force with nectar-sweet sayings is trying to bind a wild elephant with tender lotus fibres, to cut a diamond with the tip of a shirisha flower, or to sweeten the salt ocean with a drop of honey.",
+  "situations": [
+   "relationships_forgiveness",
+   "anger_resentment"
+  ],
+  "life_stages": [
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.6": {
+  "speaker": "Bhartrihari",
+  "context": "On fools: silence is the natural cover for one who lacks knowledge, especially among the learned.",
+  "english": "The Creator made a covering for ignorance that is always at one's command and wholly good: silence, the ornament of the unlearned, especially in a gathering of those who know.",
+  "situations": [
+   "ego_pride_envy"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.8": {
+  "speaker": "Bhartrihari",
+  "context": "Bhartrihari confesses how a little learning made him proud, until time with the wise cured him.",
+  "english": "When I knew a little, I was blind with pride like an elephant in rut, and my mind swelled with the thought 'I know everything'. When, little by little, I learned from the wise, the thought 'I am a fool' came, and my pride left me like a fever.",
+  "situations": [
+   "ego_pride_envy",
+   "purpose_meaning"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [
+   "KeU.2.1",
+   "KaU.1.2.5"
+  ],
+  "review_status": "draft"
+ },
+ "NS.9": {
+  "speaker": "Bhartrihari",
+  "context": "An image of petty attachment: a dog gnawing a filthy bone fears no one, not even the king of the gods.",
+  "english": "Gnawing with relish a human bone, crawling with worms, wet with saliva, foul-smelling, disgusting and without meat, a dog does not flinch even at Indra standing beside it; a petty creature does not see how worthless its possession is.",
+  "situations": [
+   "temptation_self_control",
+   "success_wealth"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "moksha"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.10": {
+  "speaker": "Bhartrihari",
+  "context": "Using the Ganga's descent from heaven as an image, Bhartrihari says those who lose discernment fall in a hundred ways.",
+  "english": "From heaven to Shiva's head, from Shiva's head to the mountain, from the high mountain to the earth, and from the earth to the ocean: this Ganga has gone lower and lower, to a lowly place. For those who lose discernment, the fall has a hundred ways.",
+  "situations": [
+   "temptation_self_control",
+   "failure_setback"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [
+   "BG.2.63"
+  ],
+  "review_status": "draft"
+ },
+ "NS.11": {
+  "speaker": "Bhartrihari",
+  "context": "On fools: every ill has a remedy except foolishness.",
+  "english": "Fire can be checked with water, the sun's heat with an umbrella, a rutting elephant with a sharp goad, an ox or donkey with a stick, disease with medicines, poison with various charms: for everything scripture gives a remedy, but for the fool there is none.",
+  "situations": [
+   "relationships_forgiveness"
+  ],
+  "life_stages": [
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.12": {
+  "speaker": "Bhartrihari",
+  "context": "Bhartrihari's harsh judgement of a person without literature, music or art.",
+  "english": "One without literature, music or art is plainly an animal without tail or horns; that it lives without eating grass is the great good fortune of the animals.",
+  "situations": [
+   "purpose_meaning"
+  ],
+  "life_stages": [
+   "student",
+   "householder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [
+   "distress_gentle"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.13": {
+  "speaker": "Bhartrihari",
+  "context": "Bhartrihari's harsh judgement of those without learning, discipline, generosity or virtue.",
+  "english": "Those who have no learning, no discipline, no generosity, no knowledge, no good character, no virtue and no dharma are a burden on the earth in the world of mortals; they roam about as beasts in human form.",
+  "situations": [
+   "purpose_meaning"
+  ],
+  "life_stages": [
+   "student",
+   "householder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [
+   "distress_gentle"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.14": {
+  "speaker": "Bhartrihari",
+  "context": "On company: wandering wild mountains is better than living among fools, even in luxury.",
+  "english": "Better to wander among mountain fastnesses with forest dwellers than to keep the company of fools, even in the palace of the king of the gods.",
+  "situations": [
+   "relationships_forgiveness",
+   "purpose_meaning"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.15": {
+  "speaker": "Bhartrihari",
+  "context": "On the learned: if poets live in poverty in a land, the shame belongs to its ruler, not to them.",
+  "english": "If renowned poets, whose speech is beautiful and refined by learning and whose knowledge is worth passing to students, live poor in some lord's realm, the dullness is the ruler's; poets are masters even without wealth. It is the poor judges who are blamed, who let gems fall in price.",
+  "situations": [
+   "success_wealth",
+   "ego_pride_envy"
+  ],
+  "life_stages": [
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "artha",
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.16": {
+  "speaker": "Bhartrihari",
+  "context": "On the learned: knowledge is an inner wealth that thieves cannot take and that grows by being given.",
+  "english": "It never comes within a thief's reach; it always brings some good; given constantly to those who ask, it grows ever greater; even at the end of the ages it does not perish. Kings, put away your pride before those who have this inner wealth called learning: who can compete with them?",
+  "situations": [
+   "success_wealth",
+   "purpose_meaning"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "artha",
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.17": {
+  "speaker": "Bhartrihari",
+  "context": "On the learned: do not look down on the wise; wealth cannot bind them.",
+  "english": "Do not despise the learned who have grasped the highest truth. Fortune, light as a straw, cannot hold them back; a lotus fibre does not restrain elephants whose temples are dark with fresh streams of rut.",
+  "situations": [
+   "ego_pride_envy",
+   "success_wealth"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.18": {
+  "speaker": "Bhartrihari",
+  "context": "On the learned: fate may take away comforts, but not a person's real skill.",
+  "english": "Moreover: an angry Creator may utterly destroy the swan's pleasure of living in the lotus pond, but he cannot take away its famous skill of separating milk from water.",
+  "situations": [
+   "failure_setback",
+   "success_wealth"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.19": {
+  "speaker": "Bhartrihari",
+  "context": "On the learned: refined speech, not jewellery or perfume, truly adorns a person.",
+  "english": "Armlets do not adorn a person, nor necklaces bright as the moon, nor bathing, nor perfume, nor flowers, nor styled hair. Speech alone adorns a person, when it is refined and well kept; other ornaments wear away, but the ornament of speech is the true ornament.",
+  "situations": [
+   "ego_pride_envy",
+   "relationships_forgiveness"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [
+   "BG.17.15"
+  ],
+  "review_status": "draft"
+ },
+ "NS.20": {
+  "speaker": "Bhartrihari",
+  "context": "In praise of learning: it is beauty, hidden wealth, a friend abroad and honoured even by kings.",
+  "english": "Learning is a person's highest beauty, a treasure hidden and safe. Learning brings enjoyment, fame and happiness; learning is the teacher of teachers. Learning is a kinsman when travelling abroad; learning is the highest deity. Learning, not wealth, is honoured by kings; one without learning is an animal.",
+  "situations": [
+   "purpose_meaning",
+   "success_wealth"
+  ],
+  "life_stages": [
+   "student",
+   "householder"
+  ],
+  "aims": [
+   "dharma",
+   "artha"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.21": {
+  "speaker": "Bhartrihari",
+  "context": "Bhartrihari lists what makes other things unnecessary: patience needs no armour, good learning needs no wealth.",
+  "english": "If one has forbearance, what need of armour? If anger, what need of enemies? If kin, what need of fire? If a true friend, what use are divine medicines? If wicked people are near, what need of snakes? If one has faultless learning, what use is wealth? If modesty, what need of ornaments? If fine poetry, what need of a kingdom?",
+  "situations": [
+   "anger_resentment",
+   "relationships_forgiveness",
+   "success_wealth"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.22": {
+  "speaker": "Bhartrihari",
+  "context": "Bhartrihari lists how a skilled person behaves towards each kind of person; the world rests on such people.",
+  "english": "Courtesy towards one's own people, kindness towards strangers, cunning always towards the wicked, affection for the good, tact with those in power, straightforwardness with the learned, courage against enemies, forbearance towards elders, boldness with women: the world rests on people skilled in these arts.",
+  "situations": [
+   "relationships_forgiveness"
+  ],
+  "life_stages": [
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma",
+   "artha"
+  ],
+  "school_notes": [],
+  "safety_flags": [
+   "war",
+   "caste_gender"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.23": {
+  "speaker": "Bhartrihari",
+  "context": "In praise of good company: it clears dullness, brings truth to speech and lifts the mind.",
+  "english": "It removes dullness of mind, sprinkles truth on speech, raises one's honour, drives away wrongdoing, clears the heart and spreads one's good name in every direction: tell me, what does the company of good people not do for a person?",
+  "situations": [
+   "relationships_forgiveness",
+   "purpose_meaning"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.24": {
+  "speaker": "Bhartrihari",
+  "context": "In praise of great poets, whose fame outlives old age and death.",
+  "english": "Victorious are those virtuous master poets, perfected in their art, whose body of fame knows no fear of old age and death.",
+  "situations": [
+   "purpose_meaning",
+   "ageing_death_impermanence"
+  ],
+  "life_stages": [
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.25": {
+  "speaker": "Bhartrihari",
+  "context": "Bhartrihari lists the blessings that come to a person when the divine is pleased.",
+  "english": "A son of good conduct, a faithful beloved, a gracious master, an affectionate friend, honest servants, a mind without the least distress, a pleasing appearance, steady wealth, a face made bright by learning: these come to an embodied being when Vishnu, who grants all wishes, is pleased.",
+  "situations": [
+   "success_wealth",
+   "relationships_forgiveness"
+  ],
+  "life_stages": [
+   "householder"
+  ],
+  "aims": [
+   "artha",
+   "kama"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.26": {
+  "speaker": "Bhartrihari",
+  "context": "Bhartrihari sums up the common path to the good, taught by every scripture.",
+  "english": "Refraining from taking life, restraint from taking others' wealth, truthful speech, giving at the right time according to one's means, silence about other people's young women, breaking the stream of craving, humility before teachers, and compassion for all beings: this is the path to the good, common to all the scriptures and never contradicted.",
+  "situations": [
+   "temptation_self_control",
+   "purpose_meaning",
+   "relationships_forgiveness"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [
+   "BG.16.2",
+   "BG.13.7"
+  ],
+  "review_status": "draft"
+ },
+ "NS.27": {
+  "speaker": "Bhartrihari",
+  "context": "On perseverance: the lowly never start for fear of obstacles; the middling stop; the best never give up.",
+  "english": "The lowly do not even begin, for fear of obstacles; the middling begin but stop when obstacles strike; the best, struck by obstacles again and again, never give up what they have begun.",
+  "situations": [
+   "failure_setback",
+   "lack_of_motivation",
+   "fear_anxiety"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma",
+   "artha"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [
+   "BG.6.40"
+  ],
+  "review_status": "draft"
+ },
+ "NS.28": {
+  "speaker": "Bhartrihari",
+  "context": "Bhartrihari describes the hard 'sword-edge vow' of the good: no begging from the wicked, no wrongdoing even at the cost of life.",
+  "english": "The wicked are not to be begged from; a friend with little money is not to be asked; one's living should be just and dear to one; a wrong act should be avoided even at the cost of life; in adversity, stand tall; follow the path of the great. Who taught the good this hard vow, like walking on a sword's edge?",
+  "situations": [
+   "conflict_of_duties",
+   "success_wealth",
+   "purpose_meaning"
+  ],
+  "life_stages": [
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [
+   "death"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.29": {
+  "speaker": "Bhartrihari",
+  "context": "On self-respect: a starving old lion still will not eat dry grass.",
+  "english": "Though weak with hunger, thin with age, failing in strength, fallen into hard times, its splendour gone and its life ebbing away, does the lion, foremost of the proud, whose only desire is a mouthful from the split temple of a rutting elephant, eat dry grass?",
+  "situations": [
+   "ego_pride_envy",
+   "failure_setback"
+  ],
+  "life_stages": [
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.30": {
+  "speaker": "Bhartrihari",
+  "context": "On self-respect: a dog is content with a bare bone, but a lion seeks prey worthy of it; people want results that match their spirit.",
+  "english": "A dog, finding a dirty bone with a little sinew and fat and no flesh, is satisfied, though it does not even ease its hunger; a lion lets a jackal that has come into its grasp go, and kills an elephant. Everyone, even in hardship, wants a result that matches their strength of spirit.",
+  "situations": [
+   "ego_pride_envy",
+   "purpose_meaning"
+  ],
+  "life_stages": [
+   "student",
+   "householder"
+  ],
+  "aims": [
+   "dharma",
+   "artha"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.31": {
+  "speaker": "Bhartrihari",
+  "context": "On self-respect: a dog grovels before whoever feeds it, while an elephant eats with dignity.",
+  "english": "A dog wags its tail, falls at the feet, rolls on the ground and shows its mouth and belly to the one who feeds it; but a noble elephant looks on steadily and eats only after a hundred coaxing words.",
+  "situations": [
+   "ego_pride_envy",
+   "success_wealth"
+  ],
+  "life_stages": [
+   "student",
+   "householder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.32": {
+  "speaker": "Bhartrihari",
+  "context": "Bhartrihari says that in the cycle of birth and death, only one whose life lifts their family is truly born.",
+  "english": "In this turning world, who that has died is not born again? That one alone is born by whose birth the family rises to greatness.",
+  "situations": [
+   "purpose_meaning",
+   "ageing_death_impermanence"
+  ],
+  "life_stages": [
+   "householder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [
+   "death"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.33": {
+  "speaker": "Bhartrihari",
+  "context": "On the high-minded: like a cluster of flowers, they either crown the world or wither in the forest.",
+  "english": "Like a cluster of flowers, a high-minded person has two courses: to rest on the head of the whole world, or to wither away in the forest.",
+  "situations": [
+   "purpose_meaning",
+   "ego_pride_envy"
+  ],
+  "life_stages": [
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.34": {
+  "speaker": "Bhartrihari",
+  "context": "A mythic image: Rahu attacks only the sun and moon, not lesser planets; the great choose great opponents.",
+  "english": "There are five or six other honoured planets, Jupiter and the rest, yet Rahu, who delights in special valour, bears them no enmity. Brother, see: the demon king, though only a head remains, swallows at the time of eclipse only the two lights, the lord of day and the lord of night.",
+  "situations": [
+   "ego_pride_envy"
+  ],
+  "life_stages": [
+   "householder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.35": {
+  "speaker": "Bhartrihari",
+  "context": "On the greatness of the great: Shesha bears the worlds, the tortoise bears Shesha, and the ocean holds even the tortoise.",
+  "english": "Shesha bears the rows of worlds set on his hood; he in turn is always carried on the back of the lord of tortoises; and the ocean, without effort, holds even him in its lap. Ah, the glories of the great have no limits.",
+  "situations": [
+   "ego_pride_envy",
+   "purpose_meaning"
+  ],
+  "life_stages": [
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.36": {
+  "speaker": "Bhartrihari",
+  "context": "A mythic image: the mountain Mainaka hid in the ocean rather than face Indra, while his father suffered; better to lose one's wings than desert a parent.",
+  "english": "Better to have one's wings cut off by blows of the proud Indra's thunderbolt, heavy with bursting flames, than this: that the son of the snowy mountain, while his father suffered helplessly, should drop into the waters of the ocean. That was not fitting.",
+  "situations": [
+   "conflict_of_duties",
+   "relationships_forgiveness"
+  ],
+  "life_stages": [
+   "householder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [
+   "war"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.37": {
+  "speaker": "Bhartrihari",
+  "context": "On honour: even an unconscious sunstone blazes when touched by feet; how can a spirited person bear insult?",
+  "english": "If even the lifeless sunstone, touched by the sun's rays, blazes up, how can a person of spirit endure an insult done by another?",
+  "situations": [
+   "anger_resentment",
+   "ego_pride_envy"
+  ],
+  "life_stages": [
+   "student",
+   "householder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.38": {
+  "speaker": "Bhartrihari",
+  "context": "On inner strength: a lion cub attacks elephants; strength is a matter of nature, not age.",
+  "english": "Even a lion cub springs upon elephants whose temples are dark with rut. This is the nature of the strong: age is not the cause of spirit.",
+  "situations": [
+   "fear_anxiety",
+   "lack_of_motivation"
+  ],
+  "life_stages": [
+   "student",
+   "householder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.39": {
+  "speaker": "Bhartrihari",
+  "context": "In mock praise of money: let birth, virtue and character all perish, so long as wealth remains.",
+  "english": "Let birth go down to the underworld; let all one's virtues sink even lower; let character fall from a cliff; let noble family burn in fire; let a thunderbolt strike courage, our enemy. May we have money alone, without which all these virtues are worth no more than a blade of grass.",
+  "situations": [
+   "success_wealth",
+   "temptation_self_control"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "artha",
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.40": {
+  "speaker": "Bhartrihari",
+  "context": "On wealth: the same person, with the same senses and mind, becomes someone else the moment money is gone.",
+  "english": "The same senses, the same work, the same unobstructed intellect, the same speech: yet the same person, without the warmth of wealth, becomes someone else in an instant. This is strange.",
+  "situations": [
+   "success_wealth",
+   "failure_setback"
+  ],
+  "life_stages": [
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "artha"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.41": {
+  "speaker": "Bhartrihari",
+  "context": "On wealth: whoever has money is treated as well-born, learned and eloquent.",
+  "english": "Moreover: whoever has wealth is the well-born one, the scholar, the learned, the judge of merit, the speaker and the handsome one. All virtues take refuge in gold.",
+  "situations": [
+   "success_wealth",
+   "ego_pride_envy"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "artha"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.42": {
+  "speaker": "Bhartrihari",
+  "context": "Bhartrihari lists what ruins each thing: bad counsel ruins a king, attachment a renunciant, pampering a son.",
+  "english": "A king is ruined by bad counsel, an ascetic by attachment, a son by pampering, a brahmin by not studying, a family by a bad son, good conduct by serving the wicked, modesty by drink, farming by neglect, affection by living away, friendship by lack of warmth, prosperity by misrule, and wealth by careless spending.",
+  "situations": [
+   "temptation_self_control",
+   "relationships_forgiveness",
+   "success_wealth"
+  ],
+  "life_stages": [
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "artha",
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.43": {
+  "speaker": "Bhartrihari",
+  "context": "On wealth: money has three fates; whoever neither gives nor enjoys it meets the third, loss.",
+  "english": "Giving, enjoyment and loss: these are the three courses that wealth takes. Whoever neither gives nor enjoys it, theirs takes the third course.",
+  "situations": [
+   "success_wealth",
+   "temptation_self_control"
+  ],
+  "life_stages": [
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "artha",
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [
+   "BG.17.20"
+  ],
+  "review_status": "draft"
+ },
+ "NS.44": {
+  "speaker": "Bhartrihari",
+  "context": "Bhartrihari lists things made more beautiful by being worn down, including those who have spent their wealth on others.",
+  "english": "A gem polished on the whetstone, a victor wounded in battle, an elephant spent after rut, rivers with dry banks in autumn, the moon reduced to a sliver, a young woman tired from love-making, and people who have given away their wealth to those in need: these shine in their thinness.",
+  "situations": [],
+  "life_stages": [],
+  "aims": [],
+  "school_notes": [],
+  "safety_flags": [
+   "war",
+   "caste_gender"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.45": {
+  "speaker": "Bhartrihari",
+  "context": "On wealth: need and plenty change how a person values things.",
+  "english": "A destitute person longs for a handful of barley; later, when full, the same person counts the whole earth as worth a straw. So, because nothing is fixed, the circumstances of the wealthy make things seem great or small, expanding them and shrinking them.",
+  "situations": [
+   "success_wealth",
+   "ego_pride_envy"
+  ],
+  "life_stages": [
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "artha"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.46": {
+  "speaker": "Bhartrihari",
+  "context": "Advice to a ruler: to milk the earth like a cow, nourish the people like its calf.",
+  "english": "King, if you wish to milk this earth-cow, then nourish these people now as you would her calf. When they are well nourished day and night, the earth bears many fruits like a wish-granting creeper.",
+  "situations": [
+   "success_wealth",
+   "relationships_forgiveness"
+  ],
+  "life_stages": [
+   "householder"
+  ],
+  "aims": [
+   "artha",
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [
+   "BG.3.11"
+  ],
+  "review_status": "draft"
+ },
+ "NS.47": {
+  "speaker": "Bhartrihari",
+  "context": "Bhartrihari compares royal policy, in its changing faces, to a courtesan.",
+  "english": "Truthful and false, harsh and sweet-spoken, cruel and kind, grasping and generous, always spending yet always gathering wealth: the policy of kings has many forms, like a courtesan.",
+  "situations": [],
+  "life_stages": [],
+  "aims": [],
+  "school_notes": [],
+  "safety_flags": [
+   "caste_gender"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.48": {
+  "speaker": "Bhartrihari",
+  "context": "On serving kings: if a king lacks six qualities, there is no point in depending on him.",
+  "english": "Command, fame, protection of brahmins, generosity, enjoyment and protecting friends: for those in whom these six qualities are not active, what is the use of relying on a king?",
+  "situations": [],
+  "life_stages": [],
+  "aims": [],
+  "school_notes": [],
+  "safety_flags": [
+   "caste_gender"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.49": {
+  "speaker": "Bhartrihari",
+  "context": "On fate and wealth: what is written on the forehead comes even in a desert; so do not beg from the rich.",
+  "english": "Whatever wealth, small or great, the Creator has written on one's forehead, one gets it even in the desert, and on Mount Meru no more than that. So be steady; do not humble yourself in vain before the wealthy. See: whether in a well or in the ocean, a pot holds the same amount of water.",
+  "situations": [
+   "success_wealth",
+   "ego_pride_envy"
+  ],
+  "life_stages": [
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "artha"
+  ],
+  "school_notes": [],
+  "safety_flags": [
+   "fatalism"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.50": {
+  "speaker": "Bhartrihari",
+  "context": "The chataka bird, which drinks only rain, addresses the cloud: why wait for me to beg?",
+  "english": "Who does not know that you alone are the chataka's support? Best of clouds, why do you wait for our pitiful plea?",
+  "situations": [
+   "ego_pride_envy",
+   "relationships_forgiveness"
+  ],
+  "life_stages": [
+   "householder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.51": {
+  "speaker": "Bhartrihari",
+  "context": "Advice to the chataka bird: not every cloud gives rain, so do not plead before everyone.",
+  "english": "O chataka, my friend, listen for a moment with attention: there are many clouds in the sky, but not all are alike. Some soak the earth with rain; some only thunder in vain. Do not speak pitiful words before every one you see.",
+  "situations": [
+   "ego_pride_envy",
+   "relationships_forgiveness",
+   "success_wealth"
+  ],
+  "life_stages": [
+   "student",
+   "householder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.52": {
+  "speaker": "Bhartrihari",
+  "context": "On the wicked: their natural traits are cruelty, needless quarrels and coveting others' wealth and wives.",
+  "english": "Cruelty, quarrels without cause, longing for another's wealth and another's wife, and intolerance of their own family and friends: this is the inborn nature of the wicked.",
+  "situations": [
+   "anger_resentment",
+   "relationships_forgiveness"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [
+   "BG.16.4"
+  ],
+  "review_status": "draft"
+ },
+ "NS.53": {
+  "speaker": "Bhartrihari",
+  "context": "On the wicked: avoid a wicked person even if they are learned, as you would a jewelled snake.",
+  "english": "A wicked person should be avoided, even if adorned with learning. Is a snake adorned with a jewel any less frightening?",
+  "situations": [
+   "relationships_forgiveness"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.54": {
+  "speaker": "Bhartrihari",
+  "context": "On the wicked: they twist every virtue into a fault.",
+  "english": "Modesty is counted as dullness, devotion to vows as hypocrisy, purity as pretence, courage as cruelty, straightforwardness as stupidity, sweet speech as servility, brilliance as arrogance, eloquence as chatter, steadiness as weakness. What virtue of the virtuous is there that the wicked do not stain?",
+  "situations": [
+   "anger_resentment",
+   "ego_pride_envy",
+   "relationships_forgiveness"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.55": {
+  "speaker": "Bhartrihari",
+  "context": "Bhartrihari says one quality makes others unnecessary: if greed is present, what need of other faults?",
+  "english": "If there is greed, what need of other vices? If slander, what need of sins? If truth, what need of austerity? If the mind is pure, what need of pilgrimage? If goodness, what need of kin? If greatness, what need of ornaments? If true learning, what need of wealth? If disgrace, what need of death?",
+  "situations": [
+   "temptation_self_control",
+   "purpose_meaning"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [
+   "death",
+   "distress_gentle"
+  ],
+  "cross_refs": [
+   "KeU.4.8"
+  ],
+  "review_status": "draft"
+ },
+ "NS.56": {
+  "speaker": "Bhartrihari",
+  "context": "Bhartrihari names seven things that pain him like thorns, among them a good person always in hardship and a wicked one at court.",
+  "english": "The moon grey in daytime, a lovely woman whose youth has passed, a lake without lotuses, a handsome face without learning, a master bent only on money, a good person always in hardship, and a wicked person at the king's court: these seven are thorns in my mind.",
+  "situations": [],
+  "life_stages": [],
+  "aims": [],
+  "school_notes": [],
+  "safety_flags": [
+   "caste_gender"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.57": {
+  "speaker": "Bhartrihari",
+  "context": "On serving the powerful: hot-tempered rulers have no one they hold close, as fire burns even the priest who feeds it.",
+  "english": "Kings of fierce temper have no one truly their own; fire, when touched, burns even the priest who offers into it.",
+  "situations": [
+   "anger_resentment",
+   "relationships_forgiveness"
+  ],
+  "life_stages": [
+   "householder"
+  ],
+  "aims": [
+   "artha"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.58": {
+  "speaker": "Bhartrihari",
+  "context": "On service to the powerful: whatever a servant does is criticised, so the duty of service is harder than yogis' discipline.",
+  "english": "Silent, he is called dumb; skilled in speech, a babbler or chatterer; staying close, impudent; keeping away, timid; patient, a coward; impatient, usually ill-bred. The duty of service is deeply difficult, beyond even yogis.",
+  "situations": [
+   "ego_pride_envy",
+   "failure_setback"
+  ],
+  "life_stages": [
+   "householder"
+  ],
+  "aims": [
+   "artha"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.59": {
+  "speaker": "Bhartrihari",
+  "context": "On the wicked who rise by luck: who can be happy around a low person who got wealth by chance and hates virtue?",
+  "english": "Who can find happiness in the sight of this low person, whose wickedness is plain, who knows no restraint, whose base ways began long ago and spread, who has gained wealth by luck, and who hates virtue?",
+  "situations": [
+   "anger_resentment",
+   "success_wealth"
+  ],
+  "life_stages": [
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.60": {
+  "speaker": "Bhartrihari",
+  "context": "On friendship: friendship with the wicked starts big and shrinks; with the good it starts small and grows.",
+  "english": "Great at the start and dwindling step by step, or small at first and growing afterwards: friendship with the wicked and with the good differs like the shadow in the first and second halves of the day.",
+  "situations": [
+   "relationships_forgiveness"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.61": {
+  "speaker": "Bhartrihari",
+  "context": "On the wicked: hunters, fishermen and slanderers are enemies without cause to deer, fish and good people.",
+  "english": "Deer, fish and good people live content with grass, water and contentment; yet hunters, fishermen and slanderers are their enemies in the world without any cause.",
+  "situations": [
+   "anger_resentment",
+   "relationships_forgiveness"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.62": {
+  "speaker": "Bhartrihari",
+  "context": "Bhartrihari salutes people of pure virtue: they seek good company, delight in others' merits and master themselves.",
+  "english": "Longing for the company of the good, delight in others' virtues, humility before teachers, a passion for learning, love for one's own spouse, fear of public disgrace, devotion to Shiva, the strength to master oneself, and freedom from the company of the wicked: salutations to those people in whom these pure virtues live.",
+  "situations": [
+   "relationships_forgiveness",
+   "temptation_self_control",
+   "purpose_meaning"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.63": {
+  "speaker": "Bhartrihari",
+  "context": "On the great-souled: their nature shows in steadiness in trouble and forbearance in success.",
+  "english": "Steadiness in adversity, forbearance in prosperity, eloquence in the assembly, valour in battle, a taste for good repute, and a passion for learning: this is the inborn nature of the great-souled.",
+  "situations": [
+   "failure_setback",
+   "success_wealth",
+   "purpose_meaning"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [
+   "war"
+  ],
+  "cross_refs": [
+   "BG.2.48"
+  ],
+  "review_status": "draft"
+ },
+ "NS.64": {
+  "speaker": "Bhartrihari",
+  "context": "On the good: they give in secret, welcome guests, keep quiet about favours they do, and speak of others without contempt.",
+  "english": "Giving in secret, eager welcome for anyone who comes to the house, silence after doing a kindness, speaking in the assembly of favours received, no arrogance in prosperity, talk of others free of contempt: who taught the good this hard vow, like walking on a sword's edge?",
+  "situations": [
+   "ego_pride_envy",
+   "success_wealth",
+   "relationships_forgiveness"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [
+   "BG.17.20"
+  ],
+  "review_status": "draft"
+ },
+ "NS.65": {
+  "speaker": "Bhartrihari",
+  "context": "On the naturally great: their real ornaments are generosity, humility before teachers and truthful speech, even without wealth.",
+  "english": "Praiseworthy giving in the hand, devotion to the teacher's feet on the head, truthful speech in the mouth, unequalled victorious strength in the arms, a clear disposition in the heart, learning in the ears: these adorn the naturally great, even without riches.",
+  "situations": [
+   "purpose_meaning",
+   "success_wealth"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [
+   "war"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.66": {
+  "speaker": "Bhartrihari",
+  "context": "On the great: soft as a lotus in good times, hard as mountain rock in bad times.",
+  "english": "In prosperity the hearts of the great are soft as a lotus; in adversity they are hard as a mass of mountain rock.",
+  "situations": [
+   "failure_setback",
+   "success_wealth"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.67": {
+  "speaker": "Bhartrihari",
+  "context": "On company: the same drop of water vanishes on hot iron, shines on a lotus leaf, and becomes a pearl in a shell.",
+  "english": "On red-hot iron, a drop of water leaves not even a trace; on a lotus leaf, the same drop shines like a pearl; falling into a sea-shell at the right season, it becomes a pearl. As a rule, low, middling and high qualities come from the company one keeps.",
+  "situations": [
+   "relationships_forgiveness",
+   "purpose_meaning"
+  ],
+  "life_stages": [
+   "student",
+   "householder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.68": {
+  "speaker": "Bhartrihari",
+  "context": "Bhartrihari defines a true son, spouse and friend; only the fortunate find all three.",
+  "english": "A son is one who pleases his father by good conduct; a wife is one who wishes only for her husband's good; a friend is one who acts the same in trouble and in happiness. Those who have done good deeds find these three in the world.",
+  "situations": [
+   "relationships_forgiveness"
+  ],
+  "life_stages": [
+   "student",
+   "householder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [
+   "caste_gender"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.69": {
+  "speaker": "Bhartrihari",
+  "context": "Bhartrihari's wish for single-minded commitment: one god, one friend, one dwelling, one wife.",
+  "english": "One god, Keshava or Shiva; one friend, a king or an ascetic; one dwelling, in a city or a forest; one wife, a beautiful woman or a cave.",
+  "situations": [],
+  "life_stages": [],
+  "aims": [],
+  "school_notes": [],
+  "safety_flags": [
+   "renunciation",
+   "caste_gender"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.70": {
+  "speaker": "Bhartrihari",
+  "context": "On the good: they rise by bowing, praise others' virtues and serve others' interests, winning over critics by patience.",
+  "english": "Rising by humility, making their own virtues known by speaking of others' virtues, achieving their own aims by great efforts for others, and shaming harsh-tongued slanderers by forbearance alone: who would not honour the good, whose ways are a wonder in the world?",
+  "situations": [
+   "ego_pride_envy",
+   "relationships_forgiveness",
+   "anger_resentment"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.71": {
+  "speaker": "Bhartrihari",
+  "context": "On those who help others: like trees bending with fruit, good people grow humble as they prosper.",
+  "english": "Trees bend low with the coming of fruit; clouds hang low with fresh water; good people are not puffed up by prosperity. This is simply the nature of those who help others.",
+  "situations": [
+   "success_wealth",
+   "ego_pride_envy"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [
+   "BG.13.7"
+  ],
+  "review_status": "draft"
+ },
+ "NS.72": {
+  "speaker": "Bhartrihari",
+  "context": "On those who help others: the ear is adorned by learning, the hand by giving, the body by service, not by jewellery.",
+  "english": "The ear shines through learning, not through an earring; the hand through giving, not through a bracelet; the body of the compassionate shines through helping others, not through sandalwood.",
+  "situations": [
+   "purpose_meaning",
+   "ego_pride_envy"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.73": {
+  "speaker": "Bhartrihari",
+  "context": "The good describe a true friend: one who keeps you from wrong, keeps your secrets and stays in hard times.",
+  "english": "He holds you back from wrong and joins you to what is good; he keeps your secrets and makes your virtues known; he does not abandon you in trouble and gives at the right time. The good say these are the marks of a true friend.",
+  "situations": [
+   "relationships_forgiveness"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.74": {
+  "speaker": "Bhartrihari",
+  "context": "On the good: like the sun and the rain cloud, they help without being asked.",
+  "english": "The sun opens the lotus beds; the moon opens the night lilies; the cloud gives water without being asked. The good, of their own accord, set themselves to the welfare of others.",
+  "situations": [
+   "purpose_meaning",
+   "relationships_forgiveness"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [
+   "BG.12.4"
+  ],
+  "review_status": "draft"
+ },
+ "NS.75": {
+  "speaker": "Bhartrihari",
+  "context": "Bhartrihari ranks people by how they treat others' good: the good, the ordinary, the human demons, and those beyond naming.",
+  "english": "These are the good, who work for others' good, giving up their own; the ordinary strive for others' good where it does not conflict with their own; those who destroy others' good for their own sake are demons in human form; and those who destroy others' good for no reason at all, we do not know what to call them.",
+  "situations": [
+   "purpose_meaning",
+   "relationships_forgiveness",
+   "ego_pride_envy"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.76": {
+  "speaker": "Bhartrihari",
+  "context": "An image of true friendship: milk and water sacrifice for each other in the fire.",
+  "english": "Milk once gave all its qualities to the water mixed with it; the water, seeing the milk suffering in the heat, offered itself into the fire; the milk, seeing its friend in trouble, rose up to follow into the fire, and is calmed only when water is sprinkled back. Such is the friendship of the good.",
+  "situations": [
+   "relationships_forgiveness"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.77": {
+  "speaker": "Bhartrihari",
+  "context": "In praise of the ocean's vastness, which holds Vishnu asleep, his enemies, refugee mountains and the undersea fire alike.",
+  "english": "Here Keshava sleeps; here lies the race of his enemies; here rest the crowds of mountains that came for refuge; here too is the undersea fire with all the fires of dissolution. Ah, how vast, mighty and able to bear every burden is the body of the ocean!",
+  "situations": [],
+  "life_stages": [],
+  "aims": [],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.78": {
+  "speaker": "Bhartrihari",
+  "context": "Bhartrihari lists the marks of the good: cut craving, practise patience, drop pride, speak truth.",
+  "english": "Cut off craving, practise forbearance, give up pride, take no pleasure in wrongdoing, speak the truth, follow the path of the good, serve the learned, honour those worthy of honour, conciliate even enemies, make your virtues known, guard your good name, and show compassion to those who suffer: these are the marks of the good.",
+  "situations": [
+   "temptation_self_control",
+   "anger_resentment",
+   "relationships_forgiveness",
+   "purpose_meaning"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [
+   "BG.16.2",
+   "BG.16.3"
+  ],
+  "review_status": "draft"
+ },
+ "NS.79": {
+  "speaker": "Bhartrihari",
+  "context": "Bhartrihari asks how many good people there are who, full of goodness in thought, word and deed, magnify others' small virtues.",
+  "english": "Full of the nectar of merit in mind, speech and body, delighting the three worlds with a series of kindnesses, always making mountains of others' tiny virtues and blossoming in their own hearts: how many such good people are there?",
+  "situations": [
+   "relationships_forgiveness",
+   "ego_pride_envy"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.80": {
+  "speaker": "Bhartrihari",
+  "context": "On true greatness: the sandal mountain, which turns even bitter trees fragrant, is worth more than mountains of gold or silver.",
+  "english": "What use is the mountain of gold or the mountain of silver, where the trees that grow remain just trees? We value the Malaya mountain, by whose shelter even the kankola, neem and kutaja become sandalwood.",
+  "situations": [
+   "purpose_meaning",
+   "relationships_forgiveness",
+   "success_wealth"
+  ],
+  "life_stages": [
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.81": {
+  "speaker": "Bhartrihari",
+  "context": "On steadfastness: the gods churning the ocean were not satisfied by jewels nor stopped by poison until they got nectar; the steadfast do not stop short of their goal.",
+  "english": "The gods were not satisfied by precious jewels, nor did they give way to fear at the terrible poison; they did not rest until they had the nectar. The steadfast do not turn back from their set purpose.",
+  "situations": [
+   "lack_of_motivation",
+   "fear_anxiety",
+   "temptation_self_control"
+  ],
+  "life_stages": [
+   "student",
+   "householder"
+  ],
+  "aims": [
+   "dharma",
+   "artha"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.82": {
+  "speaker": "Bhartrihari",
+  "context": "On steadfastness: a determined person minds neither hardship nor comfort while pursuing a goal.",
+  "english": "Sometimes sleeping on the ground, sometimes on a fine bed; sometimes eating only vegetables, sometimes enjoying rice; sometimes in rags, sometimes in fine clothes: a determined person, intent on the goal, counts neither hardship nor comfort.",
+  "situations": [
+   "lack_of_motivation",
+   "failure_setback",
+   "success_wealth"
+  ],
+  "life_stages": [
+   "student",
+   "householder"
+  ],
+  "aims": [
+   "dharma",
+   "artha"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [
+   "BG.2.14"
+  ],
+  "review_status": "draft"
+ },
+ "NS.83": {
+  "speaker": "Bhartrihari",
+  "context": "Bhartrihari names the ornament of each quality: goodness for power, restraint of speech for courage, and character as the highest of all.",
+  "english": "Goodness is the ornament of power; restraint of speech, of courage; calm, of knowledge; humility, of learning; giving to the worthy, of wealth; freedom from anger, of austerity; forgiveness, of the powerful; sincerity, of dharma. But for all of these, character, the source of all, is the highest ornament.",
+  "situations": [
+   "ego_pride_envy",
+   "success_wealth",
+   "anger_resentment",
+   "purpose_meaning"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.84": {
+  "speaker": "Bhartrihari",
+  "context": "On steadfastness: whatever the experts say, whether wealth comes or goes, whether death comes now or later, the steadfast do not leave the just path.",
+  "english": "Let the experts in policy blame or praise; let fortune come or go as it pleases; let death come today or after an age: the steadfast do not stray a single step from the path of justice.",
+  "situations": [
+   "conflict_of_duties",
+   "fear_anxiety",
+   "ego_pride_envy"
+  ],
+  "life_stages": [
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [
+   "death"
+  ],
+  "cross_refs": [
+   "BG.12.18"
+  ],
+  "review_status": "draft"
+ },
+ "NS.85": {
+  "speaker": "Bhartrihari",
+  "context": "A fable on fate: a trapped, starving snake eats a rat that gnawed its way in, and escapes through the rat's hole.",
+  "english": "A snake, hopeless, its body crushed in a basket, its senses fading with hunger: a rat gnawed a hole and fell into its mouth at night by itself. Satisfied by its flesh, the snake quickly escaped by that same path. People, see: fate alone is the cause of rise and fall for humans.",
+  "situations": [],
+  "life_stages": [],
+  "aims": [],
+  "school_notes": [],
+  "safety_flags": [
+   "fatalism"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.86": {
+  "speaker": "Bhartrihari",
+  "context": "On effort: laziness is the great enemy within, and there is no friend like effort.",
+  "english": "Laziness is the great enemy dwelling in people's own bodies. There is no friend like effort; one who keeps working does not sink.",
+  "situations": [
+   "lack_of_motivation",
+   "failure_setback"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma",
+   "artha"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [
+   "BG.3.8",
+   "BG.6.5"
+  ],
+  "review_status": "draft"
+ },
+ "NS.87": {
+  "speaker": "Bhartrihari",
+  "context": "On resilience: a cut tree grows again and the waning moon grows full; the good, reflecting on this, are not crushed by misfortune.",
+  "english": "A tree, though cut, grows again; the moon, though waning, fills again. Reflecting on this, the good are not tormented by misfortune.",
+  "situations": [
+   "failure_setback",
+   "grief_loss",
+   "fear_anxiety"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [
+   "BG.2.14"
+  ],
+  "review_status": "draft"
+ },
+ "NS.88": {
+  "speaker": "Bhartrihari",
+  "context": "On fate: even Indra, with every advantage, was beaten in battle, so the speaker concludes fate alone is refuge and effort is useless.",
+  "english": "His leader was Brihaspati, his weapon the thunderbolt, the gods his soldiers, heaven his fortress, Hari's favour his support, Airavata his elephant: yet even Indra, with all this power and strength, was defeated by enemies in battle. So fate alone is the refuge; shame, shame on useless human effort.",
+  "situations": [],
+  "life_stages": [],
+  "aims": [],
+  "school_notes": [],
+  "safety_flags": [
+   "fatalism",
+   "war"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.89": {
+  "speaker": "Bhartrihari",
+  "context": "On action and fate: results follow past actions and the mind follows them too, yet the wise should still act only after careful thought.",
+  "english": "The fruits people reap depend on their actions, and the mind follows their actions. Even so, the wise should act only after careful thought.",
+  "situations": [
+   "conflict_of_duties",
+   "purpose_meaning"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [
+   "fatalism"
+  ],
+  "cross_refs": [
+   "BG.18.25"
+  ],
+  "review_status": "draft"
+ },
+ "NS.90": {
+  "speaker": "Bhartrihari",
+  "context": "A wry fable on bad luck: a bald man escapes the sun under a palm tree and is struck on the head by a falling fruit.",
+  "english": "A bald man, his head scorched by the rays of the sun, seeking a shady spot, went by fate to the foot of a palm tree; there too, a great falling fruit broke his head with a crack. Usually, wherever the luckless go, misfortunes go too.",
+  "situations": [],
+  "life_stages": [],
+  "aims": [],
+  "school_notes": [],
+  "safety_flags": [
+   "fatalism"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.91": {
+  "speaker": "Bhartrihari",
+  "context": "On fate: seeing elephants and snakes bound, sun and moon eclipsed, and the wise poor, the poet concludes fate is strong.",
+  "english": "Seeing even elephants and snakes in bonds, the moon and sun troubled by eclipse, and the intelligent in poverty, my view is: ah, fate is strong.",
+  "situations": [],
+  "life_stages": [],
+  "aims": [],
+  "school_notes": [],
+  "safety_flags": [
+   "fatalism"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.92": {
+  "speaker": "Bhartrihari",
+  "context": "On fate: the Creator makes a jewel of a person and then destroys him in a moment; what foolishness of fate.",
+  "english": "Fate creates a jewel of a person, a mine of every virtue, an ornament to the earth, and then makes him perish in a moment. Alas, what a pity, the folly of fate!",
+  "situations": [],
+  "life_stages": [],
+  "aims": [],
+  "school_notes": [],
+  "safety_flags": [
+   "fatalism",
+   "death"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.93": {
+  "speaker": "Bhartrihari",
+  "context": "On fate: no one blames spring or the sun or the cloud for what is lacking; who can wipe away what is written on the forehead?",
+  "english": "If the karira bush has no leaves, is spring at fault? If the owl does not see by day, is it the sun's fault? If rain does not fall into the chataka's mouth, is it the cloud's fault? Who can wipe away what the Creator wrote on the forehead long ago?",
+  "situations": [],
+  "life_stages": [],
+  "aims": [],
+  "school_notes": [],
+  "safety_flags": [
+   "fatalism"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.94": {
+  "speaker": "Bhartrihari",
+  "context": "On karma: the gods are under fate, fate gives only the fruits of action, so the poet bows to action itself.",
+  "english": "We bow to the gods; but they are under the power of wretched fate. Fate is to be revered; but it gives only the fixed fruit of actions. If the fruit depends on action, what use are the gods, and what use is fate? Salutations to those actions, over which even fate has no power.",
+  "situations": [
+   "purpose_meaning"
+  ],
+  "life_stages": [
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [
+   "fatalism"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.95": {
+  "speaker": "Bhartrihari",
+  "context": "Hymn to karma: even Brahma, Vishnu, Rudra and the sun are bound by it.",
+  "english": "Moreover: by which Brahma is held like a potter within the pot of the universe, Vishnu is thrown into the great trouble of ten incarnations, Rudra is made to beg with a skull in his hand, and the sun wanders the sky every day: salutations to that karma.",
+  "situations": [],
+  "life_stages": [],
+  "aims": [],
+  "school_notes": [],
+  "safety_flags": [
+   "fatalism"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.96": {
+  "speaker": "Bhartrihari",
+  "context": "On karma: neither looks, family, character, learning nor hard service bear fruit; only merit stored by past austerity ripens in time.",
+  "english": "Neither appearance bears fruit, nor family, nor character, nor even learning, nor service done with effort. Only the fortunes stored up by past austerities bear fruit for a person in time, as trees do.",
+  "situations": [],
+  "life_stages": [],
+  "aims": [],
+  "school_notes": [],
+  "safety_flags": [
+   "fatalism"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.97": {
+  "speaker": "Bhartrihari",
+  "context": "On merit: good deeds done in the past protect a person in danger.",
+  "english": "In the forest, in battle, amid enemies, water and fire, on the great ocean or a mountain top, whether asleep, careless or in danger, the good deeds done before protect a person.",
+  "situations": [
+   "fear_anxiety"
+  ],
+  "life_stages": [
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [
+   "war",
+   "fatalism"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.98": {
+  "speaker": "Bhartrihari",
+  "context": "Bhartrihari urges cultivating right action, which can turn the wicked good and poison to nectar.",
+  "english": "Right action can make the wicked good, fools wise, enemies friends, the hidden plain, and poison nectar in a moment. Good person, worship that goddess, right action, to gain the fruit you desire; do not vainly put your trust in many virtues won with toil.",
+  "situations": [
+   "purpose_meaning",
+   "lack_of_motivation"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.99": {
+  "speaker": "Bhartrihari",
+  "context": "On prudence: before acting, the wise carefully weigh the outcome, since rash acts burn the heart like a thorn.",
+  "english": "Whether doing something good or bad, the wise should first carefully consider how it will turn out. The result of acts done in great haste burns the heart like a thorn until death.",
+  "situations": [
+   "conflict_of_duties",
+   "anger_resentment",
+   "temptation_self_control"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [
+   "BG.18.25"
+  ],
+  "review_status": "draft"
+ },
+ "NS.100": {
+  "speaker": "Bhartrihari",
+  "context": "On wasting this life: one who gets a human birth and does no good is like someone cooking sesame in a jewelled pot.",
+  "english": "He cooks sesame seeds in a pot of beryl with sandalwood for fuel; he ploughs the earth with golden ploughshares for the sake of arka roots; he builds a fence of camphor around a field of kodo millet: such is the unlucky person who, having reached this land of action, does not practise austerity.",
+  "situations": [
+   "purpose_meaning",
+   "lack_of_motivation"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma",
+   "moksha"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [
+   "KeU.2.5"
+  ],
+  "review_status": "draft"
+ },
+ "NS.101": {
+  "speaker": "Bhartrihari",
+  "context": "On fate: whatever great efforts one makes, what is not destined will not happen, and what is destined cannot be stopped.",
+  "english": "Let him dive into the water, go to the top of Meru, conquer enemies in battle, learn trade, farming, service and all the arts and sciences, fly through the wide sky like a bird with great effort: what is not to be will not happen here, through the power of karma, and how can what is to be be destroyed?",
+  "situations": [],
+  "life_stages": [],
+  "aims": [],
+  "school_notes": [],
+  "safety_flags": [
+   "fatalism",
+   "war"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.102": {
+  "speaker": "Bhartrihari",
+  "context": "On merit: for one with great past good deeds, a fearsome forest becomes a fine city and everyone becomes kind.",
+  "english": "For the person who has abundant past good deeds, a fearsome forest becomes a chief city, all people become good to him, and the whole earth becomes full of treasures and jewels.",
+  "situations": [],
+  "life_stages": [],
+  "aims": [],
+  "school_notes": [],
+  "safety_flags": [
+   "fatalism"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.103": {
+  "speaker": "Bhartrihari",
+  "context": "Questions and answers on what truly matters: gain is good company, loss is missing the moment, wealth is learning.",
+  "english": "What is gain? The company of the virtuous. What is unhappiness? Company with fools. What is loss? Missing the right moment. What is skill? Delight in the truth of dharma. Who is a hero? One who has mastered the senses. Who is dearest? A faithful partner. What is wealth? Learning. What is happiness? Not having to live away from home. What is a kingdom? Having one's word obeyed.",
+  "situations": [
+   "purpose_meaning",
+   "relationships_forgiveness",
+   "temptation_self_control"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.104": {
+  "speaker": "Bhartrihari",
+  "context": "On the high-minded (a variant of verse 33): like a jasmine flower, they either crown the world or wither in the forest.",
+  "english": "Like a jasmine flower, a high-minded person has two courses here: on the head of the whole world, or withering in the forest.",
+  "situations": [
+   "purpose_meaning",
+   "ego_pride_envy"
+  ],
+  "life_stages": [
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.105": {
+  "speaker": "Bhartrihari",
+  "context": "On the rare good: the earth is adorned here and there by people who speak kindly and do not slander.",
+  "english": "Poor in harsh words, rich in kind words, content with their own spouses, and turned away from slandering others: only here and there is the earth adorned by such people.",
+  "situations": [
+   "relationships_forgiveness",
+   "temptation_self_control"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [
+   "BG.17.15"
+  ],
+  "review_status": "draft"
+ },
+ "NS.106": {
+  "speaker": "Bhartrihari",
+  "context": "On steadfastness: even when mistreated, a steadfast person's character cannot be wiped out, as a flame held downward still burns upward.",
+  "english": "Even when a steadfast person is ill-treated, the qualities of steadfastness cannot be wiped away; even when a fire is turned upside down, its flame never goes downward.",
+  "situations": [
+   "failure_setback",
+   "anger_resentment",
+   "fear_anxiety"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.107": {
+  "speaker": "Bhartrihari",
+  "context": "On the steadfast: one whose mind is not pierced by desire, burnt by anger or dragged by greed conquers the three worlds.",
+  "english": "Whose mind is not pierced by the arrows of a lover's glances, not burnt by the fire of anger, and not dragged by the many objects of the senses with the nooses of greed: that steadfast person conquers all three worlds.",
+  "situations": [
+   "temptation_self_control",
+   "anger_resentment"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma",
+   "moksha"
+  ],
+  "school_notes": [],
+  "safety_flags": [
+   "caste_gender"
+  ],
+  "cross_refs": [
+   "BG.16.21"
+  ],
+  "review_status": "draft"
+ },
+ "NS.108": {
+  "speaker": "Bhartrihari",
+  "context": "On courage: one brave person can set foot on the whole earth, as the sun does with its radiance.",
+  "english": "Even by one brave person the whole earth is brought under foot, as by the sun with its blazing brilliance.",
+  "situations": [
+   "fear_anxiety",
+   "lack_of_motivation"
+  ],
+  "life_stages": [
+   "student",
+   "householder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [
+   "war"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.109": {
+  "speaker": "Bhartrihari",
+  "context": "On good character: for one whose character shines, fire becomes water and poison becomes nectar.",
+  "english": "For one in whom good character, dearest of all to the whole world, blossoms, fire becomes like water, the ocean like a stream, Meru like a small stone, the lion like a deer, the snake like a garland of flowers, and poison like a shower of nectar, at once.",
+  "situations": [
+   "purpose_meaning",
+   "fear_anxiety"
+  ],
+  "life_stages": [
+   "student",
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [],
+  "cross_refs": [],
+  "review_status": "draft"
+ },
+ "NS.110": {
+  "speaker": "Bhartrihari",
+  "context": "On keeping one's word: the spirited, devoted to truth, will give up life itself rather than break a promise.",
+  "english": "Those of spirit, devoted to the vow of truth, will gladly give up even their life, but never their promise, which, like their own mother, is pure of heart, gives birth to a flood of virtues such as modesty, and always follows them.",
+  "situations": [
+   "conflict_of_duties",
+   "relationships_forgiveness"
+  ],
+  "life_stages": [
+   "householder",
+   "elder"
+  ],
+  "aims": [
+   "dharma"
+  ],
+  "school_notes": [],
+  "safety_flags": [
+   "death",
+   "under18_hold"
+  ],
+  "cross_refs": [],
+  "review_status": "draft"
+ }
+}

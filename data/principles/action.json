@@ -46,7 +46,9 @@
       "BG.2.48",
       "BG.4.22",
       "BG.18.26",
-      "BG.2.57"
+      "BG.2.57",
+      "NS.66",
+      "NS.63"
     ],
     "applies_when": "A result (good or bad) is swinging your mood and self-worth, or you are about to make a big decision on the high or low of one outcome.",
     "misleads_when": "It is used to suppress real disappointment or joy, or to stop learning from what went wrong.",
@@ -115,14 +117,16 @@
       "BG.3.8",
       "BG.3.5",
       "BG.3.4",
-      "IsU.2"
+      "IsU.2",
+      "NS.86"
     ],
     "applies_when": "Someone is tempted to avoid a responsibility by doing nothing, or hopes that withdrawing will make a problem disappear.",
     "misleads_when": "The person genuinely needs rest, is burnt out or ill, or is in danger; then pausing or leaving is right, and moderation applies.",
     "related": [
       "relinquish-fruit-not-action",
       "moderation-in-living",
-      "keep-contributing"
+      "keep-contributing",
+      "effort-over-fate"
     ],
     "conflicts_with": [
       "full-renunciation-path"
@@ -152,7 +156,8 @@
       "BG.2.40",
       "BG.6.40",
       "BG.6.43",
-      "BG.6.45"
+      "BG.6.45",
+      "NS.27"
     ],
     "applies_when": "Someone has failed, relapsed or fallen short and believes all their effort was for nothing.",
     "misleads_when": "It is used to keep pouring effort into a path that is clearly wrong for the person (sunk cost).",
@@ -285,7 +290,9 @@
       "BG.3.20",
       "BG.3.25",
       "BG.5.25",
-      "BG.12.4"
+      "BG.12.4",
+      "NS.75",
+      "NS.74"
     ],
     "applies_when": "Choosing between a narrow personal gain and something that serves the wider community.",
     "misleads_when": "It is used to demand self-sacrifice from people who are already over-giving or neglecting their own basic needs.",
@@ -424,7 +431,9 @@
     "supporting": [
       "BG.17.20",
       "BG.17.21",
-      "BG.17.22"
+      "BG.17.22",
+      "NS.64",
+      "NS.43"
     ],
     "applies_when": "Deciding whether, how or to whom to give money, time or help.",
     "misleads_when": "It pushes someone to give beyond their means, or to tolerate being taken advantage of.",
@@ -457,7 +466,8 @@
     "meaning": "Action begun without regard for its consequences, the loss it causes, harm to others or one's own capacity comes from delusion.",
     "supporting": [
       "BG.18.25",
-      "BG.18.30"
+      "BG.18.30",
+      "NS.99"
     ],
     "applies_when": "An impulsive or dramatic decision is being made without thinking through its effects.",
     "misleads_when": "It becomes endless deliberation that prevents any action.",
@@ -560,7 +570,8 @@
       "BG.6.35",
       "BG.6.26",
       "BG.6.36",
-      "KaU.2.3.11"
+      "KaU.2.3.11",
+      "NS.82"
     ],
     "applies_when": "Someone feels their mind or habits are impossible to change, or keeps losing focus.",
     "misleads_when": "It is used to blame someone with a medical or mental-health condition for not 'trying hard enough'.",

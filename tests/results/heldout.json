@@ -13,9 +13,9 @@
   },
   "total": 9,
   "notes": [
-   "top pass-it-on not acceptable"
+   "top choose-your-company not acceptable"
   ],
-  "top": "pass-it-on",
+  "top": "choose-your-company",
   "safety": null,
   "questions": [],
   "answer": {
@@ -48,39 +48,50 @@
    "safety": null,
    "shortlist": [
     {
+     "id": "choose-your-company",
+     "score": 6.59
+    },
+    {
      "id": "pass-it-on",
-     "score": 4.8
+     "score": 4.7
+    },
+    {
+     "id": "marks-of-a-true-friend",
+     "score": 4.7
     },
     {
      "id": "meet-people-where-they-are",
-     "score": 4.8
+     "score": 4.7
     },
     {
      "id": "friend-of-all-beings",
-     "score": 3.66
+     "score": 3.55
     },
     {
      "id": "same-regard-for-all",
-     "score": 3.66
+     "score": 3.55
     },
     {
      "id": "no-hatred",
-     "score": 3.66
+     "score": 3.55
     },
     {
      "id": "forgiveness-as-strength",
-     "score": 3.66
-    },
-    {
-     "id": "apologise-sincerely",
-     "score": 3.66
-    },
-    {
-     "id": "mortality-is-certain",
-     "score": 3.5
+     "score": 3.55
     }
    ],
    "comparison": [
+    {
+     "principle": "choose-your-company",
+     "name": "You become like the company you keep",
+     "fit": [
+      "speaks to a relationship",
+      "echoes your words: company, friend"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "Someone is choosing friends, a peer group, a workplace or a partner's circle, or noticing how others are shaping them.",
+     "limits": "It is used to look down on people, or to cut off someone who simply needs help."
+    },
     {
      "principle": "pass-it-on",
      "name": "Sharing understanding with care",
@@ -93,83 +104,45 @@
      "limits": "It turns into preaching to people who have not asked."
     },
     {
-     "principle": "meet-people-where-they-are",
-     "name": "Don't unsettle others; meet them where they are",
+     "principle": "marks-of-a-true-friend",
+     "name": "The marks of a true friend",
      "fit": [
       "speaks to a relationship",
       "echoes your words: friend, want"
      ],
-     "disagrees_with": [
-      "independent-of-the-crowd"
-     ],
-     "consequence_if_followed": "Someone wants to change a family member's or friend's beliefs or habits, or impose their own new insight.",
-     "limits": "It is used to stay silent about something harmful."
-    },
-    {
-     "principle": "friend-of-all-beings",
-     "name": "The divine is the friend of all",
-     "fit": [
-      "speaks to a relationship",
-      "echoes your words: friend"
-     ],
      "disagrees_with": [],
-     "consequence_if_followed": "Someone feels abandoned or unloved.",
-     "limits": "It replaces human connection and support entirely."
+     "consequence_if_followed": "Someone is unsure whether a friendship is good for them, or wants to be a better friend.",
+     "limits": "It is used to demand perfection from friends, or to keep a secret that endangers someone's safety."
     }
    ],
    "recommendation": {
     "label": "Viveka's application",
-    "principle": "pass-it-on",
-    "name": "Sharing understanding with care",
-    "text": "Sharing understanding with care. The teaching is shared with those who are willing to listen; Krishna gives it to Arjuna 'because you are my friend', and the Kena teacher confirms it has been given in full.",
-    "why_it_fits_you": "For your situation (you are 29): speaks to a relationship; echoes your words: friend, want.",
-    "application": "Share what helped you only when asked, and in the form of your own experience, not instructions."
+    "principle": "choose-your-company",
+    "name": "You become like the company you keep",
+    "text": "You become like the company you keep. Good company clears the mind, puts truth into speech and raises one's honour; the same drop of water vanishes on hot iron and becomes a pearl in a shell.",
+    "why_it_fits_you": "For your situation (you are 29): speaks to a relationship; echoes your words: company, friend.",
+    "application": "List the five people you spend most time with. For each, ask whether you are clearer, kinder and more honest after time with them. Spend a little more time with those who raise you up."
    },
    "sources": [
     {
      "label": "Source text",
-     "id": "BG.4.3",
-     "english": "This same ancient yoga I have taught to you today, because you are my devotee and my friend; for this is the highest secret.",
-     "devanagari": "स एवायं मया तेऽद्य योगः प्रोक्तः पुरातनः ।\nभक्तोऽसि मे सखा चेति रहस्यं ह्येतदुत्तमम् ॥",
+     "id": "NS.23",
+     "english": "It removes dullness of mind, sprinkles truth on speech, raises one's honour, drives away wrongdoing, clears the heart and spreads one's good name in every direction: tell me, what does the company of good people not do for a person?",
+     "devanagari": "जाड्यं धियो हरति सिञ्चति वाचि सत्यं मानोन्नतिं दिशति पापमपाकरोति।\nचेतः प्रसादयति दिक्षु तनोति कीर्तिं सत्संगतिः कथय किं न करोति पुंसाम् ॥",
      "review_status": "draft"
     },
     {
      "label": "Source text",
-     "id": "KeU.4.7",
-     "english": "'Sir, tell me the Upanishad.' 'The Upanishad has been told to you. We have told you the Upanishad about Brahman.'",
-     "devanagari": "उपनिषदं भो ब्रूहीत्युक्ता त उपनिषद्ब्राह्मीं वाव त\nउपनिषदमब्रूमेति ॥",
+     "id": "NS.67",
+     "english": "On red-hot iron, a drop of water leaves not even a trace; on a lotus leaf, the same drop shines like a pearl; falling into a sea-shell at the right season, it becomes a pearl. As a rule, low, middling and high qualities come from the company one keeps.",
+     "devanagari": "संतप्तायसि संस्थितस्य पयसो नामाऽपि न ज्ञायते मुक्ताकारतया तदेव नलिनीपत्रस्थितं राजते।\nस्वात्यां सागरशुक्तिमध्यपतितं तन्मौक्तिकं जायते प्रायेणाधममध्यमोत्तमगुणः संसर्गतो जायते ॥",
      "review_status": "draft"
     }
    ],
    "commentary": [
     {
      "label": "Commentator's view",
-     "unit": "BG.4.3",
-     "school": "advaita",
-     "commentator": "Śaṅkara (Advaita)",
-     "note": "Because you are my devotee and my friend, I have taught you this ancient yoga, the supreme secret, which is knowledge."
-    },
-    {
-     "label": "Commentator's view",
-     "unit": "BG.4.3",
-     "school": "vishishtadvaita",
-     "commentator": "Rāmānuja (Viśiṣṭādvaita)",
-     "note": "I taught it to you in full because you came to me in friendship and great devotion; no one but me could know or tell it, since it is the supreme secret taught in the Vedānta."
-    },
-    {
-     "label": "Commentator's view",
-     "unit": "KeU.4.7",
-     "school": "advaita",
-     "commentator": "Śaṅkara (Advaita)",
-     "note": "The student asks whether the teaching needs some further aid or stands complete. The teacher confirms it is complete; what follows is not an addition to it but the means for gaining it."
-    },
-    {
-     "label": "Commentator's view",
-     "missing": "No commentary by Madhva (Dvaita) or Rāmānuja (Viśiṣṭādvaita) on the Kena Upanishad is in the library yet."
-    },
-    {
-     "label": "Commentator's view",
-     "missing": "Our source has no comment from Madhva (Dvaita) on BG.4.3."
+     "missing": "No classical commentary on the Nitishataka of Bhartrihari is in the library yet."
     }
    ],
    "example": {
@@ -184,19 +157,19 @@
    },
    "challenge": {
     "label": "Viveka's application",
-    "principle": "meet-people-where-they-are",
-    "name": "Don't unsettle others; meet them where they are",
-    "text": "If your conscience leans the other way, here is the other view: Don't unsettle others; meet them where they are. The wise should not unsettle those attached to their way of acting, but encourage them by example; God receives people however they approach.",
+    "principle": "pass-it-on",
+    "name": "Sharing understanding with care",
+    "text": "If your conscience leans the other way, here is the other view: Sharing understanding with care. The teaching is shared with those who are willing to listen; Krishna gives it to Arjuna 'because you are my friend', and the Kena teacher confirms it has been given in full.",
     "source": {
      "label": "Source text",
-     "id": "BG.3.26",
-     "english": "The wise should not unsettle the minds of the unknowing who are attached to action; acting with discipline themselves, they should encourage others in all their work."
+     "id": "BG.4.3",
+     "english": "This same ancient yoga I have taught to you today, because you are my devotee and my friend; for this is the highest secret."
     },
-    "when_the_recommendation_misleads": "It turns into preaching to people who have not asked."
+    "when_the_recommendation_misleads": "It is used to look down on people, or to cut off someone who simply needs help."
    },
    "next_step": {
     "label": "Viveka's application",
-    "text": "Share what helped you only when asked, and in the form of your own experience, not instructions."
+    "text": "List the five people you spend most time with. For each, ask whether you are clearer, kinder and more honest after time with them. Spend a little more time with those who raise you up."
    },
    "safety_footer": {
     "label": "Viveka's application",
@@ -255,7 +228,7 @@
    "shortlist": [
     {
      "id": "guard-your-gains",
-     "score": 13.45
+     "score": 13.4
     },
     {
      "id": "effort-never-wasted",
@@ -267,7 +240,7 @@
     },
     {
      "id": "bear-what-comes-and-goes",
-     "score": 7.73
+     "score": 7.63
     },
     {
      "id": "steady-practice",
@@ -279,11 +252,11 @@
     },
     {
      "id": "enjoy-through-letting-go",
-     "score": 6.01
+     "score": 5.99
     },
     {
      "id": "independent-of-the-crowd",
-     "score": 5.01
+     "score": 5.04
     }
    ],
    "comparison": [
@@ -451,19 +424,19 @@
    "shortlist": [
     {
      "id": "respect-different-paths",
-     "score": 17.15
+     "score": 17.18
     },
     {
      "id": "meet-people-where-they-are",
-     "score": 16.74
+     "score": 16.75
     },
     {
      "id": "equal-dignity",
-     "score": 16.41
+     "score": 16.44
     },
     {
      "id": "seek-a-parents-peace",
-     "score": 10.64
+     "score": 10.65
     },
     {
      "id": "seeing-oneness",
@@ -471,7 +444,7 @@
     },
     {
      "id": "same-regard-for-all",
-     "score": 7.96
+     "score": 8.03
     },
     {
      "id": "loving-without-clinging",
@@ -479,7 +452,7 @@
     },
     {
      "id": "let-go-of-mine",
-     "score": 6.72
+     "score": 6.64
     }
    ],
    "comparison": [
@@ -690,11 +663,11 @@
    "shortlist": [
     {
      "id": "reflect-then-choose",
-     "score": 13.72
+     "score": 13.75
     },
     {
      "id": "fearlessness",
-     "score": 11.72
+     "score": 11.75
     },
     {
      "id": "ask-for-help-when-lost",
@@ -894,11 +867,11 @@
    "shortlist": [
     {
      "id": "honour-the-grief-first",
-     "score": 9.23
+     "score": 9.24
     },
     {
      "id": "sorrow-ends-in-stillness",
-     "score": 7.72
+     "score": 7.75
     },
     {
      "id": "ask-for-help-when-lost",
@@ -906,15 +879,15 @@
     },
     {
      "id": "meet-people-where-they-are",
-     "score": 4.59
+     "score": 4.63
     },
     {
      "id": "apologise-sincerely",
-     "score": 4.36
+     "score": 4.39
     },
     {
      "id": "seek-a-parents-peace",
-     "score": 4.36
+     "score": 4.39
     },
     {
      "id": "friend-of-all-beings",
@@ -1077,7 +1050,7 @@
    "shortlist": [
     {
      "id": "contact-pleasures-end",
-     "score": 13.41
+     "score": 13.44
     },
     {
      "id": "withstand-the-surge",
@@ -1089,7 +1062,7 @@
     },
     {
      "id": "pleasant-versus-good",
-     "score": 7.39
+     "score": 7.19
     },
     {
      "id": "wealth-never-satisfies",
@@ -1097,15 +1070,15 @@
     },
     {
      "id": "do-not-covet",
-     "score": 5.16
+     "score": 5.17
     },
     {
      "id": "not-the-sole-doer",
-     "score": 4.59
+     "score": 4.63
     },
     {
-     "id": "contentment-within",
-     "score": 4.59
+     "id": "let-go-of-mine",
+     "score": 4.63
     }
    ],
    "comparison": [
@@ -1297,11 +1270,11 @@
     },
     {
      "id": "not-knowing-is-part-of-knowing",
-     "score": 9.46
+     "score": 9.5
     },
     {
      "id": "moderation-in-living",
-     "score": 9.24
+     "score": 9.23
     },
     {
      "id": "humility-before-the-unknown",
@@ -1309,15 +1282,15 @@
     },
     {
      "id": "keep-contributing",
-     "score": 8.36
+     "score": 8.37
     },
     {
      "id": "see-the-pain-of-ageing-clearly",
-     "score": 7.06
+     "score": 7.07
     },
     {
      "id": "mortality-is-certain",
-     "score": 6.36
+     "score": 6.39
     }
    ],
    "comparison": [
@@ -1507,11 +1480,15 @@
    "shortlist": [
     {
      "id": "envy-and-comparison",
-     "score": 8.01
+     "score": 8.04
     },
     {
      "id": "withstand-the-surge",
-     "score": 6.01
+     "score": 6.04
+    },
+    {
+     "id": "choose-your-company",
+     "score": 6.04
     },
     {
      "id": "reciprocity",
@@ -1526,15 +1503,11 @@
      "score": 5.0
     },
     {
+     "id": "keep-distance-from-harmful-people",
+     "score": 5.0
+    },
+    {
      "id": "strength-without-passion",
-     "score": 5.0
-    },
-    {
-     "id": "patience",
-     "score": 5.0
-    },
-    {
-     "id": "let-go-of-mine",
      "score": 5.0
     }
    ],
@@ -1564,15 +1537,16 @@
      "limits": "It encourages bottling up feelings instead of expressing them safely."
     },
     {
-     "principle": "reciprocity",
-     "name": "Give back what sustains you",
+     "principle": "choose-your-company",
+     "name": "You become like the company you keep",
      "fit": [
-      "speaks to a relationship, pride or comparison",
+      "speaks to a relationship",
+      "echoes your words: company",
       "fits the householder stage you described"
      ],
      "disagrees_with": [],
-     "consequence_if_followed": "Someone is taking more than they give in a family, team or community, or feels unappreciated for what they give.",
-     "limits": "It is used to keep score in close relationships, or to pressure someone into repaying help they never asked for."
+     "consequence_if_followed": "Someone is choosing friends, a peer group, a workplace or a partner's circle, or noticing how others are shaping them.",
+     "limits": "It is used to look down on people, or to cut off someone who simply needs help."
     }
    ],
    "recommendation": {
@@ -1724,11 +1698,11 @@
    "shortlist": [
     {
      "id": "give-without-expecting-return",
-     "score": 14.28
+     "score": 14.24
     },
     {
      "id": "reciprocity",
-     "score": 11.52
+     "score": 11.55
     },
     {
      "id": "name-the-confusion",
@@ -1736,23 +1710,23 @@
     },
     {
      "id": "wealth-never-satisfies",
-     "score": 10.06
+     "score": 9.98
     },
     {
      "id": "reflect-then-choose",
      "score": 9.0
     },
     {
-     "id": "gold-and-stone-alike",
-     "score": 8.06
+     "id": "use-wealth-or-lose-it",
+     "score": 8.98
     },
     {
      "id": "weigh-consequences-and-capacity",
      "score": 7.6
     },
     {
-     "id": "lasting-versus-passing-treasure",
-     "score": 7.0
+     "id": "gold-and-stone-alike",
+     "score": 6.98
     }
    ],
    "comparison": [
@@ -1935,7 +1909,7 @@
     },
     {
      "id": "steadiness-under-pressure",
-     "score": 8.52
+     "score": 8.55
     },
     {
      "id": "not-the-sole-doer",
@@ -1943,19 +1917,19 @@
     },
     {
      "id": "honesty",
-     "score": 5.19
+     "score": 5.22
     },
     {
      "id": "no-self-torture",
-     "score": 5.06
+     "score": 5.09
     },
     {
      "id": "no-recognition-seeking",
-     "score": 4.44
+     "score": 4.43
     },
     {
      "id": "the-steady-doer",
-     "score": 4.44
+     "score": 4.43
     }
    ],
    "comparison": [
@@ -2142,7 +2116,7 @@
     },
     {
      "id": "clear-understanding",
-     "score": 7.39
+     "score": 7.29
     },
     {
      "id": "honesty",
@@ -2150,11 +2124,11 @@
     },
     {
      "id": "resist-tempting-shortcuts",
-     "score": 5.19
+     "score": 5.22
     },
     {
      "id": "give-without-expecting-return",
-     "score": 5.01
+     "score": 5.04
     },
     {
      "id": "fearlessness",
@@ -2162,11 +2136,11 @@
     },
     {
      "id": "skill-in-action",
-     "score": 3.61
+     "score": 3.68
     },
     {
      "id": "humility-before-the-unknown",
-     "score": 3.59
+     "score": 3.49
     }
    ],
    "comparison": [
@@ -2316,7 +2290,7 @@
    "shortlist": [
     {
      "id": "nourish-one-another",
-     "score": 8.11
+     "score": 8.06
     },
     {
      "id": "impermanence",
@@ -2327,24 +2301,24 @@
      "score": 7.2
     },
     {
+     "id": "choose-your-company",
+     "score": 4.81
+    },
+    {
+     "id": "marks-of-a-true-friend",
+     "score": 4.81
+    },
+    {
      "id": "give-without-expecting-return",
-     "score": 4.36
+     "score": 4.22
     },
     {
      "id": "see-the-pain-of-ageing-clearly",
-     "score": 4.19
+     "score": 4.22
     },
     {
-     "id": "friend-of-all-beings",
-     "score": 3.66
-    },
-    {
-     "id": "pass-it-on",
-     "score": 3.66
-    },
-    {
-     "id": "same-regard-for-all",
-     "score": 3.66
+     "id": "bear-what-comes-and-goes",
+     "score": 3.6
     }
    ],
    "comparison": [
@@ -2535,11 +2509,11 @@
     },
     {
      "id": "give-without-expecting-return",
-     "score": 6.59
+     "score": 6.63
     },
     {
      "id": "no-ill-will-between-teacher-and-student",
-     "score": 6.22
+     "score": 6.29
     },
     {
      "id": "work-not-results",
@@ -2547,11 +2521,11 @@
     },
     {
      "id": "lead-by-example",
-     "score": 5.92
+     "score": 5.99
     },
     {
      "id": "seek-a-parents-peace",
-     "score": 5.84
+     "score": 5.91
     }
    ],
    "comparison": [
@@ -2745,6 +2719,10 @@
      "score": 7.6
     },
     {
+     "id": "keep-distance-from-harmful-people",
+     "score": 7.51
+    },
+    {
      "id": "no-hatred",
      "score": 7.0
     },
@@ -2754,11 +2732,7 @@
     },
     {
      "id": "keep-contributing",
-     "score": 5.01
-    },
-    {
-     "id": "same-regard-for-all",
-     "score": 5.0
+     "score": 5.04
     }
    ],
    "comparison": [
@@ -2930,11 +2904,11 @@
    "shortlist": [
     {
      "id": "graded-practice",
-     "score": 7.47
+     "score": 7.4
     },
     {
      "id": "give-without-expecting-return",
-     "score": 7.07
+     "score": 7.03
     },
     {
      "id": "procrastination-as-a-state",
@@ -2942,19 +2916,19 @@
     },
     {
      "id": "meet-people-where-they-are",
-     "score": 6.67
+     "score": 6.74
     },
     {
      "id": "reciprocity",
-     "score": 6.19
-    },
-    {
-     "id": "sorrow-ends-in-stillness",
-     "score": 5.25
+     "score": 6.15
     },
     {
      "id": "patience",
-     "score": 5.19
+     "score": 5.22
+    },
+    {
+     "id": "sorrow-ends-in-stillness",
+     "score": 5.18
     },
     {
      "id": "hard-at-first-sweet-later",
@@ -3150,19 +3124,19 @@
    "shortlist": [
     {
      "id": "reflect-then-choose",
-     "score": 12.5
+     "score": 12.49
     },
     {
      "id": "fearlessness",
-     "score": 10.5
+     "score": 10.49
     },
     {
      "id": "ask-for-help-when-lost",
-     "score": 8.5
+     "score": 8.49
     },
     {
      "id": "duty-of-protection",
-     "score": 6.5
+     "score": 6.49
     }
    ],
    "comparison": [
@@ -3362,11 +3336,11 @@
     },
     {
      "id": "pleasant-versus-good",
-     "score": 5.95
+     "score": 5.98
     },
     {
      "id": "hard-at-first-sweet-later",
-     "score": 5.67
+     "score": 5.62
     },
     {
      "id": "guard-the-senses",
@@ -3374,19 +3348,19 @@
     },
     {
      "id": "name-the-confusion",
-     "score": 4.24
+     "score": 4.31
     },
     {
      "id": "see-the-pain-of-ageing-clearly",
-     "score": 4.24
+     "score": 4.31
     },
     {
      "id": "lead-by-example",
-     "score": 4.06
+     "score": 4.09
     },
     {
      "id": "seek-a-parents-peace",
-     "score": 4.06
+     "score": 4.09
     }
    ],
    "comparison": [
@@ -3546,11 +3520,11 @@
     },
     {
      "id": "humility-before-the-unknown",
-     "score": 10.72
+     "score": 10.75
     },
     {
      "id": "chariot-of-the-mind",
-     "score": 8.14
+     "score": 8.15
     },
     {
      "id": "withstand-the-surge",
@@ -3558,7 +3532,7 @@
     },
     {
      "id": "reasoning-alone-is-not-enough",
-     "score": 7.92
+     "score": 7.95
     },
     {
      "id": "not-knowing-is-part-of-knowing",
@@ -3566,11 +3540,11 @@
     },
     {
      "id": "three-gunas-awareness",
-     "score": 6.62
+     "score": 6.59
     },
     {
      "id": "respect-different-paths",
-     "score": 6.41
+     "score": 6.44
     }
    ],
    "comparison": [
@@ -3742,7 +3716,7 @@
     },
     {
      "id": "forgiveness-as-strength",
-     "score": 5.38
+     "score": 5.3
     },
     {
      "id": "give-without-expecting-return",
@@ -3750,23 +3724,23 @@
     },
     {
      "id": "reciprocity",
-     "score": 3.72
+     "score": 3.75
     },
     {
      "id": "envy-and-comparison",
-     "score": 3.72
+     "score": 3.75
     },
     {
      "id": "respect-different-paths",
-     "score": 3.72
+     "score": 3.75
     },
     {
      "id": "friend-of-all-beings",
-     "score": 3.66
+     "score": 3.55
     },
     {
      "id": "pass-it-on",
-     "score": 3.66
+     "score": 3.55
     }
    ],
    "comparison": [
@@ -3954,7 +3928,7 @@
    "shortlist": [
     {
      "id": "not-the-sole-doer",
-     "score": 12.21
+     "score": 11.83
     },
     {
      "id": "honour-and-dishonour-alike",
@@ -3966,7 +3940,7 @@
     },
     {
      "id": "ego-that-will-not-listen",
-     "score": 5.95
+     "score": 5.98
     },
     {
      "id": "steadiness-under-pressure",
@@ -3974,15 +3948,15 @@
     },
     {
      "id": "envy-and-comparison",
-     "score": 4.59
+     "score": 4.63
     },
     {
      "id": "independent-of-the-crowd",
-     "score": 4.59
+     "score": 4.63
     },
     {
      "id": "reciprocity",
-     "score": 4.36
+     "score": 4.39
     }
    ],
    "comparison": [
@@ -4171,35 +4145,35 @@
    "shortlist": [
     {
      "id": "guard-the-senses",
-     "score": 5.01
+     "score": 5.04
     },
     {
      "id": "see-the-pain-of-ageing-clearly",
-     "score": 4.11
+     "score": 4.18
     },
     {
      "id": "lead-by-example",
-     "score": 4.06
+     "score": 4.09
     },
     {
      "id": "pass-it-on",
-     "score": 4.06
+     "score": 4.09
     },
     {
      "id": "seek-a-parents-peace",
-     "score": 4.06
+     "score": 4.09
     },
     {
      "id": "nourish-one-another",
-     "score": 4.06
+     "score": 4.09
+    },
+    {
+     "id": "choose-your-company",
+     "score": 4.0
     },
     {
      "id": "honesty",
      "score": 4.0
-    },
-    {
-     "id": "meet-people-where-they-are",
-     "score": 3.95
     }
    ],
    "comparison": [
@@ -4367,11 +4341,11 @@
    "shortlist": [
     {
      "id": "name-the-confusion",
-     "score": 12.46
+     "score": 12.49
     },
     {
      "id": "reflect-then-choose",
-     "score": 10.72
+     "score": 10.75
     },
     {
      "id": "weigh-consequences-and-capacity",
@@ -4379,19 +4353,19 @@
     },
     {
      "id": "clear-understanding",
-     "score": 9.35
+     "score": 9.42
     },
     {
      "id": "choose-again-after-delusion",
-     "score": 7.95
+     "score": 8.02
     },
     {
      "id": "lead-by-example",
-     "score": 7.06
+     "score": 7.13
     },
     {
      "id": "honesty",
-     "score": 5.44
+     "score": 5.47
     },
     {
      "id": "understand-before-acting",
@@ -4577,7 +4551,7 @@
     },
     {
      "id": "renounce-selfishness-not-the-world",
-     "score": 8.79
+     "score": 8.83
     },
     {
      "id": "dharmic-desire-is-legitimate",
@@ -4589,7 +4563,7 @@
     },
     {
      "id": "work-not-results",
-     "score": 6.03
+     "score": 6.1
     },
     {
      "id": "work-for-the-good-of-all",
@@ -4597,11 +4571,11 @@
     },
     {
      "id": "act-as-offering",
-     "score": 4.59
+     "score": 4.63
     },
     {
      "id": "hold-both-together",
-     "score": 4.59
+     "score": 4.63
     }
    ],
    "comparison": [
@@ -4788,7 +4762,7 @@
    "shortlist": [
     {
      "id": "work-not-results",
-     "score": 11.75
+     "score": 11.7
     },
     {
      "id": "giving-up-fruit-brings-peace",
@@ -4796,7 +4770,7 @@
     },
     {
      "id": "trust-alongside-effort",
-     "score": 7.61
+     "score": 7.64
     },
     {
      "id": "calm-before-clarity",
@@ -4808,15 +4782,15 @@
     },
     {
      "id": "faith-and-doubt",
-     "score": 3.95
+     "score": 3.9
     },
     {
      "id": "mental-discipline",
-     "score": 3.95
+     "score": 3.9
     },
     {
      "id": "no-self-torture",
-     "score": 2.36
+     "score": 2.39
     }
    ],
    "comparison": [
@@ -5026,7 +5000,7 @@
    "shortlist": [
     {
      "id": "ask-for-help-when-lost",
-     "score": 9.95
+     "score": 9.98
     },
     {
      "id": "honour-the-grief-first",
@@ -5046,15 +5020,15 @@
     },
     {
      "id": "withstand-the-surge",
-     "score": 3.01
+     "score": 3.04
     },
     {
      "id": "reciprocity",
-     "score": 2.06
+     "score": 1.98
     },
     {
-     "id": "the-light-within",
-     "score": 2.06
+     "id": "no-recognition-seeking",
+     "score": 1.98
     }
    ],
    "comparison": [
@@ -5349,7 +5323,7 @@
     },
     {
      "id": "ask-for-help-when-lost",
-     "score": 9.79
+     "score": 9.82
     },
     {
      "id": "duty-of-protection",
@@ -5663,7 +5637,7 @@
     },
     {
      "id": "every-reason-to-seek-is-valid",
-     "score": 6.36
+     "score": 6.35
     },
     {
      "id": "seeing-oneness",
@@ -5671,7 +5645,7 @@
     },
     {
      "id": "small-practice-protects",
-     "score": 4.76
+     "score": 4.75
     }
    ],
    "comparison": [
@@ -5831,15 +5805,15 @@
     },
     {
      "id": "honour-the-grief-first",
-     "score": 3.39
+     "score": 3.46
     },
     {
      "id": "fearlessness",
-     "score": 3.39
+     "score": 3.46
     },
     {
      "id": "reflect-then-choose",
-     "score": 3.39
+     "score": 3.46
     }
    ],
    "comparison": [

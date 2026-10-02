@@ -32,6 +32,10 @@ VOWEL_SIGNS = {
 }
 
 VIRAMA = "्"
+NUKTA = "़"
+# Consonant + nukta (Hindi/Urdu sounds, and occasional typos in Sanskrit pages), ISO 15919 style.
+NUKTA_CONSONANTS = {"क": "q", "ख": "ḵẖ", "ग": "ġ", "ज": "z", "ड": "ṛ", "ढ": "ṛh", "फ": "f", "य": "ẏ"}
+PRECOMPOSED_NUKTA = {"क़": "क", "ख़": "ख", "ग़": "ग", "ज़": "ज", "ड़": "ड", "ढ़": "ढ", "फ़": "फ", "य़": "य"}
 
 OTHER = {
     "ं": "ṃ", "ः": "ḥ", "ँ": "m̐", "ऽ": "'", "ॐ": "oṃ",
@@ -49,12 +53,25 @@ OTHER = {
 
 def to_iast(text):
     text = unicodedata.normalize("NFC", text)
+    for pre, base in PRECOMPOSED_NUKTA.items():
+        text = text.replace(pre, base + NUKTA)
     out = []
     i = 0
     while i < len(text):
         ch = text[i]
         nxt = text[i + 1] if i + 1 < len(text) else ""
-        if ch in CONSONANTS:
+        if ch in CONSONANTS and nxt == NUKTA and ch in NUKTA_CONSONANTS:
+            out.append(NUKTA_CONSONANTS[ch])
+            i += 1
+            nxt = text[i + 1] if i + 1 < len(text) else ""
+            if nxt == VIRAMA:
+                i += 1
+            elif nxt in VOWEL_SIGNS:
+                out.append(VOWEL_SIGNS[nxt])
+                i += 1
+            else:
+                out.append("a")
+        elif ch in CONSONANTS:
             out.append(CONSONANTS[ch])
             if nxt == VIRAMA:
                 i += 1

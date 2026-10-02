@@ -43,8 +43,8 @@ SITUATION_LABEL = {
 # setting or rank people by birth or gender.
 NEVER_QUOTE_FLAGS = {"war", "caste_gender"}
 # Withheld unless the person is known to be an adult and not in distress.
-HOLD_FLAGS_MINOR = {"under18_hold", "renunciation"}
-HOLD_FLAGS_DISTRESS = {"under18_hold", "renunciation", "death", "distress_gentle"}
+HOLD_FLAGS_MINOR = {"under18_hold", "renunciation", "fatalism"}
+HOLD_FLAGS_DISTRESS = {"under18_hold", "renunciation", "death", "distress_gentle", "fatalism"}
 
 # Principles that could be misread as 'stay and endure' when someone is in danger.
 DANGER_EXCLUDE = {"dont-quit-because-its-hard", "bear-what-comes-and-goes", "patience", "seek-a-parents-peace",
@@ -85,6 +85,7 @@ def load_library():
                 if not k.startswith("_")}
     text_schools = {"gita": ["advaita", "vishishtadvaita", "dvaita"]}
     text_titles = {"gita": "Bhagavad Gita"}
+    text_groups = {"gita": "gita"}
     for tid, meta in registry.items():
         path = DATA / f"{tid}.json"
         if path.exists():
@@ -92,6 +93,7 @@ def load_library():
                 units[r["id"]] = r
         text_schools[tid] = list(meta.get("commentaries", {}))
         text_titles[tid] = meta["title"]
+        text_groups[tid] = meta.get("group")
     gita_comm = json.loads((DATA / "gita_commentaries.json").read_text(encoding="utf-8"))["verses"]
     comm_present = {vid: set(d) for vid, d in gita_comm.items()}
     for tid in registry:
@@ -114,7 +116,8 @@ def load_library():
     idf = {t: math.log(1 + len(docs) / n) for t, n in df.items()}
     return {"units": units, "principles": {p["id"]: p for p in principles}, "examples": examples,
             "help": help_res, "docs": {k: set(v) for k, v in docs.items()}, "idf": idf,
-            "text_schools": text_schools, "text_titles": text_titles, "comm_present": comm_present}
+            "text_schools": text_schools, "text_titles": text_titles, "text_groups": text_groups,
+            "comm_present": comm_present}
 
 
 # ------------------------------------------------------------------ safety
@@ -232,9 +235,12 @@ def commentary_for(units, lib):
             else:
                 missing_unit.append(f"{SCHOOL_LABEL[school]} on {unit['id']}")
     for tid, names in missing_text.items():
-        names = sorted(set(names))
-        out.append({"label": "Commentator's view", "missing":
-                    f"No commentary by {' or '.join(names)} on the {lib['text_titles'].get(tid, tid)} is in the library yet."})
+        title = lib["text_titles"].get(tid, tid)
+        if not lib["text_schools"].get(tid) and lib["text_groups"].get(tid) not in ("upanishad", "gita"):
+            msg = f"No classical commentary on the {title} is in the library yet."
+        else:
+            msg = f"No commentary by {' or '.join(sorted(set(names)))} on the {title} is in the library yet."
+        out.append({"label": "Commentator's view", "missing": msg})
     if missing_unit:
         out.append({"label": "Commentator's view", "missing":
                     "Our source has no comment from " + "; ".join(missing_unit) + "."})

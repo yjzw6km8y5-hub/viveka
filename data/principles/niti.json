@@ -1,0 +1,307 @@
+[
+  {
+    "id": "choose-your-company",
+    "name": "You become like the company you keep",
+    "meaning": "Good company clears the mind, puts truth into speech and raises one's honour; the same drop of water vanishes on hot iron and becomes a pearl in a shell.",
+    "supporting": [
+      "NS.23",
+      "NS.67",
+      "NS.14",
+      "NS.62"
+    ],
+    "applies_when": "Someone is choosing friends, a peer group, a workplace or a partner's circle, or noticing how others are shaping them.",
+    "misleads_when": "It is used to look down on people, or to cut off someone who simply needs help.",
+    "related": [
+      "independent-of-the-crowd",
+      "keep-distance-from-harmful-people",
+      "marks-of-a-true-friend"
+    ],
+    "conflicts_with": [],
+    "modern_application": "List the five people you spend most time with. For each, ask whether you are clearer, kinder and more honest after time with them. Spend a little more time with those who raise you up.",
+    "situations": [
+      "relationships_forgiveness",
+      "purpose_meaning",
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "marks-of-a-true-friend",
+    "name": "The marks of a true friend",
+    "meaning": "A true friend keeps you from wrong, joins you to what is good, keeps your secrets, makes your virtues known, stays in trouble and gives at the right time.",
+    "supporting": [
+      "NS.73",
+      "NS.76",
+      "NS.60"
+    ],
+    "applies_when": "Someone is unsure whether a friendship is good for them, or wants to be a better friend.",
+    "misleads_when": "It is used to demand perfection from friends, or to keep a secret that endangers someone's safety.",
+    "related": [
+      "choose-your-company",
+      "nourish-one-another"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Check one friendship against the six marks. Then check yourself as a friend against them, and do one of them this week.",
+    "situations": [
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "keep-distance-from-harmful-people",
+    "name": "Keep your distance from those who harm",
+    "meaning": "A harmful person is to be avoided even if learned, as a snake adorned with a jewel is still dangerous; friendship with the wicked starts big and dwindles.",
+    "supporting": [
+      "NS.53",
+      "NS.60",
+      "NS.52"
+    ],
+    "applies_when": "Someone is drawn to, or stuck with, a person who repeatedly harms, manipulates or demeans them, especially one who is charming or impressive.",
+    "misleads_when": "It is used to label someone 'wicked' after a single conflict, or to refuse any possibility of change.",
+    "related": [
+      "choose-your-company",
+      "forgiveness-as-strength"
+    ],
+    "conflicts_with": [
+      "same-regard-for-all"
+    ],
+    "modern_application": "Forgiving someone does not require staying close to them. Decide what distance keeps you safe and well, and hold it kindly but firmly.",
+    "situations": [
+      "relationships_forgiveness",
+      "anger_resentment"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "use-wealth-or-lose-it",
+    "name": "Give it, enjoy it, or lose it",
+    "meaning": "Wealth has three courses: giving, enjoyment and loss; whoever neither gives nor enjoys it meets the third.",
+    "supporting": [
+      "NS.43",
+      "NS.64",
+      "NS.83"
+    ],
+    "applies_when": "Someone is hoarding out of fear, or unsure what their money is for.",
+    "misleads_when": "It is used to discourage prudent saving for real needs, or to justify reckless spending.",
+    "related": [
+      "give-without-expecting-return",
+      "wealth-never-satisfies"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Split what you can spare this month three ways: something to give, something to enjoy, and something to keep for a stated purpose.",
+    "situations": [
+      "success_wealth",
+      "temptation_self_control"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "artha",
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "it-grows-back",
+    "name": "A cut tree grows again",
+    "meaning": "A tree that is cut grows again, and the waning moon fills again; reflecting on this, the good are not crushed by misfortune.",
+    "supporting": [
+      "NS.87",
+      "NS.106",
+      "NS.66"
+    ],
+    "applies_when": "After a loss, failure or setback, when someone fears they will never recover.",
+    "misleads_when": "It is used to rush someone through grief, or to deny that some losses are permanent.",
+    "related": [
+      "effort-never-wasted",
+      "bear-what-comes-and-goes"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Recall one earlier time you recovered from something you thought would break you. Write down what helped then.",
+    "situations": [
+      "failure_setback",
+      "grief_loss",
+      "fear_anxiety"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "character-is-the-ornament",
+    "name": "Character is the real ornament",
+    "meaning": "Each quality has its ornament (restraint of speech for courage, humility for learning, giving for wealth), but character is the highest ornament of all.",
+    "supporting": [
+      "NS.83",
+      "NS.65",
+      "NS.19",
+      "NS.72"
+    ],
+    "applies_when": "Someone is focused on appearance, status or possessions to feel worthy.",
+    "misleads_when": "It is used to shame people about how they look or what they own.",
+    "related": [
+      "humility",
+      "no-recognition-seeking"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Choose one quality you want people to remember you for, and practise it deliberately in one interaction each day.",
+    "situations": [
+      "ego_pride_envy",
+      "purpose_meaning",
+      "success_wealth"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "steadfast-on-the-just-path",
+    "name": "Do not leave the just path, whatever others say",
+    "meaning": "Let the clever blame or praise, let wealth come or go: the steadfast do not stray a step from the path of justice, and the best never give up what they have begun, however often obstacles strike.",
+    "supporting": [
+      "NS.84",
+      "NS.27",
+      "NS.81"
+    ],
+    "applies_when": "Someone is under pressure to compromise their integrity, or to abandon a worthwhile effort because of setbacks or criticism.",
+    "misleads_when": "It is used to persist in a course that is clearly harming oneself or others, or to dismiss honest feedback.",
+    "related": [
+      "praise-and-blame-alike",
+      "effort-never-wasted",
+      "honesty"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Write down the principle you will not trade away in this situation. Decide in advance what you will say when pressed.",
+    "situations": [
+      "conflict_of_duties",
+      "failure_setback",
+      "lack_of_motivation"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "effort-over-fate",
+    "name": "Effort is the friend; laziness the enemy",
+    "meaning": "Laziness is the great enemy inside the body; there is no friend like effort, and one who keeps working does not sink. Even if results follow past actions, the wise act after careful thought.",
+    "supporting": [
+      "NS.86",
+      "NS.89",
+      "NS.98"
+    ],
+    "applies_when": "Someone is waiting for luck or fate to change their situation, or has slipped into inertia.",
+    "misleads_when": "It is used to blame people whose struggles come from illness, injustice or circumstances beyond their control.",
+    "related": [
+      "action-over-inaction",
+      "procrastination-as-a-state"
+    ],
+    "conflicts_with": [
+      "fate-decides"
+    ],
+    "modern_application": "Pick the one action that is fully in your hands today, and do it before anything else.",
+    "situations": [
+      "lack_of_motivation",
+      "failure_setback"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "artha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "fate-decides",
+    "name": "Much is decided beyond our effort",
+    "meaning": "Bhartrihari's verses on fate say that even the mighty fall, that what is not destined will not happen, and that past deeds ripen in their time.",
+    "supporting": [
+      "NS.91",
+      "NS.93",
+      "NS.96",
+      "NS.101"
+    ],
+    "applies_when": "An adult, not in distress, who has done all they can, needs to accept an outcome they could not control, without blaming themselves.",
+    "misleads_when": "It turns into fatalism that stops effort or acceptance of help, or is used to say people deserve their suffering. Never offered to anyone in distress or under 18.",
+    "related": [
+      "not-the-sole-doer",
+      "nature-and-the-inner-controller"
+    ],
+    "conflicts_with": [
+      "effort-over-fate"
+    ],
+    "modern_application": "Separate what you did from how it turned out. Accept the outcome you could not control, and keep the lesson you can use.",
+    "situations": [
+      "failure_setback",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "restricted_for": [
+      "under18",
+      "distress"
+    ],
+    "review_status": "draft"
+  }
+]

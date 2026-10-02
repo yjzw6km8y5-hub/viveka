@@ -55,35 +55,35 @@
    "shortlist": [
     {
      "id": "honour-the-grief-first",
-     "score": 11.21
+     "score": 11.13
     },
     {
      "id": "ask-for-help-when-lost",
-     "score": 10.21
+     "score": 10.13
     },
     {
      "id": "honour-and-dishonour-alike",
-     "score": 8.45
+     "score": 8.51
     },
     {
      "id": "sorrow-ends-in-stillness",
-     "score": 7.5
+     "score": 7.49
     },
     {
      "id": "friend-of-all-beings",
-     "score": 7.21
+     "score": 7.19
     },
     {
      "id": "every-reason-to-seek-is-valid",
-     "score": 7.21
+     "score": 7.19
     },
     {
      "id": "speech-without-harm",
-     "score": 6.93
+     "score": 6.83
     },
     {
      "id": "the-witness",
-     "score": 5.5
+     "score": 5.49
     }
    ],
    "comparison": [
@@ -272,7 +272,7 @@
    "shortlist": [
     {
      "id": "ask-for-help-when-lost",
-     "score": 13.55
+     "score": 13.61
     },
     {
      "id": "reflect-then-choose",
@@ -493,15 +493,15 @@
     },
     {
      "id": "fearlessness",
-     "score": 12.44
+     "score": 12.47
     },
     {
      "id": "ask-for-help-when-lost",
-     "score": 10.06
+     "score": 10.07
     },
     {
      "id": "duty-of-protection",
-     "score": 8.44
+     "score": 8.47
     }
    ],
    "comparison": [
@@ -694,7 +694,7 @@
    "shortlist": [
     {
      "id": "suppression-backfires",
-     "score": 9.59
+     "score": 9.63
     },
     {
      "id": "withstand-the-surge",
@@ -706,11 +706,11 @@
     },
     {
      "id": "gold-and-stone-alike",
-     "score": 7.73
+     "score": 7.79
     },
     {
      "id": "independent-of-the-crowd",
-     "score": 6.01
+     "score": 6.04
     },
     {
      "id": "engage-without-attraction-or-aversion",
@@ -718,11 +718,11 @@
     },
     {
      "id": "dont-quit-because-its-hard",
-     "score": 5.36
+     "score": 5.39
     },
     {
      "id": "no-self-torture",
-     "score": 5.36
+     "score": 5.39
     }
    ],
    "comparison": [
@@ -909,35 +909,35 @@
    "shortlist": [
     {
      "id": "resist-tempting-shortcuts",
-     "score": 4.41
+     "score": 4.37
+    },
+    {
+     "id": "use-wealth-or-lose-it",
+     "score": 3.88
     },
     {
      "id": "know-it-in-this-life",
-     "score": 4.11
+     "score": 3.88
     },
     {
      "id": "pleasant-versus-good",
-     "score": 2.36
+     "score": 2.39
     },
     {
      "id": "mortality-is-certain",
-     "score": 2.36
-    },
-    {
-     "id": "weigh-consequences-and-capacity",
-     "score": 2.06
+     "score": 2.39
     },
     {
      "id": "no-self-torture",
-     "score": 2.06
+     "score": 2.09
     },
     {
      "id": "do-not-covet",
-     "score": 2.06
+     "score": 2.09
     },
     {
-     "id": "grief-for-the-inevitable",
-     "score": 2.06
+     "id": "feel-others-pain-as-your-own",
+     "score": 2.09
     }
    ],
    "comparison": [
@@ -952,6 +952,16 @@
      "limits": "It is used to turn down genuinely good opportunities, or to romanticise hardship."
     },
     {
+     "principle": "use-wealth-or-lose-it",
+     "name": "Give it, enjoy it, or lose it",
+     "fit": [
+      "echoes your words: loss, month"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "Someone is hoarding out of fear, or unsure what their money is for.",
+     "limits": "It is used to discourage prudent saving for real needs, or to justify reckless spending."
+    },
+    {
      "principle": "know-it-in-this-life",
      "name": "Know what matters in this life",
      "fit": [
@@ -960,16 +970,6 @@
      "disagrees_with": [],
      "consequence_if_followed": "Someone keeps postponing what matters most to 'later'.",
      "limits": "It creates anxiety or a sense of failure in someone already struggling."
-    },
-    {
-     "principle": "pleasant-versus-good",
-     "name": "Choose the good over the merely pleasant",
-     "fit": [
-      "echoes your words: year"
-     ],
-     "disagrees_with": [],
-     "consequence_if_followed": "A choice between short-term comfort and long-term wellbeing: study or scrolling, saving or spending, honesty or ease.",
-     "limits": "It makes someone distrust every enjoyable thing, or choose hardship for its own sake."
     }
    ],
    "recommendation": {
@@ -1028,13 +1028,13 @@
    },
    "challenge": {
     "label": "Viveka's application",
-    "principle": "know-it-in-this-life",
-    "name": "Know what matters in this life",
-    "text": "If your conscience leans the other way, here is the other view: Know what matters in this life. If one knows the truth here, life has meaning; if not, the loss is great. The Self is seen most clearly here, as in a mirror.",
+    "principle": "use-wealth-or-lose-it",
+    "name": "Give it, enjoy it, or lose it",
+    "text": "If your conscience leans the other way, here is the other view: Give it, enjoy it, or lose it. Wealth has three courses: giving, enjoyment and loss; whoever neither gives nor enjoys it meets the third.",
     "source": {
      "label": "Source text",
-     "id": "KeU.2.5",
-     "english": "If one knows it here, then there is truth; if one does not know it here, great is the loss. Discerning it in every being, the wise, departing from this world, become immortal."
+     "id": "NS.43",
+     "english": "Giving, enjoyment and loss: these are the three courses that wealth takes. Whoever neither gives nor enjoys it, theirs takes the third course."
     },
     "when_the_recommendation_misleads": "It is used to turn down genuinely good opportunities, or to romanticise hardship."
    },
@@ -1098,11 +1098,11 @@
    "shortlist": [
     {
      "id": "honour-the-grief-first",
-     "score": 9.72
+     "score": 9.64
     },
     {
      "id": "ask-for-help-when-lost",
-     "score": 8.72
+     "score": 8.64
     },
     {
      "id": "sorrow-ends-in-stillness",
@@ -1110,7 +1110,7 @@
     },
     {
      "id": "every-reason-to-seek-is-valid",
-     "score": 5.66
+     "score": 5.59
     },
     {
      "id": "the-witness",
@@ -1118,15 +1118,15 @@
     },
     {
      "id": "do-not-grieve-take-refuge",
-     "score": 3.72
+     "score": 3.64
     },
     {
      "id": "let-go-of-mine",
-     "score": 3.38
+     "score": 3.23
     },
     {
      "id": "resist-tempting-shortcuts",
-     "score": 2.36
+     "score": 2.39
     }
    ],
    "comparison": [
@@ -1288,35 +1288,35 @@
    "shortlist": [
     {
      "id": "wealth-never-satisfies",
-     "score": 11.06
+     "score": 10.98
+    },
+    {
+     "id": "use-wealth-or-lose-it",
+     "score": 9.98
     },
     {
      "id": "give-without-expecting-return",
-     "score": 9.06
+     "score": 8.98
+    },
+    {
+     "id": "choose-your-company",
+     "score": 8.43
     },
     {
      "id": "gold-and-stone-alike",
-     "score": 9.06
+     "score": 7.98
     },
     {
      "id": "trust-alongside-effort",
-     "score": 8.19
+     "score": 7.22
     },
     {
      "id": "lasting-versus-passing-treasure",
-     "score": 8.0
+     "score": 7.0
     },
     {
-     "id": "beware-intoxication-of-wealth",
-     "score": 5.06
-    },
-    {
-     "id": "resist-tempting-shortcuts",
-     "score": 5.06
-    },
-    {
-     "id": "work-for-the-good-of-all",
-     "score": 5.0
+     "id": "marks-of-a-true-friend",
+     "score": 6.04
     }
    ],
    "comparison": [
@@ -1334,6 +1334,19 @@
      "limits": "It is used to dismiss real poverty or the legitimate need for financial security."
     },
     {
+     "principle": "use-wealth-or-lose-it",
+     "name": "Give it, enjoy it, or lose it",
+     "fit": [
+      "addresses the kind of problem you describe",
+      "speaks to money or success",
+      "echoes your words: money",
+      "fits the householder stage you described"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "Someone is hoarding out of fear, or unsure what their money is for.",
+     "limits": "It is used to discourage prudent saving for real needs, or to justify reckless spending."
+    },
+    {
      "principle": "give-without-expecting-return",
      "name": "Give because it is right to give",
      "fit": [
@@ -1345,19 +1358,6 @@
      "disagrees_with": [],
      "consequence_if_followed": "Deciding whether, how or to whom to give money, time or help.",
      "limits": "It pushes someone to give beyond their means, or to tolerate being taken advantage of."
-    },
-    {
-     "principle": "gold-and-stone-alike",
-     "name": "Gold and stone alike",
-     "fit": [
-      "addresses the kind of problem you describe",
-      "speaks to money or success",
-      "echoes your words: money",
-      "fits the householder stage you described"
-     ],
-     "disagrees_with": [],
-     "consequence_if_followed": "Money worries or money greed are dominating someone's thinking.",
-     "limits": "It is used to excuse financial irresponsibility towards dependants."
     }
    ],
    "recommendation": {
@@ -1430,13 +1430,13 @@
    },
    "challenge": {
     "label": "Viveka's application",
-    "principle": "give-without-expecting-return",
-    "name": "Give because it is right to give",
-    "text": "If your conscience leans the other way, here is the other view: Give because it is right to give. The best gift is given because giving is right, at the right time and place, to someone who cannot repay it; gifts given for a return, grudgingly or with contempt are lesser.",
+    "principle": "use-wealth-or-lose-it",
+    "name": "Give it, enjoy it, or lose it",
+    "text": "If your conscience leans the other way, here is the other view: Give it, enjoy it, or lose it. Wealth has three courses: giving, enjoyment and loss; whoever neither gives nor enjoys it meets the third.",
     "source": {
      "label": "Source text",
-     "id": "BG.17.20",
-     "english": "A gift given because it is right to give, to one who can give nothing in return, at the proper place and time and to a worthy person, is held to be sattvic."
+     "id": "NS.43",
+     "english": "Giving, enjoyment and loss: these are the three courses that wealth takes. Whoever neither gives nor enjoys it, theirs takes the third course."
     },
     "when_the_recommendation_misleads": "It is used to dismiss real poverty or the legitimate need for financial security."
    },
@@ -1527,11 +1527,11 @@
     },
     {
      "id": "give-without-expecting-return",
-     "score": 4.31
+     "score": 4.38
     },
     {
      "id": "envy-and-comparison",
-     "score": 4.31
+     "score": 4.38
     }
    ],
    "comparison": [
@@ -1924,35 +1924,35 @@
    "shortlist": [
     {
      "id": "meet-people-where-they-are",
-     "score": 3.95
+     "score": 3.98
+    },
+    {
+     "id": "choose-your-company",
+     "score": 3.55
     },
     {
      "id": "apologise-sincerely",
-     "score": 3.66
+     "score": 3.55
     },
     {
      "id": "withstand-the-surge",
-     "score": 3.01
+     "score": 3.04
     },
     {
      "id": "your-nature-shapes-you",
-     "score": 2.36
+     "score": 2.39
     },
     {
      "id": "resist-tempting-shortcuts",
-     "score": 2.36
+     "score": 2.39
     },
     {
      "id": "suppression-backfires",
-     "score": 2.36
+     "score": 2.39
     },
     {
      "id": "pleasant-versus-good",
-     "score": 2.36
-    },
-    {
-     "id": "independent-of-the-crowd",
-     "score": 2.36
+     "score": 2.39
     }
    ],
    "comparison": [
@@ -1970,6 +1970,17 @@
      "limits": "It is used to stay silent about something harmful."
     },
     {
+     "principle": "choose-your-company",
+     "name": "You become like the company you keep",
+     "fit": [
+      "speaks to a relationship",
+      "echoes your words: after"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "Someone is choosing friends, a peer group, a workplace or a partner's circle, or noticing how others are shaping them.",
+     "limits": "It is used to look down on people, or to cut off someone who simply needs help."
+    },
+    {
      "principle": "apologise-sincerely",
      "name": "Own your words and ask forgiveness",
      "fit": [
@@ -1979,16 +1990,6 @@
      "disagrees_with": [],
      "consequence_if_followed": "Someone realises they have taken a person for granted or spoken carelessly.",
      "limits": "It is used to force an apology from someone who did nothing wrong."
-    },
-    {
-     "principle": "withstand-the-surge",
-     "name": "Withstand the surge of desire and anger",
-     "fit": [
-      "echoes your words: happy"
-     ],
-     "disagrees_with": [],
-     "consequence_if_followed": "Someone is in the grip of a strong urge or a flash of anger right now.",
-     "limits": "It encourages bottling up feelings instead of expressing them safely."
     }
    ],
    "recommendation": {
@@ -2131,11 +2132,11 @@
    "shortlist": [
     {
      "id": "forgiveness-as-strength",
-     "score": 6.01
+     "score": 6.04
     },
     {
      "id": "independent-of-the-crowd",
-     "score": 4.01
+     "score": 4.04
     },
     {
      "id": "lead-by-example",
@@ -2350,35 +2351,35 @@
    "shortlist": [
     {
      "id": "apologise-sincerely",
-     "score": 5.59
+     "score": 5.63
     },
     {
      "id": "loving-without-clinging",
-     "score": 5.59
+     "score": 5.63
     },
     {
      "id": "honesty",
-     "score": 4.86
+     "score": 4.9
     },
     {
      "id": "states-arise-and-pass",
-     "score": 3.06
+     "score": 3.09
     },
     {
      "id": "guard-your-gains",
-     "score": 3.06
+     "score": 3.09
     },
     {
      "id": "the-wish-carries-you",
-     "score": 3.06
+     "score": 3.09
     },
     {
      "id": "impermanence",
-     "score": 3.06
+     "score": 3.09
     },
     {
      "id": "you-become-what-you-dwell-on",
-     "score": 3.06
+     "score": 3.09
     }
    ],
    "comparison": [
@@ -2562,7 +2563,7 @@
     },
     {
      "id": "moderation-in-living",
-     "score": 6.24
+     "score": 6.18
     },
     {
      "id": "steadiness-under-pressure",
@@ -2574,15 +2575,15 @@
     },
     {
      "id": "three-gates",
-     "score": 4.37
+     "score": 4.18
     },
     {
      "id": "evenness-in-success-and-failure",
-     "score": 4.19
+     "score": 4.09
     },
     {
      "id": "not-knowing-is-part-of-knowing",
-     "score": 4.19
+     "score": 4.09
     }
    ],
    "comparison": [
@@ -2759,22 +2760,22 @@
    "shortlist": [
     {
      "id": "forgiveness-as-strength",
-     "score": 12.36
+     "score": 12.39
     },
     {
      "id": "no-hatred",
-     "score": 11.36
+     "score": 11.39
     },
     {
-     "id": "same-regard-for-all",
-     "score": 7.0
+     "id": "keep-distance-from-harmful-people",
+     "score": 8.0
     },
     {
      "id": "seek-a-parents-peace",
-     "score": 6.06
+     "score": 6.09
     },
     {
-     "id": "feel-others-pain-as-your-own",
+     "id": "same-regard-for-all",
      "score": 6.0
     },
     {
@@ -2783,11 +2784,11 @@
     },
     {
      "id": "speech-without-harm",
-     "score": 5.79
+     "score": 5.75
     },
     {
-     "id": "loving-without-clinging",
-     "score": 4.06
+     "id": "feel-others-pain-as-your-own",
+     "score": 5.0
     }
    ],
    "comparison": [
@@ -2816,15 +2817,17 @@
      "limits": "It is used to pressure a victim to drop justified anger or to stay in contact with an abuser."
     },
     {
-     "principle": "same-regard-for-all",
-     "name": "Equal regard for friend and foe",
+     "principle": "keep-distance-from-harmful-people",
+     "name": "Keep your distance from those who harm",
      "fit": [
       "addresses the kind of problem you describe",
       "speaks to a relationship, anger"
      ],
-     "disagrees_with": [],
-     "consequence_if_followed": "Someone is treating people very differently depending on whether they like them, or is caught in factional conflict.",
-     "limits": "It is used to deny the right to keep away from people who are harmful. Equal regard does not mean equal trust or access."
+     "disagrees_with": [
+      "same-regard-for-all"
+     ],
+     "consequence_if_followed": "Someone is drawn to, or stuck with, a person who repeatedly harms, manipulates or demeans them, especially one who is charming or impressive.",
+     "limits": "It is used to label someone 'wicked' after a single conflict, or to refuse any possibility of change."
     }
    ],
    "recommendation": {
@@ -2978,35 +2981,35 @@
    "shortlist": [
     {
      "id": "delight-in-the-welfare-of-all",
-     "score": 6.72
+     "score": 6.56
     },
     {
      "id": "no-recognition-seeking",
-     "score": 5.8
+     "score": 5.77
     },
     {
      "id": "lead-by-example",
-     "score": 5.37
+     "score": 5.38
     },
     {
      "id": "the-steady-doer",
-     "score": 4.44
+     "score": 4.43
     },
     {
      "id": "beware-intoxication-of-wealth",
-     "score": 4.37
+     "score": 4.34
     },
     {
      "id": "do-not-covet",
-     "score": 4.37
+     "score": 4.34
     },
     {
      "id": "strength-without-passion",
-     "score": 4.37
+     "score": 4.34
     },
     {
      "id": "feel-others-pain-as-your-own",
-     "score": 4.37
+     "score": 4.34
     }
    ],
    "comparison": [
@@ -3184,7 +3187,7 @@
    "shortlist": [
     {
      "id": "fearlessness",
-     "score": 9.72
+     "score": 9.75
     },
     {
      "id": "knowledge-dissolves-fear",
@@ -3200,11 +3203,11 @@
     },
     {
      "id": "lead-by-example",
-     "score": 4.06
+     "score": 4.09
     },
     {
      "id": "seek-a-parents-peace",
-     "score": 4.06
+     "score": 4.09
     },
     {
      "id": "friend-of-all-beings",
@@ -3391,35 +3394,35 @@
    "shortlist": [
     {
      "id": "wealth-never-satisfies",
-     "score": 10.06
+     "score": 9.98
+    },
+    {
+     "id": "use-wealth-or-lose-it",
+     "score": 8.98
     },
     {
      "id": "give-without-expecting-return",
-     "score": 8.06
+     "score": 7.98
     },
     {
      "id": "gold-and-stone-alike",
-     "score": 8.06
+     "score": 6.98
     },
     {
      "id": "lasting-versus-passing-treasure",
-     "score": 7.0
+     "score": 6.0
     },
     {
      "id": "quick-success-passes",
-     "score": 5.01
-    },
-    {
-     "id": "trust-alongside-effort",
-     "score": 5.0
+     "score": 5.04
     },
     {
      "id": "strength-without-passion",
-     "score": 4.59
+     "score": 4.63
     },
     {
      "id": "contentment-within",
-     "score": 4.36
+     "score": 4.22
     }
    ],
    "comparison": [
@@ -3436,6 +3439,18 @@
      "limits": "It is used to dismiss real poverty or the legitimate need for financial security."
     },
     {
+     "principle": "use-wealth-or-lose-it",
+     "name": "Give it, enjoy it, or lose it",
+     "fit": [
+      "addresses the kind of problem you describe",
+      "speaks to money or success",
+      "echoes your words: money"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "Someone is hoarding out of fear, or unsure what their money is for.",
+     "limits": "It is used to discourage prudent saving for real needs, or to justify reckless spending."
+    },
+    {
      "principle": "give-without-expecting-return",
      "name": "Give because it is right to give",
      "fit": [
@@ -3446,18 +3461,6 @@
      "disagrees_with": [],
      "consequence_if_followed": "Deciding whether, how or to whom to give money, time or help.",
      "limits": "It pushes someone to give beyond their means, or to tolerate being taken advantage of."
-    },
-    {
-     "principle": "gold-and-stone-alike",
-     "name": "Gold and stone alike",
-     "fit": [
-      "addresses the kind of problem you describe",
-      "speaks to money or success",
-      "echoes your words: money"
-     ],
-     "disagrees_with": [],
-     "consequence_if_followed": "Money worries or money greed are dominating someone's thinking.",
-     "limits": "It is used to excuse financial irresponsibility towards dependants."
     }
    ],
    "recommendation": {
@@ -3530,13 +3533,13 @@
    },
    "challenge": {
     "label": "Viveka's application",
-    "principle": "give-without-expecting-return",
-    "name": "Give because it is right to give",
-    "text": "If your conscience leans the other way, here is the other view: Give because it is right to give. The best gift is given because giving is right, at the right time and place, to someone who cannot repay it; gifts given for a return, grudgingly or with contempt are lesser.",
+    "principle": "use-wealth-or-lose-it",
+    "name": "Give it, enjoy it, or lose it",
+    "text": "If your conscience leans the other way, here is the other view: Give it, enjoy it, or lose it. Wealth has three courses: giving, enjoyment and loss; whoever neither gives nor enjoys it meets the third.",
     "source": {
      "label": "Source text",
-     "id": "BG.17.20",
-     "english": "A gift given because it is right to give, to one who can give nothing in return, at the proper place and time and to a worthy person, is held to be sattvic."
+     "id": "NS.43",
+     "english": "Giving, enjoyment and loss: these are the three courses that wealth takes. Whoever neither gives nor enjoys it, theirs takes the third course."
     },
     "when_the_recommendation_misleads": "It is used to dismiss real poverty or the legitimate need for financial security."
    },
@@ -3606,11 +3609,11 @@
    "shortlist": [
     {
      "id": "honesty",
-     "score": 10.59
+     "score": 10.63
     },
     {
      "id": "apologise-sincerely",
-     "score": 8.36
+     "score": 8.39
     },
     {
      "id": "speech-without-harm",
@@ -3618,23 +3621,23 @@
     },
     {
      "id": "pass-it-on",
-     "score": 5.01
+     "score": 5.04
     },
     {
      "id": "seek-a-parents-peace",
-     "score": 4.36
+     "score": 4.39
     },
     {
      "id": "engage-without-attraction-or-aversion",
-     "score": 2.59
+     "score": 2.63
     },
     {
      "id": "states-arise-and-pass",
-     "score": 2.06
+     "score": 2.09
     },
     {
      "id": "guard-your-gains",
-     "score": 2.06
+     "score": 2.09
     }
    ],
    "comparison": [
@@ -3851,16 +3854,16 @@
      "score": 3.2
     },
     {
-     "id": "skill-in-action",
-     "score": 2.36
-    },
-    {
      "id": "reciprocity",
-     "score": 2.36
+     "score": 2.39
     },
     {
      "id": "credit-is-not-yours-alone",
-     "score": 2.36
+     "score": 2.39
+    },
+    {
+     "id": "nourish-one-another",
+     "score": 2.39
     }
    ],
    "comparison": [
@@ -4015,8 +4018,12 @@
      "score": 6.0
     },
     {
+     "id": "choose-your-company",
+     "score": 4.63
+    },
+    {
      "id": "independent-of-the-crowd",
-     "score": 5.01
+     "score": 4.63
     },
     {
      "id": "steady-practice",
@@ -4029,10 +4036,6 @@
     {
      "id": "single-pointed-resolve",
      "score": 3.0
-    },
-    {
-     "id": "work-not-results",
-     "score": 2.59
     }
    ],
    "comparison": [
@@ -4189,35 +4192,35 @@
    "shortlist": [
     {
      "id": "not-knowing-is-part-of-knowing",
-     "score": 5.01
+     "score": 5.04
     },
     {
      "id": "fearlessness",
-     "score": 4.36
+     "score": 4.39
     },
     {
      "id": "the-light-within",
-     "score": 4.06
+     "score": 4.09
     },
     {
      "id": "guidance-from-scripture",
-     "score": 3.59
+     "score": 3.63
     },
     {
      "id": "act-as-offering",
-     "score": 3.29
+     "score": 3.33
     },
     {
      "id": "evenness-in-success-and-failure",
-     "score": 3.23
+     "score": 3.24
     },
     {
      "id": "honour-the-grief-first",
-     "score": 3.23
+     "score": 3.24
     },
     {
      "id": "free-of-elation-and-agitation",
-     "score": 3.23
+     "score": 3.24
     }
    ],
    "comparison": [
@@ -4396,7 +4399,7 @@
     },
     {
      "id": "more-than-body-and-roles",
-     "score": 6.56
+     "score": 6.43
     },
     {
      "id": "do-not-covet",
@@ -4404,15 +4407,15 @@
     },
     {
      "id": "lead-by-example",
-     "score": 4.06
+     "score": 4.09
     },
     {
      "id": "seek-a-parents-peace",
-     "score": 4.06
+     "score": 4.09
     },
     {
      "id": "see-the-pain-of-ageing-clearly",
-     "score": 4.06
+     "score": 4.09
     },
     {
      "id": "reciprocity",
@@ -4595,35 +4598,35 @@
    "shortlist": [
     {
      "id": "understand-before-acting",
-     "score": 3.74
+     "score": 3.77
     },
     {
      "id": "neither-troubling-nor-troubled",
-     "score": 3.01
+     "score": 3.04
     },
     {
      "id": "your-nature-shapes-you",
-     "score": 2.19
+     "score": 2.22
     },
     {
      "id": "resist-tempting-shortcuts",
-     "score": 2.19
+     "score": 2.22
     },
     {
      "id": "pleasant-versus-good",
-     "score": 2.19
+     "score": 2.22
     },
     {
      "id": "give-without-expecting-return",
-     "score": 1.56
+     "score": 1.55
     },
     {
      "id": "giving-up-fruit-brings-peace",
-     "score": 1.56
+     "score": 1.55
     },
     {
      "id": "name-the-confusion",
-     "score": 1.56
+     "score": 1.55
     }
    ],
    "comparison": [
@@ -4803,35 +4806,35 @@
    "shortlist": [
     {
      "id": "credit-is-not-yours-alone",
-     "score": 4.01
+     "score": 3.81
     },
     {
      "id": "evenness-in-success-and-failure",
-     "score": 3.66
+     "score": 3.65
     },
     {
      "id": "free-of-elation-and-agitation",
-     "score": 3.66
+     "score": 3.65
     },
     {
      "id": "even-the-wrongdoer-can-cross",
-     "score": 3.66
+     "score": 3.65
+    },
+    {
+     "id": "choose-your-company",
+     "score": 2.85
     },
     {
      "id": "understand-before-acting",
-     "score": 2.36
+     "score": 2.22
     },
     {
      "id": "no-hatred",
-     "score": 2.36
+     "score": 2.22
     },
     {
      "id": "work-not-results",
-     "score": 1.66
-    },
-    {
-     "id": "lead-by-example",
-     "score": 1.66
+     "score": 1.59
     }
    ],
    "comparison": [
@@ -4990,35 +4993,35 @@
    "shortlist": [
     {
      "id": "steady-practice",
-     "score": 7.19
+     "score": 7.24
     },
     {
      "id": "suppression-backfires",
-     "score": 7.19
+     "score": 7.24
     },
     {
      "id": "you-become-what-you-dwell-on",
-     "score": 5.47
+     "score": 5.49
     },
     {
      "id": "withstand-the-surge",
-     "score": 4.59
+     "score": 4.39
     },
     {
      "id": "effort-never-wasted",
-     "score": 4.46
+     "score": 4.29
     },
     {
      "id": "food-shapes-mind",
-     "score": 3.86
+     "score": 3.9
     },
     {
      "id": "guard-your-gains",
-     "score": 3.86
+     "score": 3.9
     },
     {
      "id": "desire-anger-chain",
-     "score": 3.72
+     "score": 3.75
     }
    ],
    "comparison": [
@@ -5202,35 +5205,35 @@
    "shortlist": [
     {
      "id": "lead-by-example",
-     "score": 5.0
+     "score": 5.05
     },
     {
      "id": "loving-without-clinging",
-     "score": 5.0
+     "score": 5.05
     },
     {
      "id": "ask-for-help-when-lost",
-     "score": 4.61
+     "score": 4.58
     },
     {
      "id": "do-not-grieve-take-refuge",
-     "score": 4.61
+     "score": 4.58
     },
     {
      "id": "seek-a-parents-peace",
-     "score": 4.06
+     "score": 4.09
     },
     {
      "id": "meet-people-where-they-are",
-     "score": 3.95
+     "score": 3.98
     },
     {
      "id": "let-go-of-mine",
-     "score": 3.72
+     "score": 3.64
     },
     {
      "id": "speech-without-harm",
-     "score": 3.72
+     "score": 3.64
     }
    ],
    "comparison": [
@@ -5427,7 +5430,7 @@
    "shortlist": [
     {
      "id": "ask-for-help-when-lost",
-     "score": 15.55
+     "score": 15.61
     },
     {
      "id": "purpose-beyond-pleasure",
@@ -5447,7 +5450,7 @@
     },
     {
      "id": "independent-of-the-crowd",
-     "score": 8.01
+     "score": 8.04
     },
     {
      "id": "act-as-offering",
@@ -5657,23 +5660,27 @@
    "shortlist": [
     {
      "id": "honour-the-grief-first",
-     "score": 11.32
+     "score": 11.24
     },
     {
      "id": "ask-for-help-when-lost",
-     "score": 9.72
+     "score": 9.64
+    },
+    {
+     "id": "choose-your-company",
+     "score": 8.55
     },
     {
      "id": "states-arise-and-pass",
-     "score": 8.12
+     "score": 8.04
     },
     {
      "id": "small-practice-protects",
-     "score": 6.81
+     "score": 6.73
     },
     {
      "id": "every-reason-to-seek-is-valid",
-     "score": 6.36
+     "score": 6.35
     },
     {
      "id": "independent-of-the-crowd",
@@ -5681,11 +5688,7 @@
     },
     {
      "id": "pass-it-on",
-     "score": 5.22
-    },
-    {
-     "id": "voice-your-fear-of-failing",
-     "score": 4.25
+     "score": 5.09
     }
    ],
    "comparison": [
@@ -5714,15 +5717,16 @@
      "limits": "It is used to make someone dependent on a single authority, or to hand over their judgement entirely."
     },
     {
-     "principle": "states-arise-and-pass",
-     "name": "Moods are states, not who you are",
+     "principle": "choose-your-company",
+     "name": "You become like the company you keep",
      "fit": [
       "addresses the kind of problem you describe",
-      "echoes your words: say"
+      "speaks to a relationship",
+      "echoes your words: friend"
      ],
      "disagrees_with": [],
-     "consequence_if_followed": "Someone feels defined by a low or restless mood.",
-     "limits": "It is used to dismiss persistent low mood that needs professional care."
+     "consequence_if_followed": "Someone is choosing friends, a peer group, a workplace or a partner's circle, or noticing how others are shaping them.",
+     "limits": "It is used to look down on people, or to cut off someone who simply needs help."
     }
    ],
    "recommendation": {
@@ -5860,15 +5864,15 @@
    "shortlist": [
     {
      "id": "reflect-then-choose",
-     "score": 16.86
+     "score": 16.9
     },
     {
      "id": "fearlessness",
-     "score": 12.44
+     "score": 12.47
     },
     {
      "id": "ask-for-help-when-lost",
-     "score": 12.14
+     "score": 12.15
     }
    ],
    "comparison": [

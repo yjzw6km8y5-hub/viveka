@@ -40,7 +40,8 @@ FRAMES = {
         ["desire-anger-chain", "withstand-the-surge", "three-gates", "speech-without-harm", "calm-before-clarity"]),
     "hurt_by_someone": (
         [r"\bbetray", r"\bforgive\b", r"\bhurt me\b", r"\blied to me\b", r"\bcheated on\b", r"\bresent", r"\bgrudge\b"],
-        ["forgiveness-as-strength", "no-hatred", "feel-others-pain-as-your-own", "same-regard-for-all"]),
+        ["forgiveness-as-strength", "no-hatred", "keep-distance-from-harmful-people", "feel-others-pain-as-your-own",
+         "same-regard-for-all"]),
     "i_hurt_someone": (
         [r"\bi (?:hurt|lied|cheated|yelled|shouted|betrayed|stole|took money)\b", r"\bmy fault\b", r"\bapolog",
          r"\bi regret\b", r"\bguilty (?:about|for) (?:what i|lying|cheating|stealing|hurting)\b"],
@@ -56,8 +57,8 @@ FRAMES = {
     "failure": (
         [r"\bfailed\b", r"\bfailure\b", r"\brejected\b", r"\bfired\b", r"\blaid off\b", r"\bdidn't get\b",
          r"\bdid not get\b", r"\bmess(?:ed|ing)? (?:everything |it all |things )?up\b", r"\brelapse"],
-        ["effort-never-wasted", "voice-your-fear-of-failing", "evenness-in-success-and-failure", "graded-practice",
-         "self-as-friend"]),
+        ["effort-never-wasted", "it-grows-back", "voice-your-fear-of-failing", "evenness-in-success-and-failure",
+         "graded-practice", "self-as-friend"]),
     "motivation": (
         [r"\bprocrastinat", r"\bunmotivated\b", r"\bno motivation\b", r"\blazy\b", r"\bcan't start\b",
          r"\bcannot start\b", r"\bstuck\b", r"\bkeep putting off\b", r"\bgive up\b"],
@@ -66,8 +67,8 @@ FRAMES = {
     "money": (
         [r"\bmoney\b", r"\bsalary\b", r"\brich\b", r"\bwealth\b", r"\bdebt\b", r"\binheritance\b", r"\bbonus\b",
          r"\bgreed", r"\bpay\b", r"\bprofit\b"],
-        ["wealth-never-satisfies", "lasting-versus-passing-treasure", "gold-and-stone-alike", "trust-alongside-effort",
-         "give-without-expecting-return"]),
+        ["wealth-never-satisfies", "use-wealth-or-lose-it", "lasting-versus-passing-treasure", "gold-and-stone-alike",
+         "trust-alongside-effort", "give-without-expecting-return"]),
     "temptation": (
         [r"\baddict", r"\bcraving\b", r"\bcan't stop\b", r"\bcannot stop\b", r"\bporn\b", r"\balcohol\b",
          r"\bdrinking\b", r"\bgambl", r"\btempt", r"\bbinge\b", r"\bsmok"],
@@ -100,7 +101,7 @@ FRAMES = {
     "peer_pressure": (
         [r"\bpeer pressure\b", r"\beveryone (?:else )?is doing\b", r"\bfit in\b", r"\bmy friends (?:want|say|think)\b",
          r"\bpopular\b"],
-        ["independent-of-the-crowd", "own-path-over-imitation", "pleasant-versus-good"]),
+        ["independent-of-the-crowd", "choose-your-company", "own-path-over-imitation", "pleasant-versus-good"]),
     "fear_courage": (
         [r"\bscared\b", r"\bafraid\b", r"\bterrified\b", r"\bfear\b", r"\bpublic speaking\b", r"\bpanic\b", r"\bnervous\b"],
         ["fearlessness", "knowledge-dissolves-fear", "steadiness-under-pressure", "calm-before-clarity",
@@ -132,7 +133,7 @@ FRAMES = {
     "fatalism": (
         [r"\bfate\b", r"\bdestiny\b", r"\bwhy (?:even )?(?:try|bother)\b", r"\bno point (?:in )?trying\b",
          r"\bit's all written\b", r"\bkarma (?:is|will)\b"],
-        ["effort-never-wasted", "graded-practice", "small-practice-protects", "the-wish-carries-you",
+        ["effort-never-wasted", "effort-over-fate", "graded-practice", "small-practice-protects", "the-wish-carries-you",
          "every-reason-to-seek-is-valid"]),
     "death_question": (
         [r"\bafter (?:we|i|you|people) die\b", r"\bwhen we die\b", r"\bafterlife\b", r"\blife after death\b",
@@ -151,7 +152,8 @@ FRAMES = {
     "friendship_hurt": (
         [r"\bignor(?:es|ing|ed) me\b", r"\bleft me out\b", r"\bexclud", r"\bghost(?:ed|ing)\b", r"\bsitting with other people\b",
          r"\bdoesn't talk to me\b", r"\bstopped talking to me\b"],
-        ["speech-without-harm", "feel-others-pain-as-your-own", "honour-the-grief-first", "nourish-one-another", "ask-for-help-when-lost"]),
+        ["speech-without-harm", "marks-of-a-true-friend", "feel-others-pain-as-your-own", "honour-the-grief-first",
+         "nourish-one-another", "ask-for-help-when-lost"]),
     "controlling": (
         [r"\btoo controlling\b", r"\bi'?m controlling\b", r"\bpossessive\b", r"\bcheck (?:his|her|their) phone\b"],
         ["let-go-of-mine", "feel-others-pain-as-your-own", "loving-without-clinging", "humility"]),

@@ -80,5 +80,34 @@
     "commentaries": {
       "advaita": "Śaṅkara"
     }
+  },
+  "nitishataka": {
+    "title": "Nitishataka of Bhartrihari",
+    "title_devanagari": "नीतिशतकम्",
+    "group": "niti",
+    "id_prefix": "NS",
+    "levels": [
+      "verse"
+    ],
+    "raw": "data/raw/niti/nitishataka.json",
+    "source_pages": {
+      "text": [
+        "नीतिशतकम्"
+      ],
+      "bhashya": []
+    },
+    "expected_units": {
+      "": 110
+    },
+    "count_basis": "Source numbering 1-110; the source has no verse 7. Two unnumbered opening verses (an invocation and 'yāṃ cintayāmi') are not units.",
+    "speakers": [
+      "Bhartrihari"
+    ],
+    "commentaries": {},
+    "missing_units": {
+      "": [
+        7
+      ]
+    }
   }
 }

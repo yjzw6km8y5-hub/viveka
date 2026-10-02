@@ -76,7 +76,9 @@
     "supporting": [
       "BG.13.7",
       "BG.15.5",
-      "KeU.2.1"
+      "KeU.2.1",
+      "NS.8",
+      "NS.71"
     ],
     "applies_when": "Pride is damaging relationships, learning or judgement.",
     "misleads_when": "It is used to make someone shrink or deny their own abilities.",
@@ -306,7 +308,9 @@
     "supporting": [
       "KaU.1.2.5",
       "BG.2.42",
-      "KaU.1.2.23"
+      "KaU.1.2.23",
+      "NS.2",
+      "NS.8"
     ],
     "applies_when": "Someone, or someone they follow, uses knowledge or qualifications as a substitute for good judgement or character.",
     "misleads_when": "It is used to dismiss education or expertise.",
@@ -500,7 +504,8 @@
     "supporting": [
       "BG.14.24",
       "BG.14.25",
-      "BG.12.19"
+      "BG.12.19",
+      "NS.84"
     ],
     "applies_when": "Social media reactions, reviews or gossip are steering someone's choices.",
     "misleads_when": "It is used to ignore all feedback.",

@@ -18,7 +18,16 @@ The text queue is paused after the Katha.
 | Answer-engine prototype (`engine/`, `scripts/ask.py`; local only) | done, needs improvement (see below) |
 | 100 test situations and scoring (`data/tests/`, `scripts/run_tests.py`) | done |
 | Blind comparison with a general assistant and similar apps | tooling ready; blocked on baseline answers and raters |
-| Resume the text queue, gaps first (Niti texts) | next |
+| Resume the text queue, gaps first (Niti texts) | in progress |
+
+### Text queue (gaps first)
+| Text | Units | Status |
+|---|---:|---|
+| Nitishataka (Bhartrihari) | 109 | done: strict VALID, 9 new principles linked; source lacks verse 7 |
+| Vidura Niti | | next |
+| Chanakya Niti | | |
+| Hitopadesha (stories, as examples) | | |
+| Tirukkural | | needs Tamil-script support |
 
 ## Test log
 

@@ -213,7 +213,9 @@
     "supporting": [
       "BG.16.1",
       "BG.6.14",
-      "BG.11.49"
+      "BG.11.49",
+      "NS.38",
+      "NS.108"
     ],
     "applies_when": "Someone needs courage to face a conversation, a test or a change.",
     "misleads_when": "It is confused with recklessness, or used to shame someone for normal fear.",
