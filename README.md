@@ -91,6 +91,7 @@ public domain and the digital edition we copy from is openly licensed.
 | Bhagavad Gita, with Śaṅkara, Rāmānuja and Madhva | `gita.json` | Sanskrit Wikisource (pinned revisions) | CC BY-SA 4.0 | Public domain (ancient/medieval) | 2026-10-01 |
 | 13 principal Upanishads | `<name>_upanishad.json` | Sanskrit Wikisource (pinned revisions, `data/raw/upanishads/`) | CC BY-SA 4.0 | Public domain (ancient) | 2026-10-01 |
 | Nitishataka of Bhartrihari (109 verses) | `nitishataka.json` | Sanskrit Wikisource, `नीतिशतकम्` (pinned revision, `data/raw/niti/`) | CC BY-SA 4.0 | Public domain (c. 5th century) | 2026-10-02 |
+| Vidura Niti (Mahabharata, Udyoga Parva; 557 verses) | `vidura_niti.json` | Sanskrit Wikisource, `विदुरनीतिः` (revision 37534, `data/raw/niti/`) | CC BY-SA 4.0 | Public domain (ancient) | 2026-10-02 |
 | Śaṅkara's Upanishad bhāṣyas | `commentaries/<name>_upanishad.json` | Sanskrit Wikisource, `उपनिषद्भाष्यम्` pages | CC BY-SA 4.0 | Public domain (8th century) | 2026-10-01 |
 
 **Not used:**
@@ -113,7 +114,7 @@ public domain and the digital edition we copy from is openly licensed.
 | `life_stages` | list | editorial | `student`, `householder`, `elder`, `renunciant` |
 | `aims` | list | editorial | `dharma`, `artha`, `kama`, `moksha` |
 | `school_notes` | list | editorial | `{school, commentator, note}`; each must have source commentary in `gita_commentaries.json` |
-| `safety_flags` | list | editorial | `war`, `death`, `renunciation`, `under18_hold`, `distress_gentle`, `caste_gender` (definitions in `data/vocab.json`) |
+| `safety_flags` | list | editorial | `war`, `death`, `renunciation`, `under18_hold`, `distress_gentle`, `caste_gender`, `fatalism` (definitions in `data/vocab.json`) |
 | `source` | object | source | name, page, url, revision, permalink, retrieved |
 | `licence` | string | source | |
 | `review_status` | string | editorial | `draft` → `reviewed` → `approved` |

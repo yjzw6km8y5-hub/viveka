@@ -7,15 +7,15 @@
 | context | 1.85 |
 | specificity | 1.61 |
 | grounding | 2.00 |
-| judgment | 1.86 |
+| judgment | 1.83 |
 | actionability | 2.00 |
 | agency | 1.98 |
 
-Mean total: **11.30 / 12**
+Mean total: **11.27 / 12**
 
 | Category | n | context | specificity | grounding | judgment | actionability | agency |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| adult | 54 | 1.81 | 1.59 | 2.00 | 1.91 | 2.00 | 2.00 |
+| adult | 54 | 1.81 | 1.59 | 2.00 | 1.85 | 2.00 | 2.00 |
 | ambiguous | 11 | 1.64 | 1.18 | 2.00 | 1.82 | 2.00 | 1.82 |
 | hard | 15 | 1.93 | 1.87 | 2.00 | 1.87 | 2.00 | 2.00 |
 | teen | 20 | 2.00 | 1.70 | 2.00 | 1.75 | 2.00 | 2.00 |

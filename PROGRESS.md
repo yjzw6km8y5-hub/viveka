@@ -1,6 +1,6 @@
 # Progress
 
-_Last updated: 2026-10-01_
+_Last updated: 2026-10-02_
 
 Repo: https://github.com/yjzw6km8y5-hub/viveka (pushed after every batch)
 
@@ -13,7 +13,7 @@ The text queue is paused after the Katha.
 | Finish the Katha | done |
 | Safety rule fix (support leaving abuse or danger; help lines) | done |
 | Privacy check of the AI provider | done: default API terms keep data up to 30 days, so the engine runs locally (DECISIONS.md) |
-| `data/principles/` (149 principles, validated) | done (draft) |
+| `data/principles/` (165 principles, validated) | done (draft) |
 | `data/examples/` (17: 14 stories from the texts, 3 historical cases not yet verified) | done (draft) |
 | Answer-engine prototype (`engine/`, `scripts/ask.py`; local only) | done, needs improvement (see below) |
 | 100 test situations and scoring (`data/tests/`, `scripts/run_tests.py`) | done |
@@ -24,8 +24,8 @@ The text queue is paused after the Katha.
 | Text | Units | Status |
 |---|---:|---|
 | Nitishataka (Bhartrihari) | 109 | done: strict VALID, 9 new principles linked; source lacks verse 7 |
-| Vidura Niti | | next |
-| Chanakya Niti | | |
+| Vidura Niti | 557 | done: strict VALID; 7 new principles, 2 new frames (family rift, managing people); 2 speaker fixes |
+| Chanakya Niti | | next |
 | Hitopadesha (stories, as examples) | | |
 | Tirukkural | | needs Tamil-script support |
 
@@ -85,6 +85,8 @@ The scores are automatic proxies (0-2 per dimension, 12 maximum), not human judg
 - **Changes since:**
   - Safety cues were widened, so v2 is now spent: all three sets now show 0 safety mismatches and 0 uses of forbidden material.
   - An **always-on safety footer** now gives help lines on every answer, because detection will miss some people.
+
+**2026-10-02, after adding the Vidura Niti** (regression check only; all sets are spent): development set 11.27, held-out v1 11.23, held-out v2 10.53. 0 safety mismatches and 0 forbidden material on every set.
 
 Grounding (every quote is exact library text, with labels) held at 2.00 on every set.
 

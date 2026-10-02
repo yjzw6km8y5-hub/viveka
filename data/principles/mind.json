@@ -40,7 +40,8 @@
       "BG.2.58",
       "BG.2.68",
       "BG.2.67",
-      "BG.2.61"
+      "BG.2.61",
+      "VN.8.22"
     ],
     "applies_when": "Constant stimulation (phones, cravings, distractions) is scattering attention.",
     "misleads_when": "It becomes rigid suppression or avoidance of ordinary life and pleasures.",
@@ -388,7 +389,8 @@
       "BG.2.55",
       "BG.5.21",
       "BG.5.24",
-      "BG.6.20"
+      "BG.6.20",
+      "VN.8.12"
     ],
     "applies_when": "Someone's happiness depends entirely on external outcomes, possessions or approval.",
     "misleads_when": "It is used to tell someone to accept unjust material conditions they could change.",
@@ -423,7 +425,9 @@
       "KaU.1.1.27",
       "BG.3.39",
       "BG.16.12",
-      "NS.45"
+      "NS.45",
+      "VN.7.69",
+      "VN.7.68"
     ],
     "applies_when": "Someone is sacrificing health, relationships or integrity for ever more money or status.",
     "misleads_when": "It is used to dismiss real poverty or the legitimate need for financial security.",
@@ -490,7 +494,9 @@
     "supporting": [
       "BG.5.23",
       "BG.5.26",
-      "BG.5.28"
+      "BG.5.28",
+      "VN.5.47",
+      "VN.8.20"
     ],
     "applies_when": "Someone is in the grip of a strong urge or a flash of anger right now.",
     "misleads_when": "It encourages bottling up feelings instead of expressing them safely.",

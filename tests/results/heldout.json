@@ -49,35 +49,35 @@
    "shortlist": [
     {
      "id": "choose-your-company",
-     "score": 6.59
+     "score": 6.56
     },
     {
      "id": "pass-it-on",
-     "score": 4.7
+     "score": 4.65
     },
     {
      "id": "marks-of-a-true-friend",
-     "score": 4.7
+     "score": 4.65
     },
     {
      "id": "meet-people-where-they-are",
-     "score": 4.7
+     "score": 4.65
+    },
+    {
+     "id": "mortality-is-certain",
+     "score": 3.57
     },
     {
      "id": "friend-of-all-beings",
-     "score": 3.55
+     "score": 3.49
     },
     {
-     "id": "same-regard-for-all",
-     "score": 3.55
+     "id": "speak-the-hard-truth",
+     "score": 3.49
     },
     {
-     "id": "no-hatred",
-     "score": 3.55
-    },
-    {
-     "id": "forgiveness-as-strength",
-     "score": 3.55
+     "id": "trust-with-care",
+     "score": 3.49
     }
    ],
    "comparison": [
@@ -228,7 +228,7 @@
    "shortlist": [
     {
      "id": "guard-your-gains",
-     "score": 13.4
+     "score": 13.42
     },
     {
      "id": "effort-never-wasted",
@@ -240,7 +240,7 @@
     },
     {
      "id": "bear-what-comes-and-goes",
-     "score": 7.63
+     "score": 7.65
     },
     {
      "id": "steady-practice",
@@ -252,11 +252,11 @@
     },
     {
      "id": "enjoy-through-letting-go",
-     "score": 5.99
+     "score": 6.04
     },
     {
      "id": "independent-of-the-crowd",
-     "score": 5.04
+     "score": 5.07
     }
    ],
    "comparison": [
@@ -424,19 +424,19 @@
    "shortlist": [
     {
      "id": "respect-different-paths",
-     "score": 17.18
+     "score": 17.21
     },
     {
      "id": "meet-people-where-they-are",
-     "score": 16.75
+     "score": 16.76
     },
     {
      "id": "equal-dignity",
-     "score": 16.44
+     "score": 16.47
     },
     {
      "id": "seek-a-parents-peace",
-     "score": 10.65
+     "score": 10.66
     },
     {
      "id": "seeing-oneness",
@@ -444,7 +444,7 @@
     },
     {
      "id": "same-regard-for-all",
-     "score": 8.03
+     "score": 7.66
     },
     {
      "id": "loving-without-clinging",
@@ -452,7 +452,7 @@
     },
     {
      "id": "let-go-of-mine",
-     "score": 6.64
+     "score": 6.61
     }
    ],
    "comparison": [
@@ -663,11 +663,11 @@
    "shortlist": [
     {
      "id": "reflect-then-choose",
-     "score": 13.75
+     "score": 13.78
     },
     {
      "id": "fearlessness",
-     "score": 11.75
+     "score": 11.78
     },
     {
      "id": "ask-for-help-when-lost",
@@ -867,11 +867,11 @@
    "shortlist": [
     {
      "id": "honour-the-grief-first",
-     "score": 9.24
+     "score": 9.22
     },
     {
      "id": "sorrow-ends-in-stillness",
-     "score": 7.75
+     "score": 7.72
     },
     {
      "id": "ask-for-help-when-lost",
@@ -879,15 +879,15 @@
     },
     {
      "id": "meet-people-where-they-are",
-     "score": 4.63
+     "score": 4.65
     },
     {
      "id": "apologise-sincerely",
-     "score": 4.39
+     "score": 4.42
     },
     {
      "id": "seek-a-parents-peace",
-     "score": 4.39
+     "score": 4.42
     },
     {
      "id": "friend-of-all-beings",
@@ -1050,7 +1050,7 @@
    "shortlist": [
     {
      "id": "contact-pleasures-end",
-     "score": 13.44
+     "score": 13.47
     },
     {
      "id": "withstand-the-surge",
@@ -1062,7 +1062,7 @@
     },
     {
      "id": "pleasant-versus-good",
-     "score": 7.19
+     "score": 7.22
     },
     {
      "id": "wealth-never-satisfies",
@@ -1070,15 +1070,15 @@
     },
     {
      "id": "do-not-covet",
-     "score": 5.17
+     "score": 5.16
     },
     {
      "id": "not-the-sole-doer",
-     "score": 4.63
+     "score": 4.65
     },
     {
      "id": "let-go-of-mine",
-     "score": 4.63
+     "score": 4.65
     }
    ],
    "comparison": [
@@ -1270,11 +1270,11 @@
     },
     {
      "id": "not-knowing-is-part-of-knowing",
-     "score": 9.5
+     "score": 9.44
     },
     {
      "id": "moderation-in-living",
-     "score": 9.23
+     "score": 9.22
     },
     {
      "id": "humility-before-the-unknown",
@@ -1282,15 +1282,15 @@
     },
     {
      "id": "keep-contributing",
-     "score": 8.37
+     "score": 8.36
     },
     {
      "id": "see-the-pain-of-ageing-clearly",
-     "score": 7.07
+     "score": 7.06
     },
     {
      "id": "mortality-is-certain",
-     "score": 6.39
+     "score": 6.42
     }
    ],
    "comparison": [
@@ -1480,15 +1480,15 @@
    "shortlist": [
     {
      "id": "envy-and-comparison",
-     "score": 8.04
+     "score": 8.07
     },
     {
      "id": "withstand-the-surge",
-     "score": 6.04
+     "score": 6.07
     },
     {
      "id": "choose-your-company",
-     "score": 6.04
+     "score": 6.07
     },
     {
      "id": "reciprocity",
@@ -1507,7 +1507,7 @@
      "score": 5.0
     },
     {
-     "id": "strength-without-passion",
+     "id": "golden-rule",
      "score": 5.0
     }
    ],
@@ -1698,11 +1698,15 @@
    "shortlist": [
     {
      "id": "give-without-expecting-return",
-     "score": 14.24
+     "score": 12.84
     },
     {
      "id": "reciprocity",
-     "score": 11.55
+     "score": 11.52
+    },
+    {
+     "id": "trust-with-care",
+     "score": 11.08
     },
     {
      "id": "name-the-confusion",
@@ -1710,7 +1714,7 @@
     },
     {
      "id": "wealth-never-satisfies",
-     "score": 9.98
+     "score": 9.92
     },
     {
      "id": "reflect-then-choose",
@@ -1718,15 +1722,11 @@
     },
     {
      "id": "use-wealth-or-lose-it",
-     "score": 8.98
+     "score": 8.92
     },
     {
      "id": "weigh-consequences-and-capacity",
      "score": 7.6
-    },
-    {
-     "id": "gold-and-stone-alike",
-     "score": 6.98
     }
    ],
    "comparison": [
@@ -1755,15 +1755,15 @@
      "limits": "It is used to keep score in close relationships, or to pressure someone into repaying help they never asked for."
     },
     {
-     "principle": "name-the-confusion",
-     "name": "When duties conflict, name the confusion",
+     "principle": "trust-with-care",
+     "name": "Trust with care",
      "fit": [
       "addresses the kind of problem you describe",
-      "speaks to conflicting duties"
+      "echoes your words: lend, money"
      ],
      "disagrees_with": [],
-     "consequence_if_followed": "Two obligations genuinely conflict: career versus family, loyalty versus honesty, parent versus partner.",
-     "limits": "It is used to look for one authority to decide everything."
+     "consequence_if_followed": "Someone is deciding whether to lend money, share a secret, sign something, or rely on a new partner, friend or colleague.",
+     "limits": "It turns into suspicion of everyone, or stops someone from asking for help when they need it."
     }
    ],
    "recommendation": {
@@ -1909,7 +1909,7 @@
     },
     {
      "id": "steadiness-under-pressure",
-     "score": 8.55
+     "score": 8.57
     },
     {
      "id": "not-the-sole-doer",
@@ -1917,19 +1917,19 @@
     },
     {
      "id": "honesty",
-     "score": 5.22
+     "score": 5.25
     },
     {
      "id": "no-self-torture",
-     "score": 5.09
+     "score": 5.12
     },
     {
      "id": "no-recognition-seeking",
-     "score": 4.43
+     "score": 4.42
     },
     {
      "id": "the-steady-doer",
-     "score": 4.43
+     "score": 4.42
     }
    ],
    "comparison": [
@@ -2116,7 +2116,7 @@
     },
     {
      "id": "clear-understanding",
-     "score": 7.29
+     "score": 7.21
     },
     {
      "id": "honesty",
@@ -2124,11 +2124,15 @@
     },
     {
      "id": "resist-tempting-shortcuts",
-     "score": 5.22
+     "score": 5.24
     },
     {
      "id": "give-without-expecting-return",
-     "score": 5.04
+     "score": 5.07
+    },
+    {
+     "id": "fair-to-those-who-work-for-you",
+     "score": 5.07
     },
     {
      "id": "fearlessness",
@@ -2136,11 +2140,7 @@
     },
     {
      "id": "skill-in-action",
-     "score": 3.68
-    },
-    {
-     "id": "humility-before-the-unknown",
-     "score": 3.49
+     "score": 3.72
     }
    ],
    "comparison": [
@@ -2290,7 +2290,7 @@
    "shortlist": [
     {
      "id": "nourish-one-another",
-     "score": 8.06
+     "score": 8.04
     },
     {
      "id": "impermanence",
@@ -2302,23 +2302,23 @@
     },
     {
      "id": "choose-your-company",
-     "score": 4.81
+     "score": 4.73
     },
     {
      "id": "marks-of-a-true-friend",
-     "score": 4.81
+     "score": 4.73
+    },
+    {
+     "id": "speak-the-hard-truth",
+     "score": 4.73
     },
     {
      "id": "give-without-expecting-return",
-     "score": 4.22
+     "score": 4.25
     },
     {
      "id": "see-the-pain-of-ageing-clearly",
-     "score": 4.22
-    },
-    {
-     "id": "bear-what-comes-and-goes",
-     "score": 3.6
+     "score": 4.25
     }
    ],
    "comparison": [
@@ -2509,23 +2509,23 @@
     },
     {
      "id": "give-without-expecting-return",
-     "score": 6.63
+     "score": 6.65
     },
     {
      "id": "no-ill-will-between-teacher-and-student",
-     "score": 6.29
+     "score": 6.34
+    },
+    {
+     "id": "lead-by-example",
+     "score": 6.04
     },
     {
      "id": "work-not-results",
      "score": 6.0
     },
     {
-     "id": "lead-by-example",
-     "score": 5.99
-    },
-    {
      "id": "seek-a-parents-peace",
-     "score": 5.91
+     "score": 5.96
     }
    ],
    "comparison": [
@@ -2720,7 +2720,7 @@
     },
     {
      "id": "keep-distance-from-harmful-people",
-     "score": 7.51
+     "score": 7.49
     },
     {
      "id": "no-hatred",
@@ -2732,7 +2732,7 @@
     },
     {
      "id": "keep-contributing",
-     "score": 5.04
+     "score": 5.07
     }
    ],
    "comparison": [
@@ -2904,11 +2904,11 @@
    "shortlist": [
     {
      "id": "graded-practice",
-     "score": 7.4
+     "score": 7.39
     },
     {
      "id": "give-without-expecting-return",
-     "score": 7.03
+     "score": 7.05
     },
     {
      "id": "procrastination-as-a-state",
@@ -2916,19 +2916,19 @@
     },
     {
      "id": "meet-people-where-they-are",
-     "score": 6.74
+     "score": 6.73
     },
     {
      "id": "reciprocity",
-     "score": 6.15
+     "score": 6.11
     },
     {
      "id": "patience",
-     "score": 5.22
+     "score": 5.25
     },
     {
      "id": "sorrow-ends-in-stillness",
-     "score": 5.18
+     "score": 5.23
     },
     {
      "id": "hard-at-first-sweet-later",
@@ -3288,9 +3288,9 @@
   },
   "total": 10,
   "notes": [
-   "top chariot-of-the-mind not acceptable"
+   "top pleasant-versus-good not acceptable"
   ],
-  "top": "chariot-of-the-mind",
+  "top": "pleasant-versus-good",
   "safety": null,
   "questions": [],
   "answer": {
@@ -3331,16 +3331,20 @@
    "safety": null,
    "shortlist": [
     {
+     "id": "pleasant-versus-good",
+     "score": 6.01
+    },
+    {
      "id": "chariot-of-the-mind",
      "score": 6.0
     },
     {
-     "id": "pleasant-versus-good",
-     "score": 5.98
-    },
-    {
      "id": "hard-at-first-sweet-later",
      "score": 5.62
+    },
+    {
+     "id": "speak-the-hard-truth",
+     "score": 5.01
     },
     {
      "id": "guard-the-senses",
@@ -3348,32 +3352,18 @@
     },
     {
      "id": "name-the-confusion",
-     "score": 4.31
+     "score": 4.36
     },
     {
      "id": "see-the-pain-of-ageing-clearly",
-     "score": 4.31
+     "score": 4.36
     },
     {
      "id": "lead-by-example",
-     "score": 4.09
-    },
-    {
-     "id": "seek-a-parents-peace",
-     "score": 4.09
+     "score": 4.12
     }
    ],
    "comparison": [
-    {
-     "principle": "chariot-of-the-mind",
-     "name": "The chariot: intellect drives, mind is the reins",
-     "fit": [
-      "addresses the kind of problem you describe"
-     ],
-     "disagrees_with": [],
-     "consequence_if_followed": "Someone feels pulled around by impulses and wants a practical picture of self-command.",
-     "limits": "It is used to look down on people who struggle with impulse control for reasons beyond their choice."
-    },
     {
      "principle": "pleasant-versus-good",
      "name": "Choose the good over the merely pleasant",
@@ -3384,6 +3374,16 @@
      "disagrees_with": [],
      "consequence_if_followed": "A choice between short-term comfort and long-term wellbeing: study or scrolling, saving or spending, honesty or ease.",
      "limits": "It makes someone distrust every enjoyable thing, or choose hardship for its own sake."
+    },
+    {
+     "principle": "chariot-of-the-mind",
+     "name": "The chariot: intellect drives, mind is the reins",
+     "fit": [
+      "addresses the kind of problem you describe"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "Someone feels pulled around by impulses and wants a practical picture of self-command.",
+     "limits": "It is used to look down on people who struggle with impulse control for reasons beyond their choice."
     },
     {
      "principle": "hard-at-first-sweet-later",
@@ -3399,42 +3399,42 @@
    ],
    "recommendation": {
     "label": "Viveka's application",
-    "principle": "chariot-of-the-mind",
-    "name": "The chariot: intellect drives, mind is the reins",
-    "text": "The chariot: intellect drives, mind is the reins. The body is a chariot, the senses its horses, the mind the reins and the intellect the driver; with understanding at the reins, the senses go where you choose.",
-    "why_it_fits_you": "For your situation (you are 16; this involves your parents): addresses the kind of problem you describe.",
-    "application": "Your parents has power over your situation, so plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. When an impulse pulls, ask: who is driving right now, my horses or me? Decide where the chariot is going before you loosen the reins."
+    "principle": "pleasant-versus-good",
+    "name": "Choose the good over the merely pleasant",
+    "text": "Choose the good over the merely pleasant. The good and the pleasant both present themselves; the wise tell them apart and choose the good, while the careless choose comfort.",
+    "why_it_fits_you": "For your situation (you are 16; this involves your parents): addresses the kind of problem you describe; echoes your words: study.",
+    "application": "Your parents has power over your situation, so plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. For a choice in front of you, ask: how will each option feel at the start, and how will it feel in a year?"
    },
    "sources": [
     {
      "label": "Source text",
-     "id": "KaU.1.3.3",
-     "english": "Know the Self as the rider in the chariot, the body as the chariot, the intellect as the charioteer, and the mind as the reins.",
-     "devanagari": "आत्मानँ रथिनं विद्धि शरीरँ रथमेव तु ।\nबुद्धिं तु सारथिं विद्धि मनः प्रग्रहमेव च ॥",
+     "id": "KaU.1.2.1",
+     "english": "The good is one thing, the pleasant quite another. Both, with different aims, bind a person. All goes well for the one who takes the good; whoever chooses the pleasant falls short of the goal.",
+     "devanagari": "अन्यच्छ्रेयोऽन्यदुतैव प्रेय-\nस्ते उभे नानार्थे पुरुषँ सिनीतः ।\nतयोः श्रेय आददानस्य साधु\nभवति हीयतेऽर्थाद्य उ प्रेयो वृणीते ॥",
      "review_status": "draft"
     },
     {
      "label": "Source text",
-     "id": "KaU.1.3.4",
-     "english": "The senses, they say, are the horses, and the objects of sense are the roads they run on. The Self joined with body, senses and mind is the one who experiences, so the wise say.",
-     "devanagari": "इन्द्रियाणि हयानाहुर्विषयाँ स्तेषु गोचरान् ।\nआत्मेन्द्रियमनोयुक्तं भोक्तेत्याहुर्मनीषिणः ॥",
+     "id": "KaU.1.2.2",
+     "english": "The good and the pleasant both come to a person. The wise one examines them closely and tells them apart. The wise choose the good over the pleasant; the foolish choose the pleasant, for getting and keeping.",
+     "devanagari": "श्रेयश्च प्रेयश्च मनुष्यमेतः\nतौ सम्परीत्य विविनक्ति धीरः ।\nश्रेयो हि धीरोऽभि प्रेयसो वृणीते\nप्रेयो मन्दो योगक्षेमाद्वृणीते ॥",
      "review_status": "draft"
     }
    ],
    "commentary": [
     {
      "label": "Commentator's view",
-     "unit": "KaU.1.3.3",
+     "unit": "KaU.1.2.1",
      "school": "advaita",
      "commentator": "Śaṅkara (Advaita)",
-     "note": "The individual self is the owner of the chariot; the body is the chariot, pulled by the senses; the deciding intellect is the driver, since most bodily action is directed by it; the mind, which forms intentions, is the reins by which the senses are guided."
+     "note": "Everyone pursues one or the other, prosperity or liberation, and one person cannot follow both, since they are as opposed as knowledge and ignorance. Whoever takes the good alone fares well; the short-sighted who choose the pleasant lose the lasting goal."
     },
     {
      "label": "Commentator's view",
-     "unit": "KaU.1.3.4",
+     "unit": "KaU.1.2.2",
      "school": "advaita",
      "commentator": "Śaṅkara (Advaita)",
-     "note": "The Self alone does not experience anything; being an experiencer comes from its limiting conditions, the intellect and the rest. Only on this understanding can the 'highest place of Viṣṇu' later be recognised as one's own Self."
+     "note": "Like a swan separating milk from water, the wise weigh the two and choose the good. The dull, unable to discern, choose the pleasant, such as cattle and sons, for the growth and protection of the body."
     },
     {
      "label": "Commentator's view",
@@ -3444,19 +3444,19 @@
    "example": null,
    "challenge": {
     "label": "Viveka's application",
-    "principle": "pleasant-versus-good",
-    "name": "Choose the good over the merely pleasant",
-    "text": "If your conscience leans the other way, here is the other view: Choose the good over the merely pleasant. The good and the pleasant both present themselves; the wise tell them apart and choose the good, while the careless choose comfort.",
+    "principle": "chariot-of-the-mind",
+    "name": "The chariot: intellect drives, mind is the reins",
+    "text": "If your conscience leans the other way, here is the other view: The chariot: intellect drives, mind is the reins. The body is a chariot, the senses its horses, the mind the reins and the intellect the driver; with understanding at the reins, the senses go where you choose.",
     "source": {
      "label": "Source text",
-     "id": "KaU.1.2.1",
-     "english": "The good is one thing, the pleasant quite another. Both, with different aims, bind a person. All goes well for the one who takes the good; whoever chooses the pleasant falls short of the goal."
+     "id": "KaU.1.3.3",
+     "english": "Know the Self as the rider in the chariot, the body as the chariot, the intellect as the charioteer, and the mind as the reins."
     },
-    "when_the_recommendation_misleads": "It is used to look down on people who struggle with impulse control for reasons beyond their choice."
+    "when_the_recommendation_misleads": "It makes someone distrust every enjoyable thing, or choose hardship for its own sake."
    },
    "next_step": {
     "label": "Viveka's application",
-    "text": "When an impulse pulls, ask: who is driving right now, my horses or me? Decide where the chariot is going before you loosen the reins."
+    "text": "For a choice in front of you, ask: how will each option feel at the start, and how will it feel in a year?"
    },
    "safety_footer": {
     "label": "Viveka's application",
@@ -3520,11 +3520,11 @@
     },
     {
      "id": "humility-before-the-unknown",
-     "score": 10.75
+     "score": 10.78
     },
     {
      "id": "chariot-of-the-mind",
-     "score": 8.15
+     "score": 8.16
     },
     {
      "id": "withstand-the-surge",
@@ -3532,7 +3532,7 @@
     },
     {
      "id": "reasoning-alone-is-not-enough",
-     "score": 7.95
+     "score": 7.98
     },
     {
      "id": "not-knowing-is-part-of-knowing",
@@ -3540,11 +3540,11 @@
     },
     {
      "id": "three-gunas-awareness",
-     "score": 6.59
+     "score": 6.58
     },
     {
      "id": "respect-different-paths",
-     "score": 6.44
+     "score": 6.46
     }
    ],
    "comparison": [
@@ -3712,35 +3712,35 @@
    "shortlist": [
     {
      "id": "speech-without-harm",
-     "score": 6.44
+     "score": 6.46
     },
     {
      "id": "forgiveness-as-strength",
-     "score": 5.3
+     "score": 5.21
     },
     {
      "id": "give-without-expecting-return",
-     "score": 5.15
+     "score": 5.11
+    },
+    {
+     "id": "trust-with-care",
+     "score": 4.88
     },
     {
      "id": "reciprocity",
-     "score": 3.75
+     "score": 3.72
     },
     {
      "id": "envy-and-comparison",
-     "score": 3.75
+     "score": 3.72
+    },
+    {
+     "id": "golden-rule",
+     "score": 3.72
     },
     {
      "id": "respect-different-paths",
-     "score": 3.75
-    },
-    {
-     "id": "friend-of-all-beings",
-     "score": 3.55
-    },
-    {
-     "id": "pass-it-on",
-     "score": 3.55
+     "score": 3.72
     }
    ],
    "comparison": [
@@ -3751,7 +3751,9 @@
       "speaks to a relationship",
       "echoes your words: said, someth"
      ],
-     "disagrees_with": [],
+     "disagrees_with": [
+      "speak-the-hard-truth"
+     ],
      "consequence_if_followed": "Someone has to deliver hard news, give feedback, or is tempted to say something cruel.",
      "limits": "It is used to avoid ever saying a necessary hard truth. Truth comes first in the list."
     },
@@ -3843,25 +3845,16 @@
      "missing": "Our source has no comment from Madhva (Dvaita) on BG.17.15."
     }
    ],
-   "example": {
-    "label": "Historical example (story from the texts)",
-    "id": "arjuna-apologises",
-    "title": "Arjuna asks forgiveness for taking a friend for granted",
-    "event": "After seeing Krishna's cosmic form, Arjuna asks forgiveness for every time he spoke carelessly to him as a mere friend, joking or disrespectful, alone or in front of others, asking him to bear with him as a father with a son, a friend with a friend.",
-    "source": "Bhagavad Gita 11.41-11.44",
-    "lesson": "Familiarity can make us careless with those closest to us; a specific, unguarded apology repairs it.",
-    "limits": "Arjuna's apology is to God revealed; between people, apology should be mutual where both have erred, and no one should be made to grovel.",
-    "verified": true
-   },
+   "example": null,
    "challenge": {
     "label": "Viveka's application",
-    "principle": "forgiveness-as-strength",
-    "name": "Forgiveness belongs to the strong",
-    "text": "If your conscience leans the other way, here is the other view: Forgiveness belongs to the strong. Forgiveness, fortitude and freedom from malice are listed among the divine qualities, alongside vigour.",
+    "principle": "speak-the-hard-truth",
+    "name": "Say the unwelcome thing that helps",
+    "text": "If your conscience leans the other way, here is the other view: Say the unwelcome thing that helps. Pleasant talkers are easy to find; rare is the person who says what is unpleasant but good for you, and rarer still the one who listens. Even wise words fail when spoken at the wrong time.",
     "source": {
      "label": "Source text",
-     "id": "BG.16.3",
-     "english": "vigour, forgiveness, fortitude, purity, freedom from malice and from excessive pride: these belong to one born to the divine nature, Arjuna."
+     "id": "VN.5.14",
+     "english": "People who always speak pleasantly are easy to find, king; but rare are both the speaker and the hearer of what is unpleasant yet beneficial."
     },
     "when_the_recommendation_misleads": "It is used to avoid ever saying a necessary hard truth. Truth comes first in the list."
    },
@@ -3920,6 +3913,7 @@
     "danger": false,
     "self_harm": false,
     "frames": [
+     "managing",
      "criticised"
     ]
    },
@@ -3928,7 +3922,7 @@
    "shortlist": [
     {
      "id": "not-the-sole-doer",
-     "score": 11.83
+     "score": 11.85
     },
     {
      "id": "honour-and-dishonour-alike",
@@ -3939,24 +3933,24 @@
      "score": 10.5
     },
     {
+     "id": "fair-to-those-who-work-for-you",
+     "score": 10.05
+    },
+    {
+     "id": "credit-is-not-yours-alone",
+     "score": 8.15
+    },
+    {
+     "id": "speak-the-hard-truth",
+     "score": 6.5
+    },
+    {
      "id": "ego-that-will-not-listen",
-     "score": 5.98
+     "score": 6.01
     },
     {
      "id": "steadiness-under-pressure",
      "score": 5.9
-    },
-    {
-     "id": "envy-and-comparison",
-     "score": 4.63
-    },
-    {
-     "id": "independent-of-the-crowd",
-     "score": 4.63
-    },
-    {
-     "id": "reciprocity",
-     "score": 4.39
     }
    ],
    "comparison": [
@@ -4145,35 +4139,35 @@
    "shortlist": [
     {
      "id": "guard-the-senses",
-     "score": 5.04
+     "score": 5.07
     },
     {
      "id": "see-the-pain-of-ageing-clearly",
-     "score": 4.18
+     "score": 4.13
     },
     {
      "id": "lead-by-example",
-     "score": 4.09
-    },
-    {
-     "id": "pass-it-on",
-     "score": 4.09
+     "score": 4.12
     },
     {
      "id": "seek-a-parents-peace",
-     "score": 4.09
+     "score": 4.12
+    },
+    {
+     "id": "pass-it-on",
+     "score": 4.01
+    },
+    {
+     "id": "trust-with-care",
+     "score": 4.01
+    },
+    {
+     "id": "meet-people-where-they-are",
+     "score": 4.01
     },
     {
      "id": "nourish-one-another",
-     "score": 4.09
-    },
-    {
-     "id": "choose-your-company",
-     "score": 4.0
-    },
-    {
-     "id": "honesty",
-     "score": 4.0
+     "score": 4.01
     }
    ],
    "comparison": [
@@ -4341,11 +4335,11 @@
    "shortlist": [
     {
      "id": "name-the-confusion",
-     "score": 12.49
+     "score": 12.52
     },
     {
      "id": "reflect-then-choose",
-     "score": 10.75
+     "score": 10.78
     },
     {
      "id": "weigh-consequences-and-capacity",
@@ -4353,23 +4347,23 @@
     },
     {
      "id": "clear-understanding",
-     "score": 9.42
+     "score": 9.47
     },
     {
      "id": "choose-again-after-delusion",
-     "score": 8.02
+     "score": 8.07
+    },
+    {
+     "id": "act-so-you-wont-regret",
+     "score": 7.45
     },
     {
      "id": "lead-by-example",
-     "score": 7.13
+     "score": 6.77
     },
     {
      "id": "honesty",
-     "score": 5.47
-    },
-    {
-     "id": "understand-before-acting",
-     "score": 4.8
+     "score": 5.49
     }
    ],
    "comparison": [
@@ -4551,7 +4545,7 @@
     },
     {
      "id": "renounce-selfishness-not-the-world",
-     "score": 8.83
+     "score": 8.85
     },
     {
      "id": "dharmic-desire-is-legitimate",
@@ -4563,7 +4557,7 @@
     },
     {
      "id": "work-not-results",
-     "score": 6.1
+     "score": 6.11
     },
     {
      "id": "work-for-the-good-of-all",
@@ -4571,11 +4565,11 @@
     },
     {
      "id": "act-as-offering",
-     "score": 4.63
+     "score": 4.65
     },
     {
      "id": "hold-both-together",
-     "score": 4.63
+     "score": 4.65
     }
    ],
    "comparison": [
@@ -4762,7 +4756,7 @@
    "shortlist": [
     {
      "id": "work-not-results",
-     "score": 11.7
+     "score": 11.72
     },
     {
      "id": "giving-up-fruit-brings-peace",
@@ -4770,7 +4764,7 @@
     },
     {
      "id": "trust-alongside-effort",
-     "score": 7.64
+     "score": 7.67
     },
     {
      "id": "calm-before-clarity",
@@ -4782,15 +4776,15 @@
     },
     {
      "id": "faith-and-doubt",
-     "score": 3.9
+     "score": 3.92
     },
     {
      "id": "mental-discipline",
-     "score": 3.9
+     "score": 3.92
     },
     {
      "id": "no-self-torture",
-     "score": 2.39
+     "score": 2.42
     }
    ],
    "comparison": [
@@ -5000,7 +4994,7 @@
    "shortlist": [
     {
      "id": "ask-for-help-when-lost",
-     "score": 9.98
+     "score": 10.01
     },
     {
      "id": "honour-the-grief-first",
@@ -5020,15 +5014,15 @@
     },
     {
      "id": "withstand-the-surge",
-     "score": 3.04
+     "score": 3.07
     },
     {
      "id": "reciprocity",
-     "score": 1.98
+     "score": 2.01
     },
     {
      "id": "no-recognition-seeking",
-     "score": 1.98
+     "score": 2.01
     }
    ],
    "comparison": [
@@ -5323,7 +5317,7 @@
     },
     {
      "id": "ask-for-help-when-lost",
-     "score": 9.82
+     "score": 9.84
     },
     {
      "id": "duty-of-protection",
@@ -5637,7 +5631,7 @@
     },
     {
      "id": "every-reason-to-seek-is-valid",
-     "score": 6.35
+     "score": 6.33
     },
     {
      "id": "seeing-oneness",
@@ -5645,7 +5639,7 @@
     },
     {
      "id": "small-practice-protects",
-     "score": 4.75
+     "score": 4.73
     }
    ],
    "comparison": [
@@ -5805,15 +5799,15 @@
     },
     {
      "id": "honour-the-grief-first",
-     "score": 3.46
+     "score": 3.51
     },
     {
      "id": "fearlessness",
-     "score": 3.46
+     "score": 3.51
     },
     {
      "id": "reflect-then-choose",
-     "score": 3.46
+     "score": 3.51
     }
    ],
    "comparison": [

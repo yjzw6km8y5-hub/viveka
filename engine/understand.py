@@ -216,7 +216,9 @@ def understand(raw, profile=None):
     s.danger = _word(text, DANGER) or any(c in text for c in ("stalk", "harass", "abus"))
     s.distress = s.self_harm or _word(text, DISTRESS) or bool(profile.get("distress"))
 
-    holders = [p for p in s.people if p in POWER_HOLDERS or (p in PARENTS and s.treat_as_minor)]
+    # A parent named only as an owner ("my father's property") is not shown as holding power.
+    holders = [p for p in s.people if p in POWER_HOLDERS or
+               (p in PARENTS and s.treat_as_minor and re.search(rf"\b{p}\b(?!['’]s\b)", text))]
     s.constraints = {
         "power_imbalance": holders,
         "dependency": [c.strip() for c in DEPENDENCY if c in text],

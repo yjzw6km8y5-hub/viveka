@@ -363,7 +363,8 @@
     "supporting": [
       "BG.18.8",
       "BG.18.7",
-      "BG.18.10"
+      "BG.18.10",
+      "VN.7.40"
     ],
     "applies_when": "Someone wants to quit a course, job or commitment mainly because it has become difficult or uncomfortable.",
     "misleads_when": "The difficulty is abuse, danger, exploitation or harm to health. Then leaving is right, and Viveka always supports it.",
@@ -533,7 +534,10 @@
     "meaning": "Discipline is not for those who overdo or underdo eating, sleep or effort; balance in daily life is what ends sorrow.",
     "supporting": [
       "BG.6.16",
-      "BG.6.17"
+      "BG.6.17",
+      "VN.7.38",
+      "VN.7.47",
+      "VN.5.30"
     ],
     "applies_when": "Burnout, sleeplessness, overwork, crash diets, or extreme routines in the name of discipline.",
     "misleads_when": "It is used to dismiss a real emergency that needs intense effort for a short time.",

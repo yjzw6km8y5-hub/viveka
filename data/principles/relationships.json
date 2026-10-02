@@ -146,7 +146,9 @@
       "honesty",
       "neither-troubling-nor-troubled"
     ],
-    "conflicts_with": [],
+    "conflicts_with": [
+      "speak-the-hard-truth"
+    ],
     "modern_application": "Run what you plan to say through three filters: is it true, is it kind in how it is said, and does it help?",
     "situations": [
       "relationships_forgiveness",
@@ -171,7 +173,10 @@
       "BG.16.3",
       "BG.12.13",
       "NS.78",
-      "NS.83"
+      "NS.83",
+      "VN.7.45",
+      "VN.7.46",
+      "VN.7.55"
     ],
     "applies_when": "Someone is deciding whether to forgive a family member, friend or colleague.",
     "misleads_when": "It is used to demand immediate forgiveness from someone who was harmed, or to restore access to someone dangerous. Forgiving is not the same as reconciling.",
@@ -362,7 +367,8 @@
       "KeU.4.8",
       "BG.16.2",
       "BG.13.7",
-      "NS.26"
+      "NS.26",
+      "VN.8.3"
     ],
     "applies_when": "Someone is tempted to lie, cover up, or present a false image.",
     "misleads_when": "It is used to justify brutal honesty that does needless harm, or to demand disclosure that would put someone in danger.",

@@ -109,5 +109,57 @@
         7
       ]
     }
+  },
+  "vidura_niti": {
+    "title": "Vidura Niti",
+    "title_devanagari": "विदुरनीतिः",
+    "group": "niti",
+    "id_prefix": "VN",
+    "levels": [
+      "adhyaya",
+      "verse"
+    ],
+    "raw": "data/raw/niti/vidura_niti.json",
+    "source_pages": {
+      "text": [
+        "विदुरनीतिः"
+      ],
+      "bhashya": []
+    },
+    "expected_units": {
+      "1": 132,
+      "2": 82,
+      "3": 67,
+      "4": 72,
+      "5": 60,
+      "6": 44,
+      "7": 70,
+      "8": 30
+    },
+    "count_basis": "Verses numbered in order within each chapter (Mahabharata Udyoga Parva 33-40 in this source). The source's own markers repeat or are missing in places; each record keeps it in source.marker.",
+    "speakers": [
+      "Vaishampayana",
+      "doorkeeper",
+      "Dhritarashtra",
+      "Vidura",
+      "Virochana",
+      "Prahlada",
+      "Keshini",
+      "Sudhanva",
+      "the swan",
+      "the Sadhyas"
+    ],
+    "commentaries": {},
+    "speaker_from_source": true,
+    "speaker_corrections": {
+      "VN.1.8": {
+        "speaker": "Vidura",
+        "evidence": "VN.1.7 says Vidura, entering, spoke with folded hands; 1.8 is his words ('I am Vidura...'), but the page has no 'विदुर उवाच' line, so the narrator Vaishampayana would carry over."
+      },
+      "VN.3.10": {
+        "speaker": "Sudhanva",
+        "evidence": "Snapshot rev 37534 heads this verse 'विदुर उवाच', but the verse addresses Virochana as 'प्राह्रादे' (son of Prahlada) and refuses to share his seat; Virochana's reply (VN.3.11) addresses 'सुधन्वन्'. The speaker is Sudhanva."
+      }
+    }
   }
 }

@@ -28,7 +28,7 @@ Lowest-scoring answers:
 - H001 (9/12, top: choose-your-company): top choose-your-company not acceptable
 - H011 (10/12, top: duty-of-protection): top duty-of-protection not acceptable; acceptable one in top 3
 - H015 (10/12, top: graded-practice): top graded-practice not acceptable
-- H017 (10/12, top: chariot-of-the-mind): top chariot-of-the-mind not acceptable
+- H017 (10/12, top: pleasant-versus-good): top pleasant-versus-good not acceptable
 - H021 (10/12, top: guard-the-senses): top guard-the-senses not acceptable
 - H029 (10/12, top: honour-the-grief-first): top honour-the-grief-first not acceptable; acceptable one in top 3
 - H030 (10/12, top: non-violence): 

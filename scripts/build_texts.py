@@ -48,8 +48,9 @@ END_MARK = re.compile(r"॥\s*([०-९0-9]+(?:\s*[.\-]\s*[०-९0-9]+)*)\s*॥
 
 # ---------------------------------------------------------------- helpers
 
-def clean_lines(wikitext):
-    """Wikitext -> plain text lines (markup, templates and categories removed)."""
+def clean_lines(wikitext, join_dandas=True):
+    """Wikitext -> plain text lines (markup, templates and categories removed).
+    Commentary passes join_dandas=False: its parsers key on the source's own '।।N।।'."""
     text = re.sub(r"<ref[^>]*>.*?</ref>", "", wikitext, flags=re.S)  # footnotes
     text = re.sub(r"\{\{[^{}]*\}\}", "", text, flags=re.S)
     text = re.sub(r"\[\[(?:वर्गः|Category|en):[^\]]*\]\]", "", text)
@@ -62,7 +63,8 @@ def clean_lines(wikitext):
         line = re.sub(r"\s+", " ", line).strip()
         line = line.strip("=").strip()
         line = re.sub(r"\s\|(?=\s|$)", " ।", line)  # ASCII pipe used as a danda
-        line = line.replace("।।", "॥")  # two single dandas typed for a double danda
+        if join_dandas:
+            line = line.replace("।।", "॥")  # two single dandas typed for a double danda
         if line:
             lines.append(unicodedata.normalize("NFC", line))
     return lines
@@ -175,7 +177,7 @@ def parse_isha(raw):
 
 def bhashya_isha(raw, records):
     """Śaṅkara's comment on mantra N follows the marker 'शा.भा.N'."""
-    text = "\n".join(clean_lines(raw["bhashya"][0]["wikitext"]))
+    text = "\n".join(clean_lines(raw["bhashya"][0]["wikitext"], join_dandas=False))
     parts = re.split(r"^शा\.भा\.\s*([०-९]+)\s*$", text, flags=re.M)
     out = {}
     for num, body in zip(parts[1::2], parts[2::2]):
@@ -232,7 +234,7 @@ def bhashya_kena(raw, records):
     1.3 and 1.4. Its 1.3.7-10 are explained together in one comment. Its 1.2.1
     has no label: the comment sits between the khaṇḍa heading and 1.2.2.
     """
-    text = "\n".join(clean_lines(raw["bhashya"][0]["wikitext"]))
+    text = "\n".join(clean_lines(raw["bhashya"][0]["wikitext"], join_dandas=False))
     segs, _ = labelled_segments(text, r"1\.\d\.\d+")
     out, prev = {}, None
     pending = []  # mantra labels whose comment comes later (joint comment)
@@ -311,7 +313,7 @@ def recover_unlabelled(found, records, section_break=None):
 
 
 def bhashya_katha(raw, records):
-    text = "\n".join(clean_lines(raw["bhashya"][0]["wikitext"]))
+    text = "\n".join(clean_lines(raw["bhashya"][0]["wikitext"], join_dandas=False))
     brk = r"^\S+ (?:अध्याय|वल्ली)(?:\s.*)?$"  # no \b: vowel signs are not \w
     found = bhashya_labelled(text, r"\d\.\d\.\d+", section_break=brk)
     found = recover_unlabelled(found, records, section_break=brk)
@@ -343,11 +345,54 @@ def parse_nitishataka(raw):
     return [(n, ulines, page) for n, ulines in units]
 
 
+SPEAKER_NAMES = {"वैशंपायन": "Vaishampayana", "वैशम्पायन": "Vaishampayana", "द्वाःस्थ": "doorkeeper",
+                 "धृतराष्ट्र": "Dhritarashtra", "विदुर": "Vidura", "विरोचन": "Virochana", "प्रह्लाद": "Prahlada",
+                 "हंस": "the swan", "साध्य": "the Sadhyas", "सनत्सुजात": "Sanatsujata", "सुधन्वा": "Sudhanva",
+                 "सुधन्वन्": "Sudhanva", "केशिनी": "Keshini", "केशि": "Keshini", "आत्रेय": "Atreya", "कश्यप": "Kashyapa"}
+
+
+def parse_vidura(raw):
+    """Vidura Niti (Mahabharata, Udyoga Parva 33-40). The page writes dandas as
+    ASCII full stops and its verse numbers are unreliable (repeats, '-' markers),
+    so verses are numbered in order within each chapter; the source's own marker
+    is kept in source.marker. Speakers come from the '... उवाच' lines."""
+    page = raw["text"][0]
+    out, chapter, speaker, n = [], 0, None, 0
+    current = []
+    for ln in clean_lines(page["wikitext"]):
+        m = re.fullmatch(rf"({ORDINAL_RE})ोऽध्यायः", ln)
+        if m:
+            chapter, n, current = ORDINALS[m.group(1)], 0, []
+            continue
+        if chapter == 0 or ln.startswith("इति ") or re.search(r"ऽध्यायः\s*\.\.", ln):
+            current = []  # colophons ('इति श्रीमहाभारते ... ऽध्यायः .. ४०..') are not verses
+            continue
+        sm = re.fullmatch(r"(\S+?)\s*(?:उवाच|ऊचुः|न्युवाच|ोवाच)\s*[.।]?", ln) or \
+            re.fullmatch(r"(\S+?)(?:न्युवाच|ोवाच)\s*[.।]?", ln)
+        if sm:
+            word = sm.group(1)
+            # sandhi-fused forms: केशिन्युवाच -> केशिनी, सुधन्वोवाच -> सुधन्वा
+            name = next((v for k, v in SPEAKER_NAMES.items() if word.startswith(k[:-1] if len(k) > 3 else k)), None)
+            speaker = name or word
+            current = []
+            continue
+        em = re.search(r"\.\.\s*([०-९0-9\-]*)\s*\.\.\s*$", ln)
+        line = re.sub(r"\s*\.\.\s*[०-९0-9\-]*\s*\.\.\s*$", " ॥", ln)
+        line = re.sub(r"\s*\.\s*$", " ।", line).strip()
+        current.append(line)
+        if em:
+            n += 1
+            out.append(([chapter, n], current, page, {"speaker": speaker, "marker": em.group(1) or ""}))
+            current = []
+    return out
+
+
 PARSERS = {
     "isha_upanishad": (parse_isha, bhashya_isha),
     "kena_upanishad": (parse_kena, bhashya_kena),
     "katha_upanishad": (parse_katha, bhashya_katha),
     "nitishataka": (parse_nitishataka, None),
+    "vidura_niti": (parse_vidura, None),
 }
 
 
@@ -360,8 +405,10 @@ def build(text_id):
     units = parse(raw)
     prefix = meta["id_prefix"]
 
-    records, seen = [], set()
-    for ref, lines, page in units:
+    records, seen, from_source = [], set(), {}
+    for unit in units:
+        ref, lines, page = unit[:3]
+        extra = unit[3] if len(unit) > 3 else {}
         uid = prefix + "." + ".".join(map(str, ref))
         if uid in seen:
             raise SystemExit(f"{text_id}: duplicate unit {uid}")
@@ -383,6 +430,14 @@ def build(text_id):
             },
             "licence": page["licence"],
         })
+        if extra.get("marker") is not None:
+            records[-1]["source"]["marker"] = extra["marker"]
+        if extra.get("speaker"):
+            records[-1]["speaker"] = extra["speaker"]
+            from_source[uid] = True
+        corr = meta.get("speaker_corrections", {}).get(uid)
+        if corr:
+            records[-1]["speaker"] = corr["speaker"]  # documented fix; evidence in the registry
 
     commentaries = {}
     if parse_bhashya and raw.get("bhashya"):
@@ -402,6 +457,8 @@ def build(text_id):
     for rec in records:
         merged = {**EDITORIAL_DEFAULTS, **rec}
         for key, value in annotations.get(rec["id"], {}).items():
+            if key == "speaker" and from_source.get(rec["id"]):
+                raise SystemExit(f"{rec['id']}: speaker comes from the source; fix it in the parser, not the annotations")
             if key not in EDITORIAL_DEFAULTS:
                 raise SystemExit(f"{rec['id']}: annotation may not set source-derived field {key!r}")
             merged[key] = value

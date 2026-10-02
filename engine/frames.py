@@ -15,11 +15,12 @@ FRAMES = {
          r"\bor should\b", r"\btorn between\b", r"\bdilemma\b", r"\bwhat (?:do|should) i do\b", r"\bneeds me but\b",
          r"\bmy own life\b", r"\bwant me to choose\b"],
         ["name-the-confusion", "reflect-then-choose", "weigh-consequences-and-capacity", "clear-understanding",
-         "understand-before-acting", "own-path-over-imitation", "choose-again-after-delusion"]),
+         "understand-before-acting", "own-path-over-imitation", "choose-again-after-delusion", "act-so-you-wont-regret"]),
     "family_care": (
         [r"\b(?:father|mother|dad|mom|mum|parents?|grandmother|grandfather)\b[^.?!]{0,40}\b(?:ill|sick|hospital|old|ageing|aging|dementia|care)\b",
          r"\blook after\b", r"\bcare(?:giver| for)\b", r"\bsick (?:father|mother|parent)\b"],
-        ["name-the-confusion", "work-for-the-good-of-all", "reciprocity", "reflect-then-choose", "keep-contributing"]),
+        ["name-the-confusion", "work-for-the-good-of-all", "reciprocity", "reflect-then-choose", "keep-contributing",
+         "stand-by-your-relatives"]),
     "study_focus": (
         [r"\bexams?\b", r"\bstudy(?:ing)?\b", r"\bhomework\b", r"\bdistract", r"\bscrolling\b", r"\bfocus\b",
          r"\bphone\b", r"\bsocial media\b", r"\bgaming\b"],
@@ -37,7 +38,8 @@ FRAMES = {
     "anger": (
         [r"\bangry\b", r"\banger\b", r"\bfurious\b", r"\brage\b", r"\blost my temper\b", r"\byell(?:ed|ing)?\b",
          r"\bshout(?:ed|ing)?\b", r"\brevenge\b"],
-        ["desire-anger-chain", "withstand-the-surge", "three-gates", "speech-without-harm", "calm-before-clarity"]),
+        ["desire-anger-chain", "withstand-the-surge", "three-gates", "speech-without-harm", "calm-before-clarity",
+         "we-see-faults-in-those-we-dislike"]),
     "hurt_by_someone": (
         [r"\bbetray", r"\bforgive\b", r"\bhurt me\b", r"\blied to me\b", r"\bcheated on\b", r"\bresent", r"\bgrudge\b"],
         ["forgiveness-as-strength", "no-hatred", "keep-distance-from-harmful-people", "feel-others-pain-as-your-own",
@@ -108,7 +110,7 @@ FRAMES = {
          "small-practice-protects"]),
     "honesty": (
         [r"\blie\b", r"\blying\b", r"\btell (?:him|her|them) the truth\b", r"\bhonest", r"\bsecret\b", r"\bconfess"],
-        ["honesty", "speech-without-harm", "apologise-sincerely"]),
+        ["honesty", "speech-without-harm", "apologise-sincerely", "speak-the-hard-truth"]),
     "parent_child": (
         [r"\bmy parents (?:want|don't|won't|expect|disapprove)\b", r"\bmy (?:son|daughter) (?:wants|won't|doesn't)\b",
          r"\bour (?:son|daughter)\b", r"\bdisapprove", r"\barranged marriage\b", r"\binter-?caste\b", r"\binterfaith\b"],
@@ -159,23 +161,33 @@ FRAMES = {
         ["let-go-of-mine", "feel-others-pain-as-your-own", "loving-without-clinging", "humility"]),
     "lending": (
         [r"\bborrow", r"\blend(?:ing)?\b", r"\bpay(?:s)? (?:it |me )?back\b", r"\bowes me\b"],
-        ["reciprocity", "give-without-expecting-return", "speech-without-harm", "honesty"]),
+        ["reciprocity", "trust-with-care", "give-without-expecting-return", "speech-without-harm", "honesty"]),
     "revenge": (
         [r"\brevenge\b", r"\bget back at\b", r"\bmake (?:him|her|them) pay\b", r"\bpay for what\b"],
-        ["three-gates", "desire-anger-chain", "non-violence", "withstand-the-surge", "no-hatred"]),
+        ["three-gates", "desire-anger-chain", "non-violence", "withstand-the-surge", "no-hatred", "golden-rule"]),
     "risky_choice": (
         [r"\ball my savings\b", r"\binvest", r"\bcrypto\b", r"\bdrop out\b", r"\bstart a (?:business|bakery|company|startup)\b",
          r"\btake a (?:big )?loan\b", r"\bquit my (?:stable )?\w* ?job\b"],
         ["weigh-consequences-and-capacity", "quick-success-passes", "independent-of-the-crowd", "own-path-over-imitation",
-         "pleasant-versus-good"]),
+         "pleasant-versus-good", "act-so-you-wont-regret"]),
     "difficult_conversation": (
         [r"\bhow (?:do|can|should) i (?:talk|tell|say|bring (?:it|this) up)\b", r"\bhow to tell\b", r"\bshould i say something\b",
          r"\btalk to (?:him|her|them) about\b"],
-        ["speech-without-harm", "honesty", "meet-people-where-they-are", "feel-others-pain-as-your-own"]),
+        ["speech-without-harm", "speak-the-hard-truth", "honesty", "meet-people-where-they-are", "feel-others-pain-as-your-own"]),
     "practice": (
         [r"\bmeditat", r"\bmy mind wanders\b", r"\bmind keeps wandering\b", r"\bcan't concentrate\b", r"\bjapa\b",
          r"\bmorning practice\b"],
         ["steady-practice", "restless-mind-can-be-trained", "graded-practice", "inward-meditation", "small-practice-protects"]),
+    "family_rift": (
+        [r"\b(?:brother|sister|siblings?|cousins?|uncle|aunt|in-laws?)\b[^.?!]{0,40}\b(?:fight|fought|quarrel|not speaking|stopped speaking|property|inheritance|dispute|rift|share)\b",
+         r"\bfamily (?:feud|rift|dispute|quarrel)\b", r"\bproperty dispute\b", r"\bancestral (?:home|house|land|property)\b"],
+        ["stand-by-your-relatives", "speak-the-hard-truth", "forgiveness-as-strength", "we-see-faults-in-those-we-dislike",
+         "golden-rule"]),
+    "managing": (
+        [r"\bmy (?:team|employees|staff|direct reports|workers)\b", r"\bi manage\b", r"\bas a manager\b",
+         r"\b(?:hire|fire|let go of) (?:someone|him|her|them|an employee)\b", r"\bmy (?:maid|driver|cook|helper)\b"],
+        ["fair-to-those-who-work-for-you", "speak-the-hard-truth", "lead-by-example", "credit-is-not-yours-alone",
+         "withstand-the-surge"]),
     "family_shame": (
         [r"\bin jail\b", r"\bin prison\b", r"\barrested\b", r"\bconvicted\b", r"\bfamily (?:is )?ashamed\b",
          r"\bdisgrace(?:d)? (?:the|our) family\b"],
@@ -250,7 +262,7 @@ PRIMARY = {"decision": 1.4, "danger": 2.0, "fatalism": 1.4, "burnout": 1.3, "dea
            "coercive_authority": 2.0, "friendship_hurt": 1.3, "controlling": 1.4, "lending": 1.3,
            "i_hurt_someone": 1.3, "revenge": 1.5, "risky_choice": 1.5, "difficult_conversation": 1.3,
            "parent_child": 1.3, "existential": 1.4, "unappreciated": 1.4, "selfishness": 1.4, "worry_control": 1.3,
-           "criticised": 1.3, "relapse": 1.5, "spending": 1.4, "health_limits": 1.3, "prejudice": 1.4,
+           "criticised": 1.3, "family_rift": 1.3, "managing": 1.3, "relapse": 1.5, "spending": 1.4, "health_limits": 1.3, "prejudice": 1.4,
            "violence_justification": 2.0, "parting": 1.2, "distress": 1.6}
 # Principles that must not be offered when a frame is present (they would serve the wrong party).
 FRAME_EXCLUDE = {"distress": {"dont-quit-because-its-hard", "arise-and-awake", "procrastination-as-a-state",

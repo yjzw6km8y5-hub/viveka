@@ -274,3 +274,14 @@ Technical choices made without asking, newest last. Format: date, decision, why.
   - **Verses that demean women or rank people by birth** (e.g. 'boldness with women', royal policy likened to a courtesan) are flagged `caste_gender`. Their English stays faithful.
   - Verses calling the unlearned 'beasts' are flagged `distress_gentle`.
   - **Transliteration:** nukta letters such as ड़ are now handled (needed for Hindi and Awadhi texts too).
+- **Vidura Niti (2026-10-02):**
+  - Source: the Wikisource page `विदुरनीतिः` (revision 37534), Mahabharata Udyoga Parva chapters 33-40, 557 verses.
+  - The page's own verse numbers repeat and skip, so verses are numbered in order within each chapter (`VN.chapter.verse`). The page's marker is kept in `source.marker`. Chapter colophons are not units.
+  - Speakers come from the source's `... उवाच` lines. Two source labels contradict the verse itself and are corrected in `speaker_corrections`, with evidence: VN.1.8 (Vidura) and VN.3.10 (Sudhanva; the page says Vidura, but the verse addresses Virochana and Virochana's reply addresses Sudhanva).
+  - Dhritarashtra's fatalistic lines (VN.7.1, VN.8.30) are a character's self-justification. They are flagged `fatalism` and are not linked to any principle as support.
+  - 66 verses that demean women or rank people by birth are flagged `caste_gender` and never quoted. Their English stays faithful.
+  - Batch drafts used finer situation labels; the merge folds them into the existing 12 situations rather than growing the vocabulary. Problem types (frames) carry the finer distinctions.
+  - **Seven new principles** fill gaps the tests found: speak-the-hard-truth (conflicts with speech-without-harm, so the engine can show the disagreement), golden-rule, stand-by-your-relatives (conflicts with keep-distance-from-harmful-people; its "misleads when" puts safety first), fair-to-those-who-work-for-you, trust-with-care, act-so-you-wont-regret and we-see-faults-in-those-we-dislike.
+  - **Two new frames:** `family_rift` (sibling, in-law and property quarrels) and `managing` (people who employ or lead others).
+  - **Engine fix:** a parent mentioned only as an owner ("my father's property") is no longer described as holding power over the person.
+- **Build fix (2026-10-02):** joining `।।` into `॥` is now applied only to verse text. Applying it to commentary broke the parsers' `।।N।।` anchors and silently dropped the Kena 2.1 and Katha commentaries. The validator caught it before any commit.

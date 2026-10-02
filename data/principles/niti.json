@@ -41,7 +41,9 @@
     "supporting": [
       "NS.73",
       "NS.76",
-      "NS.60"
+      "NS.60",
+      "VN.7.37",
+      "VN.7.34"
     ],
     "applies_when": "Someone is unsure whether a friendship is good for them, or wants to be a better friend.",
     "misleads_when": "It is used to demand perfection from friends, or to keep a secret that endangers someone's safety.",
@@ -72,7 +74,9 @@
     "supporting": [
       "NS.53",
       "NS.60",
-      "NS.52"
+      "NS.52",
+      "VN.7.14",
+      "VN.7.36"
     ],
     "applies_when": "Someone is drawn to, or stuck with, a person who repeatedly harms, manipulates or demeans them, especially one who is charming or impressive.",
     "misleads_when": "It is used to label someone 'wicked' after a single conflict, or to refuse any possibility of change.",
@@ -81,7 +85,8 @@
       "forgiveness-as-strength"
     ],
     "conflicts_with": [
-      "same-regard-for-all"
+      "same-regard-for-all",
+      "stand-by-your-relatives"
     ],
     "modern_application": "Forgiving someone does not require staying close to them. Decide what distance keeps you safe and well, and hold it kindly but firmly.",
     "situations": [
@@ -205,7 +210,9 @@
     "supporting": [
       "NS.84",
       "NS.27",
-      "NS.81"
+      "NS.81",
+      "VN.8.11",
+      "VN.8.2"
     ],
     "applies_when": "Someone is under pressure to compromise their integrity, or to abandon a worthwhile effort because of setbacks or criticism.",
     "misleads_when": "It is used to persist in a course that is clearly harming oneself or others, or to dismiss honest feedback.",
@@ -239,7 +246,9 @@
     "supporting": [
       "NS.86",
       "NS.89",
-      "NS.98"
+      "NS.98",
+      "VN.7.44",
+      "VN.7.54"
     ],
     "applies_when": "Someone is waiting for luck or fate to change their situation, or has slipped into inertia.",
     "misleads_when": "It is used to blame people whose struggles come from illness, injustice or circumstances beyond their control.",
@@ -302,6 +311,235 @@
       "under18",
       "distress"
     ],
+    "review_status": "draft"
+  },
+  {
+    "id": "speak-the-hard-truth",
+    "name": "Say the unwelcome thing that helps",
+    "meaning": "Pleasant talkers are easy to find; rare is the person who says what is unpleasant but good for you, and rarer still the one who listens. Even wise words fail when spoken at the wrong time.",
+    "supporting": [
+      "VN.5.14",
+      "VN.5.15",
+      "VN.7.2"
+    ],
+    "applies_when": "Someone must give or hear honest feedback, warn a friend, boss or relative, or is avoiding a conversation because it will be uncomfortable.",
+    "misleads_when": "It is used to excuse cruelty or bluntness for its own sake, or to press a point when the moment is wrong or the person is in crisis.",
+    "related": [
+      "honesty",
+      "meet-people-where-they-are"
+    ],
+    "conflicts_with": [
+      "speech-without-harm"
+    ],
+    "modern_application": "Write the one sentence the other person needs to hear. Check it is true and that it helps them, not you. Then choose a calm, private moment to say it.",
+    "situations": [
+      "relationships_forgiveness",
+      "conflict_of_duties"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "golden-rule",
+    "name": "Do not do to others what you would not want done to you",
+    "meaning": "Vidura sums up dharma in one line: do not do to another what is disagreeable to yourself. Meet anger with calm, meanness with giving and falsehood with truth.",
+    "supporting": [
+      "VN.7.57",
+      "VN.7.58"
+    ],
+    "applies_when": "Someone is tempted to retaliate, cut a corner at another's expense, or is unsure how to treat a person who has treated them badly.",
+    "misleads_when": "It is used to tell someone to keep accepting harm, or to deny that protecting oneself from an abuser is right.",
+    "related": [
+      "reciprocity",
+      "non-violence",
+      "feel-others-pain-as-your-own"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Before you act, swap places: picture this being done to you. If you would object, choose the response you would want instead.",
+    "situations": [
+      "relationships_forgiveness",
+      "anger_resentment"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "stand-by-your-relatives",
+    "name": "Stand by your relatives",
+    "meaning": "Relatives can carry you across or pull you under. Help a relative who is poor, sick or struggling; share meals, talk and affection with them, not quarrels.",
+    "supporting": [
+      "VN.7.15",
+      "VN.7.21",
+      "VN.7.22",
+      "VN.7.23"
+    ],
+    "applies_when": "Someone faces a family rift, an inheritance or support dispute, or a relative in need, and wonders how much they owe.",
+    "misleads_when": "It is used to keep someone in contact with an abusive or dangerous relative, or to demand support that a person cannot give. Safety comes first.",
+    "related": [
+      "reciprocity",
+      "nourish-one-another",
+      "seek-a-parents-peace"
+    ],
+    "conflicts_with": [
+      "keep-distance-from-harmful-people"
+    ],
+    "modern_application": "Name one relative who is struggling. Do one small, concrete thing this week: a call, a meal, an errand, or an honest talk to end a quarrel.",
+    "situations": [
+      "relationships_forgiveness",
+      "conflict_of_duties"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "fair-to-those-who-work-for-you",
+    "name": "Be fair to those who work for you",
+    "meaning": "People stay loyal in hard times to a leader who does not rage at them and does not cut their pay to court newcomers. Plan the work and the fair wage first, then gather the right helpers.",
+    "supporting": [
+      "VN.5.20",
+      "VN.5.21",
+      "VN.5.22",
+      "VN.6.24"
+    ],
+    "applies_when": "Someone manages people, hires or lets people go, sets pay, or runs a team, shop or household with staff.",
+    "misleads_when": "It is used to excuse keeping someone who harms others, or to expect loyalty without paying what is due.",
+    "related": [
+      "lead-by-example",
+      "credit-is-not-yours-alone"
+    ],
+    "conflicts_with": [],
+    "modern_application": "List the people who work for or with you. Check that each is paid on time and fairly, and that you have not taken your frustration out on any of them. Fix one thing this week.",
+    "situations": [
+      "success_wealth",
+      "relationships_forgiveness"
+    ],
+    "life_stages": [
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "artha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "trust-with-care",
+    "name": "Trust with care",
+    "meaning": "Do not trust the untrustworthy, and do not trust even the trustworthy blindly; the harm that comes through trust cuts to the roots.",
+    "supporting": [
+      "VN.6.9",
+      "VN.7.49"
+    ],
+    "applies_when": "Someone is deciding whether to lend money, share a secret, sign something, or rely on a new partner, friend or colleague.",
+    "misleads_when": "It turns into suspicion of everyone, or stops someone from asking for help when they need it.",
+    "related": [
+      "reflect-then-choose",
+      "keep-distance-from-harmful-people"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Before you hand over money, passwords or secrets, ask: what happens if this trust is broken? Keep that risk to a size you can afford.",
+    "situations": [
+      "relationships_forgiveness",
+      "fear_anxiety"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "artha"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "act-so-you-wont-regret",
+    "name": "Act so you will not regret it later",
+    "meaning": "Since life is uncertain, do not start what you would grieve over on your deathbed. Everyone errs; the wise set right what remains.",
+    "supporting": [
+      "VN.7.27",
+      "VN.6.21",
+      "VN.7.28"
+    ],
+    "applies_when": "Someone faces a choice with lasting consequences, or has made a mistake and asks what to do now.",
+    "misleads_when": "It feeds endless second-guessing or guilt, or is offered to someone overwhelmed by regret instead of support.",
+    "related": [
+      "weigh-consequences-and-capacity",
+      "apologise-sincerely"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Imagine yourself much older, looking back on this choice. Which option would that person be glad you took? If you have already erred, name one thing you can still set right.",
+    "situations": [
+      "conflict_of_duties",
+      "failure_setback"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
+    "review_status": "draft"
+  },
+  {
+    "id": "we-see-faults-in-those-we-dislike",
+    "name": "Dislike colours what we see",
+    "meaning": "Someone we dislike never seems good, clever or learned; we see good deeds in those we like and bad ones in those we dislike.",
+    "supporting": [
+      "VN.7.4",
+      "VN.5.43"
+    ],
+    "applies_when": "Someone is judging a person they resent, such as a rival, an in-law or an ex, and wants to know if they are being fair.",
+    "misleads_when": "It is used to dismiss real harm someone has done as 'just your bias'.",
+    "related": [
+      "same-regard-for-all",
+      "no-hatred"
+    ],
+    "conflicts_with": [],
+    "modern_application": "Write down three things the person you dislike has done well. If you cannot, ask someone neutral. Then judge the one action in front of you on its own.",
+    "situations": [
+      "anger_resentment",
+      "ego_pride_envy"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma"
+    ],
+    "restricted_for": [],
     "review_status": "draft"
   }
 ]
