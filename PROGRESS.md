@@ -217,3 +217,4 @@ Every record is `review_status: "draft"`. Nothing has been reviewed by a person 
 - PROCESS.md v3 adopted: version-bound approvals (file, time, size, SHA-256 in the summary and APPROVALS.md); recommendation pass/fail gate is must-fix 1.
 
 - Recommendation gate added (engine/gate.py), reported per case in run_tests summaries: heldout2 15/30, heldout 6/30, situations 19/100 fail.
+- Builder handoff rules (AGENTS.md, CLAUDE.md section 13) and an independent Codex verse check (scripts/verse_check.py) set up; Codex check of 1539 verses in progress; owner review list to follow.

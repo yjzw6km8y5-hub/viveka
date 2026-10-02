@@ -143,7 +143,7 @@ After each piece of work, update `PROGRESS.md` with what's done and what's next.
   and note the conflict in DECISIONS.md.
 - **Cycle log:** at the end of every runner cycle, append one line to `logs/cycles.csv`:
   `time` (ISO 8601 with offset), `cycle`, `result` (`ok` or `failed`), `reason` (one line, empty if ok),
-  `commit` (short SHA or empty).
+  `commit` (short SHA or empty), `builder`, `reviewer` (section 13).
 - **A cycle fails** if tests still fail after the fix step, Codex cannot complete its review, or the push fails.
 - **After 3 failed cycles in a row:** append a `paused` line, write the reason under "Runner notes" in
   STATUS.md, and do no further build work. Restart only when the owner says "resume": then append a
@@ -151,3 +151,18 @@ After each piece of work, update `PROGRESS.md` with what's done and what's next.
 - **Health:** the 8 PM summary shows a tick or a cross, with when it last worked, for the runner cycle,
   Codex review, observer review received, pending proposals and both scheduled tasks. A cross appears
   if no cycle succeeded in 3 hours or no observer review arrived in 6 hours, with a one-line reason.
+
+## 13. Builder handoff and independent review (user-approved, 2026-10-02)
+- **Builder:** Claude Code builds. When Claude Code hits its usage limit, Codex continues as builder
+  from STATUS.md and CONTEXT.md (its instructions are in AGENTS.md). When Claude's limit resets,
+  Claude Code takes back over.
+- **No tool reviews its own work.** Codex reviews Claude Code's cycles. Claude Code reviews Codex's cycles.
+- **When Claude Code takes back over:** read the HANDOFF notes in STATUS.md first. Review every cycle
+  Codex built since the last Claude Code turn, before starting new work. Save the review as
+  `reviews/<YYYYMMDDHHMM>-claude-review-of-codex.md`, fix or list what it finds, and fill `reviewer` =
+  `claude` for those cycles in `logs/cycles.csv`.
+- **End of every turn, by either tool:** put a short HANDOFF note at the top of the "Handoff" section in
+  STATUS.md: time, builder, what was done, what is unfinished, commits, test results, and what the
+  next builder or reviewer should check.
+- **Cycle log:** every line in `logs/cycles.csv` records `builder` (`claude` or `codex`) and `reviewer`
+  (the other tool, or empty until reviewed).

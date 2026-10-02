@@ -14,3 +14,4 @@ Every owner decision on outside input (PROCESS.md: date, source file, exact vers
 | 2026-10-02 | 2026-10-02-16_observer_chatgpt.md | not recorded (before versions were tracked) | 9 | Keep evaluation records and first-run claims easy to reconcile (should-fix) | re-queued for the owner (missed by the first import) |
 | 2026-10-02 | 2026-10-02-16_observer_chatgpt.md | not recorded (before versions were tracked) | 10 | Use a small decision-focused evaluation set (idea) | re-queued for the owner (missed by the first import) |
 | 2026-10-02 | PROCESS.md | PROCESS.md, modified 2026-10-02 16:57, 7230 bytes, sha256 e13e24cbe159 | 8 | Update PROCESS.md | approved |
+| 2026-10-02 | owner instruction in chat | - | - | Builder handoff (Codex builds at Claude's usage limit; no tool reviews its own work) and independent verse check: added to PROCESS.md, CLAUDE.md section 13, AGENTS.md | approved by the owner in chat |

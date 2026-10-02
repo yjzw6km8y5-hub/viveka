@@ -274,6 +274,21 @@ def health_rows(st):
     ok = last_codex is not None and hours_since(last_codex) <= CODEX_MAX_H
     rows.append((ok, "Codex review", when(last_codex), "" if ok else f"No Codex review saved in reviews/ in the last {CODEX_MAX_H} hours."))
 
+    # CLAUDE.md section 13: every cycle is reviewed by the other tool
+    built = [r for r in cycles if r["result"] in ("ok", "failed") and r.get("builder")]
+    selfrev = [r for r in built if r.get("reviewer") and r["reviewer"] == r["builder"]]
+    waiting = [r for r in built if not r.get("reviewer")]
+    last_rev = max((parse(r["time"]) for r in built if r.get("reviewer")), default=None)
+    if selfrev:
+        rows.append((False, "Independent review of cycles", when(last_rev),
+                     f"{len(selfrev)} cycle(s) were reviewed by the tool that built them."))
+    elif waiting:
+        who = sorted({"Claude Code" if r["builder"] == "codex" else "Codex" for r in waiting})
+        rows.append((False, "Independent review of cycles", when(last_rev),
+                     f"{len(waiting)} cycle(s) not yet reviewed; waiting for {' and '.join(who)}."))
+    else:
+        rows.append((True, "Independent review of cycles", when(last_rev) if built else "no cycles logged yet", ""))
+
     desk_ok = DESK.is_dir()
     obs = [p for p in DESK.glob("*_observer_*.md")] if desk_ok else []
     last_obs = max((mtime(p) for p in obs), default=None)
@@ -355,6 +370,8 @@ def git(*a):
 def check_integrity(m, body):
     if m.get("body_sha256") and sha(body.strip()) != m["body_sha256"]:
         return "the pending item was edited after it was imported"
+    if m.get("review_file") and not (SOURCES / (((m.get("version") or {}).get("sha256") or "none") + "-" + m["review_file"])).exists():
+        return f"the exact reviewed version of {m['review_file']} is not recorded; re-import before approving"
     v = m.get("version")
     if m["kind"] == "doc" and v:
         content = body.rsplit("\n\nChange:\n\n```diff", 1)[0].rstrip() + "\n"

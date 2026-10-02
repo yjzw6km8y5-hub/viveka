@@ -34,6 +34,15 @@ No reviews happen in any other chat or window. The 2-hour observer task is the o
 - An approval covers only those exact versions. If a file changes after the summary lists it, the approval does not cover the change; the new version is listed again in the next summary.
 - Claude Code checks the hash before merging and refuses any mismatch.
 
+## Builder handoff (owner instruction, 2026-10-02)
+- When Claude Code hits its usage limit, Codex continues as builder from STATUS.md and CONTEXT.md. When Claude's limit resets, Claude Code takes back over.
+- A tool never reviews its own work. Codex reviews Claude Code's cycles; Claude Code reviews Codex's cycles when it is back.
+- Each tool ends its turn with a short HANDOFF note in STATUS.md. logs/cycles.csv records who built and who reviewed each cycle.
+
+## Independent verse check (owner instruction, 2026-10-02)
+- Codex independently checks every verse's English against the Sanskrit (scripts/verse_check.py; results in reviews/verse-check/).
+- The owner, who reads Sanskrit, reviews a list of only: verses where Codex disagrees, verses with safety flags, and a fixed 5% random sample. The owner marks them reviewed.
+
 ## Urgent safety findings
 - If the observer finds a safety problem that could harm a user, it puts URGENT-SAFETY on the first line of its review and in the title of its task notification, so the owner is alerted at once.
 - Until launch, no answers reach real users, so an urgent finding blocks the next milestone and is handled first at the next approval.

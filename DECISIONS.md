@@ -320,3 +320,13 @@ Technical choices made without asking, newest last. Format: date, decision, why.
 ## 2026-10-02: Gate wired into answer(); proposal versions kept by hash
 - **Decision:** `answer()` runs `engine/gate.py` and withholds a failing answer (correcting the claim above: until now the gate was test-only). The test runner uses `gate=False` to measure the raw engine and exits nonzero on gate failures. `proposals.py` stores each imported review under its SHA-256, archives that exact version on approval, and shows full hashes.
 - **Why:** reviewer cycle 3 found the gate was not in the product path and that approval could archive a newer unapproved review.
+- **Builder handoff (2026-10-02, owner instruction):**
+  - When Claude Code hits its usage limit, Codex builds from STATUS.md and CONTEXT.md, and Claude Code takes back over when its limit resets. No tool reviews its own work: Codex's cycles are reviewed by Claude Code when it returns.
+  - The rules are in PROCESS.md, CLAUDE.md section 13 and a new AGENTS.md, which Codex reads automatically. Each turn ends with a HANDOFF note in STATUS.md. `logs/cycles.csv` gains `builder` and `reviewer` columns. The Health section gains "Independent review of cycles": a cross when a cycle is unreviewed or was reviewed by its own builder.
+  - The switch itself (detecting the limit and starting Codex) belongs to the AI Project Runner, which this session was not permitted to change.
+- **Independent verse check (2026-10-02, owner instruction):**
+  - `scripts/verse_check.py` sends all 1539 verses to Codex in 39 batches of 40. Codex runs read-only and sees only the ID, speaker, Devanagari, IAST and English, not our context or notes. AGENTS.md is switched off for these runs (`project_doc_max_bytes=0`) so builder instructions cannot colour the check. Results are in `reviews/verse-check/results/`.
+  - The 5% random sample (77 verses, seed `viveka-verse-check-2026-10-02`) was fixed before any results came back, so it cannot be biased by them.
+  - The owner's list (`OWNER_REVIEW.csv` / `.md`) holds only Codex disagreements, safety-flagged verses (323) and the sample. `apply` sets `review_status` to `reviewed` only for verses the owner marked, changing only that field.
+  - Verses Codex agreed with that are not in the sample stay `draft`. Whether to accept them is the owner's decision.
+- **Runner fix kept (2026-10-02):** the runner's cycle 3 made approvals archive the exact reviewed version. Its check now runs before anything is changed, and exact copies were saved, verified by hash, for the eight items waiting for tonight's summary.

@@ -29,7 +29,12 @@ and `PROGRESS.md`). Items that need a human reader of Sanskrit are listed at the
 - Chanakya Niti registration backed out (review cycle 1): it broke the queue pause. The source choice
   is kept in DECISIONS.md; the work is in git history (commit 3a8a202).
 
+## Handoff
+_Newest note first. Each tool ends its turn with a note here (CLAUDE.md section 13)._
+- 2026-10-02, builder: claude. Handoff rules set up (AGENTS.md for Codex; CLAUDE.md section 13). Independent verse check started (`scripts/verse_check.py`; results in `reviews/verse-check/`). No build cycle run in this turn. Next builder: continue must-fix 1 (see "Next step").
+
 ## Runner notes
 - Do not read or import the AI Review Desk during cycles; outside input reaches this file only through the owner's approval (CLAUDE.md section 11).
-- Log every cycle in `logs/cycles.csv`. After 3 failed cycles in a row, pause and say why here (CLAUDE.md section 12).
+- Log every cycle in `logs/cycles.csv`, with builder and reviewer. After 3 failed cycles in a row, pause and say why here (CLAUDE.md section 12).
+- When Claude Code hits its usage limit, Codex builds (AGENTS.md); Claude Code reviews those cycles when it is back (CLAUDE.md section 13).
 _(the runner writes here if it has to stop the project)_

@@ -98,7 +98,9 @@ def cmd_run(args):
     for p in todo[: args.max or None]:
         prompt = INSTRUCTIONS + "\nVerses (JSON):\n" + p.read_text(encoding="utf-8")
         tmp = RESULTS / (p.stem + ".tmp")
+        # project_doc_max_bytes=0: do not load AGENTS.md, so the check sees only these instructions
         r = subprocess.run([codex, "exec", "--sandbox", "read-only", "--ephemeral", "--skip-git-repo-check",
+                            "-c", "project_doc_max_bytes=0",
                             "--output-schema", str(OUT / "schema.json"), "-o", str(tmp), "-"],
                            input=prompt, text=True, encoding="utf-8", capture_output=True, cwd=OUT)
         try:
