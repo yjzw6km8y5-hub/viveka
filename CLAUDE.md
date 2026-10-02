@@ -59,3 +59,44 @@ Before showing the user any verse, record or summary, check it against these rul
 
 ## 5. Keep PROGRESS.md current
 After each piece of work, update `PROGRESS.md` with what's done and what's next.
+
+## 6. Publishing (user-approved, 2026-10-01)
+- **Public repo:** https://github.com/yjzw6km8y5-hub/viveka. Commit and push after every batch.
+- **Commit identity:** the GitHub no-reply email only. Never commit personal data or local paths.
+- Any other kind of publishing still needs the user's approval.
+
+## 7. Scope (user-approved, 2026-10-01)
+- **What Viveka covers:** Indian wisdom from the Vedas to today. One built file per text in `data/`, all through the same pipeline.
+- **Order:**
+  a. the 13 principal Upanishads
+  b. the answer-engine prototype
+  c. Niti
+  d. other Gitas
+  e. philosophy
+  f. epics and Puranas
+  g. bhakti and regional
+  h. modern (public-domain editions only)
+  i. contemporary thinkers
+- **Contemporary thinkers under copyright:** never quote them. Store a paraphrased
+  summary with the source named, as record type `view`.
+- **Excluded:** Dharmashastras, Tantra/Agama ritual texts, Jyotish texts.
+- **Copyright:** check it for every source and log the result in the README's copyright register.
+
+## 8. Perspectives and recommendations
+- **Files:** `data/perspectives/`, one file per contested topic. For each topic record:
+  - every position, with its holder, school and era
+  - a short summary
+  - supporting verse IDs
+  - where the views agree and conflict, and why they conflict
+  - how each view changed over time
+- **How the app recommends:**
+  - Recommend one view by fit to the person's life stage, circumstances and question.
+    Never present it as one school being true.
+  - Say why that view fits, then name the strongest alternative.
+- **Safety overrides fit:** never recommend renunciation, leaving family, or
+  fatalism to anyone flagged as in distress or under 18.
+- **Cross-links:** link related verses across texts.
+
+## 9. Messages to the user
+- Keep them short: one brief summary when each text is finished.
+- Don't print file contents or narrate step by step.

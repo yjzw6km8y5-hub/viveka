@@ -9,7 +9,24 @@ Sanskrit, transliteration and translation shown to the user are always read
 from `data/`.
 
 Step 1, the Bhagavad Gita (700 verses), is complete and passes strict validation.
+The scope now covers Indian wisdom texts from the Vedas to today, built one text
+at a time through the same pipeline (see `PROGRESS.md`). Every text is listed in
+`data/texts.json`, and the copyright of each source is logged below.
 All records are `draft` until a human reviewer checks them (see Review policy).
+
+### Other texts
+
+| Path | What it is |
+|---|---|
+| `data/<text_id>.json` | built library for each text in `data/texts.json` (fields as below, plus `text`, `ref` and `cross_refs`) |
+| `data/commentaries/<text_id>.json` | commentary extracts for checking school notes |
+| `data/annotations/<text_id>.json` | editorial fields (hand-written) |
+| `data/raw/upanishads/` | Wikisource snapshots |
+| `scripts/build_texts.py` | builds every registry text |
+| `scripts/fetch_upanishads.py` | refreshes the Upanishad snapshots |
+| `scripts/show_text.py` | prints units with commentary, for annotators |
+
+`python scripts/validate.py` checks the Gita and every registry text.
 
 ## Layout
 
@@ -63,6 +80,22 @@ What CC BY-SA requires of us:
 
 The `english` field is our own wording, translated from the Sanskrit. It is not
 copied from any published translation.
+
+## Copyright register
+
+Every source is checked before use. A text goes in only if the work itself is
+public domain and the digital edition we copy from is openly licensed.
+
+| Text | Library file | Digital source | Licence of source | Work's status | Checked |
+|---|---|---|---|---|---|
+| Bhagavad Gita, with Śaṅkara, Rāmānuja and Madhva | `gita.json` | Sanskrit Wikisource (pinned revisions) | CC BY-SA 4.0 | Public domain (ancient/medieval) | 2026-10-01 |
+| 13 principal Upanishads | `<name>_upanishad.json` | Sanskrit Wikisource (pinned revisions, `data/raw/upanishads/`) | CC BY-SA 4.0 | Public domain (ancient) | 2026-10-01 |
+| Śaṅkara's Upanishad bhāṣyas | `commentaries/<name>_upanishad.json` | Sanskrit Wikisource, `उपनिषद्भाष्यम्` pages | CC BY-SA 4.0 | Public domain (8th century) | 2026-10-01 |
+
+**Not used:**
+- **Raṅga Rāmānuja's Upanishad commentaries.** Wikisource has them only as scans of a
+  1949 printed edition. We'd need to check that edition's own copyright first.
+- **GRETIL and sanskritdocuments.org texts.** Their terms don't clearly allow redistribution under CC BY-SA.
 
 ## Record schema (`data/gita.json`)
 

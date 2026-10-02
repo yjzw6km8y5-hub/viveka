@@ -1,0 +1,794 @@
+[
+  {
+    "id": "IsU.1",
+    "text": "isha_upanishad",
+    "ref": [
+      1
+    ],
+    "speaker": "Upanishad",
+    "context": "The Upanishad's opening verse: everything belongs to the Lord, so find joy through letting go and do not covet.",
+    "devanagari": "ॐ ईशा वास्यमिदँ सर्वं यत्किञ्च जगत्यां जगत् ।\nतेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम् ॥",
+    "iast": "oṃ īśā vāsyamidam̐ sarvaṃ yatkiñca jagatyāṃ jagat |\ntena tyaktena bhuñjīthā mā gṛdhaḥ kasyasviddhanam ||",
+    "english": "Om. All this, whatever moves in this moving world, is to be clothed by the Lord. Through that renunciation, enjoy; do not covet anyone's wealth.",
+    "situations": [
+      "success_wealth",
+      "temptation_self_control",
+      "ego_pride_envy",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "dharma",
+      "artha",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The Lord is the Self of all; the world is to be 'covered' by seeing it as that Self, as sandalwood's own fragrance covers a borrowed odour. 'Renunciation' means giving up the three desires (for sons, wealth and worlds), and 'enjoy' means protect yourself; since all is the Self, covet no one's wealth, your own or another's."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.18.11"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "ईशोपनिषत्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%88%E0%A4%B6%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D",
+      "revision": 37761,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=37761",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "IsU.2",
+    "text": "isha_upanishad",
+    "ref": [
+      2
+    ],
+    "speaker": "Upanishad",
+    "context": "The Upanishad gives a second path, for those who wish to live a full life: keep doing your work, and it will not bind you.",
+    "devanagari": "कुर्वन्नेवेह कर्माणि जिजीविषेच्छतँ समाः ।\nएवं त्वयि नान्यथेतोऽस्ति न कर्म लिप्यते नरे ॥",
+    "iast": "kurvanneveha karmāṇi jijīviṣecchatam̐ samāḥ |\nevaṃ tvayi nānyatheto'sti na karma lipyate nare ||",
+    "english": "Doing works here, one should wish to live a hundred years. For you who live this way there is no other path than this: action does not cling to such a person.",
+    "situations": [
+      "lack_of_motivation",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "For one unable to follow the path of knowledge in the first verse, this enjoins doing scriptural rites such as the agnihotra for a full life of a hundred years; there is no other way for such a person to stay free of bad karma. He stresses that knowledge and action are opposed, and that of the two paths, action and renunciation, renunciation ranks higher."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.3.8",
+      "BG.5.10"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "ईशोपनिषत्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%88%E0%A4%B6%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D",
+      "revision": 37761,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=37761",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "IsU.3",
+    "text": "isha_upanishad",
+    "ref": [
+      3
+    ],
+    "speaker": "Upanishad",
+    "context": "The Upanishad warns that those who 'slay the self', which Śaṅkara explains as ignoring their true Self, go to dark worlds after death.",
+    "devanagari": "असुर्या नाम ते लोका अन्धेन तमसाऽऽवृताः ।\nताँस्ते प्रेत्याभिगच्छन्ति ये के चात्महनो जनाः ॥",
+    "iast": "asuryā nāma te lokā andhena tamasā''vṛtāḥ |\ntām̐ste pretyābhigacchanti ye ke cātmahano janāḥ ||",
+    "english": "Those worlds called demonic are covered in blind darkness. To them, after death, go all those people who slay the self.",
+    "situations": [],
+    "life_stages": [],
+    "aims": [],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "'Demonic' is relative to the non-dual Self, so even the gods count as such; 'worlds' are births in which the fruits of karma are lived out. 'Self-slayers' are ignorant people who, through ignorance, hide the ever-present Self as though it were slain, and so stay in the round of rebirth."
+      }
+    ],
+    "safety_flags": [
+      "death",
+      "distress_gentle"
+    ],
+    "cross_refs": [
+      "BG.13.28"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "ईशोपनिषत्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%88%E0%A4%B6%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D",
+      "revision": 37761,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=37761",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "IsU.4",
+    "text": "isha_upanishad",
+    "ref": [
+      4
+    ],
+    "speaker": "Upanishad",
+    "context": "The Upanishad describes the one reality in paradoxes: unmoving yet faster than thought.",
+    "devanagari": "अनेजदेकं मनसो जवीयो नैनद्देवा आप्नुवन्पूर्वमर्षत् ।\nतद्धावतोऽन्यानत्येति तिष्ठत्तस्मिन्नपो मातरिश्वा दधाति ॥",
+    "iast": "anejadekaṃ manaso javīyo nainaddevā āpnuvanpūrvamarṣat |\ntaddhāvato'nyānatyeti tiṣṭhattasminnapo mātariśvā dadhāti ||",
+    "english": "Unmoving, the One is swifter than the mind; the gods could not reach it, for it had gone ahead. Standing still, it outruns all who run. In it, Matarishvan, the wind, sets the waters in place.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Unmoving in its own nature, the Self seems swifter than the mind because wherever the mind goes, the Self's awareness is already there. The 'gods' are the senses, which cannot reach it. Mātariśvan, the vital air that sustains all activity, apportions 'the waters', meaning the actions of beings, which all rest on the Self."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "ईशोपनिषत्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%88%E0%A4%B6%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D",
+      "revision": 37761,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=37761",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "IsU.5",
+    "text": "isha_upanishad",
+    "ref": [
+      5
+    ],
+    "speaker": "Upanishad",
+    "context": "The Upanishad continues the paradoxes: the one reality is both far and near, within and beyond everything.",
+    "devanagari": "तदेजति तन्नैजति तद्दूरे तद्वन्तिके ।\nतदन्तरस्य सर्वस्य तदु सर्वस्यास्य बाह्यतः ॥",
+    "iast": "tadejati tannaijati taddūre tadvantike |\ntadantarasya sarvasya tadu sarvasyāsya bāhyataḥ ||",
+    "english": "It moves; it does not move. It is far, and it is near. It is within all this, and it is outside all this.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Unmoving in itself, it seems to move. It is far for the ignorant, who could not reach it in billions of years, and very near for the wise, being their own Self. It is inside everything, and outside everything as all-pervading, like space."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "ईशोपनिषत्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%88%E0%A4%B6%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D",
+      "revision": 37761,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=37761",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "IsU.6",
+    "text": "isha_upanishad",
+    "ref": [
+      6
+    ],
+    "speaker": "Upanishad",
+    "context": "The Upanishad describes the vision that ends aversion: seeing all beings in the Self and the Self in all.",
+    "devanagari": "यस्तु सर्वाणि भूतान्यात्मन्येवानुपश्यति ।\nसर्वभूतेषु चात्मानं ततो न विजुगुप्सते ॥",
+    "iast": "yastu sarvāṇi bhūtānyātmanyevānupaśyati |\nsarvabhūteṣu cātmānaṃ tato na vijugupsate ||",
+    "english": "Whoever sees all beings in the Self, and the Self in all beings, no longer feels aversion to anyone.",
+    "situations": [
+      "relationships_forgiveness",
+      "anger_resentment",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The one meant is a renunciant seeking liberation, who sees nothing apart from the Self and recognises the Self, the witness, in all beings. Aversion arises only when one sees something other than oneself as bad; seeing only the pure Self, one has no cause for it."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.6.29",
+      "BG.13.27"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "ईशोपनिषत्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%88%E0%A4%B6%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D",
+      "revision": 37761,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=37761",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "IsU.7",
+    "text": "isha_upanishad",
+    "ref": [
+      7
+    ],
+    "speaker": "Upanishad",
+    "context": "The Upanishad says that for one who sees all beings as the Self, delusion and grief cannot remain.",
+    "devanagari": "यस्मिन्सर्वाणि भूतान्यात्मैवाभूद्विजानतः ।\nतत्र को मोहः कः शोक एकत्वमनुपश्यतः ॥",
+    "iast": "yasminsarvāṇi bhūtānyātmaivābhūdvijānataḥ |\ntatra ko mohaḥ kaḥ śoka ekatvamanupaśyataḥ ||",
+    "english": "When, for one who knows, all beings have become the Self, what delusion, what grief can there be for one who sees oneness?",
+    "situations": [
+      "grief_loss",
+      "fear_anxiety",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Grief and delusion, the seeds of desire and action, belong to one who does not know. For one who sees the oneness of the Self, pure like the sky, they cannot arise, and so worldly existence is uprooted together with its cause."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [
+      "BG.6.29"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "ईशोपनिषत्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%88%E0%A4%B6%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D",
+      "revision": 37761,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=37761",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "IsU.8",
+    "text": "isha_upanishad",
+    "ref": [
+      8
+    ],
+    "speaker": "Upanishad",
+    "context": "The Upanishad describes the pure, bodiless Self that pervades everything and orders the world.",
+    "devanagari": "स पर्यगाच्छुक्रमकायमव्रण-मस्नाविरँ शुद्धमपापविद्धम् ।\nकविर्मनीषी परिभूः स्वयम्भू-र्याथातथ्यतोऽर्थान् व्यदधाच्छाश्वतीभ्यः समाभ्यः ॥",
+    "iast": "sa paryagācchukramakāyamavraṇa-masnāviram̐ śuddhamapāpaviddham |\nkavirmanīṣī paribhūḥ svayambhū-ryāthātathyato'rthān vyadadhācchāśvatībhyaḥ samābhyaḥ ||",
+    "english": "He has gone everywhere: bright, bodiless, without wound, without sinews, pure, untouched by evil. The seer, the wise one, all-encompassing, self-existent, he has set all things rightly in order through endless years.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The Self pervades all like space. 'Bodiless', 'without wound and sinews' and 'pure' deny the subtle, gross and causal bodies. The all-seeing, all-knowing Lord, self-existent, assigned duties and their fruits rightly to the eternal Prajāpatis, which is what 'years' means here."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "ईशोपनिषत्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%88%E0%A4%B6%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D",
+      "revision": 37761,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=37761",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "IsU.9",
+    "text": "isha_upanishad",
+    "ref": [
+      9
+    ],
+    "speaker": "Upanishad",
+    "context": "The Upanishad begins a riddle about knowledge and ignorance, warning against following either one alone (9-11).",
+    "devanagari": "अन्धं तमः प्रविशन्ति येऽविद्यामुपासते ।\nततो भूय इव ते तमो य उ विद्यायाँ रताः ॥",
+    "iast": "andhaṃ tamaḥ praviśanti ye'vidyāmupāsate |\ntato bhūya iva te tamo ya u vidyāyām̐ ratāḥ ||",
+    "english": "Into blind darkness enter those who worship ignorance; into a darkness even greater, as it were, enter those who delight in knowledge.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Here 'ignorance' means ritual action and 'knowledge' means meditation on deities, not knowledge of the Self. Each is blamed when followed alone in order to recommend combining them, since each brings its own separate result."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "ईशोपनिषत्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%88%E0%A4%B6%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D",
+      "revision": 37761,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=37761",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "IsU.10",
+    "text": "isha_upanishad",
+    "ref": [
+      10
+    ],
+    "speaker": "Upanishad",
+    "context": "The Upanishad adds that knowledge and ignorance each bring their own result, as the wise taught.",
+    "devanagari": "अन्यदेवाहुर्विद्ययाऽन्यदाहुरविद्यया ।\nइति शुश्रुम धीराणां ये नस्तद्विचचक्षिरे ॥",
+    "iast": "anyadevāhurvidyayā'nyadāhuravidyayā |\niti śuśruma dhīrāṇāṃ ye nastadvicacakṣire ||",
+    "english": "One thing, they say, comes from knowledge; another, they say, from ignorance. So we have heard from the wise who explained it to us.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Meditation on deities leads to the world of the gods, and ritual action to the world of the ancestors. 'So we have heard' shows that this is teaching handed down by the teachers."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "ईशोपनिषत्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%88%E0%A4%B6%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D",
+      "revision": 37761,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=37761",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "IsU.11",
+    "text": "isha_upanishad",
+    "ref": [
+      11
+    ],
+    "speaker": "Upanishad",
+    "context": "The Upanishad resolves the riddle: whoever holds knowledge and ignorance together passes beyond death.",
+    "devanagari": "विद्यां चाविद्यां च यस्तद्वेदोभयँ सह ।\nअविद्यया मृत्युं तीर्त्वा विद्ययाऽमृतमश्नुते ॥",
+    "iast": "vidyāṃ cāvidyāṃ ca yastadvedobhayam̐ saha |\navidyayā mṛtyuṃ tīrtvā vidyayā'mṛtamaśnute ||",
+    "english": "Whoever knows both knowledge and ignorance together crosses death through ignorance and attains immortality through knowledge.",
+    "situations": [
+      "purpose_meaning",
+      "conflict_of_duties"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "For one who practises both ritual action and meditation on deities, action carries them past 'death', meaning natural action and knowledge; meditation brings 'immortality', meaning becoming one with the deity."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "ईशोपनिषत्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%88%E0%A4%B6%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D",
+      "revision": 37761,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=37761",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "IsU.12",
+    "text": "isha_upanishad",
+    "ref": [
+      12
+    ],
+    "speaker": "Upanishad",
+    "context": "The Upanishad repeats the riddle with becoming and non-becoming, warning again against following either alone (12-14).",
+    "devanagari": "अन्धं तमः प्रविशन्ति येऽसम्भूतिमुपासते ।\nततो भूय इव ते तमो य उ सम्भूत्याँ रताः ॥",
+    "iast": "andhaṃ tamaḥ praviśanti ye'sambhūtimupāsate |\ntato bhūya iva te tamo ya u sambhūtyām̐ ratāḥ ||",
+    "english": "Into blind darkness enter those who worship non-becoming; into a darkness even greater, as it were, enter those who delight in becoming.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "'Non-becoming' is unmanifest nature (prakṛti), the cause and seed of desire and action; 'becoming' is the manifest Brahman called Hiraṇyagarbha. Worshipping either alone leads into darkness."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "ईशोपनिषत्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%88%E0%A4%B6%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D",
+      "revision": 37761,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=37761",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "IsU.13",
+    "text": "isha_upanishad",
+    "ref": [
+      13
+    ],
+    "speaker": "Upanishad",
+    "context": "The Upanishad adds that becoming and non-becoming each bring their own result, as the wise taught.",
+    "devanagari": "अन्यदेवाहुः सम्भवादन्यदाहुरसम्भवात् ।\nइति शुश्रुम धीराणां ये नस्तद्विचचक्षिरे ॥",
+    "iast": "anyadevāhuḥ sambhavādanyadāhurasambhavāt |\niti śuśruma dhīrāṇāṃ ye nastadvicacakṣire ||",
+    "english": "One thing, they say, comes from becoming; another, they say, from non-becoming. So we have heard from the wise who explained it to us.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Worshipping the manifest Hiraṇyagarbha brings powers such as becoming minute; worshipping the unmanifest brings what the Purāṇas call 'merging into prakṛti'."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "ईशोपनिषत्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%88%E0%A4%B6%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D",
+      "revision": 37761,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=37761",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "IsU.14",
+    "text": "isha_upanishad",
+    "ref": [
+      14
+    ],
+    "speaker": "Upanishad",
+    "context": "The Upanishad resolves the second riddle: whoever holds becoming and destruction together passes beyond death.",
+    "devanagari": "सम्भूतिं च विनाशं च यस्तद्वेदोभयँ सह ।\nविनाशेन मृत्युं तीर्त्वा सम्भूत्याऽमृतमश्नुते ॥",
+    "iast": "sambhūtiṃ ca vināśaṃ ca yastadvedobhayam̐ saha |\nvināśena mṛtyuṃ tīrtvā sambhūtyā'mṛtamaśnute ||",
+    "english": "Whoever knows both becoming and destruction together crosses death through destruction and attains immortality through becoming.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "'Destruction' names the manifest, whose nature is to perish; worshipping it as Hiraṇyagarbha, one crosses 'death', meaning lack of power, wrongdoing and desire. He reads 'becoming' here as 'non-becoming', with the initial a- dropped, so worship of the unmanifest brings 'immortality' as merging into prakṛti."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "ईशोपनिषत्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%88%E0%A4%B6%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D",
+      "revision": 37761,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=37761",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "IsU.15",
+    "text": "isha_upanishad",
+    "ref": [
+      15
+    ],
+    "speaker": "seeker",
+    "context": "A seeker at the end of life begins a prayer to the sun, Pushan, to uncover the hidden truth (15-18).",
+    "devanagari": "हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम् ।\nतत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये ॥",
+    "iast": "hiraṇmayena pātreṇa satyasyāpihitaṃ mukham |\ntattvaṃ pūṣannapāvṛṇu satyadharmāya dṛṣṭaye ||",
+    "english": "The face of truth is covered by a golden vessel. Uncover it, O Pushan, so that I, devoted to truth, may see.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The shining disc of the sun is like a golden lid over the entrance to the Truth, Brahman dwelling in the sun. The worshipper asks Pūṣan to remove it so that they, whose dharma is truth, may see."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "ईशोपनिषत्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%88%E0%A4%B6%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D",
+      "revision": 37761,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=37761",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "IsU.16",
+    "text": "isha_upanishad",
+    "ref": [
+      16
+    ],
+    "speaker": "seeker",
+    "context": "The seeker asks the sun to withdraw its dazzling rays and recognises their own identity with the person in the sun.",
+    "devanagari": "पूषन्नेकर्षे यम सूर्य प्राजापत्य व्यूह रश्मीन् समूह तेजः ।\nयत्ते रूपं कल्याणतमं तत्ते पश्यामि योऽसावसौ पुरुषः सोऽहमस्मि ॥",
+    "iast": "pūṣannekarṣe yama sūrya prājāpatya vyūha raśmīn samūha tejaḥ |\nyatte rūpaṃ kalyāṇatamaṃ tatte paśyāmi yo'sāvasau puruṣaḥ so'hamasmi ||",
+    "english": "O Pushan, sole seer, Yama, Surya, child of Prajapati, spread apart your rays and gather in your light. That form of yours which is most blessed, I see. That person over there, I am he.",
+    "situations": [
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "He explains each name: Pūṣan as nourisher of the world, sole seer as the one who moves alone, Yama as controller of all, Sūrya as the one who draws in rays, breaths and fluids. The worshipper adds: 'I do not beg like a servant; the person in the sun's disc, I am he.'"
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "ईशोपनिषत्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%88%E0%A4%B6%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D",
+      "revision": 37761,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=37761",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "IsU.17",
+    "text": "isha_upanishad",
+    "ref": [
+      17
+    ],
+    "speaker": "seeker",
+    "context": "Facing death, the seeker asks that their breath rejoin the wind and their body become ash, and calls on the mind to remember.",
+    "devanagari": "वायुरनिलममृतमथेदं भस्मांतँ शरीरम् ।\nॐ क्रतो स्मर कृतँ स्मर क्रतो स्मर कृतँ स्मर ॥",
+    "iast": "vāyuranilamamṛtamathedaṃ bhasmāṃtam̐ śarīram |\noṃ krato smara kṛtam̐ smara krato smara kṛtam̐ smara ||",
+    "english": "Now let my breath go to the immortal wind, and let this body end in ashes. Om. O mind, remember! Remember what was done! O mind, remember! Remember what was done!",
+    "situations": [
+      "ageing_death_impermanence"
+    ],
+    "life_stages": [
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "Spoken by one about to die: let my breath give up its individual limits and enter the cosmic, immortal air, and let this body, offered in the fire, end in ashes. 'Mind' (kratu) is Agni as resolve, asked to remember all the meditation and action done since childhood; the repetition shows earnestness."
+      }
+    ],
+    "safety_flags": [
+      "death"
+    ],
+    "cross_refs": [
+      "BG.8.5",
+      "BG.8.13"
+    ],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "ईशोपनिषत्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%88%E0%A4%B6%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D",
+      "revision": 37761,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=37761",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  },
+  {
+    "id": "IsU.18",
+    "text": "isha_upanishad",
+    "ref": [
+      18
+    ],
+    "speaker": "seeker",
+    "context": "The seeker's closing prayer asks Agni, the fire, to lead them on the good path and keep wrongdoing away.",
+    "devanagari": "अग्ने नय सुपथा राये अस्मान् विश्वानि देव वयुनानि विद्वान् ।\nयुयोध्यस्मज्जुहुराणमेनो भूयिष्ठां ते नमउक्तिं विधेम ॥",
+    "iast": "agne naya supathā rāye asmān viśvāni deva vayunāni vidvān |\nyuyodhyasmajjuhurāṇameno bhūyiṣṭhāṃ te namauktiṃ vidhema ||",
+    "english": "O Agni, god who knows all our ways, lead us by the good path to prosperity. Keep far from us the sin that leads astray. We offer you our fullest words of homage.",
+    "situations": [
+      "temptation_self_control",
+      "failure_setback",
+      "purpose_meaning"
+    ],
+    "life_stages": [
+      "student",
+      "householder",
+      "elder",
+      "renunciant"
+    ],
+    "aims": [
+      "dharma",
+      "moksha"
+    ],
+    "school_notes": [
+      {
+        "school": "advaita",
+        "commentator": "Śaṅkara",
+        "note": "The 'good path' is the one of no return, since the speaker is weary of the southern path of coming and going; 'prosperity' is the fruit of one's deeds. Unable now to serve Agni, they offer many words of homage. He then argues at length that knowledge and action cannot be combined to gain liberation."
+      }
+    ],
+    "safety_flags": [],
+    "cross_refs": [],
+    "source": {
+      "name": "Sanskrit Wikisource",
+      "page": "ईशोपनिषत्",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%88%E0%A4%B6%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D",
+      "revision": 37761,
+      "permalink": "https://sa.wikisource.org/w/index.php?oldid=37761",
+      "retrieved": "2026-10-01"
+    },
+    "licence": "CC BY-SA 4.0 (Wikisource text); underlying Sanskrit work is public domain",
+    "review_status": "draft"
+  }
+]

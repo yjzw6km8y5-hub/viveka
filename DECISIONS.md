@@ -201,3 +201,34 @@ Technical choices made without asking, newest last. Format: date, decision, why.
 - **Final epithet sweep:** "Hari" (11.9) and "Vasudeva" (11.50) were changed to
   "Krishna" under the names convention. 10.37 keeps "Vasudeva", because there the
   verse is naming him in a catalogue.
+
+## 2026-10-01: Scope expansion (all texts)
+
+- **One pipeline for every text.**
+  - The registry is `data/texts.json`: title, ID prefix, levels, raw snapshot, expected unit counts, allowed speakers, available commentaries.
+  - `scripts/build_texts.py` builds `data/<text_id>.json` and `data/commentaries/<text_id>.json`.
+  - The editorial fields come from `data/annotations/<text_id>.json`.
+  - The Gita keeps its own builder and schema (`chapter`/`verse`), because it is finished and other files point at its IDs.
+- **Record schema for the new texts:**
+  - Two new fields: `text` (the text's ID) and `ref`, a list of division numbers such as `[1, 2, 20]`.
+  - A third new field, `cross_refs`, links to related units in any library. The validator checks that each target exists.
+  - Everything else is the same as the Gita.
+- **Unit IDs:** a short prefix plus the ref, e.g. `IsU.6` or `KaU.1.2.20`.
+  - Upanishad prefixes: IsU, KeU, KaU, PrU, MuU, MaU, TaiU, AiU, ChU, BAU, SvU, KauU, MaiU.
+- **Speaker is an editorial field for texts without `… उवाच` markup.**
+  - In the Upanishads, speakers come from the narrative itself ("स होवाच …"), not from markup the build can read.
+  - Each text lists its allowed speakers in the registry, and the validator rejects any other name.
+  - `Upanishad` means the text's own teaching voice.
+  - The CLAUDE.md rule against editing speakers by hand still applies to the Gita.
+- **Expected unit counts are recorded per division in the registry, with a stated basis.** The basis is:
+  - a standard edition's count where that is well established
+  - otherwise, the source's own consecutive numbering, cross-checked against the commentary page
+- **Śaṅkara's bhāṣyas** are fetched from their own Wikisource pages (`उपनिषद्भाष्यम्` and its links). They are split per mantra by each page's own markers.
+  - No school notes for the Śvetāśvatara: its bhāṣya page doesn't exist, and Śaṅkara's authorship of it is disputed.
+  - No school notes for the Kauṣītaki or Maitrī: Śaṅkara did not comment on them.
+- **Vedic signs in IAST:** ꣳ (the Vedic 'gum' nasal) → `ṁ`; spacing candrabindu → `m̐`. Accent marks are dropped from IAST; the Devanagari keeps them.
+- **The Gita annotations glob is now `ch[0-9][0-9].json`.** Plain `ch*.json` would also match `chandogya_upanishad.json`.
+- **Verses that could read as being about suicide** (e.g. Isha 3, "those who slay the self"):
+  - No situations, so they are never offered as advice.
+  - They are flagged `death` and `distress_gentle`, even when the commentary reads them figuratively.
+- **Ritual and invocation passages** (peace chants, colophons) are skipped by the parsers, as the Gita's chapter colophons are. Only numbered units become records.

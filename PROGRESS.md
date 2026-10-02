@@ -2,7 +2,41 @@
 
 _Last updated: 2026-10-01_
 
-## Status: Step 1 complete
+Repo: https://github.com/yjzw6km8y5-hub/viveka (pushed after every batch)
+
+## Current: scope expansion, part a (the 13 principal Upanishads)
+
+The pipeline is generic now (`data/texts.json`, `build_texts.py`, and `validate.py` covering every text).
+Snapshots of all 13 Upanishads and 10 Śaṅkara bhāṣyas are in `data/raw/upanishads/`.
+
+| Text | Units | Status |
+|---|---:|---|
+| Isha | 18 | done (strict VALID) |
+| Kena | | next |
+| Katha | | |
+| Prashna | | |
+| Mundaka | | |
+| Mandukya | | |
+| Taittiriya | | |
+| Aitareya | | |
+| Shvetashvatara | | |
+| Kaushitaki | | |
+| Maitri | | |
+| Chandogya | | |
+| Brihadaranyaka | | |
+
+Then, in order:
+- b. answer-engine prototype
+- c. Niti
+- d. other Gitas
+- e. philosophy
+- f. epics and Puranas
+- g. bhakti and regional
+- h. modern texts (public domain only)
+- i. contemporary `view` summaries
+- `data/perspectives/`, built up alongside the texts
+
+## Step 1: Bhagavad Gita, complete
 All 700 verses of the Bhagavad Gita have English, context, tags, school notes and
 safety flags. `python scripts/validate.py` (strict) reports **VALID**.
 

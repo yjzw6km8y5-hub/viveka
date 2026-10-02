@@ -39,6 +39,11 @@ OTHER = {
     "०": "0", "१": "1", "२": "2", "३": "3", "४": "4",
     "५": "5", "६": "6", "७": "7", "८": "8", "९": "9",
     "‌": "", "‍": "",  # zero-width (non-)joiners
+    # Vedic signs (Upanishad texts)
+    "ꣳ": "ṁ",           # U+A8F3 candrabindu virama: the Vedic 'gum' nasal
+    "ꣲ": "m̐",           # U+A8F2 spacing candrabindu
+    "॑": "", "॒": "",    # udātta / anudātta accent marks (not shown in IAST)
+    "ᳲ": "ẖ", "ᳵ": "ḫ",  # jihvāmūlīya / upadhmānīya variants
 }
 
 

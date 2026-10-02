@@ -1,0 +1,15 @@
+{
+  "_note": "Registry of texts built by scripts/build_texts.py and checked by scripts/validate.py. The Bhagavad Gita (data/gita.json) has its own builder and schema.",
+  "isha_upanishad": {
+    "title": "Isha Upanishad",
+    "title_devanagari": "ईशोपनिषत्",
+    "group": "upanishad",
+    "id_prefix": "IsU",
+    "levels": ["mantra"],
+    "raw": "data/raw/upanishads/isha.json",
+    "expected_units": {"": 18},
+    "count_basis": "Kāṇva recension, 18 mantras; source markers and Śaṅkara's bhāṣya page agree",
+    "speakers": ["Upanishad", "seeker"],
+    "commentaries": {"advaita": "Śaṅkara"}
+  }
+}

@@ -117,7 +117,7 @@ def syllables(devanagari):
 
 def build_source_records():
     records, commentaries, speaker = [], {}, None
-    for path in sorted(RAW_DIR.glob("ch*.json")):
+    for path in sorted(RAW_DIR.glob("ch[0-9][0-9].json")):
         snap = json.loads(path.read_text(encoding="utf-8"))
         text = snap["wikitext"]
         poems = list(re.finditer(r"<poem>(.*?)</poem>", text, flags=re.S))
@@ -193,7 +193,7 @@ def main():
     sys.stdout.reconfigure(encoding="utf-8")
     records, commentaries = build_source_records()
     annotations = {}
-    for path in sorted(ANNOTATIONS_DIR.glob("ch*.json")):
+    for path in sorted(ANNOTATIONS_DIR.glob("ch[0-9][0-9].json")):  # not chandogya_upanishad.json
         for vid, ann in json.loads(path.read_text(encoding="utf-8")).items():
             if vid in annotations:
                 raise SystemExit(f"{vid} is annotated twice (second time in {path.name})")
