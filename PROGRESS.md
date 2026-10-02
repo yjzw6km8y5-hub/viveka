@@ -1,4 +1,4 @@
-# Progress
+﻿# Progress
 
 _Last updated: 2026-10-01_
 
@@ -12,8 +12,8 @@ Snapshots of all 13 Upanishads and 10 Śaṅkara bhāṣyas are in `data/raw/upa
 | Text | Units | Status |
 |---|---:|---|
 | Isha | 18 | done (strict VALID) |
-| Kena | | next |
-| Katha | | |
+| Kena | 35 | done (strict VALID) |
+| Katha | | next |
 | Prashna | | |
 | Mundaka | | |
 | Mandukya | | |

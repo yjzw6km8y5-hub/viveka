@@ -11,5 +11,17 @@
     "count_basis": "Kāṇva recension, 18 mantras; source markers and Śaṅkara's bhāṣya page agree",
     "speakers": ["Upanishad", "seeker"],
     "commentaries": {"advaita": "Śaṅkara"}
+  },
+  "kena_upanishad": {
+    "title": "Kena Upanishad",
+    "title_devanagari": "केनोपनिषत्",
+    "group": "upanishad",
+    "id_prefix": "KeU",
+    "levels": ["khanda", "mantra"],
+    "raw": "data/raw/upanishads/kena.json",
+    "expected_units": {"1": 9, "2": 5, "3": 12, "4": 9},
+    "count_basis": "Source numbering (35 mantras: 9, 5, 12, 9). Śaṅkara's bhāṣya page counts 8 in khaṇḍa 1, joining our 1.3 and 1.4",
+    "speakers": ["student", "teacher", "Upanishad", "narrator"],
+    "commentaries": {"advaita": "Śaṅkara"}
   }
 }

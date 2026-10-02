@@ -1,0 +1,352 @@
+{
+  "KeU.1.1": {
+    "speaker": "student",
+    "context": "The Upanishad opens with a student's question: what power drives the mind, breath, speech and senses?",
+    "english": "Om. Willed by whom, sent by whom, does the mind fly out? Yoked by whom does the first breath go forth? Willed by whom do people speak this speech? What god yokes the eye and the ear?",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The question comes from someone who has turned away from the impermanent body and its works and seeks what is unchanging. They are unsure whether the body-mind complex directs the mind and senses, or something apart from it directs them by mere will."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.1.2": {
+    "speaker": "teacher",
+    "context": "The teacher answers: what drives the senses is the ear of the ear and the mind of the mind, and the wise who know it become immortal.",
+    "english": "It is the ear of the ear, the mind of the mind, the speech of speech; it is the breath of breath and the eye of the eye. Letting go, the wise, departing from this world, become immortal.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The answer fits because the director of the senses is known only as the one for whose sake they work together, as a house serves someone who lives in it. The ear can reveal sound only because the ever-present light of consciousness, the Self, is there; 'letting go' means giving up identification with the senses, and 'departing' means leaving the body."}
+    ],
+    "safety_flags": ["death"], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.1.3": {
+    "speaker": "teacher",
+    "context": "The teacher says that the eye, speech and mind cannot reach this reality, so it cannot be taught like an object.",
+    "english": "There the eye does not go, nor speech, nor the mind. We do not know, we do not understand, how one could teach it.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Eye, speech and mind cannot reach Brahman because it is their own Self, as fire burns and lights other things but not itself. Having no class, quality or action, it cannot be taught as objects are, which shows how much effort teaching and grasping it require; yet scripture can convey it, as the next words do."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.1.4": {
+    "speaker": "teacher",
+    "context": "The teacher adds the traditional teaching: this reality is other than everything known and beyond the unknown.",
+    "english": "It is other than the known, and beyond the unknown. So we have heard from those of old who explained it to us.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Being other than the known, Brahman is not something to be rejected; being beyond the unknown, it is not something to be acquired. So it is one's own Self. This is learned only through the line of teachers, not by reasoning, learning or rituals."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.1.5": {
+    "speaker": "teacher",
+    "context": "The teacher begins a refrain (1.5-1.9): Brahman is what makes speech, mind and senses work, not what people worship as an object.",
+    "english": "What speech cannot express, but by which speech is expressed: know that alone as Brahman, not this which people worship here.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Brahman is the light of consciousness by which speech is lit and used. Set aside every description that comes from limiting conditions and know the unconditioned Self alone as Brahman, not what people meditate on as something other than the Self, such as a God separate from them."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.1.6": {
+    "speaker": "teacher",
+    "context": "The teacher continues the refrain: Brahman is not something the mind can think, but what lets the mind think.",
+    "english": "What one cannot think with the mind, but by which, they say, the mind is thought: know that alone as Brahman, not this which people worship here.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The mind, which includes desire, resolve, doubt and faith, cannot think the light of consciousness that illumines it. Knowers of Brahman say the mind with all its activity is pervaded by that light; know that inner Self as Brahman."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.1.7": {
+    "speaker": "teacher",
+    "context": "The teacher continues the refrain: Brahman is not seen by the eye, but is what lets the eye see.",
+    "english": "What one cannot see with the eye, but by which the eyes are seen: know that alone as Brahman, not this which people worship here.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "People do not make it an object with the eye; it is the light of consciousness by which the eye's activity is itself known."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.1.8": {
+    "speaker": "teacher",
+    "context": "The teacher continues the refrain: Brahman is not heard by the ear, but is what lets the ear hear.",
+    "english": "What one cannot hear with the ear, but by which this ear is heard: know that alone as Brahman, not this which people worship here.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "People do not grasp it with the ear; it is the light of consciousness by which the ear itself, familiar to all, becomes known."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.1.9": {
+    "speaker": "teacher",
+    "context": "The teacher ends the refrain: Brahman is not reached by the breath, but is what moves the breath.",
+    "english": "What one does not breathe with the breath, but by which the breath is led forth: know that alone as Brahman, not this which people worship here.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'Breath' here is the sense of smell; Brahman is not smelled like a scent, but is the light of consciousness by which smell reaches its objects."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.2.1": {
+    "speaker": "teacher",
+    "context": "The teacher warns against thinking Brahman is fully known; in the last words, after reflecting, the student replies.",
+    "english": "If you think, 'I know it well,' then surely you know only a little of Brahman's form: the form that is in you, and the form that is among the gods. So I think you must still inquire into it. 'I think I know it.'",
+    "situations": ["ego_pride_envy", "purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The teacher unsettles the student so they will not cling to 'I know Brahman well'. Whatever is known of Brahman through limiting conditions, in the body or among the gods, is small; the infinite Brahman free of all conditions is not easily known. The student then sat alone, reflected on the teaching, tested it by reason and experience, and returned to say, 'I think I now know Brahman.'"}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.2.2": {
+    "speaker": "student",
+    "context": "The student explains with a paradox: Brahman is neither simply known nor simply unknown.",
+    "english": "I do not think I know it well; yet it is not that I do not know it, and I do know it. Whoever among us understands 'it is not that I do not know it, and I do know it' knows it.",
+    "situations": ["ego_pride_envy", "purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Though the teacher tried to shake them, the student did not waver, relying on the teaching 'other than the known and beyond the unknown', on reasoning and on experience. Brahman cannot be known as an object, yet is not unknown, so the student declares with confidence that whoever grasps this paradox knows it."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.2.3": {
+    "speaker": "Upanishad",
+    "context": "Leaving the dialogue, the Upanishad states the point in its own voice: those who claim to know Brahman do not.",
+    "english": "One for whom it is unthought has thought it; one for whom it is thought does not know it. It is unknown to those who know it, and known to those who do not.",
+    "situations": ["ego_pride_envy", "purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "One who holds that Brahman is not an object of knowledge truly knows it; one convinced 'I have known Brahman' does not. 'Those who do not know' are people who take the senses, mind or intellect for the Self, not the wholly untaught, who would not claim to know Brahman at all."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.2.4": {
+    "speaker": "Upanishad",
+    "context": "The Upanishad says Brahman is rightly known as the awareness present in every act of knowing, and this knowledge brings immortality.",
+    "english": "It is known when it is known in every act of awareness, for by this one gains immortality. Through the Self one gains strength; through knowledge, immortality.",
+    "situations": ["purpose_meaning", "fear_anxiety"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The Self is the witness of every cognition and is known as present in each; so known, Brahman is rightly known as eternal, pure and one. He rejects reading the Self as the agent of knowing, which would make it changing. The strength gained from wealth, allies, spells or medicine cannot overcome death; only the strength of self-knowledge, gained through the Self alone, can."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.2.5": {
+    "speaker": "Upanishad",
+    "context": "The Upanishad urges knowing Brahman in this life, since failing to do so is a great loss.",
+    "english": "If one knows it here, then there is truth; if one does not know it here, great is the loss. Discerning it in every being, the wise, departing from this world, become immortal.",
+    "situations": ["purpose_meaning", "lack_of_motivation"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "If a capable person knows the Self here, in this human birth, this life has truth and meaning; if not, the loss is the endless round of birth, ageing and death. The wise, seeing one Self in all beings, moving and unmoving, turn away from the world of 'I' and 'mine' and become Brahman."}
+    ],
+    "safety_flags": ["death"], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.3.1": {
+    "speaker": "narrator",
+    "context": "The Upanishad begins a parable: the gods take credit for a victory that was really Brahman's (3.1-4.3).",
+    "english": "Brahman, it is told, won a victory for the gods, and in Brahman's victory the gods grew great.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Brahman defeated the demons, enemies of the world, for the gods' sake and gave them the fruit of victory; Agni and the other gods gained glory, not knowing it was the work of the all-knowing Lord within them."}
+    ],
+    "safety_flags": ["war"], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.3.2": {
+    "speaker": "narrator",
+    "context": "In the parable, the gods claim the victory as their own, and Brahman appears before them as a mysterious being.",
+    "english": "They thought, 'This victory is ours alone; this greatness is ours alone.' Brahman knew this of them and appeared before them. They did not know what it was: 'What is this wondrous being?'",
+    "situations": ["ego_pride_envy", "success_wealth"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The gods' pride was false. Brahman saw it and, out of compassion, so that pride would not ruin the gods as it had the demons, appeared in a wondrous form; they did not recognise it, 'yakṣa' meaning a great being worthy of worship."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.3.3": {
+    "speaker": "narrator",
+    "context": "In the parable, the gods send Agni, the fire-god, to find out what the mysterious being is.",
+    "english": "They said to Agni, 'Jatavedas, find out what this wondrous being is.' 'Very well,' he said.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Not knowing it and afraid, the gods asked Agni, their leader and almost all-knowing, to find out."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.3.4": {
+    "speaker": "narrator",
+    "context": "In the parable, Agni approaches the being and boasts of his names.",
+    "english": "He ran towards it. It asked him, 'Who are you?' 'I am Agni,' he said, 'I am Jatavedas.'",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Agni fell silent near it from timidity, so it spoke first; he praised himself by giving both his famous names."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.3.5": {
+    "speaker": "narrator",
+    "context": "In the parable, Agni claims he can burn everything on earth.",
+    "english": "'What power is there in you?' 'I could burn all this, whatever is on earth.'",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Asked his power, Agni says he could burn everything; 'on earth' stands for everywhere, since fire burns what is in the sky too."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.3.6": {
+    "speaker": "narrator",
+    "context": "In the parable, Agni cannot burn a single blade of grass and returns humbled.",
+    "english": "It set a blade of grass before him: 'Burn this.' He went at it with all his speed but could not burn it. He turned back from there: 'I could not find out what this wondrous being is.'",
+    "situations": ["ego_pride_envy", "failure_setback"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Brahman in effect said: 'Burn this straw before me; if you cannot, give up your pride in being the burner of everything.' Unable to burn it, Agni turned back ashamed, his boast broken."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.3.7": {
+    "speaker": "narrator",
+    "context": "In the parable, the gods next send Vayu, the wind-god (3.7-3.10).",
+    "english": "Then they said to Vayu, 'Vayu, find out what this wondrous being is.' 'Very well,' he said.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "These verses mean the same as those about Agni; Vāyu is so called from blowing or carrying scents, and Mātariśvan from moving in the sky."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.3.8": {
+    "speaker": "narrator",
+    "context": "In the parable, Vayu approaches the being and boasts of his names.",
+    "english": "He ran towards it. It asked him, 'Who are you?' 'I am Vayu,' he said, 'I am Matarishvan.'",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "These verses mean the same as those about Agni; Mātariśvan means the one who moves in the sky."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.3.9": {
+    "speaker": "narrator",
+    "context": "In the parable, Vayu claims he can carry off everything on earth.",
+    "english": "'What power is there in you?' 'I could carry off all this, whatever is on earth.'",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Vāyu's claim to seize everything on earth parallels Agni's claim, with the same meaning."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.3.10": {
+    "speaker": "narrator",
+    "context": "In the parable, Vayu cannot move a blade of grass and returns humbled.",
+    "english": "It set a blade of grass before him: 'Carry this off.' He went at it with all his speed but could not move it. He turned back from there: 'I could not find out what this wondrous being is.'",
+    "situations": ["ego_pride_envy", "failure_setback"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The story of Vāyu repeats that of Agni with the same meaning: the boast fails before a single blade of grass."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.3.11": {
+    "speaker": "narrator",
+    "context": "In the parable, the gods send Indra, their king, and the being vanishes as he approaches.",
+    "english": "Then they said to Indra, 'Maghavan, find out what this wondrous being is.' 'Very well.' He ran towards it, and it vanished from before him.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Brahman vanished without even speaking to Indra, because his pride in being king of the gods most needed to be broken."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.3.12": {
+    "speaker": "narrator",
+    "context": "In the parable, Indra stays where the being vanished and meets the goddess Uma, whom he asks what it was.",
+    "english": "In that very space he came upon a woman of great beauty, Uma, daughter of the Himalaya. He asked her, 'What is this wondrous being?'",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Unlike Agni and Vāyu, Indra did not turn back. Seeing his devotion to the being, knowledge itself appeared in the form of Umā, most beautiful of all; or Umā is the Himalaya's daughter, who is always with the all-knowing Lord and so could answer."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.4.1": {
+    "speaker": "narrator",
+    "context": "In the parable, Uma tells Indra the being was Brahman and the victory was Brahman's, and Indra understands.",
+    "english": "'It is Brahman,' she said. 'It was in Brahman's victory that you grew great.' Only then did he know that it was Brahman.",
+    "situations": ["ego_pride_envy", "success_wealth", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The demons were defeated by the Lord; the gods were mere instruments, and their 'this victory is ours' was false pride. Indra knew it was Brahman from Umā's words, not by himself."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.4.2": {
+    "speaker": "narrator",
+    "context": "The parable concludes that Agni, Vayu and Indra excel the other gods because they came closest to Brahman.",
+    "english": "So these gods, Agni, Vayu and Indra, surpass the other gods, as it were, for they came nearest to it and were the first to know it as Brahman.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "These three excel the others because they came nearest to Brahman, the dearest, by speaking with it or seeing it, and were the foremost to know it."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.4.3": {
+    "speaker": "narrator",
+    "context": "The parable concludes that Indra excels all the gods because he was the first to know Brahman.",
+    "english": "So Indra surpasses the other gods, as it were, for he came nearest to it and was the first to know it as Brahman.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Agni and Vāyu came to know Brahman through Indra's words, and Indra first heard it from Umā, so Indra excels them all."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.4.4": {
+    "speaker": "Upanishad",
+    "context": "The Upanishad gives a likeness for Brahman as it touches the world: a flash of lightning, a blink of the eye.",
+    "english": "This is the teaching about it, by likeness: as it flashed in the lightning, ah! as it made the eye blink, ah! This is with regard to the divine.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Since Brahman has no likeness, it is taught by comparison: as lightning flashes once and vanishes, Brahman showed itself to the gods once and vanished; or, like the blink of an eye, it appears and disappears. The prolonged 'ā' marks the comparison."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.4.5": {
+    "speaker": "Upanishad",
+    "context": "The Upanishad gives a likeness for Brahman within a person: it is what the mind seems to reach when it remembers and resolves.",
+    "english": "Now with regard to the self: the mind seems to go to it, and by the mind one calls it to memory again and again, and resolves upon it.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Within, Brahman shows itself as if it were an object at the very moment the mind remembers or resolves on it. These likenesses are given because those of slow understanding cannot grasp Brahman free of all conditions."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.4.6": {
+    "speaker": "Upanishad",
+    "context": "The Upanishad says Brahman is to be meditated on as the one most worth loving, and all beings love one who knows this.",
+    "english": "It is called Tadvana, 'the one to be loved'; it should be worshipped as Tadvana. All beings long for whoever knows it this way.",
+    "situations": ["relationships_forgiveness", "purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Brahman is 'vana', to be loved and resorted to, being the inner Self of every creature; one who meditates on it under this name is sought after by all beings, as Brahman is."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.4.7": {
+    "speaker": "teacher",
+    "context": "The student asks for the secret teaching, and the teacher replies that it has already been given.",
+    "english": "'Sir, tell me the Upanishad.' 'The Upanishad has been told to you. We have told you the Upanishad about Brahman.'",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The student asks whether the teaching needs some further aid or stands complete. The teacher confirms it is complete; what follows is not an addition to it but the means for gaining it."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  },
+  "KeU.4.8": {
+    "speaker": "teacher",
+    "context": "The teacher names what supports this knowledge: discipline, self-control, work, the Vedas and truthfulness.",
+    "english": "Austerity, self-control and work are its foundation; the Vedas are all its limbs; truth is its home.",
+    "situations": ["temptation_self_control", "purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Austerity and the rest purify the mind so that knowledge arises, in this life or past ones; 'and the like' includes humility and the other virtues of Gita 13.7. Truth means absence of deceit in speech, mind and body; knowledge dwells with the honest, not with the deceitful."}
+    ],
+    "safety_flags": [], "cross_refs": ["BG.13.7"], "review_status": "draft"
+  },
+  "KeU.4.9": {
+    "speaker": "teacher",
+    "context": "The teacher closes with the fruit of this knowledge: freedom from evil and a firm place in the infinite.",
+    "english": "Whoever knows it in this way strikes away evil and stands firm in the endless, highest heaven, stands firm.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Whoever knows this knowledge of Brahman shakes off the seed of rebirth, which is ignorance, desire and action, and is established in Brahman, endless and blissful, the supreme Self, never returning to worldly existence."}
+    ],
+    "safety_flags": [], "cross_refs": [], "review_status": "draft"
+  }
+}

@@ -50,7 +50,8 @@ END_MARK = re.compile(r"॥\s*([०-९0-9]+(?:\s*[.\-]\s*[०-९0-9]+)*)\s*॥
 
 def clean_lines(wikitext):
     """Wikitext -> plain text lines (markup, templates and categories removed)."""
-    text = re.sub(r"\{\{[^{}]*\}\}", "", wikitext, flags=re.S)
+    text = re.sub(r"<ref[^>]*>.*?</ref>", "", wikitext, flags=re.S)  # footnotes
+    text = re.sub(r"\{\{[^{}]*\}\}", "", text, flags=re.S)
     text = re.sub(r"\[\[(?:वर्गः|Category|en):[^\]]*\]\]", "", text)
     text = re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", text)
     text = re.sub(r"<br\s*/?>", "\n", text)
@@ -60,6 +61,7 @@ def clean_lines(wikitext):
     for line in text.splitlines():
         line = re.sub(r"\s+", " ", line).strip()
         line = line.strip("=").strip()
+        line = re.sub(r"\s\|(?=\s|$)", " ।", line)  # ASCII pipe used as a danda
         if line:
             lines.append(unicodedata.normalize("NFC", line))
     return lines
@@ -123,8 +125,87 @@ def bhashya_isha(raw, refs):
     return out
 
 
+ORDINALS = {"प्रथम": 1, "द्वितीय": 2, "तृतीय": 3, "चतुर्थ": 4, "पञ्चम": 5, "षष्ठ": 6,
+            "सप्तम": 7, "अष्टम": 8, "नवम": 9, "दशम": 10, "एकादश": 11, "द्वादश": 12}
+ORDINAL_RE = "|".join(sorted(ORDINALS, key=len, reverse=True))
+
+
+def split_sections(lines, heading_re):
+    """Yield (section number, lines) using headings such as 'द्वितीयः खण्डः'."""
+    current, buf = None, []
+    for ln in lines:
+        m = re.fullmatch(heading_re, ln)
+        if m:
+            if current is not None:
+                yield current, buf
+            current, buf = ORDINALS[m.group(1)], []
+        elif current is not None:
+            buf.append(ln)
+    if current is not None:
+        yield current, buf
+
+
+def parse_kena(raw):
+    page = raw["text"][0]
+    lines = clean_lines(page["wikitext"])
+    out = []
+    for khanda, sec in split_sections(lines, rf"({ORDINAL_RE})ः खण्डः"):
+        sec = [ln for ln in sec if not re.match(r"॥?\s*इति केनोपनिषद", ln)]
+        if khanda == 4:  # closing peace chant follows the last mantra
+            sec = sec[: next(i for i, ln in enumerate(sec) if ln.startswith("ॐ आप्यायन्तु"))]
+        for n, ulines in split_units(sec):
+            out.append(([khanda] + n, ulines, page))
+    return out
+
+
+def labelled_segments(text, label_re):
+    """Split commentary text at lines matching label_re; return [(label, body)]."""
+    parts = re.split(rf"^({label_re})\s*$", text, flags=re.M)
+    return list(zip(parts[1::2], parts[2::2])), parts[0]
+
+
+def bhashya_kena(raw, refs):
+    """Śaṅkara's Kena bhāṣya labels mantra text '1.k.m' and commentary 'ए.1.k.m'.
+
+    Its first khaṇḍa has 8 mantras where our text has 9: its 1.1.3 covers our
+    1.3 and 1.4. Its 1.3.7-10 are explained together in one comment. Its 1.2.1
+    has no label: the comment sits between the khaṇḍa heading and 1.2.2.
+    """
+    text = "\n".join(clean_lines(raw["bhashya"][0]["wikitext"]))
+    segs, _ = labelled_segments(text, r"1\.\d\.\d+")
+    out, prev = {}, None
+    pending = []  # mantra labels whose comment comes later (joint comment)
+    for label, body in segs:
+        k, m = number(label)[1:]
+        if prev and (k, m) == prev:
+            m += 1  # a repeated label (1.1.8 printed as 1.1.7, 1.3.9 as 1.3.8)
+        prev = (k, m)
+        pending.append((k, m))
+        parts = re.split(r"^ए\.[\d.\-]+\s*$", body, maxsplit=1, flags=re.M)
+        if len(parts) < 2:
+            continue
+        # A comment ends at the khaṇḍa colophon or the next khaṇḍa's heading.
+        section_break = r"^(?:इति \S+ खण्डः.*|\S+ (?:खण्ड|खणड)\s*)$"
+        comment = re.split(section_break, parts[1], flags=re.M)[0].strip()
+        if k == 1 and m == 8:  # khaṇḍa 2 opens without labels; its first comment follows 'यदि मन्यसे ... ।।1।।'
+            m2 = re.search(r"मीमँस्यमेव ते मन्ये विदितम्।।1।।", parts[1])
+            if m2:
+                out[(2, 1)] = {"advaita": parts[1][m2.end():].strip()}
+        for kk, mm in pending:
+            targets = [(kk, mm)]
+            if kk == 1 and mm == 3:
+                targets = [(1, 3), (1, 4)]
+            elif kk == 1 and mm >= 4:
+                targets = [(1, mm + 1)]
+            for t in targets:
+                out[t] = {"advaita": comment}
+        pending = []
+    return out
+
+
 PARSERS = {
     "isha_upanishad": (parse_isha, bhashya_isha),
+    "kena_upanishad": (parse_kena, bhashya_kena),
 }
 
 
