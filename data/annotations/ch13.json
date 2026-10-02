@@ -1,0 +1,360 @@
+{
+  "BG.13.1": {
+    "context": "Krishna opens chapter 13 by distinguishing the field, which is the body, from the one who knows it.",
+    "english": "This body, son of Kunti, is called the field; the one who knows it is called the knower of the field by those who know these things.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The body is called the field because it is protected from harm, because it decays, or because the fruits of action grow in it like crops in a field."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This chapter gathers up and distinguishes the knowledge, the knowable, the field and the person spoken of earlier."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.2": {
+    "context": "Krishna says he is the knower of the field in every body, and that knowing the field and its knower is true knowledge.",
+    "english": "Know me, too, as the knower of the field in all fields, Arjuna. Knowledge of the field and of its knower is, in my view, true knowledge.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Know the knower of the field to be me, the Supreme Lord, beyond worldly existence: the one knower in all bodies, from Brahmā to a blade of grass, appearing divided by them but free of every such difference."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Know the knower of the field in all bodies, whose single nature is to know, as having me as its self; the word 'too' implies the field also has me as its self, since both are inseparable from me as my attributes."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.3": {
+    "context": "Krishna announces what he will explain: the field, its changes, and its knower.",
+    "english": "Hear from me in brief what the field is, what it is like, what changes it undergoes and where it comes from, and who its knower is and what powers that knower has.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'That field' is the body just mentioned: hear what it is like in its own properties, what changes it has, and what arises from what."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "What the field is made of, what it supports, how it changes, from what cause and for what purpose it arises; and what the knower is and what powers it has."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'From where' means from what the field proceeds and who sets it going; 'who' is that mover's own nature."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.4": {
+    "context": "Krishna says this teaching is found in the sages, the Vedas and the Brahma Sutras.",
+    "english": "This has been sung by sages in many ways, separately in various Vedic hymns, and in the reasoned and conclusive verses of the Brahma Sutras.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Sung by sages such as Vasiṣṭha, in many Vedic metres, and in the words that point to Brahman, well reasoned and decisive."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "This truth of field and knower was sung by sages such as Parāśara; he quotes the Viṣṇu Purāṇa on beings carried along in the stream of the gunas."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Brahma Sutras' means the Śārīraka, the Brahma Sūtra itself."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.5": {
+    "context": "Krishna lists the components that make up the field (13.5-13.6).",
+    "english": "The great elements, the sense of 'I', the intellect and the unmanifest; the ten senses and the mind; and the five objects of the senses;",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The great elements are the subtle elements; ego is their cause, the intellect is ego's cause, and the unmanifest is the cause of all."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "These are the substances that build the field: the five elements, ego, the great principle and prakṛti; then the eleven senses and five sense objects that depend on it."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.6": {
+    "context": "Krishna completes his list: even desire, aversion, pleasure and pain belong to the field.",
+    "english": "desire, aversion, pleasure, pain, the body as a whole, awareness and steadiness: this, in brief, is the field together with its changes.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Desire is wanting again what once gave pleasure; aversion is rejecting what once gave pain; these belong to the inner faculty and, being objects of knowing, are part of the field."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Desire, aversion, pleasure and pain belong to the self, but arise from its contact with the field, so they are called the field's changes."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Desire and the rest are the 'changes'."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.7": {
+    "context": "Krishna lists the qualities that make up true knowledge (13.7-13.11), beginning with humility and non-violence.",
+    "english": "Humility, lack of pretence, non-violence, patience, honesty, service to one's teacher, purity, steadiness and self-control,",
+    "situations": ["ego_pride_envy", "anger_resentment", "relationships_forgiveness", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Humility is not praising oneself; lack of pretence is not displaying one's own virtue; non-violence is not harming beings; patience is staying unmoved when wronged."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Humility is not looking down on the excellent; lack of pretence is not doing good for fame; non-violence is not harming by word, thought or deed; patience is a mind unchanged even when harmed by others."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Pretence is putting on a show of greatness while knowing one's own smallness."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.8": {
+    "context": "Krishna continues the qualities of knowledge: dispassion, freedom from ego, and clear sight of life's sufferings.",
+    "english": "dispassion towards the objects of the senses, absence of ego, and clearly seeing the trouble and pain of birth, death, old age and sickness;",
+    "situations": ["ageing_death_impermanence", "ego_pride_envy", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Dispassion for pleasures seen and unseen, and seeing the fault in each of birth, death, old age, illness and suffering."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Turning away from objects other than the self by seeing their faults; not taking the body for the self, nor what is not one's own for one's own."}
+    ],
+    "safety_flags": ["death"], "review_status": "draft"
+  },
+  "BG.13.9": {
+    "context": "Krishna continues: knowledge includes not clinging to family and home, and evenness in good times and bad.",
+    "english": "non-attachment, not clinging to son, wife, home and the like, and constant evenness of mind amid what is welcome and what is unwelcome;",
+    "situations": ["relationships_forgiveness", "temptation_self_control"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Clinging is a deeper attachment: identifying with another so completely that one feels 'I am happy' or 'I am suffering' as they are."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Not clinging to son, wife, home and the like beyond their role as aids to one's prescribed duties, and staying even, without elation or agitation, when welcome or unwelcome things come."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Attachment is affection; clinging is that same affection fully ripened."}
+    ],
+    "safety_flags": ["renunciation"], "review_status": "draft"
+  },
+  "BG.13.10": {
+    "context": "Krishna continues: knowledge includes steady devotion and a liking for solitude.",
+    "english": "unswerving devotion to me through single-minded yoga, resorting to solitary places, and no taste for crowds;",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Unwavering devotion grounded in the settled conviction that there is nothing higher than Vāsudeva; resorting to places pure by nature or made pure."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Steady devotion to me, the Lord of all, through single-minded yoga; living in places free of people, and finding no pleasure in crowds."}
+    ],
+    "safety_flags": ["renunciation"], "review_status": "draft"
+  },
+  "BG.13.11": {
+    "context": "Krishna concludes the list: these qualities are what true knowledge means.",
+    "english": "constancy in knowledge of the self, and insight into the purpose of true knowledge: this is called knowledge, and whatever is contrary to it is ignorance.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Constancy in knowledge of the self, and seeing that the aim of true knowledge is liberation; all the qualities from humility on are called knowledge because they are its means."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "These qualities, from humility on, are called 'knowledge' because they are the means by which the self is known."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Insight into the purpose of true knowledge' means studying scripture in order to gain direct knowledge."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.12": {
+    "context": "Krishna turns to what is to be known: the beginningless Brahman (13.12-13.17).",
+    "english": "I will describe what is to be known, knowing which one attains immortality: the beginningless supreme Brahman, which is said to be neither being nor non-being.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "What is to be known is the beginningless supreme Brahman; knowing it, one does not die again. It cannot be called being or non-being, since it is not an object of words."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "What is to be known here is the individual self, reached through humility and the other means; knowing it, one attains the immortal self, free of birth, old age and death. It is beginningless, since it has no origin."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Reads 'anādimat' as 'free of a body that has a beginning'; otherwise the text would simply have said 'anādi'."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.13": {
+    "context": "Krishna describes what is to be known as present everywhere, with every faculty in every place.",
+    "english": "It has hands and feet everywhere, eyes, heads and faces everywhere, and ears everywhere in the world; it stands enveloping all.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The knower of the field is spoken of through the hands and feet of all beings, which are its limiting adjuncts; the differences belong to those adjuncts."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The pure self can do the work of hands and feet everywhere, as the Upanishad says of Brahman: 'without hands or feet it moves and grasps'."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.14": {
+    "context": "Krishna describes the paradoxes of what is to be known: sense-like yet without senses, beyond the gunas yet experiencing them.",
+    "english": "It seems to have the qualities of all the senses, yet is free of all the senses; unattached, yet sustaining all; free of the gunas, yet experiencing the gunas.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "It appears through the senses and the mind, which are its adjuncts, yet in itself it has no senses."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "It can know objects through the activity of the senses, yet by its own nature knows everything without any senses."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "It is the one that illumines all the senses and the gunas."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.15": {
+    "context": "Krishna continues: what is to be known is both within and beyond all things, near and far.",
+    "english": "It is outside and inside beings, unmoving and moving; it is too subtle to be known; it is far away, and also near.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'Outside' and 'inside' are spoken relative to the body wrongly taken as the self; being subtle, like space, it is not known by the unwise."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "It is outside the elements, being without a body, and also inside them; unmoving by nature, yet moving when embodied; and unknowable because of its subtlety."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.16": {
+    "context": "Krishna says what is to be known is one, though it appears divided, and sustains, consumes and creates beings.",
+    "english": "Undivided, it seems divided among beings; it is to be known as the sustainer of beings, the one who devours them and the one who brings them forth.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Like space, it is one in all bodies though it appears divided; it sustains beings, devours them at dissolution, and brings them forth at creation."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The self is undivided in its nature as knower, though those who do not understand see it as divided into god, human and so on."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.17": {
+    "context": "Krishna describes what is to be known as the light of all lights, dwelling in every heart.",
+    "english": "It is the light of all lights, said to be beyond darkness; it is knowledge, what is to be known, and the goal of knowledge, dwelling in the heart of all.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "It is by the light of the self's consciousness that the sun and other lights shine, as the Upanishad says."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The self's own light of knowledge illumines even lamps and the sun, which only dispel the darkness between the senses and their objects."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.18": {
+    "context": "Krishna sums up his teaching on the field, knowledge and what is to be known.",
+    "english": "So the field, knowledge and what is to be known have been described in brief. My devotee who understands this comes to my state of being.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "This, in brief, is the whole meaning of the Veda and of the Gita."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Sums up: the field (13.5-13.6), the means to knowledge (13.7-13.11), and what is to be known (13.12-13.17)."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The means to knowledge were given first because they are so many and so useful, and because they include the changes."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.19": {
+    "context": "Krishna introduces nature and the person, both without beginning (13.19-13.23).",
+    "english": "Know that both nature and the person are without beginning; and know that the changes and the gunas arise from nature.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Prakṛti and puruṣa are the Lord's two natures, and since the Lord is eternal, it is fitting that they are too."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Prakṛti and the person are both beginningless and joined to each other; the desire and aversion that bind, and the humility and other qualities that free, both arise from prakṛti."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The gunas are sattva and the rest; the 'changes' are named separately as their slightly developed forms."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.20": {
+    "context": "Krishna explains the division of roles: nature acts, while the person experiences.",
+    "english": "Nature is said to be the cause of the body, the senses and agency; the person is said to be the cause of experiencing pleasure and pain.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Prakṛti produces the body and its thirteen instruments; the person is the cause of experiencing pleasure and pain."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Prakṛti, governed by the person, is the cause of the body and senses acting; the person's part is only to govern it."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The person experiences because it is conscious; prakṛti, being inert, is what changes."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.21": {
+    "context": "Krishna says attachment to nature's qualities is what drives rebirth.",
+    "english": "The person, abiding in nature, experiences the gunas born of nature; attachment to the gunas is the cause of its births in good and bad wombs.",
+    "situations": ["purpose_meaning", "temptation_self_control"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'Abiding in nature' means identifying with prakṛti; attachment to its gunas causes birth in higher and lower bodies."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The person, whose own nature is the joy of experiencing itself, when joined with prakṛti experiences the pleasure and pain born of the gunas; attachment to them causes rebirth."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.22": {
+    "context": "Krishna names the supreme Person in the body as witness, sustainer and Lord.",
+    "english": "The supreme Person in this body is also called the witness, the one who consents, the sustainer, the experiencer, the great Lord and the supreme Self.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The witness stands close by without taking part, like an expert in ritual watching the priests and patron at a sacrifice."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Reads this as the individual self: in the body it oversees, consents to, sustains and experiences it, and so is its lord and 'supreme self' relative to the body."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Reads this as the Lord, distinct from the soul spoken of in 13.20; soul and Lord are mentioned together here."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.23": {
+    "context": "Krishna says knowing nature and the person truly frees one from rebirth.",
+    "english": "One who knows the person and nature, together with the gunas, in this way, is not born again, however they may live.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "One who knows the person directly as 'I', and prakṛti as removed by knowledge, is not born again when this body falls, however they have lived."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "One who rightly discerns the person and prakṛti is not again bound to prakṛti, even if living in great hardship in any kind of body."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.24": {
+    "context": "Krishna names different paths to seeing the self: meditation, knowledge and action (13.24-13.25).",
+    "english": "Some see the self in the self by the self through meditation; others through the yoga of knowledge; and others through the yoga of action.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Meditation is withdrawing the senses into the mind and the mind into inner awareness, and dwelling there in one unbroken flow, like a stream of oil."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Those whose yoga is complete see the self through devotional meditation; others make the mind ready through the yoga of knowledge; others through the yoga of action."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Sankhya' here means knowledge of the Lord's nature as the Veda teaches it."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.25": {
+    "context": "Krishna says even those who only hear the teaching from others and follow it with devotion cross beyond death.",
+    "english": "Still others, not knowing this, worship after hearing it from others; they too, devoted to what they have heard, cross beyond death.",
+    "situations": ["purpose_meaning", "ageing_death_impermanence"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Those who cannot know it by any of these means worship with faith what teachers have told them; they too cross beyond mortal existence."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Those not fit for these paths hear the teaching from those who know the truth and practise karma yoga; they too cross beyond death."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.26": {
+    "context": "Krishna says every living thing arises from the union of the field and its knower.",
+    "english": "Whatever is born, moving or unmoving, know that it arises from the union of the field and its knower, best of the Bharatas.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Whatever is born, moving or unmoving, arises from the union of field and knower; he then asks what kind of union this can be."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Every being is born only with field and knower joined together, never one apart from the other."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Describes again nature, the person and the Lord, with qualities such as sameness."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.27": {
+    "context": "Krishna says true seeing is to see the imperishable Lord equally present in all perishing beings (13.27-13.28).",
+    "english": "One who sees the supreme Lord abiding equally in all beings, not perishing when they perish, truly sees.",
+    "situations": ["purpose_meaning", "ageing_death_impermanence"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The supreme Lord is the same in all beings, from Brahmā to plants, imperishable among perishing things; whoever sees this, sees."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "One who sees the self in all bodies, the same in its nature as knower and not perishing as the bodies perish, sees rightly."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.28": {
+    "context": "Krishna says one who sees the Lord equally everywhere does not harm themselves and reaches the highest goal.",
+    "english": "Seeing the Lord present equally everywhere, one does not harm the self by the self, and so reaches the highest goal.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Seeing the Lord equally present everywhere, one does not injure the self by the self; from that non-injury one reaches the highest goal."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Seeing the Lord, the self, as the same in all, one does not harm oneself but protects oneself and is freed from worldly existence."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.29": {
+    "context": "Krishna says true seeing recognises that nature acts while the self is not the doer.",
+    "english": "One who sees that all actions are done entirely by nature, and that the self is not the doer, truly sees.",
+    "situations": ["ego_pride_envy", "purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Prakṛti is the Lord's three-guna māyā; it alone, transformed into body and senses, performs all actions of speech, mind and body."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "One who sees all actions as done by prakṛti (13.20), and the self as not the doer but of the nature of knowledge, sees rightly."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "And sees the self as not the doer."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.30": {
+    "context": "Krishna says that seeing all diversity as resting in the One is to attain Brahman.",
+    "english": "When one sees the separate existence of beings as resting in the One, and their spreading out as coming from that alone, one then attains Brahman.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Seeing all the separateness of beings as resting in the one self, as the Upanishad says, 'the self alone is all this', one becomes Brahman."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "When one sees the differences among beings (god, human, tall, short) as belonging to prakṛti and not to the self, and their spreading into children and grandchildren as coming from prakṛti, one attains the self."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'In the One' means in Viṣṇu; 'from that' means from Viṣṇu."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.31": {
+    "context": "Krishna explains why the supreme Self, though in the body, neither acts nor is touched (13.31-13.33).",
+    "english": "Because it is beginningless and beyond the gunas, this supreme Self, imperishable, does not act and is not stained, even though it dwells in the body, son of Kunti.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Having no beginning, it has no parts and does not decay; free of qualities, it loses none; so though in the body it neither acts nor is touched."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "This self, considered apart from the body, is imperishable and free of the gunas, so it does not act and is not bound by the body's nature."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "What has a beginning usually decays and is made of the gunas; the Self has no worldly action."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.32": {
+    "context": "Krishna compares the self to space, which pervades everything without being touched.",
+    "english": "As all-pervading space, being subtle, is not stained, so the self, present everywhere in the body, is not stained.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Though space is everywhere, being subtle it is touched by nothing; so it is with the self."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "As space, though in contact with everything, is not affected by things because it is subtle, so the self in any body is not touched by that body's nature."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.33": {
+    "context": "Krishna compares the knower of the field to the sun lighting up the world.",
+    "english": "As the one sun lights up this whole world, so the owner of the field lights up the whole field, Arjuna.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The owner of the field is the Supreme Self: one in all fields, like the sun, and untouched by them."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "As the sun lights the world, the self lights up its whole body with its knowledge, as 'this is my field'; so it is distinct from the body as the knower is from the known."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.13.34": {
+    "context": "Krishna closes chapter 13: seeing the difference between the field and its knower leads to the supreme.",
+    "english": "Those who see with the eye of knowledge the difference between the field and its knower, and the way to freedom from the nature of beings, go to the supreme.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The eye of knowledge is born of scripture and the teacher's grace; freedom from the 'nature of beings' means freedom from ignorance, which is that nature."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Those who know the difference between field and knower, and the means to freedom from prakṛti (humility and the rest), reach the self, freed of bondage."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Sums up the chapter: field and knower differ as inert and conscious, doer and non-doer, changing and unchanging."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  }
+}

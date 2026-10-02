@@ -1,0 +1,794 @@
+{
+  "BG.18.1": {
+    "context": "Arjuna opens the final chapter asking Krishna to explain renunciation and relinquishment and how they differ.",
+    "english": "Mighty-armed one, I wish to know the truth about renunciation, Krishna, and about relinquishment, and how they differ.",
+    "situations": ["purpose_meaning", "conflict_of_duties"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Arjuna wants to know the true meaning of the words 'renunciation' (saṃnyāsa) and 'relinquishment' (tyāga), each as distinct from the other."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Relinquishment and renunciation are both prescribed as means to liberation, as in the Upanishad: 'some attained immortality by relinquishment'; Arjuna asks what they truly are."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This chapter sums up all the means taught before."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.2": {
+    "context": "Krishna gives two views: renunciation as giving up desire-driven acts, relinquishment as giving up the fruits of all acts.",
+    "english": "The wise understand renunciation as giving up actions driven by desire; the discerning call giving up the fruits of all actions relinquishment.",
+    "situations": ["purpose_meaning", "success_wealth"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Some wise people take renunciation to mean not performing rites done for desires, such as the horse sacrifice; relinquishment is giving up the fruits of the regular and occasional rites one does."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Some hold renunciation to be giving up desire-driven rites themselves; others hold that, in the scriptures on liberation, relinquishment means giving up the fruit of all rites."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Renunciation is setting aside desire-driven rites, either by not wanting their fruit or by not doing them; relinquishment is giving up the fruit, as a Sāmaveda text says."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.3": {
+    "context": "Krishna notes the debate: some say all action should be abandoned, others that sacrifice, giving and austerity should not.",
+    "english": "Some thinkers say that action should be given up as if it were a fault; others say that acts of sacrifice, giving and austerity should not be given up.",
+    "situations": ["purpose_meaning", "conflict_of_duties"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Some, following the Sāṅkhya view, say all action is to be given up because it binds, as faults such as passion are; others say sacrifice and the like should not be."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Some, followers of Kapila and Vedic thinkers who share his view, say a seeker of liberation should give up all action, since it binds like a fault; others say sacrifice and the like should not be given up."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.4": {
+    "context": "Krishna gives his own verdict on relinquishment, which he says is of three kinds.",
+    "english": "Now hear my conclusion about relinquishment, best of the Bharatas; for relinquishment, tiger among men, is declared to be of three kinds.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Hear my verdict on relinquishment and renunciation; by saying 'relinquishment' alone, Krishna implies the two words mean the same thing."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Relinquishment within the Vedic acts one performs is threefold: of the fruit, of the sense of 'mine' in the act, and of being the doer, as 3.30 already taught."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Some sacrifice, gift or austerity must always be done; he cites a text that whoever seeks liberation, at whatever stage of life, must do so."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.5": {
+    "context": "Krishna's verdict: sacrifice, giving and austerity should not be given up, since they purify.",
+    "english": "Acts of sacrifice, giving and austerity should not be given up; they should be done. Sacrifice, giving and austerity purify the wise.",
+    "situations": ["purpose_meaning", "lack_of_motivation"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "These three kinds of action should not be abandoned but done, because they purify those who do not seek their fruit."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Vedic acts such as sacrifice should never be abandoned by a seeker of liberation but done every day until death, since they purify those who meditate."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.6": {
+    "context": "Krishna adds that even these acts should be done without attachment or desire for their fruits.",
+    "english": "But even these actions should be done giving up attachment and their fruits: this, son of Pritha, is my settled and highest view.",
+    "situations": ["purpose_meaning", "success_wealth"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "These purifying acts should be done giving up attachment to them and their fruits; this is my settled, highest view."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Like meditation itself, these acts, as worship of me, should be done daily until death, giving up the sense of 'mine' and the fruits."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.7": {
+    "context": "Krishna describes tamasic relinquishment: abandoning one's duties out of delusion (18.7-18.9).",
+    "english": "Renouncing a prescribed duty is not right; giving it up out of delusion is declared to be tamasic.",
+    "situations": ["lack_of_motivation", "conflict_of_duties"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Giving up regular duty is not fitting for one who does not yet know, since it purifies; abandoning what must be done is self-contradictory and comes from delusion."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Regular duties such as the great sacrifices cannot be given up, since even the body could not be kept going without action (3.8)."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.8": {
+    "context": "Krishna describes rajasic relinquishment: giving up duty because it is hard or painful.",
+    "english": "One who gives up action because it is painful, out of fear of bodily hardship, makes a rajasic relinquishment and does not gain its fruit.",
+    "situations": ["lack_of_motivation", "fear_anxiety"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Giving up action only because it is painful, fearing bodily strain, is rajasic and does not bring liberation, the fruit of true relinquishment."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "One who gives up the duties of their stage of life because they need hard-won wealth and tire body and mind, hoping to focus on knowledge alone, makes a rajasic relinquishment."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.9": {
+    "context": "Krishna describes sattvic relinquishment: doing one's duty while giving up attachment and its fruit.",
+    "english": "When a prescribed action is done simply because it ought to be done, Arjuna, giving up attachment and its fruit, that relinquishment is held to be sattvic.",
+    "situations": ["purpose_meaning", "lack_of_motivation"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Doing the regular duty with the thought 'this must be done', giving up attachment and fruit, is sattvic relinquishment; Krishna's words show that even regular rites have fruits."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Doing the regular and occasional duties of one's station as worship of me, an end in itself, giving up 'mine' and the fruit, is sattvic relinquishment."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.10": {
+    "context": "Krishna describes the true relinquisher: neither averse to unpleasant work nor attached to pleasant work.",
+    "english": "The relinquisher, filled with sattva, wise and free of doubt, neither dislikes unpleasant work nor clings to pleasant work.",
+    "situations": ["lack_of_motivation", "temptation_self_control", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "They do not hate desire-driven action, which leads to rebirth, nor become attached to regular action, though it leads to liberation through purity of mind and knowledge."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Knowing reality as it is and free of doubt, the one who gives up attachment, fruit and doership neither hates actions with unwanted results nor clings to those with wanted ones."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.11": {
+    "context": "Krishna says no embodied being can give up action entirely; the true relinquisher gives up its fruit.",
+    "english": "It is not possible for an embodied being to give up actions entirely; but one who gives up the fruit of action is called a relinquisher.",
+    "situations": ["purpose_meaning", "lack_of_motivation"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "One who identifies with the body cannot give up action completely; for such a person, giving up the fruit while acting is relinquishment."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "While one has a body, actions like eating and drinking cannot be avoided, nor the great sacrifices that go with them; one who gives up their fruit is the true relinquisher."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "No other meaning of relinquishment is fitting."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.12": {
+    "context": "Krishna says action brings unwanted, wanted or mixed fruit after death, but not for those who have renounced.",
+    "english": "Unwanted, wanted and mixed: the fruit of action is of three kinds, and it comes after death to those who have not relinquished, but never to those who have renounced.",
+    "situations": ["purpose_meaning", "ageing_death_impermanence"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Hell and animal births are unwanted, divine births wanted, and human births mixed; these fruits, born of ignorance like a conjuror's illusion, come to those who have not renounced."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Hell, heaven, and mixed fruits such as children, cattle and food come to those who have not given up doership, 'mine' and the fruit, but never to those who have."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This praises relinquishment."}
+    ],
+    "safety_flags": ["death", "renunciation"], "review_status": "draft"
+  },
+  "BG.18.13": {
+    "context": "Krishna introduces the five factors behind every action, taught in the Sankhya doctrine (18.13-18.15).",
+    "english": "Learn from me, mighty-armed one, the five causes for the accomplishment of all actions, as taught in the Sankhya doctrine.",
+    "situations": ["purpose_meaning", "ego_pride_envy"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Sāṅkhya here is the Vedānta, where what is to be known is set out; it ends all action, and it names these five causes of every action."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "'Sāṅkhya' means the understanding drawn from the Veda; in its settled view, these five factors bring every action about."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Sāṅkhya' here means the established doctrine of knowledge."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.14": {
+    "context": "Krishna names the five factors: the body, the doer, the instruments, the various efforts, and the divine.",
+    "english": "The seat of action, the doer, the various instruments, the many kinds of effort, and fifth, the divine.",
+    "situations": ["purpose_meaning", "ego_pride_envy", "failure_setback"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The seat is the body; the doer is the experiencer defined by adjuncts; the instruments are the senses; the efforts are the activities of the vital breaths; and the divine is the presiding deity of each sense."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The seat is the body; the doer is the individual self, a knower; the 'divine', fifth among the causes, is the Supreme Self, the inner controller."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The doer is Viṣṇu, the doer of all; the seat is the body and the like, the instruments are the senses, and the efforts are actions of hand and mind."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.15": {
+    "context": "Krishna says these five factors are behind every action, right or wrong, of body, speech or mind.",
+    "english": "Whatever action a person undertakes with body, speech or mind, whether right or wrong, these five are its causes.",
+    "situations": ["purpose_meaning", "ego_pride_envy"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Whatever a person does with body, speech or mind, right or wrong, even blinking and breathing, these five are its causes."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.16": {
+    "context": "Krishna says one who sees the self alone as the doer does not see truly.",
+    "english": "That being so, one who, through lack of understanding, sees the self alone as the doer, does not see, being of poor understanding.",
+    "situations": ["ego_pride_envy", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "When action is done by these five, one who, through ignorance, thinks 'I alone am the doer' does not see rightly."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Since the self's doership depends on the Supreme Self's consent, one who sees the self alone as the doer has a mistaken understanding."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Alone' (kevala) means without activity of its own: the self acts only because the Lord acts."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.17": {
+    "context": "Krishna says one free of the sense of doership and untainted is not bound, even in killing; the words are spoken on the battlefield.",
+    "english": "One who is free of the sense of 'I am the doer', whose understanding is not tainted, even if they kill these people, does not kill and is not bound.",
+    "situations": ["ego_pride_envy", "conflict_of_duties"], "life_stages": ["householder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "One refined by scripture, teacher and reasoning, who knows 'the five factors act, I am only their witness', is not tainted, and even killing, does not kill."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "One who, reflecting that the Supreme Person is the doer, has no thought 'I am doing this', and whose understanding is not tainted by thinking the fruit is theirs, is not bound."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Praises this knowledge; one who still has a slight sense of doership is slightly bound."}
+    ],
+    "safety_flags": ["war", "death", "under18_hold"], "review_status": "draft"
+  },
+  "BG.18.18": {
+    "context": "Krishna names the components that prompt and make up action (18.18-18.19).",
+    "english": "Knowledge, the object of knowledge and the knower are the threefold impulse to action; the instrument, the action and the doer are the threefold basis of action.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Knowledge, the known and the knower together prompt all action; instrument, action and doer are where action rests."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The Vedic injunction to act involves knowledge of the duty, the duty to be known, and the one who knows it; the duty itself is made up of instrument, action and doer."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.19": {
+    "context": "Krishna says knowledge, action and the doer each come in three kinds according to the gunas (18.19-18.28).",
+    "english": "Knowledge, action and the doer are said, in the account of the gunas, to be of three kinds each, according to the gunas. Hear about these as they are.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Each of these is of three kinds, by the difference of sattva and the rest; 'only' shows there is no class apart from the gunas."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Knowledge of the duty, the duty performed and the one who performs it are each threefold by the gunas."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.20": {
+    "context": "Krishna describes sattvic knowledge: seeing the one imperishable reality in all beings.",
+    "english": "The knowledge by which one sees in all beings one imperishable reality, undivided among the divided, know that knowledge to be sattvic.",
+    "situations": ["relationships_forgiveness", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The knowledge that sees one self, unchanging, in all beings from the unmanifest to plants, undivided like space in all bodies, is sattvic."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The knowledge that sees, in beings divided by role and stage of life, one self of the nature of knowledge, undivided, is sattvic."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The one reality is Viṣṇu."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.21": {
+    "context": "Krishna describes rajasic knowledge: seeing beings as wholly separate, each a different kind.",
+    "english": "But the knowledge that sees in all beings many separate realities, of different kinds, each apart from the others, know that knowledge to be rajasic.",
+    "situations": ["relationships_forgiveness", "ego_pride_envy"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The knowledge that takes each body's self to be different, with different characteristics, is rajasic."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The knowledge that takes selves to be as different as the bodies they inhabit, white or tall, and so fit for different rewards, is rajasic."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.22": {
+    "context": "Krishna describes tamasic knowledge: clinging to one small thing as if it were everything.",
+    "english": "But the knowledge that clings to one single thing as if it were the whole, without reason, missing the truth and narrow, is called tamasic.",
+    "situations": ["ego_pride_envy", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Knowledge that clings to one effect, such as the body or an image, as if it were everything, as the naked ascetics take the self to be body-sized, is tamasic."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Knowledge attached to one trifling act, such as worship of ghosts and spirits, as if it brought every reward, without real basis and missing the truth, is tamasic."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.23": {
+    "context": "Krishna describes sattvic action: done as duty, without attachment, attraction, aversion or desire for reward.",
+    "english": "Action that is prescribed, done without attachment, without attraction or aversion, by one who does not crave its fruit, is called sattvic.",
+    "situations": ["purpose_meaning", "success_wealth"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Regular action, without attachment, not done from attraction or aversion, by one who does not thirst for the fruit, is sattvic."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Action suited to one's station, free of attachment to doership, not done from love of fame or fear of disgrace, without seeking fruit, is sattvic."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.24": {
+    "context": "Krishna describes rajasic action: done with great strain, for desires, or with ego.",
+    "english": "But action done by one who craves desires, or with ego, with great strain, is called rajasic.",
+    "situations": ["ego_pride_envy", "success_wealth"], "life_stages": ["student", "householder", "elder"], "aims": ["artha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'With ego' is said in contrast to ordinary people without vanity, not to the knower of truth, who never acts craving desires or with great strain."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Action done for its fruit and with the conceit 'I alone am doing this great labour' is rajasic."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.25": {
+    "context": "Krishna describes tamasic action: begun in delusion, heedless of consequences, loss, harm or one's own capacity.",
+    "english": "Action undertaken out of delusion, without regard to consequences, loss, harm to others, or one's own capacity, is called tamasic.",
+    "situations": ["temptation_self_control", "anger_resentment"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Action begun without regard to its consequences, to the loss of strength or wealth it causes, to harm to living beings, or to whether one can finish it, is tamasic."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Action begun without weighing the suffering that follows, the loss of wealth, harm to beings, or one's ability to finish it, out of not knowing that the Supreme Person is the doer, is tamasic."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.26": {
+    "context": "Krishna describes the sattvic doer: unattached, steady, enthusiastic and unmoved by success or failure.",
+    "english": "A doer who is free of attachment, does not talk of 'I', is full of steadiness and enthusiasm, and is unchanged by success and failure, is called sattvic.",
+    "situations": ["failure_setback", "success_wealth", "lack_of_motivation", "ego_pride_envy"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Free of attachment, not given to saying 'I', with steadiness and zeal, unchanged whether the work succeeds or fails: such a doer is sattvic."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Steadiness is bearing the unavoidable hardships until the work is done; enthusiasm is an eager mind; such a doer is unchanged by victory or defeat in tasks such as battle."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.27": {
+    "context": "Krishna describes the rajasic doer: passionate, greedy, harmful, impure and swept by joy and grief.",
+    "english": "A doer who is passionate, craves the fruits of action, is greedy, harmful and impure, and is swept by joy and grief, is called rajasic.",
+    "situations": ["temptation_self_control", "success_wealth", "anger_resentment"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Passionate, wanting fruits, greedy for others' wealth or unwilling to give one's own, harmful to others, impure, and swayed by joy and grief: such a doer is rajasic."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Seeking fame and fruits, unwilling to spend what the work needs, getting work done by harming others, and elated or downcast by victory or defeat."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.28": {
+    "context": "Krishna describes the tamasic doer: undisciplined, stubborn, deceitful, lazy, despondent and procrastinating.",
+    "english": "A doer who is undisciplined, coarse, stubborn, deceitful, malicious, lazy, despondent and procrastinating is called tamasic.",
+    "situations": ["lack_of_motivation", "ego_pride_envy"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Undisciplined, unrefined like a child, unbending, deceitful, divisive, idle even in what must be done, always despondent, and procrastinating: such a doer is tamasic."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Unfit for scriptural action, untaught, slow to begin, drawn to harmful rites, deceitful, sluggish even in work begun, easily discouraged, and slow to finish."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Reads 'dīrghasūtrī' not as procrastinating but as one who keeps bringing up another's old faults."}
+    ],
+    "safety_flags": ["distress_gentle"], "review_status": "draft"
+  },
+  "BG.18.29": {
+    "context": "Krishna turns to understanding and fortitude, each of three kinds according to the gunas (18.29-18.35).",
+    "english": "Now hear, Arjuna, the threefold division of understanding and of fortitude according to the gunas, explained fully and separately.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Hear the threefold difference of understanding and fortitude by the gunas; Arjuna is called Dhanañjaya because he won great wealth in his conquests."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Understanding is discerning, decisive knowledge; fortitude is the power to hold to a task once begun despite obstacles."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.30": {
+    "context": "Krishna describes sattvic understanding: knowing what to do and avoid, what binds and what frees.",
+    "english": "The understanding that knows when to act and when to refrain, what should and should not be done, what is to be feared and what is not, and what binds and what frees, son of Pritha, is sattvic.",
+    "situations": ["conflict_of_duties", "fear_anxiety", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Engagement is the path of action, which binds; withdrawal is the path of renunciation, which frees; sattvic understanding knows these, what to do and avoid, and what to fear and not."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Engagement is dharma that brings prosperity; withdrawal is dharma that brings liberation; sattvic understanding knows both and what is to be done in each place, time and situation."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.31": {
+    "context": "Krishna describes rajasic understanding: unable to tell right from wrong clearly.",
+    "english": "The understanding by which one knows wrongly what is dharma and what is not, what should and should not be done, son of Pritha, is rajasic.",
+    "situations": ["conflict_of_duties", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Understanding that does not decide rightly between what scripture enjoins and forbids, or what is to be done and avoided, is rajasic."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Understanding that does not rightly know the two kinds of dharma and their opposites, or what is to be done in each situation, is rajasic."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Rajasic understanding is not reliably correct; if it were always wrong, it would not differ from tamasic understanding."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.32": {
+    "context": "Krishna describes tamasic understanding: covered in darkness, it takes wrong for right and sees everything backwards.",
+    "english": "The understanding which, covered by darkness, takes adharma for dharma and sees all things in reverse, son of Pritha, is tamasic.",
+    "situations": ["conflict_of_duties", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Understanding covered by tamas takes the forbidden to be enjoined and sees everything knowable the wrong way round."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Tamasic understanding thinks adharma is dharma and dharma adharma, the real unreal and the unreal real, the highest lower and the lower highest."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.33": {
+    "context": "Krishna describes sattvic fortitude: unwavering steadiness that governs mind, breath and senses through yoga.",
+    "english": "The unwavering fortitude by which, through yoga, one controls the activities of mind, breath and senses, son of Pritha, is sattvic.",
+    "situations": ["temptation_self_control", "lack_of_motivation", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The fortitude that, never wavering, holds the mind, breath and senses back from going against scripture is sattvic."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Yoga here is worship of the Lord as the means to liberation; the fortitude that keeps mind, breath and senses directed to that goal is sattvic."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.34": {
+    "context": "Krishna describes rajasic fortitude: holding to dharma, pleasure and wealth for the sake of their rewards.",
+    "english": "But the fortitude by which one holds to dharma, pleasure and wealth, Arjuna, craving their fruits out of attachment, son of Pritha, is rajasic.",
+    "situations": ["success_wealth", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "artha", "kama"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The fortitude by which one holds dharma, pleasure and wealth always in mind as things to pursue, wanting their fruit in each case, is rajasic."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The fortitude by which one seeking fruits, out of strong attachment, keeps the mind and senses set on dharma, pleasure and wealth is rajasic."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.35": {
+    "context": "Krishna describes tamasic fortitude: stubbornly clinging to sleep, fear, grief, despondency and arrogance.",
+    "english": "The fortitude by which a foolish person does not let go of sleep, fear, grief, despondency and arrogance, son of Pritha, is tamasic.",
+    "situations": ["grief_loss", "fear_anxiety", "lack_of_motivation", "ego_pride_envy"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The fortitude of a foolish person who keeps holding on to sleep, fear, grief, despondency and the intoxication of pleasures, as if they were duties, is tamasic."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The fortitude by which the foolish keep the mind and senses fixed on sleep and on the intoxication of pleasures, and on the things that bring fear, grief and despondency, is tamasic."}
+    ],
+    "safety_flags": ["distress_gentle"], "review_status": "draft"
+  },
+  "BG.18.36": {
+    "context": "Krishna turns to happiness, which is also of three kinds (18.36-18.39).",
+    "english": "Now hear from me, best of the Bharatas, about the three kinds of happiness: the happiness one comes to enjoy through practice, in which sorrow comes to an end,",
+    "situations": ["purpose_meaning", "grief_loss"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Hear the three kinds of happiness: that which one comes to delight in through practice, and in which one surely reaches the end of sorrow."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "All the knowledge, action and doers described serve happiness, which is also threefold; in the highest, long practice brings complete delight and the end of all worldly sorrow."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.37": {
+    "context": "Krishna describes sattvic happiness: like poison at first but like nectar in the end.",
+    "english": "That which is like poison at first but like nectar in the end, born of the clarity of one's own understanding, is called sattvic happiness.",
+    "situations": ["lack_of_motivation", "temptation_self_control", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "At first, when knowledge, dispassion and meditation begin, it is like poison because of the great effort; when they ripen, it is like nectar; it is born of a clear understanding of the self."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "At the start of yoga it feels like poison, being hard work and the self not yet experienced; as practice ripens and the self shines forth, it becomes like nectar."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.38": {
+    "context": "Krishna describes rajasic happiness: like nectar at first but like poison in the end.",
+    "english": "That which arises from the contact of the senses with their objects, like nectar at first but like poison in the end, is held to be rajasic happiness.",
+    "situations": ["temptation_self_control", "success_wealth"], "life_stages": ["student", "householder", "elder"], "aims": ["kama", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Pleasure from contact of senses and objects is like nectar at first but like poison in the end, since it wastes strength, vigour, beauty, wisdom and wealth and leads to wrongdoing."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "While enjoyed it seems like nectar; but once the hunger that made it pleasant is gone, and since it leads to hell and the like, it turns out like poison drunk."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.39": {
+    "context": "Krishna describes tamasic happiness: deluding from beginning to end, born of sleep, sloth and carelessness.",
+    "english": "The happiness that deludes the self both at first and in the end, arising from sleep, laziness and carelessness, is called tamasic.",
+    "situations": ["lack_of_motivation", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Happiness that confuses the self at the start and afterwards, arising from sleep, laziness and carelessness, is tamasic."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Happiness that clouds true knowledge both while enjoyed and afterwards, arising from sleep, laziness and carelessness, is tamasic."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.40": {
+    "context": "Krishna says no being anywhere is free of the three gunas.",
+    "english": "There is no being on earth, or in heaven among the gods, that is free of these three gunas born of nature.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "No being, among humans on earth or gods in heaven, living or not, is free of these three gunas born of nature."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "No being bound up with prakṛti, from Brahmā down to plants, on earth or in heaven, is free of these three gunas."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.41": {
+    "context": "Krishna says the duties of the four varnas are divided according to the gunas of each one's nature (18.41-18.48).",
+    "english": "The duties of brahmins, kshatriyas and vaishyas, and of shudras too, Arjuna, are divided according to the gunas that arise from their own nature.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Shudras are named outside the compound because, though also a class, they are not entitled to the Veda; the duties are divided from one another by the gunas that arise from nature."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "'Nature' here is the past karma that causes birth as a brahmin and so on; from it arise the gunas, with sattva dominant over rajas and tamas in the brahmin."}
+    ],
+    "safety_flags": ["caste_gender"], "review_status": "draft"
+  },
+  "BG.18.42": {
+    "context": "Krishna lists the qualities he describes as the natural work of a brahmin.",
+    "english": "Calm, self-restraint, austerity, purity, patience, honesty, knowledge, insight and faith are the work of a brahmin, born of their nature.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Calm and self-restraint are as explained before; faith means trust in the teaching of scripture; these are the duties of the brahmin class, born of their nature."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Calm restrains the outer senses and self-restraint the mind; patience is an unshaken mind even when others cause pain; honesty is showing outwardly what is in one's mind."}
+    ],
+    "safety_flags": ["caste_gender"], "review_status": "draft"
+  },
+  "BG.18.43": {
+    "context": "Krishna lists the qualities he describes as the natural work of a kshatriya, including not fleeing from battle.",
+    "english": "Courage, vigour, steadiness, skill, not fleeing in battle, generosity and leadership are the work of a kshatriya, born of their nature.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Steadiness keeps one from sinking in any situation; skill is acting without confusion when tasks arise suddenly; and one does not turn away in battle."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Courage is the ability to enter battle fearlessly; steadiness is finishing a task despite obstacles; not fleeing means not turning back even when sure of one's own death."}
+    ],
+    "safety_flags": ["war", "caste_gender"], "review_status": "draft"
+  },
+  "BG.18.44": {
+    "context": "Krishna names farming, cattle-keeping and trade as the vaishya's natural work, and service as the shudra's.",
+    "english": "Farming, tending cattle and trade are the work of a vaishya, born of their nature; and work that consists of service is the shudra's, also born of their nature.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Farming is tilling the land, tending cattle is herding, and trade is buying and selling; these are the vaishya's work."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Trade is buying and selling to accumulate wealth; the shudra's natural work is service to the three preceding varnas."}
+    ],
+    "safety_flags": ["caste_gender"], "review_status": "draft"
+  },
+  "BG.18.45": {
+    "context": "Krishna says each person reaches perfection by devotion to their own work, and promises to explain how.",
+    "english": "Each devoted to their own work, a person attains perfection. Hear how one devoted to their own work finds perfection.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The perfection meant is fitness of body and senses for steadfastness in knowledge, once impurity has been worn away by doing one's own duties."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Devoted to their own work as described, a person attains perfection, meaning the highest state."}
+    ],
+    "safety_flags": ["caste_gender"], "review_status": "draft"
+  },
+  "BG.18.46": {
+    "context": "Krishna says one reaches perfection by worshipping, through one's own work, the source of all beings.",
+    "english": "By worshipping, through their own work, the one from whom all beings arise and by whom all this is pervaded, a person attains perfection.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Beings arise from the Lord, the inner controller, who pervades the world; worshipping him through the duty of one's varna, one gains perfection."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Worshipping me, present as the inner self of Indra and the other gods, through one's own work, one gains by my grace the perfection of reaching me."}
+    ],
+    "safety_flags": ["caste_gender"], "review_status": "draft"
+  },
+  "BG.18.47": {
+    "context": "Krishna repeats that one's own dharma, though imperfect, is better than another's well performed (compare 3.35).",
+    "english": "Better one's own dharma, though imperfect, than another's dharma well performed. Doing the work set by one's own nature, one incurs no fault.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "One's own duty is better even when lacking; as poison does not harm the worm born in it, work set by one's nature brings no sin."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "One's own dharma here is karma yoga as worship of me, which comes easily to one bound up with nature; even imperfect, it is better than the path of knowledge suited to those who have mastered the senses."}
+    ],
+    "safety_flags": ["caste_gender"], "review_status": "draft"
+  },
+  "BG.18.48": {
+    "context": "Krishna says one should not give up the work one is born to, since every undertaking has some fault.",
+    "english": "Do not give up the work you were born to, son of Kunti, even if it has faults; for all undertakings are clouded by fault, as fire is by smoke.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Work one is born with should not be abandoned even though faulty, being made of the three gunas; every undertaking, one's own duty or another's, is covered by fault."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Because it is natural, easy and less prone to error, do not give it up even if painful; even one fit for the path of knowledge should practise karma yoga, since every undertaking, of action or knowledge, carries pain like smoke."}
+    ],
+    "safety_flags": ["caste_gender"], "review_status": "draft"
+  },
+  "BG.18.49": {
+    "context": "Krishna begins describing how one reaches the highest state: through non-attachment and renunciation (18.49-18.55).",
+    "english": "One whose understanding is unattached everywhere, who has mastered themselves and is free of craving, reaches through renunciation the supreme perfection of freedom from action.",
+    "situations": ["temptation_self_control", "purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Unattached to son, wife and other occasions of attachment, with the mind mastered, and free of craving for body, life and pleasures."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Unattached to fruits, and free of desire for one's own doership by reflecting that the Supreme Person is the doer, one who acts with renunciation (understood as relinquishment) reaches the highest perfection, the culmination of meditation."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The perfection of freedom from action is the perfection of yoga whose fruit is freedom from action."}
+    ],
+    "safety_flags": ["renunciation", "under18_hold"], "review_status": "draft"
+  },
+  "BG.18.50": {
+    "context": "Krishna promises to explain briefly how one who has reached perfection attains Brahman.",
+    "english": "Learn from me briefly, son of Kunti, how one who has reached perfection attains Brahman, which is the highest culmination of knowledge.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The perfection reached is fitness of body and senses for steadfastness in knowledge, born of the Lord's grace after worshipping him through one's own work."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Having reached the perfection of meditation produced by karma yoga practised daily until death; 'the highest culmination of knowledge' further describes Brahman."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Learn the means by which one who has reached perfection attains Brahman; that perfection is the highest culmination of knowledge."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.51": {
+    "context": "Krishna describes the discipline that leads to Brahman: purified understanding, self-control and letting go of likes and dislikes (18.51-18.53).",
+    "english": "Endowed with a purified understanding, controlling oneself with steadiness, turning away from sound and the other objects of the senses, and casting aside attraction and aversion,",
+    "situations": ["temptation_self_control", "anger_resentment", "purpose_meaning"], "life_stages": ["elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "With an understanding free of illusion, controlling body and senses with fortitude, and giving up sense objects except those needed only to sustain the body."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "With understanding of the self as it truly is, making the mind fit for yoga by turning it from objects, keeping sense objects at a distance and casting off the attraction and aversion they cause, and living in solitude."}
+    ],
+    "safety_flags": ["renunciation", "under18_hold"], "review_status": "draft"
+  },
+  "BG.18.52": {
+    "context": "Krishna continues: living in solitude, eating lightly and practising meditation with dispassion.",
+    "english": "living in solitude, eating lightly, with speech, body and mind controlled, always intent on the yoga of meditation, taking refuge in dispassion,",
+    "situations": ["temptation_self_control", "purpose_meaning"], "life_stages": ["elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Given to frequenting solitary places such as forests, riverbanks and mountain caves, and to eating lightly; both remove faults such as sleepiness and bring clarity of mind."}
+    ],
+    "safety_flags": ["renunciation", "under18_hold"], "review_status": "draft"
+  },
+  "BG.18.53": {
+    "context": "Krishna completes the description: free of ego, desire, anger and possessions, one becomes fit for Brahman.",
+    "english": "letting go of ego, force, arrogance, desire, anger and possessions, free of the sense of 'mine' and at peace, one becomes fit to attain the state of Brahman.",
+    "situations": ["ego_pride_envy", "anger_resentment", "temptation_self_control", "success_wealth"], "life_stages": ["elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'Force' means strength joined with desire and passion, not bodily strength, which being natural cannot be given up; arrogance follows elation and leads one to transgress dharma."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The state of Brahman means abiding in Brahman: having the mind always fixed on it."}
+    ],
+    "safety_flags": ["renunciation", "under18_hold"], "review_status": "draft"
+  },
+  "BG.18.54": {
+    "context": "Krishna says one who has attained the state of Brahman is serene, free of grief and craving, and gains supreme devotion.",
+    "english": "Having attained the state of Brahman, serene within, one neither grieves nor craves; equal towards all beings, one gains supreme devotion to me.",
+    "situations": ["grief_loss", "temptation_self_control", "relationships_forgiveness", "purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Such a person does not grieve over any lack or any failing of their own, and does not crave, since craving for what is not yet gained is impossible for a knower of Brahman."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "One whose self is revealed as unlimited knowledge, wholly subordinate to me (as in 7.5), untainted by afflictions and karma, and regarding no being as other than mine."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.55": {
+    "context": "Krishna says through devotion one comes to know him truly and then enters into him.",
+    "english": "Through devotion one comes to know me truly, how great I am and who I am; then, having known me truly, one enters into me.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "One knows me both as I appear spread out through limiting adjuncts and as I truly am, free of them: non-dual pure consciousness, ageless, fearless and deathless."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "One knows me as I am in essence, nature, qualities and glories; after that knowledge, through devotion, one enters into me."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.56": {
+    "context": "Krishna says even one fully engaged in action, if relying on him, reaches the eternal state by his grace.",
+    "english": "Even while always doing all kinds of action, one who takes refuge in me reaches, by my grace, the eternal, imperishable state.",
+    "situations": ["purpose_meaning", "conflict_of_duties"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Reads 'all actions' as including even prohibited ones: one who has offered their whole being to me, Vāsudeva, reaches the eternal state by the Lord's grace."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Not only regular and occasional duties but even desire-driven acts, done by one who has placed doership and the rest in me, lead by my grace to the eternal state, which is reaching me."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Having again stated the inner means, Krishna concludes."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.57": {
+    "context": "Krishna urges Arjuna to offer all his actions to him and keep his mind always on him.",
+    "english": "Mentally offering all actions to me, holding me as the highest, relying on the yoga of understanding, keep your mind always on me.",
+    "situations": ["purpose_meaning", "fear_anxiety"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "With a discerning mind, offer all actions to me as taught in 9.27, and resort to the yoga of understanding, a concentrated mind."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Knowing the self belongs to me and is governed by me, as in 3.30, place all actions, with their doership and the one worshipped, in me, regarding me alone as the goal."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.58": {
+    "context": "Krishna tells Arjuna that with his mind on Krishna he will overcome every difficulty, but ego that refuses to listen will ruin him.",
+    "english": "With your mind on me, you will cross every difficulty by my grace; but if out of ego you will not listen, you will be lost.",
+    "situations": ["fear_anxiety", "ego_pride_envy", "failure_setback"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "You will cross all the hard-to-cross causes of worldly life; but if, thinking 'I am learned', you do not heed my words, you will come to ruin."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "If, thinking 'I alone know what should and should not be done', you do not listen to me, you will be lost."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.59": {
+    "context": "On the battlefield, Krishna tells Arjuna that his refusal to fight is futile, because his own nature will drive him to it.",
+    "english": "If, relying on ego, you think 'I will not fight', that resolve of yours is in vain: your own nature will compel you.",
+    "situations": ["ego_pride_envy", "conflict_of_duties"], "life_stages": ["householder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Your resolve not to fight is false, because your nature, the temperament of a kshatriya, will drive you."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Ego here is presuming to be independent in knowing what is good for oneself and disregarding my command; that resolve will fail, because your nature will drive you into battle."}
+    ],
+    "safety_flags": ["war", "under18_hold"], "review_status": "draft"
+  },
+  "BG.18.60": {
+    "context": "Krishna adds that Arjuna's warrior nature will make him do the fighting he now refuses out of confusion.",
+    "english": "Bound by your own action, born of your nature, son of Kunti, what you do not wish to do out of delusion you will do, even against your will.",
+    "situations": ["conflict_of_duties", "lack_of_motivation"], "life_stages": ["householder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Bound by your own action, such as the courage described earlier, you will do that work helplessly, under another's control, though from lack of discernment you do not want to."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Courage is the kshatriya's natural work; bound by it and unable to bear being overpowered by enemies, you yourself will fight the battle you now refuse out of ignorance; all beings are governed by me, the Lord of all."}
+    ],
+    "safety_flags": ["war", "under18_hold"], "review_status": "draft"
+  },
+  "BG.18.61": {
+    "context": "Krishna says the Lord dwells in the heart of every being and moves all beings by his power.",
+    "english": "The Lord dwells in the heart of all beings, Arjuna, making all beings turn by his power, as if they were mounted on a machine.",
+    "situations": ["purpose_meaning", "ego_pride_envy"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The Lord, Nārāyaṇa, dwells in the region of the heart; 'Arjuna' (white) here signals one of pure mind, citing the Ṛgveda; he makes beings revolve by māyā."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Vāsudeva, the controller of all, dwells in the heart, where the knowledge behind all action and restraint arises, moving beings mounted on the machine of body and senses that he himself made."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.62": {
+    "context": "Krishna urges Arjuna to take refuge in the Lord with his whole being, promising peace and the eternal abode.",
+    "english": "Take refuge in him alone with your whole being, Arjuna; by his grace you will reach supreme peace and the eternal abode.",
+    "situations": ["fear_anxiety", "grief_loss", "purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Take refuge in the Lord wholeheartedly to remove the pain of worldly life; by his grace you will gain supreme peace and my, Viṣṇu's, highest state."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Take refuge in me, the ruler of all, who out of love for those who depend on me stands as your charioteer, and follow my instruction 'do this'."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Krishna speaks of himself in the third person, as Bhīma does when speaking to Droṇa."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.63": {
+    "context": "Having finished his teaching, Krishna invites Arjuna to reflect on it fully and then choose for himself.",
+    "english": "Thus I have taught you wisdom more secret than all secrets. Reflect on it fully, and then do as you choose.",
+    "situations": ["conflict_of_duties", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "This most secret knowledge has been told by me, the all-knowing Lord; having reflected on the whole teaching, do as you wish."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "All the knowledge seekers of liberation need, of karma yoga, the path of knowledge and bhakti yoga, has been told; reflecting on it, follow whichever suits your fitness."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.64": {
+    "context": "Krishna says he will repeat his most secret, highest teaching because Arjuna is dearly loved.",
+    "english": "Hear once more my supreme word, the most secret of all. You are dearly loved by me, so I will tell you what is for your good.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Hear again my supreme word, though often said; I speak not from fear or for gain but because you are firmly dear to me."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Bhakti yoga, being the best, was already called most secret (9.1); hear again my supreme word about it."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.65": {
+    "context": "Krishna gives his most secret teaching: devotion to him, with the promise that Arjuna will come to him.",
+    "english": "Fix your mind on me, be devoted to me, worship me, bow down to me. You will come to me; I promise you truly, for you are dear to me.",
+    "situations": ["purpose_meaning", "fear_anxiety"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Keep your mind on me, worship me, and offer even your salutation to me alone; living thus, with means, end and purpose offered to Vāsudeva, you will come to me; I promise this truly."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Citing Śvetāśvatara Upaniṣad 3.8 ('knowing him thus, one becomes immortal here; there is no other path'), the knowing, meditation and worship enjoined there is a continuous remembrance as vivid as seeing."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.66": {
+    "context": "Krishna's culminating assurance: take refuge in him alone, and he will free Arjuna from all sin, so he need not grieve.",
+    "english": "Let go of all dharmas and take refuge in me alone. I will free you from all sins; do not grieve.",
+    "situations": ["grief_loss", "fear_anxiety", "failure_setback", "purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'All dharmas' includes adharma, since freedom from all action is meant, citing the Kaṭha Upaniṣad and the Mahābhārata line 'give up both dharma and adharma'."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Keep practising karma, knowledge and bhakti yoga as loving worship, but give them up in the sense of relinquishing fruit, possessiveness and doership, taking me alone as doer, object of worship, goal and means."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Giving up dharma means giving up its fruit; otherwise how could Krishna command Arjuna to fight? As 18.11 says, one who gives up the fruit of action is the true relinquisher."}
+    ],
+    "safety_flags": ["renunciation"], "review_status": "draft"
+  },
+  "BG.18.67": {
+    "context": "Krishna tells Arjuna who should not be taught this teaching.",
+    "english": "This is never to be told by you to one without austerity, or without devotion, or to one unwilling to listen, or to one who finds fault with me.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "This teaching, given for your good to end worldly existence, should not be told to one without austerity, nor to an ascetic lacking devotion to teacher and God, nor to a devotee unwilling to listen."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Do not tell it to one who has not practised austerity, nor ever to one not devoted to you as teacher and to me, nor to a devotee unwilling to listen, nor to one who resents me."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.68": {
+    "context": "Krishna praises those who pass this teaching on to his devotees.",
+    "english": "One who teaches this supreme secret to my devotees, having shown the highest devotion to me, will without doubt come to me.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Whoever passes on this text, the dialogue of Keśava and Arjuna, to those devoted to me, establishing both its words and meaning as I have for you, will come to me."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Whoever explains this supreme secret among my devotees, with supreme devotion to me, comes to me; there is no doubt of it."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.69": {
+    "context": "Krishna says no one is dearer to him than one who shares this teaching.",
+    "english": "No one among people does more to please me than they do, and no one on earth will ever be dearer to me than they are.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Among people now living, none does greater service to me than one who hands down this teaching, and none in the future will be dearer."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "None before and none after; the unfit are mentioned first (18.67) because teaching them is even worse than failing to teach the fit."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.70": {
+    "context": "Krishna says studying this dialogue is itself a form of worship.",
+    "english": "And whoever studies this sacred dialogue of ours, by them I would be worshipped through the sacrifice of knowledge: that is my view.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Among sacrifices, ritual, recited, whispered and mental, the sacrifice of knowledge is best, being mental; studying the Gita is such a sacrifice."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "By merely studying this dialogue, I am worshipped with the sacrifice of knowledge described in it."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.71": {
+    "context": "Krishna says even one who simply listens with faith is freed and reaches the worlds of the righteous.",
+    "english": "And the person who simply listens, with faith and without finding fault, they too, freed, will reach the auspicious worlds of those who do good deeds.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'Even' implies how much more so for one who understands its meaning; freed from sin, the listener reaches the worlds of those who perform rites such as the agnihotra."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Merely by hearing, one is freed from the sins that obstruct devotion and reaches the company of my devotees who do good."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.72": {
+    "context": "Krishna asks Arjuna whether he has listened closely and whether his confusion is gone.",
+    "english": "Have you heard this with an attentive mind, son of Pritha? Has your confusion born of ignorance been destroyed, Arjuna?",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Have you grasped what I said with full attention, and is your natural lack of discernment, born of ignorance, gone, which is why this scripture was heard?"},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Is the ignorance gone that confused you into saying 'I will not fight'?"}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.73": {
+    "context": "Arjuna replies that his confusion is gone and his doubts resolved, and that he will act on Krishna's teaching.",
+    "english": "My delusion is gone, Krishna; by your grace I have regained clear understanding. I stand firm, my doubts gone. I will do as you say.",
+    "situations": ["conflict_of_duties", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Destroyed is the delusion born of ignorance, cause of all worldly evil and hard to cross like the ocean; regained is the remembrance of the self, which loosens all the knots of the heart."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Delusion is wrong knowledge, taking prakṛti for the self; remembrance is knowledge of reality as it is; both changes came by your grace."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.74": {
+    "context": "Sanjaya, concluding his report to Dhritarashtra, says he has heard this wondrous dialogue.",
+    "english": "Thus I have heard this wondrous dialogue between Krishna and the great-souled son of Pritha, which makes my hair stand on end.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "I have heard this dialogue as told, most astonishing and thrilling."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Vāsudeva is the son of Vasudeva, and Pārtha the son of his father's sister, a great soul who has taken refuge at his feet."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.75": {
+    "context": "Sanjaya says that by Vyasa's grace he heard this teaching directly from Krishna.",
+    "english": "By the grace of Vyasa I heard this supreme secret, this yoga, from Krishna, the lord of yoga, himself, as he spoke it directly.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Through Vyāsa's grace, by gaining divine sight; the text itself is called yoga because yoga is its purpose; heard directly, not passed down."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Through Vyāsa's favour, gaining divine sight and hearing, I heard it directly from Krishna, the treasury of knowledge, strength, lordship, valour, power and splendour."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.76": {
+    "context": "Sanjaya tells Dhritarashtra that he rejoices again and again recalling the dialogue.",
+    "english": "O king, as I recall again and again this wondrous and holy dialogue between Krishna and Arjuna, I rejoice again and again.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The dialogue is holy because even hearing it removes sin; recalling it, I rejoice at every moment."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Recalling this holy, wondrous dialogue that I heard directly, I rejoice again and again."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.77": {
+    "context": "Sanjaya says he is filled with wonder recalling Krishna's cosmic form.",
+    "english": "And as I recall again and again that most wondrous form of Krishna, great is my amazement, O king, and I rejoice again and again.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The form meant is the universal form."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The divine form revealed to Arjuna, which I too saw directly; recalling it, my amazement grows and I rejoice again and again."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.18.78": {
+    "context": "Sanjaya's closing words: where Krishna and Arjuna are, there fortune and victory will be.",
+    "english": "Wherever there is Krishna, the lord of yoga, and wherever there is the son of Pritha, the archer, there are fortune, victory, prosperity and lasting good policy: that is my conviction.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  }
+}

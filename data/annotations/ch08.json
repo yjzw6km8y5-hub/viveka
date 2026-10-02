@@ -1,0 +1,294 @@
+{
+  "BG.8.1": {
+    "context": "Arjuna asks Krishna to explain the terms he used at the end of chapter 7 (8.1-8.2).",
+    "english": "What is that Brahman? What is the inner self? What is action, Krishna? What is said to be the realm of beings, and what is called the realm of the gods?",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Krishna planted the seeds of these questions in 7.29-7.30; Arjuna now asks them, and Krishna answers each in turn."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Arjuna asks what seekers of freedom from old age and death must know (Brahman, the inner self, action), what seekers of power must know (the realms of beings and of the gods), and who the lord of sacrifice is, for all three."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This chapter teaches what to do at the time of death and the paths that follow."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.8.2": {
+    "context": "Arjuna continues his questions, asking how Krishna can be known at the moment of death.",
+    "english": "Who is the lord of sacrifice here in this body, and how, Krishna? And how are you to be known at the hour of death by those who are self-controlled?",
+    "situations": ["ageing_death_impermanence", "purpose_meaning"], "life_stages": ["householder", "elder"], "aims": ["moksha"], "school_notes": [],
+    "safety_flags": ["death"], "review_status": "draft"
+  },
+  "BG.8.3": {
+    "context": "Krishna begins answering: he defines Brahman, the inner self and action (8.3-8.4).",
+    "english": "Brahman is the supreme Imperishable; one's own essential nature is called the inner self; and the creative offering that brings beings into existence is called action.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'The Imperishable' is the Supreme Self, as in the Upanishad's 'at the command of this Imperishable', not the syllable Om, which 8.13 calls 'the one-syllable Brahman'."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Takes 'the supreme Imperishable' here to be the individual self in its pure form, free of prakṛti, rather than the Supreme Lord."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Supreme' rules out reading 'the Imperishable' as the Veda; the 'inner self' is the soul's own enduring nature."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.8.4": {
+    "context": "Krishna completes his definitions, naming himself as the lord of sacrifice within the body.",
+    "english": "The realm of beings is perishable existence; the realm of the gods is the cosmic Person; and the lord of sacrifice is I myself, here in the body, best of the embodied.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The realm of beings is whatever is born and perishes; the realm of the gods is the Person, Hiraṇyagarbha within the sun, who supports the senses of all beings; the lord of sacrifice is the Lord within the body."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "For seekers of power, the 'realm of beings' means the refined objects of sense (sound, touch and the rest) found in the elements, which they seek and meditate on."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The realm of beings concerns embodied souls: perishable effects. Even the unmanifest undergoes a kind of change."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.8.5": {
+    "context": "Krishna answers how he is known at death: whoever remembers him at the end comes to him (8.5-8.8).",
+    "english": "Whoever leaves the body at the time of death remembering me alone comes to my state of being; there is no doubt about this.",
+    "situations": ["ageing_death_impermanence", "fear_anxiety"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Whoever dies remembering me, Viṣṇu, the Supreme Lord, reaches my nature; there is no doubt whether they will."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Whoever dies remembering me attains my nature, taking on the form of what they contemplate, just as the ancient King Bharata took on the form of the deer he was thinking of."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'My state' means existence in me, free of sorrow and full of unsurpassed bliss."}
+    ],
+    "safety_flags": ["death"], "review_status": "draft"
+  },
+  "BG.8.6": {
+    "context": "Krishna explains that one's last thought follows from what one has dwelt on through life.",
+    "english": "Whatever state of being a person remembers when leaving the body at the end, son of Kunti, to that state they go, having always been absorbed in it.",
+    "situations": ["ageing_death_impermanence", "purpose_meaning"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Whatever deity or state one thinks of at the moment of death, one reaches that alone, having practised thinking of it constantly."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The last thought arises only from what one has dwelt on before."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'At the end' guards against a misunderstanding: the remembering and the leaving of the body happen together."}
+    ],
+    "safety_flags": ["death"], "review_status": "draft"
+  },
+  "BG.8.7": {
+    "context": "Krishna draws the practical lesson: remember him always while carrying out one's duty.",
+    "english": "So at all times remember me, and fight. With your mind and intellect offered to me, you will surely come to me.",
+    "situations": ["purpose_meaning", "conflict_of_duties"], "life_stages": ["householder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Remember me always, as scripture teaches, and fight, which is to say do your own duty; with mind and intellect given to me, Vāsudeva, you will surely reach me."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Remember me every day until death, and do your duties, such as fighting and the daily and occasional rites, which keep that remembrance alive; then at the end you will reach me."}
+    ],
+    "safety_flags": ["war", "under18_hold"], "review_status": "draft"
+  },
+  "BG.8.8": {
+    "context": "Krishna says steady, undistracted meditation leads to the supreme Person.",
+    "english": "With a mind disciplined by practice and not straying elsewhere, meditating constantly, one reaches the supreme divine Person, son of Pritha.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Practice is the repeated flow of the same thought about me, unbroken by any other; with a mind so engaged, one reaches the supreme Person."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Practice is daily meditation at every time consistent with one's duties; with such a mind, one reaches me at death."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The 'divine Person' is the one who dwells in every body and plays at creating the world."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.8.9": {
+    "context": "Krishna describes the supreme Person to be meditated on at death (8.9-8.10).",
+    "english": "One who meditates on the ancient Seer, the Ruler, subtler than the subtlest, the Sustainer of all, whose form is beyond thought, radiant as the sun and beyond darkness,",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The Seer who sees all, ancient, ruler of the whole world, subtler than the subtle, who apportions the fruits of action among beings."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Subtler even than the individual self, creator of all, unlike everything else, with a divine form not made of matter."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Sustainer' means the one who supports and nourishes; he cites texts for 'Seer' meaning all-knowing."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.8.10": {
+    "context": "Krishna describes dying in yoga: mind steady, breath drawn up between the eyebrows.",
+    "english": "at the time of death, with an unmoving mind, joined with devotion and the strength of yoga, setting the life-breath fully between the eyebrows, reaches that supreme divine Person.",
+    "situations": ["ageing_death_impermanence", "purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "At death, with a mind steadied by devotion and by the strength of yoga built up through meditation, one first masters the mind in the heart and then draws the breath up to between the brows."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This is what those who have mastered the breath should do at death; those full of knowledge, devotion and detachment are liberated even without it."}
+    ],
+    "safety_flags": ["death"], "review_status": "draft"
+  },
+  "BG.8.11": {
+    "context": "Krishna introduces a brief teaching on the Imperishable, the goal of the wise.",
+    "english": "What the knowers of the Veda call the Imperishable, what ascetics free of passion enter, and for which people live a life of celibacy: that goal I will describe to you briefly.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "This is the Imperishable that the Upanishads describe as 'neither gross nor subtle', which renunciants of right vision enter."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The goal is Krishna's own nature, known through all of Vedānta, which seekers worship as the Imperishable."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This 'goal' is what seekers of liberation reach: Viṣṇu's highest state."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.8.12": {
+    "context": "Krishna describes the practice of leaving the body in yoga (8.12-8.13).",
+    "english": "Closing all the gates of the body, holding the mind in the heart, drawing the life-breath into the head, established in yogic concentration,",
+    "situations": ["ageing_death_impermanence", "purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Closing all the doors of perception and holding the mind in the lotus of the heart, one rises by the upward channel and places the breath in the crown of the head."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Withdrawing the senses and holding the mind on me, the Imperishable, in the lotus of the heart, one remains steady in yogic concentration."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "If the self leaves by any channel other than the channel of Brahman, it reaches some other place, not liberation; so all the gates must be closed."}
+    ],
+    "safety_flags": ["death"], "review_status": "draft"
+  },
+  "BG.8.13": {
+    "context": "Krishna completes the instruction: departing with Om and with him in mind leads to the highest goal.",
+    "english": "uttering Om, the one-syllable Brahman, and remembering me, whoever departs, leaving the body, reaches the highest goal.",
+    "situations": ["ageing_death_impermanence", "purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Uttering Om, the name of Brahman, and remembering me, its meaning, the one who dies reaches the highest goal."}
+    ],
+    "safety_flags": ["death"], "review_status": "draft"
+  },
+  "BG.8.14": {
+    "context": "Krishna says he is easy to reach for one who remembers him constantly.",
+    "english": "For one who remembers me constantly, day after day, with a mind that turns to nothing else, I am easy to reach, son of Pritha, for that ever-disciplined yogi.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'Constantly' means without a break, and 'day after day' means for a long time: not for six months or a year, but all one's life."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "For one who, out of great love, cannot bear to live without remembering me, I am easy to reach; it is I myself, not just my state, that they attain."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Ever-disciplined' means always using the means; 'yogi' means one whose yoga is complete."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.8.15": {
+    "context": "Krishna promises that those who reach him are not reborn into a world of sorrow.",
+    "english": "Having come to me, these great souls, who have reached the highest perfection, do not return to rebirth, the impermanent home of sorrow.",
+    "situations": ["purpose_meaning", "ageing_death_impermanence"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Rebirth is the dwelling-place of every kind of sorrow; having reached me, they do not return to it."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Great souls who know me truly and, out of love, cannot sustain themselves without me, having reached me do not return to birth, the home of all sorrow."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Praises reaching him; the reason given is that they have reached the highest perfection."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.8.16": {
+    "context": "Krishna contrasts all other worlds, even the highest, which lead back to rebirth, with reaching him.",
+    "english": "All worlds, up to the world of Brahmā, return again, Arjuna; but for one who comes to me, son of Kunti, there is no rebirth.",
+    "situations": ["purpose_meaning", "ageing_death_impermanence"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "All worlds, including Brahmā's, are subject to return; only those who reach me alone are not reborn."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "All worlds within the cosmic egg, up to Brahmā's, are places of enjoyment and power that perish, so those who reach them must fall too; but I am always the same."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.8.17": {
+    "context": "Krishna describes the vast cosmic time scale of creation and dissolution (8.17-8.19).",
+    "english": "Those who know that a day of Brahmā lasts a thousand ages, and a night of Brahmā a thousand ages, are people who truly know day and night.",
+    "situations": ["ageing_death_impermanence", "purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Those who know how time is reckoned know that Brahmā's day, and his night, each last a thousand ages."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Those who know the order of days and nights, set by my will for all beings from humans to four-faced Brahmā, know that Brahmā's day lasts a thousand cycles of the four ages."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "To establish that reaching him means no return, he describes cosmic dissolution; 'thousand' here simply means many."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.8.18": {
+    "context": "Krishna describes how all things emerge at the dawn of Brahmā's day and dissolve at nightfall.",
+    "english": "At the coming of that day, all manifest things emerge from the unmanifest; at the coming of night, they dissolve into that same thing called the unmanifest.",
+    "situations": ["ageing_death_impermanence"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The unmanifest is Prajāpati's state of sleep; when his day comes, all moving and unmoving beings appear from it."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "When Brahmā's day comes, the bodies, senses and worlds within the three worlds arise from the unmanifest state of his body, and at night they dissolve into it."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.8.19": {
+    "context": "Krishna says beings are carried helplessly through endless cycles of arising and dissolving.",
+    "english": "This same multitude of beings, coming into being again and again, dissolves helplessly at the coming of night, son of Pritha, and arises again at the coming of day.",
+    "situations": ["ageing_death_impermanence"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The same host of beings as in the previous cycle, not another, arises and dissolves again and again, not by its own will."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The same karma-bound host of beings arises and dissolves with Brahmā's days and nights; and when his hundred years end, all worlds up to his dissolve in stages into the unmanifest."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.8.20": {
+    "context": "Krishna points beyond the cycles of time to an eternal reality that never perishes (8.20-8.22).",
+    "english": "But beyond that unmanifest is another, eternal unmanifest reality, which does not perish when all beings perish.",
+    "situations": ["ageing_death_impermanence", "purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Beyond it is the Imperishable, the supreme Brahman, different in kind from the unmanifest, eternal, and not destroyed when all beings are."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Beyond non-conscious prakṛti is another reality, the self, made of knowledge, known only to itself, eternal, and not destroyed when the elements are."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This unmanifest is the Lord, reaching whom one does not return; he cites the Garuḍa Purāṇa's 'the unmanifest, supreme Viṣṇu'."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.8.21": {
+    "context": "Krishna identifies that eternal reality as the Imperishable, his supreme abode.",
+    "english": "This unmanifest is called the Imperishable; it is called the highest goal. Those who reach it do not return: that is my supreme abode.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "That unmanifest Imperishable is the highest goal; reaching it, no one returns to worldly existence. It is Viṣṇu's supreme state."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "'The Imperishable' here is the self, as in 12.3 and 15.16; it is the highest goal mentioned in 8.13, and reaching it there is no return."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.8.22": {
+    "context": "Krishna says the supreme Person, who pervades everything, is reached by undivided devotion.",
+    "english": "That supreme Person, son of Pritha, is reached by undivided devotion; in him all beings dwell, and by him all this is pervaded.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "That supreme Person, beyond whom there is nothing, is reached by undivided devotion in the form of knowledge; all beings, as effects, dwell within him."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The supreme Person, in whom all beings dwell and by whom all is pervaded (7.7), is reached by undivided devotion."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This gives the supreme means."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.8.23": {
+    "context": "Krishna introduces the two paths of departure after death, one of no return and one of return (8.23-8.26).",
+    "english": "Now I will tell you, best of the Bharatas, of the times at which yogis who depart either do not return or do return.",
+    "situations": ["ageing_death_impermanence"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'Yogis' here includes people of ritual action, called yogis in a secondary sense."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "'Time' stands for the path, marked by the deities of day, fortnight, year and so on, by which yogis go and do not return, and doers of merit go and return."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Time' points to the presiding deities of time, and also of fire and the rest, along whose path souls go."}
+    ],
+    "safety_flags": ["death"], "review_status": "draft"
+  },
+  "BG.8.24": {
+    "context": "Krishna describes the bright path, by which those who know Brahman go and do not return.",
+    "english": "Fire, light, day, the bright half of the month, the six months of the sun's northern course: departing by these, people who know Brahman go to Brahman.",
+    "situations": ["ageing_death_impermanence"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Fire, light, day and the rest are deities presiding over time along the path."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "These name the stages of the path, standing for the year and the rest."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "These are presiding deities; he cites the Upanishad's 'they go to the flame'."}
+    ],
+    "safety_flags": ["death"], "review_status": "draft"
+  },
+  "BG.8.25": {
+    "context": "Krishna describes the dark path, by which doers of good works return to rebirth.",
+    "english": "Smoke, night, the dark half of the month, the six months of the sun's southern course: by these the yogi reaches the light of the moon and returns.",
+    "situations": ["ageing_death_impermanence"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "These are presiding deities too; the one who performs rites reaches the moon, enjoys the fruit there, and returns when it is spent."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "This marks the path of smoke to the world of the ancestors; 'yogi' here means one with merit from good works."}
+    ],
+    "safety_flags": ["death"], "review_status": "draft"
+  },
+  "BG.8.26": {
+    "context": "Krishna sums up the two paths after death.",
+    "english": "These two paths, the bright and the dark, are held to be the world's eternal ways: by one a person goes and does not return; by the other a person comes back again.",
+    "situations": ["ageing_death_impermanence"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "One is bright because it reveals knowledge, the other dark for lacking it; they apply to those qualified for knowledge and ritual, not to the whole world."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The bright path, beginning with light, leads to no return; the dark path, beginning with smoke, leads back; scripture holds both to be eternal."}
+    ],
+    "safety_flags": ["death"], "review_status": "draft"
+  },
+  "BG.8.27": {
+    "context": "Krishna says knowing these paths frees the yogi from confusion, and urges constant discipline.",
+    "english": "Knowing these two paths, son of Pritha, no yogi is ever confused. So at all times be disciplined in yoga, Arjuna.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Knowing that one path leads to worldly life and the other to liberation, no yogi is confused; so always remain absorbed."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Knowing these paths, the yogi is not confused at death but goes by the path of the gods; so be absorbed every day in contemplating the path of light."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Knowing the paths with their means, and practising them, one is not deluded, as the Skanda Purāṇa says."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.8.28": {
+    "context": "Krishna closes chapter 8: this knowledge surpasses all the merit of ritual, study and charity.",
+    "english": "Whatever fruit of merit is promised for the Vedas, for sacrifices, austerities and gifts, the yogi who knows this goes beyond all of it and reaches the supreme, original state.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Having understood the answers to the seven questions, the yogi goes beyond all the fruits of Vedic study, sacrifice, austerity and charity."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Knowing the Lord's greatness taught in these two chapters, one regards all those fruits as mere straw compared with the joy of this knowledge."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  }
+}

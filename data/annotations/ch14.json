@@ -1,0 +1,281 @@
+{
+  "BG.14.1": {
+    "context": "Krishna opens chapter 14, on the three qualities of nature (gunas), promising the highest knowledge.",
+    "english": "Again I will teach you the supreme knowledge, the highest of all knowledge, knowing which all the sages have gone from here to the highest perfection.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Though taught again and again in earlier chapters, I will teach it once more: supreme because it concerns the supreme reality, highest because its fruit is highest."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "A further teaching, still within the subject of nature and the person: the knowledge of the gunas, sattva and the rest, which is the best of all knowledge about prakṛti and the person."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The remaining chapters mainly teach the means."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.14.2": {
+    "context": "Krishna says those who take refuge in this knowledge share his nature and are free of birth and dissolution.",
+    "english": "Taking refuge in this knowledge, people come to share my nature; they are not born even at creation, nor are they troubled at the dissolution.",
+    "situations": ["purpose_meaning", "ageing_death_impermanence"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'Sharing my nature' means becoming my very nature, not having similar qualities, since the Gita does not accept a difference between the knower of the field and the Lord."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "They attain likeness to me: they are no longer subject to creation or to dissolution."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.14.3": {
+    "context": "Krishna describes great nature as the womb into which he places the seed of all beings (14.3-14.4).",
+    "english": "Great Brahman is my womb; in it I place the seed, and from it all beings come into being, Arjuna.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "My own māyā of three gunas, prakṛti, is the womb of all beings, called 'great Brahman' because it is greater than all its effects; in it I place the seed."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The 'great Brahman' is non-conscious prakṛti, the eightfold lower nature of 7.4; into it I place the seed, the whole host of conscious beings."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Great Brahman' is prakṛti, which takes the forms of Śrī, Bhū and Durgā; goddesses such as Umā and Sarasvatī are other beings who share a portion of it."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.14.4": {
+    "context": "Krishna calls nature the mother and himself the seed-giving father of every living form.",
+    "english": "Whatever forms are born in any womb, son of Kunti, great Brahman is their womb, and I am the father who gives the seed.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "For bodies born of gods, ancestors, humans, animals and the rest, prakṛti is the womb and I, the Lord, am the father who places the seed."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Of the forms born among gods, humans, animals and plants, prakṛti joined by me with the conscious beings is the cause, and I am the father who sows the seed."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.14.5": {
+    "context": "Krishna names the three gunas and says they bind the self to the body (14.5-14.9).",
+    "english": "Sattva, rajas and tamas, the gunas born of nature, bind the imperishable embodied one to the body, mighty-armed one.",
+    "situations": ["purpose_meaning", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'Guna' is a technical term here, not a quality residing in a substance; they bind the knower of the field because they belong to ignorance."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Sattva, rajas and tamas are qualities inherent in prakṛti, known only by their effects such as light; latent in prakṛti, they show themselves in its products and bind the embodied self."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Shows how bondage works, so that one can take up the means to freedom."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.14.6": {
+    "context": "Krishna describes sattva: pure and illuminating, yet still binding through attachment to happiness and knowledge.",
+    "english": "Of these, sattva, being pure, is illuminating and free of affliction; it binds, sinless one, through attachment to happiness and attachment to knowledge.",
+    "situations": ["purpose_meaning", "ego_pride_envy"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Clear like crystal, sattva illumines; it binds by making one cling to happiness, thinking 'I am happy', which falsely joins an object's quality to the self."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Sattva's purity is its freedom from anything that hides light and happiness; 'light' is knowing things as they are. It binds through attachment to that happiness and knowledge."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.14.7": {
+    "context": "Krishna describes rajas: passion born of craving, which binds through attachment to action.",
+    "english": "Know rajas to be passion, springing from craving and attachment; it binds the embodied one, son of Kunti, through attachment to action.",
+    "situations": ["temptation_self_control", "success_wealth"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Rajas colours the mind like red dye; craving is longing for what one lacks, attachment is the mind's clinging to what one has; rajas binds through attachment to action."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Rajas gives rise to desire between man and woman, to craving for all sense objects, and to clinging to sons, friends and relatives; it binds through attachment to action."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Rajas is the source of craving and attachment."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.14.8": {
+    "context": "Krishna describes tamas: born of ignorance, deluding all, binding through carelessness, sloth and sleep.",
+    "english": "But know tamas to be born of ignorance, deluding all embodied beings; it binds, Arjuna, through carelessness, laziness and sleep.",
+    "situations": ["lack_of_motivation", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Tamas, born of ignorance, confuses all embodied beings and binds through carelessness, laziness and sleep."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "'Ignorance' here is mistaken knowledge, the opposite of seeing things as they are; tamas produces it and binds through carelessness, laziness and sleep."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Born of ignorance' means that ignorance is born of it, as 14.17 says."}
+    ],
+    "safety_flags": ["distress_gentle"], "review_status": "draft"
+  },
+  "BG.14.9": {
+    "context": "Krishna sums up how each guna attaches a person: to happiness, to action, or to carelessness.",
+    "english": "Sattva attaches one to happiness, rajas to action, Arjuna; but tamas, veiling knowledge, attaches one to carelessness.",
+    "situations": ["temptation_self_control", "lack_of_motivation"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Tamas covers the discernment sattva brings and attaches one to carelessness, which is failing to do what one should."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Sattva mainly attaches to happiness, rajas to action, and tamas, hiding true knowledge, to acting against what should be done."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.14.10": {
+    "context": "Krishna explains that the gunas compete, each rising by overpowering the other two.",
+    "english": "Sattva rises by overpowering rajas and tamas, Arjuna; rajas, by overpowering sattva and tamas; and tamas likewise, by overpowering sattva and rajas.",
+    "situations": ["temptation_self_control", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "When sattva grows by overpowering the other two, it produces its own effects, knowledge and happiness; the same holds for rajas and tamas."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Though all three are always present, past karma and imbalances of diet make them rise and fall against one another."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.14.11": {
+    "context": "Krishna gives the signs of each guna's dominance, starting with sattva (14.11-14.13).",
+    "english": "When the light of knowledge shines through every gate of this body, then know that sattva is dominant.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "When the light of understanding arises through all the senses, the gates of perception, know by that sign that sattva has grown."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "When knowledge revealing things as they are arises through the eyes and other gates, know that sattva has increased in this body."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.14.12": {
+    "context": "Krishna gives the signs of dominant rajas: greed, restlessness and craving.",
+    "english": "Greed, activity, the undertaking of actions, restlessness and longing: these arise when rajas is dominant, best of the Bharatas.",
+    "situations": ["temptation_self_control", "success_wealth", "fear_anxiety"], "life_stages": ["student", "householder", "elder"], "aims": ["artha", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Greed is wanting others' wealth; restlessness is unceasing joy, passion and the like; longing is thirst for things in general."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Greed is reluctance to part with one's own wealth; activity is moving about with no purpose; restlessness is the senses never resting; longing is desire for objects."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.14.13": {
+    "context": "Krishna gives the signs of dominant tamas: darkness, inertia, carelessness and confusion.",
+    "english": "Darkness, inertia, carelessness and delusion: these arise when tamas is dominant, joy of the Kurus.",
+    "situations": ["lack_of_motivation", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Lack of discernment, complete inactivity, carelessness and confusion are the signs that tamas has grown."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Darkness is knowledge not arising; inertia is sluggishness; carelessness is inattention leading to wrong action; delusion is mistaken knowledge."}
+    ],
+    "safety_flags": ["distress_gentle"], "review_status": "draft"
+  },
+  "BG.14.14": {
+    "context": "Krishna explains how the dominant guna at death shapes what follows (14.14-14.15).",
+    "english": "If the embodied one meets death when sattva is dominant, they reach the pure worlds of those who know the highest.",
+    "situations": ["ageing_death_impermanence"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Dying when sattva prevails, one reaches the pure worlds of those who know the great principle and the higher realities."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Dying when sattva prevails, one is born among the pure, among those who truly know the self."}
+    ],
+    "safety_flags": ["death"], "review_status": "draft"
+  },
+  "BG.14.15": {
+    "context": "Krishna continues: dying under rajas or tamas leads to birth among the driven or the deluded.",
+    "english": "Meeting death in rajas, one is born among those attached to action; dying in tamas, one is born in deluded wombs.",
+    "situations": ["ageing_death_impermanence"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Dying in rajas, one is born among humans attached to action; dying in tamas, among animals and the like."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Dying in rajas, one is born in families who act for rewards; dying in tamas, one is born in deluded wombs such as dogs or pigs, unfit for any of life's goals."}
+    ],
+    "safety_flags": ["death"], "review_status": "draft"
+  },
+  "BG.14.16": {
+    "context": "Krishna describes the fruit of actions shaped by each guna.",
+    "english": "The fruit of good action is said to be sattvic and pure; the fruit of rajas is pain, and the fruit of tamas is ignorance.",
+    "situations": ["purpose_meaning", "success_wealth"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The wise say good, sattvic action has a pure, sattvic fruit; rajasic action yields pain, and tamasic action, ignorance."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Good action done without seeking its fruit, as worship of the Lord, yields a pure fruit, free of any trace of suffering."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Pain' here means slight pleasure mixed with pain; he cites a text that from rajas comes some pleasure and some pain."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.14.17": {
+    "context": "Krishna names what each guna produces: knowledge, greed, or carelessness and confusion.",
+    "english": "From sattva arises knowledge; from rajas, greed; from tamas come carelessness, delusion and ignorance.",
+    "situations": ["temptation_self_control", "success_wealth", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "From sattva knowledge arises, from rajas greed, and from tamas carelessness, delusion and ignorance."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "From increased sattva comes direct knowledge of the self; from rajas, greed for heaven and other rewards; from tamas, careless wrong action, then mistaken knowledge, then deeper ignorance."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.14.18": {
+    "context": "Krishna says sattva leads upward, rajas keeps one in the middle, and tamas leads downward.",
+    "english": "Those grounded in sattva rise upward; the rajasic stay in the middle; and the tamasic, living by the lowest guna, go downward.",
+    "situations": ["purpose_meaning", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The sattvic are born in the worlds of the gods, the rajasic among humans, and the tamasic, living in sleep and sloth, among animals."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The sattvic rise step by step to liberation; the rajasic act for rewards, enjoy them, and are born again to act again; the tamasic go downward."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.14.19": {
+    "context": "Krishna says one who sees that only the gunas act, and knows what lies beyond them, attains his state (14.19-14.20).",
+    "english": "When the seer sees no doer other than the gunas, and knows what is beyond the gunas, they come to my state of being.",
+    "situations": ["purpose_meaning", "ego_pride_envy"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Seeing that the gunas alone, in all their forms, do every action, and knowing the witness beyond them, one attains my state."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Overcoming rajas and tamas through sattvic food and worship of the Lord without seeking fruits, one sees the gunas as the doers in their own spheres and the self as other than them."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "One sees no doer of change other than the gunas; otherwise this would contradict the Upanishad's 'when the seer sees the golden-hued doer, the Lord'."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.14.20": {
+    "context": "Krishna says going beyond the three gunas frees one from birth, death, old age and sorrow.",
+    "english": "Going beyond these three gunas, from which the body arises, the embodied one is freed from birth, death, old age and sorrow, and attains immortality.",
+    "situations": ["ageing_death_impermanence", "grief_loss", "purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Going beyond the gunas while still living, one is freed even now from birth, death, old age and suffering, and attains immortality."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Going beyond sattva and the rest, and seeing the self as knowledge alone, one is freed from birth, death and old age and experiences the immortal self: this is 'my state'."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.14.21": {
+    "context": "Arjuna asks how to recognise someone who has gone beyond the gunas, how they live, and how they get there.",
+    "english": "Lord, by what signs is one known who has gone beyond these three gunas? How do they behave, and how do they go beyond the three gunas?",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Arjuna asks the marks of one beyond the gunas, their conduct, and the means of going beyond."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Arjuna asks by what marks such a person is known, what conduct reveals their state, and by what means one goes beyond the gunas."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.14.22": {
+    "context": "Krishna describes the one beyond the gunas, unmoved by their play (14.22-14.25).",
+    "english": "One who does not resent light, activity or delusion when they arise, son of Pandu, nor long for them when they cease,",
+    "situations": ["temptation_self_control", "anger_resentment"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "One who does not resent the light of sattva, the activity of rajas or the delusion of tamas when they arise, nor long for them when they go."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "One who does not resent the effects of the gunas when they arise in unwelcome things, nor long for them when they cease in welcome things."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'For the most part' they neither resent nor long; he cites a Sāmaveda text that one may still wish for subtle sattva."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.14.23": {
+    "context": "Krishna continues: such a person stays steady, like an onlooker, knowing it is only the gunas at work.",
+    "english": "who sits as if indifferent, unshaken by the gunas, who stays firm and does not waver, knowing that it is only the gunas at work,",
+    "situations": ["fear_anxiety", "temptation_self_control"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Like a neutral onlooker who takes no side, the knower of the self is not shaken by the gunas, seeing them act upon one another."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Content in seeing the self as distinct from the gunas, such a person is indifferent elsewhere, and, reflecting that the gunas act in their own spheres, stays still."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.14.24": {
+    "context": "Krishna continues: the one beyond the gunas is the same in pain and pleasure, praise and blame.",
+    "english": "who is the same in pain and pleasure, rests in the self, regards a lump of earth, a stone and gold alike, is the same towards the pleasant and the unpleasant, steady, and the same in blame and praise,",
+    "situations": ["failure_setback", "success_wealth", "ego_pride_envy"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Pain and pleasure are the same to them; they rest serenely in their own self."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Loving the self above all, they are even-minded about the joys and sorrows of others such as children being born or dying, and so regard earth, stone and gold alike."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.14.25": {
+    "context": "Krishna completes the portrait of the one who has gone beyond the gunas.",
+    "english": "the same in honour and dishonour, the same towards friend and foe, having given up all self-centred undertakings: such a person is said to have gone beyond the gunas.",
+    "situations": ["relationships_forgiveness", "ego_pride_envy", "anger_resentment"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The same towards friend and foe, even those who are neutral but seem so to others; having given up all undertakings aimed at seen or unseen rewards."}
+    ],
+    "safety_flags": ["renunciation"], "review_status": "draft"
+  },
+  "BG.14.26": {
+    "context": "Krishna gives the means of going beyond the gunas: unswerving devotion to him.",
+    "english": "One who serves me with unswerving devotion goes beyond these gunas and becomes fit to become Brahman.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Whoever, renunciant or person of action, serves me, Nārāyaṇa in the heart of all beings, with unfailing devotion, goes beyond the gunas and is fit to become Brahman."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Merely reflecting on the difference between prakṛti and the self will not overcome the gunas, since old contrary tendencies are strong; serving me with unswerving devotion does."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Becoming Brahman' means becoming dear to the Lord as prakṛti is, though not to the same degree, citing the Padma Purāṇa."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.14.27": {
+    "context": "Krishna closes chapter 14: he is the ground of Brahman, of immortality, of eternal dharma and of perfect happiness.",
+    "english": "For I am the foundation of Brahman, of the immortal and imperishable, of eternal dharma, and of absolute happiness.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "I, the inner self, am the foundation in which Brahman, the Supreme Self, rests: immortal, unchanging, eternal, and the absolute bliss."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Served with unswerving devotion, I am the ground of the immortal Brahman (the self), of eternal lordship, and of the absolute happiness of the wise."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Brahman' here means māyā, prakṛti."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  }
+}

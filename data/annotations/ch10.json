@@ -1,0 +1,435 @@
+{
+  "BG.10.1": {
+    "context": "Krishna opens chapter 10, on his divine manifestations, speaking out of care for Arjuna.",
+    "english": "Listen again, mighty-armed one, to my supreme word, which I will speak to you, who delight in it, because I wish for your good.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "You drink in my words like nectar and delight in them, so I speak further for your good."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Because you delight in hearing of my greatness, I speak of it further, wishing for your good: the birth and growth of devotion to me."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This chapter teaches his manifestations, as objects of meditation."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.2": {
+    "context": "Krishna says not even gods and sages know his origin, since he is their source.",
+    "english": "Neither the hosts of gods nor the great sages know my origin, for I am the source of the gods and of the great sages in every way.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Neither gods like Brahmā nor sages like Bhṛgu know my power or my origin, since I am their source."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Even the gods and sages, who see beyond the senses, do not know my names, deeds, nature and qualities, because their very knowledge and power come from me."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.3": {
+    "context": "Krishna says knowing him as unborn and beginningless frees a person from wrongdoing.",
+    "english": "One who knows me as unborn and beginningless, the great Lord of the worlds, is undeluded among mortals and is freed from all wrongdoing.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Since I am the beginning of gods and sages and nothing comes before me, I am unborn and beginningless; one who knows this is freed from all sins."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "'Unborn' sets him apart from matter and from bound souls, whose 'birth' is karma-made contact with matter; 'beginningless' sets him apart even from liberated souls."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Beginningless' means he is the mover and the beginning of everything."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.4": {
+    "context": "Krishna lists the inner states of beings, all of which arise from him (10.4-10.5).",
+    "english": "Understanding, knowledge, freedom from confusion, patience, truthfulness, self-restraint and calm, pleasure and pain, birth and death, fear and fearlessness,",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Understanding is the mind's ability to grasp subtle things; patience is staying unmoved when insulted or struck."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Understanding is the mind's power to discern; patience is keeping the mind unmoved even when there is cause to be upset."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Understanding is deciding what should and should not be done; calm is being established in the Supreme."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.5": {
+    "context": "Krishna completes his list of inner states, saying all come from him.",
+    "english": "non-violence, evenness, contentment, austerity, generosity, fame and infamy: all these different states of beings arise from me alone.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Non-violence is not harming living beings; contentment is feeling one has enough; generosity is sharing according to one's means."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Contentment is the sense of 'enough'."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.6": {
+    "context": "Krishna names the ancient sages and Manus, ancestors of all creatures, as born of his mind.",
+    "english": "The seven great sages of old and the four Manus, from whom all the creatures of this world descend, were born of my mind and share my nature.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The seven great sages such as Bhṛgu, and the four Manus known as the Sāvarṇas, were born of my mind, endowed with Viṣṇu's power."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The seven sages of the previous age, born of Brahmā's mind to carry on creation, and the four Sāvarṇika Manus who maintain it; all these creatures are their descendants."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The seven sages are Marīci, Atri, Aṅgiras, Pulastya, Pulaha, Kratu and Vasiṣṭha, as the Mokṣadharma lists; the four Manus are the first ones, beginning with Svāyambhuva."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.7": {
+    "context": "Krishna says that knowing his glory and power leads to unwavering yoga.",
+    "english": "Whoever truly knows this divine glory and power of mine is joined with unwavering yoga; there is no doubt of this.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Whoever truly knows my glory and my yogic power is joined with unshakeable yoga, the steadiness of right vision."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "'Glory' is that everything's origin, existence and activity depend on me; 'power' here is my auspicious qualities. Knowing these truly brings unwavering devotion."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.8": {
+    "context": "Krishna describes how the wise, knowing him as the source of all, worship him with love (10.8-10.11).",
+    "english": "I am the source of all; everything proceeds from me. Knowing this, the wise worship me, filled with love.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "I, the supreme Brahman called Vāsudeva, am the origin of the whole world; knowing this, the wise worship me with deep feeling."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Knowing my natural, unlimited lordship together with my gentleness, beauty and tenderness, the wise worship me with love."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "There are some who do worship him in this way."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.9": {
+    "context": "Krishna describes the shared joy of devotees who speak of him together.",
+    "english": "With minds fixed on me and lives given to me, enlightening one another and always speaking of me, they are content and full of joy.",
+    "situations": ["purpose_meaning", "relationships_forgiveness"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Their minds are on me and their senses drawn into me, or their very life is me; they teach one another and speak of me, finding contentment and delight."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Unable to live without me, they tell one another of the qualities of mine they have experienced and of my lovely deeds, and find contentment and joy."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.10": {
+    "context": "Krishna promises the understanding that leads to him to those who love him.",
+    "english": "To those who are always devoted and worship me with love, I give the yoga of understanding by which they come to me.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "To those always absorbed, having given up every outward desire, who worship me out of love and not to gain something, I give the yoga of understanding."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "To those who long for constant union with me, I give that same yoga of understanding in its mature form, by which they reach me."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.11": {
+    "context": "Krishna says he dwells in his devotees' hearts and dispels their ignorance with knowledge.",
+    "english": "Out of compassion for them, dwelling in their hearts, I destroy the darkness born of ignorance with the shining lamp of knowledge.",
+    "situations": ["purpose_meaning", "fear_anxiety"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Out of compassion, dwelling in their inner being, I destroy the darkness of delusion born of lack of discernment with the lamp of discerning knowledge."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "To favour them, I dwell in their thoughts, revealing my auspicious qualities, and with the shining lamp of knowledge of me I destroy the darkness of past karma that blocks it."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.12": {
+    "context": "Arjuna responds by acknowledging Krishna as the supreme Brahman (10.12-10.15).",
+    "english": "You are the supreme Brahman, the supreme abode, the supreme purifier; the eternal divine Person, the first of the gods, unborn and all-pervading.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "You are the supreme Self, the supreme light, the supreme purifier: the eternal divine Person, the first god, unborn and all-pervading."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "You are the one the scriptures call supreme Brahman, supreme light and supreme purifier, as in 'that from which these beings are born'."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Brahman' means the one who is full, from the root 'bṛh', to grow; 'all-pervading' (vibhu) means existing in many forms."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.13": {
+    "context": "Arjuna notes that the great sages have all described Krishna this way.",
+    "english": "All the sages say this of you, and so do the divine sage Narada, Asita, Devala and Vyasa; and now you tell me yourself.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Sages like Vasiṣṭha, the divine sage Nārada, Asita, Devala and Vyāsa say this, and you yourself tell me so."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.14": {
+    "context": "Arjuna affirms his faith in Krishna's words.",
+    "english": "I accept as true all that you tell me, Krishna. Neither the gods nor the demons know your manifestation, Lord.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "All this, said by the sages and by you, I take to be true; neither gods nor demons know your origin."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "I take all this as plain statement of fact, not mere praise: your unlimited lordship and countless qualities are beyond the knowledge of gods and demons."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.15": {
+    "context": "Arjuna says only Krishna can truly know himself.",
+    "english": "You alone know yourself through yourself, supreme Person, source of beings, lord of beings, god of gods, lord of the world.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "You alone know yourself, the Lord of unsurpassed knowledge, lordship and strength."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "You know yourself by your own knowledge alone: creator and ruler of all beings, highest god of the gods."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.16": {
+    "context": "Arjuna asks Krishna to describe the glories by which he pervades the world (10.16-10.18).",
+    "english": "Please tell me fully of your divine glories, by which you pervade these worlds and abide in them.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Tell me fully of your divine glories, the extensions of your greatness, by which you pervade these worlds."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Only you can reveal your divine glories, the countless ways of governing by which you pervade the worlds as their controller."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Glories' (vibhūti) are his various manifestations."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.17": {
+    "context": "Arjuna asks in which forms he should contemplate Krishna.",
+    "english": "How may I know you, yogi, by always meditating on you? In what different forms should I think of you, Lord?",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "How should I know you through constant meditation, and in which things should you be meditated upon?"},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "As a devotee who wants to meditate on you always, in which beings, besides those you have named, should I think of you?"}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.18": {
+    "context": "Arjuna asks to hear more, never tiring of Krishna's words.",
+    "english": "Tell me again in detail of your power and your glory, Krishna; for I am never satisfied hearing your nectar-like words.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Explains the name 'Janārdana': the one who sends the enemies of the gods to hell, or to whom people pray for prosperity and liberation."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Tell me in detail of your creative power and glory, summarised in 10.8; I can never have enough of the nectar of your greatness."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Janārdana' means the one who is not born and who destroys worldly existence."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.19": {
+    "context": "Krishna agrees to describe his chief manifestations, since there is no end to them all (10.19-10.42).",
+    "english": "Very well, I will tell you of my divine glories, best of the Kurus, but only the principal ones, for there is no end to my extent.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "I will tell you the chief glory in each class; there is no end to my extent."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "'Principal' means the most excellent: I will name certain excellent things in the world as my glories."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.20": {
+    "context": "Krishna begins with his chief manifestation: he is the self within every being.",
+    "english": "I am the self, Arjuna, dwelling in the heart of all beings; I am the beginning, the middle and the end of beings.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "I am the inner self in the heart of all beings, always to be meditated upon; he explains 'Guḍākeśa' as one who has conquered sleep, or one with thick hair."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "I dwell as the self in the heart of all beings, who are my body; the self of a body is its support, controller and master, as 15.15 says."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.21": {
+    "context": "Krishna names his manifestations among the gods and the heavenly lights.",
+    "english": "Among the Adityas I am Vishnu; among lights, the radiant sun; among the Maruts I am Marichi; among the stars, I am the moon.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Of the twelve Ādityas, I am the one named Viṣṇu; among lights, the radiant sun."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Of the twelve Ādityas, the twelfth and highest, Viṣṇu, is me."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Derives 'Viṣṇu' from the roots meaning to pervade and to enter."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.22": {
+    "context": "Krishna continues: he is the finest of the Vedas, of the gods, of the senses, and consciousness itself.",
+    "english": "Among the Vedas I am the Sama Veda; among the gods I am Indra; among the senses I am the mind; and in living beings I am consciousness.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Among the senses I am the mind, which deliberates; in beings I am consciousness, the awareness ever present in body and mind."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The highest of the Vedas, the Sāmaveda, is me; the highest of the senses, the mind, is me."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.23": {
+    "context": "Krishna names his manifestations among divine beings and mountains.",
+    "english": "Among the Rudras I am Shankara; among the yakshas and rakshasas, Kubera, lord of wealth; among the Vasus I am fire; and among peaks, Meru.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Of the eleven Rudras I am Śaṅkara; of the eight Vasus I am fire."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Of the eleven Rudras I am Śaṅkara; among the yakṣas and rākṣasas, Vaiśravaṇa (Kubera)."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.24": {
+    "context": "Krishna names his manifestations among priests, generals and waters.",
+    "english": "Among household priests, know me to be the chief, Brihaspati, son of Pritha; among generals I am Skanda; among bodies of water, the ocean.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Bṛhaspati, as Indra's priest, is chief among household priests."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The foremost of priests, Bṛhaspati, is me; among generals I am Skanda; among lakes, the ocean."}
+    ],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.10.25": {
+    "context": "Krishna names his manifestations among sages, sounds, practices and mountains.",
+    "english": "Among great sages I am Bhrigu; among words, the single syllable Om; among sacrifices, the sacrifice of silent repetition; among things that do not move, the Himalaya.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Among the great sages I am Bhṛgu."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Among words I am the one syllable, Om; among sacrifices, the highest one, japa, repetition of the sacred word."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.26": {
+    "context": "Krishna names his manifestations among trees, sages, celestial musicians and the perfected.",
+    "english": "Among all trees I am the sacred fig; among divine sages, Narada; among the gandharvas, Chitraratha; among the perfected, the sage Kapila.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Divine sages are gods who became seers by seeing the mantras; the perfected are those born with dharma, knowledge and detachment, like Kapila."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The aśvattha, worshipped among trees; Nārada, the supreme Vaiṣṇava, among divine sages; Kapila, most revered by yogis, among the perfected."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Explains 'Kapila' as the one by whom the world, which is bliss, is protected and dissolved."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.27": {
+    "context": "Krishna names his manifestations among horses, elephants and humans.",
+    "english": "Among horses, know me as Uchchaihshravas, born of the nectar; among lordly elephants, Airavata; and among humans, the king.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Uccaiḥśravas, king of horses, arose when the ocean was churned for nectar."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "'Born of the nectar' describes Airāvata too; among people, I am the king."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.28": {
+    "context": "Krishna names his manifestations among weapons, cows, the forces of procreation and serpents.",
+    "english": "Among weapons I am the thunderbolt; among cows, the wish-granting cow; of procreators I am Kandarpa, the god of love; among serpents I am Vasuki.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The thunderbolt, made from the bones of Dadhīci; the wish-granting cow of Vasiṣṭha."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Among cows, the divine Surabhi; I am Kandarpa, the cause of procreation; among single-headed serpents, Vāsuki."}
+    ],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.10.29": {
+    "context": "Krishna names his manifestations among serpents, water beings, ancestors and those who rule.",
+    "english": "Among the nagas I am Ananta; among the beings of the waters, Varuna; among the ancestors, Aryaman; and among those who keep order, Yama.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Ananta, king of the nāgas; Varuṇa, king of the water deities; Aryaman, king of the ancestors."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Nāgas are many-headed serpents; among those who punish, I am Yama, son of Vivasvat."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.30": {
+    "context": "Krishna names his manifestations among demons, reckoners, beasts and birds.",
+    "english": "Among the daityas I am Prahlada; among those who count, I am time; among beasts, the lion; and among birds, Garuda, son of Vinata.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Prahlāda among the descendants of Diti; among those who reckon, I am time; among beasts, the lion or the tiger."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Among those who calculate with intent to harm, I am time, which is death."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.31": {
+    "context": "Krishna names his manifestations among purifiers, warriors, sea creatures and rivers.",
+    "english": "Among purifiers I am the wind; among those who bear weapons, Rama; among sea creatures, the makara; and among rivers, the Ganga.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Among those who bear weapons, Rāma, son of Daśaratha."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Here Rāma's bearing of weapons is itself the glory named, since Rāma is the Lord himself."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Rāma' means the one who is bliss, complete, and in whom the world delights."}
+    ],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.10.32": {
+    "context": "Krishna says he is the source, sustainer and end of all creation, and the highest knowledge.",
+    "english": "Of creations I am the beginning, the end and the middle, Arjuna; of sciences, the knowledge of the self; and of those who debate, I am reasoned argument.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Here the whole of creation is meant, not only living beings as in 10.20; among sciences, knowledge of the self, which leads to liberation."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "I am the creator in every creation, the destroyer in every dissolution, and the sustainer in between."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.33": {
+    "context": "Krishna names his manifestations among letters and words, and as endless time.",
+    "english": "Among letters I am the letter A; among compounds, the pairing compound. I alone am unending time; I am the creator, facing in all directions.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The letter A is the source of all sounds, as the Aitareya says; the pairing (dvandva) compound is best because both its parts are equally important."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.34": {
+    "context": "Krishna names himself as death and as the source of what is to come, and as qualities such as fame, memory and patience.",
+    "english": "I am all-devouring death, and the origin of all that is yet to be; among the feminine, I am fame, fortune, speech, memory, intelligence, steadfastness and forbearance.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Death is of two kinds, one that takes wealth and one that takes life; the one that takes life, or the Lord who takes everything at dissolution, is me."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "I am the death that takes all life, and the coming into being of what is yet to be; among women, I am fortune, fame, speech, memory, intelligence, steadiness and patience."}
+    ],
+    "safety_flags": ["death"], "review_status": "draft"
+  },
+  "BG.10.35": {
+    "context": "Krishna names his manifestations among chants, metres, months and seasons.",
+    "english": "Among the Sama chants I am the Brihat Saman; among metres, the Gayatri; among months I am Margashirsha; and among seasons, flower-bearing spring.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Among metres, I am the verse in the Gāyatrī metre."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Among the seasons, I am spring, the maker of flowers."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.36": {
+    "context": "Krishna says he is present even in gambling, as well as in victory, resolve and goodness.",
+    "english": "Of cheats I am gambling; I am the brilliance of the brilliant. I am victory, I am resolve, and I am the goodness of the good.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "I am the gambling, with dice and the like, of those who cheat; the victory of victors, the resolve of the resolute, the goodness of those in sattva."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Among the means cheats use, I am the game of dice; in the noble, I am greatness of mind."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.37": {
+    "context": "Krishna names himself among his own clan, Arjuna among the Pandavas, and Vyasa among sages.",
+    "english": "Among the Vrishnis I am Vasudeva; among the Pandavas, Arjuna; among sages I am Vyasa; and among poets, the poet Ushanas.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Among the Yādavas I am Vāsudeva, this very friend of yours; among the Pāṇḍavas, Dhanañjaya, yourself."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Here being Vasudeva's son is itself the glory named."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Vāsudeva' is the one who covers all, makes all dwell, and dwells in all, as the Mokṣadharma says."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.38": {
+    "context": "Krishna names himself as punishment, statecraft, silence and wisdom.",
+    "english": "Of those who restrain, I am the rod of punishment; of those who seek victory, I am statecraft; of secrets I am silence; and of the wise I am wisdom.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The rod that subdues the unruly; statecraft for those who want to win; silence among secret things."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The punishment of those who break rules; the strategy that brings victory; silence in keeping secrets; and the knowledge of the wise."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.39": {
+    "context": "Krishna sums up: he is the seed of all beings, and nothing exists without him (10.39-10.42).",
+    "english": "And whatever is the seed of all beings, that am I, Arjuna; nothing, moving or unmoving, could exist without me.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Summing up: nothing moving or unmoving exists without me; anything without me would be empty, without a self."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "I am the seed of every being in every state; no being could exist without me present as its self (10.20)."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "There is nothing that could exist without me; he cites the Mokṣadharma's names for the Lord, such as 'infinite'."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.40": {
+    "context": "Krishna says his glories are endless and what he has named is only a sample.",
+    "english": "There is no end to my divine glories, scorcher of enemies; what I have said is only a brief indication of their extent.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "No one can state or know the full extent of the divine glories of the Lord, the self of all; this was only a part."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "My auspicious glories are endless; I have described them briefly, through certain examples."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.41": {
+    "context": "Krishna says all that is glorious or powerful comes from a spark of his splendour.",
+    "english": "Whatever is glorious, prosperous or powerful, know that it springs from a spark of my splendour.",
+    "situations": ["purpose_meaning", "success_wealth"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Whatever has glory, prosperity or vigour, know it as arising from a part of my splendour."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Whatever has lordship, radiance, wealth or energy for good undertakings arises from a fraction of my splendour, my power to prevail."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Viṣṇu and his other forms are the Lord himself; other beings merely possess his splendour, as the Paiṅgi supplements say."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.10.42": {
+    "context": "Krishna closes chapter 10: the whole world rests on a single fraction of his being.",
+    "english": "But what use is all this detailed knowledge to you, Arjuna? I stand supporting this entire world with a single fraction of myself.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "What use is this partial knowledge? Hear it completely: I support this whole world with a single part of myself."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "What need for so much? This whole world, conscious and non-conscious, in every state, stands within one fraction of my greatness, never going beyond my will."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This stresses what matters most; it does not mean what was said before is useless."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "BG.16.1": {
+    "context": "Krishna opens chapter 16 by listing the qualities of a divine nature (16.1-16.3).",
+    "english": "Fearlessness, purity of heart, steadfastness in the yoga of knowledge, generosity, self-restraint, sacrifice, study of scripture, austerity, honesty,",
+    "situations": ["fear_anxiety", "temptation_self_control", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Fearlessness is freedom from fear; purity of heart means dealing with others without deceit, trickery or falsehood; steadfastness in knowledge is firm, focused understanding of the self gained from scripture and teacher."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Fear is the distress that comes from seeing a cause of losing the wanted or meeting the unwanted; fearlessness is its absence. Generosity is giving rightly earned wealth to a worthy recipient."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This chapter shows what opposes the means to life's goals; 'austerity' here means celibacy and the like."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.16.2": {
+    "context": "Krishna continues the divine qualities: non-violence, truth, freedom from anger, compassion and gentleness.",
+    "english": "non-violence, truthfulness, freedom from anger, renunciation, calm, not slandering others, compassion for all beings, freedom from greed, gentleness, modesty and steadiness,",
+    "situations": ["anger_resentment", "relationships_forgiveness", "temptation_self_control", "ego_pride_envy"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Truth is saying what is so, without unkind falsehood; freedom from anger is calming anger that arises when one is abused or struck; not slandering is not exposing others' faults."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Freedom from anger is having no change of mind that leads to harming others; compassion is being unable to bear the suffering of any being; renunciation is letting go of possessions that work against one's true good."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Slander is telling a king or others of faults in order to bring trouble on someone; steadiness is not being fickle."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.16.3": {
+    "context": "Krishna completes the list of divine qualities, the inheritance of those born to a divine nature.",
+    "english": "vigour, forgiveness, fortitude, purity, freedom from malice and from excessive pride: these belong to one born to the divine nature, Arjuna.",
+    "situations": ["relationships_forgiveness", "anger_resentment", "ego_pride_envy", "failure_setback"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Forgiveness is no inner disturbance arising when one is abused or struck, whereas freedom from anger is calming it once it has arisen; fortitude is what lifts body and senses when they sink."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Forgiveness is a mind unchanged towards others even when they cause one pain; fortitude is holding to what must be done even in great adversity."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Forgiveness is not harming one who has harmed you, together with freedom from anger."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.16.4": {
+    "context": "Krishna lists the qualities of a demonic nature: hypocrisy, arrogance, conceit, anger, harshness and ignorance.",
+    "english": "Hypocrisy, arrogance, conceit, anger, harshness and ignorance belong to one born to the demonic nature, son of Pritha.",
+    "situations": ["ego_pride_envy", "anger_resentment"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Hypocrisy is parading one's virtue; arrogance is pride in learning, wealth or family; harshness is cutting speech, such as calling a one-eyed man 'sharp-sighted'."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Hypocrisy is doing good to be known as good; harshness is a nature that troubles good people; ignorance is not discerning the higher and lower truths and what should and should not be done."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.16.5": {
+    "context": "Krishna reassures Arjuna that he was born to the divine nature, which leads to freedom.",
+    "english": "The divine nature is thought to lead to liberation, the demonic to bondage. Do not grieve, son of Pandu: you are born to the divine nature.",
+    "situations": ["fear_anxiety", "failure_setback", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Seeing Arjuna wonder whether he has the demonic or the divine nature, Krishna tells him not to grieve: he is born to the divine."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The divine nature, following my command, leads step by step to me; the demonic, transgressing it, leads downward. Arjuna, frightened because he could not tell his own nature, is told not to grieve."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.16.6": {
+    "context": "Krishna introduces a fuller account of the demonic nature (16.6-16.20).",
+    "english": "There are two kinds of beings created in this world, the divine and the demonic. The divine has been described in detail; now hear from me about the demonic, son of Pritha.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Humans are created with one of the two natures, divine or demonic, as the Upanishad says: 'the children of Prajāpati were of two kinds, gods and demons'."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "By past merit and sin, beings are born from the start divided into those who follow the Lord's command and those who do the opposite."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.16.7": {
+    "context": "Krishna says the demonic do not know what to do or avoid, and lack purity, good conduct and truth.",
+    "english": "The demonic do not know what to take up and what to turn away from; there is no purity in them, no good conduct, and no truth.",
+    "situations": ["purpose_meaning", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "They know neither what to engage in for life's goals nor what to turn away from as harmful; and they have no purity, good conduct or truth."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "They do not know the Vedic dharma that leads to prosperity and to liberation, nor the purity and conduct, such as the twilight prayer, that make one fit for it."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.16.8": {
+    "context": "Krishna describes the demonic worldview: a world without truth, foundation or God, driven only by desire.",
+    "english": "They say the world is without truth, without foundation, without a Lord, not brought about by any order: what else is it but driven by desire?",
+    "situations": ["purpose_meaning", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "They say the world is unreal like themselves, has no basis in merit and demerit, and has no Lord who governs it by them; it is born of lust alone."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "They do not say the world is the effect of Brahman, called 'the real', and rests in Brahman, upheld as the earth is by Ananta."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "They deny the world's truth, foundation and Lord, all of which are Viṣṇu; he cites the Upanishad on the two forms of Brahman."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.16.9": {
+    "context": "Krishna says those who hold this view become destructive, enemies of the world.",
+    "english": "Holding this view, these lost souls of small understanding and cruel deeds rise up as enemies of the world, for its destruction.",
+    "situations": ["anger_resentment", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Holding this view, having lost all means to the world beyond, with minds bent only on sense objects, they rise up as violent enemies of the world."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Not seeing a self beyond the body, unable to tell the knower from the body as known, they become violent towards all and rise up for the world's ruin."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.16.10": {
+    "context": "Krishna describes the demonic as driven by insatiable desire, hypocrisy, pride and arrogance.",
+    "english": "Clinging to insatiable desire, full of hypocrisy, pride and arrogance, holding wrong ideas out of delusion, they act with impure intentions.",
+    "situations": ["temptation_self_control", "ego_pride_envy"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Relying on desire that can never be filled, full of hypocrisy, pride and arrogance, they take up wrong resolves out of confusion and act on impure vows."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Pursuing hard-to-gain objects of desire, out of ignorance they take what is not theirs by wrong means and follow vows not prescribed by scripture."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Desire is hard to fill; he quotes the Mokṣadharma: 'like the netherworld, it can never be filled, and torments me always'."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.16.11": {
+    "context": "Krishna describes the endless anxieties of those who believe pleasure is everything.",
+    "english": "Given over to boundless anxieties that end only with death, taking the enjoyment of desires as the highest aim, convinced that this is all there is,",
+    "situations": ["fear_anxiety", "temptation_self_control", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["kama", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Their anxieties are beyond measure and end only with death; they hold that enjoying sense objects is the highest human goal."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Though they may die today or tomorrow, they take on endless worries about things that would take until the world's end to achieve, sure that enjoyment is the highest goal."}
+    ],
+    "safety_flags": ["death"], "review_status": "draft"
+  },
+  "BG.16.12": {
+    "context": "Krishna continues: bound by countless hopes, they pile up wealth by unjust means.",
+    "english": "bound by hundreds of ropes of hope, given over to desire and anger, they strive to pile up wealth by unjust means to satisfy their desires.",
+    "situations": ["success_wealth", "temptation_self_control", "anger_resentment"], "life_stages": ["student", "householder", "elder"], "aims": ["artha", "kama"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Bound by hundreds of nooses of hope, pulled every way, devoted to desire and anger, they seek wealth by unjust means such as taking what belongs to others, for pleasure, not for dharma."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Bound by hundreds of ropes of hope and wholly given to desire and anger, they strive to amass wealth unjustly for pleasure."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.16.13": {
+    "context": "Krishna voices the inner monologue of greed: always counting what was gained and what is next.",
+    "english": "\"This I have gained today; this wish I will fulfil. This wealth is mine, and this too will be mine.",
+    "situations": ["success_wealth", "ego_pride_envy", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["artha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'I have gained this wealth today; I will gain that pleasing thing; next year more wealth will come and I will be known as rich.'"},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "They think they gained land, children and wealth by their own power alone, not through unseen merit, and that they will gain more the same way."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.16.14": {
+    "context": "Krishna continues the monologue of arrogance: boasting of conquests and self-sufficiency.",
+    "english": "That enemy has been killed by me, and I will kill others too. I am the lord, I am the enjoyer; I am successful, powerful and happy.",
+    "situations": ["ego_pride_envy", "anger_resentment", "success_wealth"], "life_stages": ["student", "householder", "elder"], "aims": ["artha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'I have killed that powerful enemy and will kill these wretches too; no one is my equal: I am lord, enjoyer, accomplished, strong and happy.'"},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "They think: 'I killed my enemy by my own strength, and I need no help from unseen merit or a Lord; I am my own master and the master of others.'"}
+    ],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.16.15": {
+    "context": "Krishna completes the monologue of conceit and calls it the delusion of ignorance.",
+    "english": "I am rich and well-born; who else is like me? I will sacrifice, I will give, I will rejoice.\" So they speak, deluded by ignorance.",
+    "situations": ["ego_pride_envy", "success_wealth"], "life_stages": ["student", "householder", "elder"], "aims": ["artha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'I am wealthy and of a learned family; who is equal to me? Even by sacrifice I will outdo others; I will give to performers and rejoice': so they think, confused by ignorance."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "They think they can sacrifice and give by their own power alone, without the Lord's grace; this is the delusion of ignorance."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.16.16": {
+    "context": "Krishna warns where such delusion leads: confusion and a fall into hell.",
+    "english": "Bewildered by many thoughts, caught in the net of delusion, attached to the enjoyment of desires, they fall into a foul hell.",
+    "situations": ["temptation_self_control", "fear_anxiety"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Bewildered by many thoughts, covered by the net of delusion, clinging to pleasures and so heaping up sin, they fall into a foul hell such as Vaitaraṇī."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Thinking they can do everything without unseen merit or the Lord, they plan to do this and that, are caught in this net of delusion, and, dying in the midst of it, fall into a foul hell."}
+    ],
+    "safety_flags": ["distress_gentle"], "review_status": "draft"
+  },
+  "BG.16.17": {
+    "context": "Krishna describes the self-important who perform rituals only for show.",
+    "english": "Self-important, stubborn, full of pride and the intoxication of wealth, they perform sacrifices in name only, out of hypocrisy, not according to the rules.",
+    "situations": ["ego_pride_envy", "success_wealth"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Esteemed only by themselves, not by the good, unbending, they perform sacrifices that are sacrifices in name only, out of hypocrisy and without the prescribed parts."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Thinking well of themselves and intoxicated by wealth, learning and birth, they sacrifice only to be known as one who sacrifices."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.16.18": {
+    "context": "Krishna says such people, driven by ego and anger, hate him who dwells in their own and others' bodies.",
+    "english": "Given over to ego, force, arrogance, desire and anger, these resentful people hate me, who dwell in their own bodies and in those of others.",
+    "situations": ["ego_pride_envy", "anger_resentment"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Ego is thinking oneself special through virtues one has or does not have; it is ignorance, the root of all faults and all harmful action."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Relying on the ego that thinks 'I alone do everything', on their own strength, pride and desire, and on anger against all who oppose them, they hate me, who dwell within them and others."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "They say, 'Viṣṇu makes no one act; if he did, let him make me act now'; he cites a Sāmaveda text that such a person goes downward."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.16.19": {
+    "context": "Krishna says he casts those who hate and harm into repeated births of a demonic kind (16.19-16.20).",
+    "english": "These hateful, cruel, vilest of people, I hurl again and again into the cycles of rebirth, into demonic wombs alone.",
+    "situations": ["anger_resentment"], "life_stages": ["householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Those who hate the good and hate me I cast again and again into cruel births such as those of tigers and lions."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Those who hate me I cast into births hostile to me, and into the cruel states of mind that lead to such births."}
+    ],
+    "safety_flags": ["distress_gentle"], "review_status": "draft"
+  },
+  "BG.16.20": {
+    "context": "Krishna says the deluded fall lower with each birth, never reaching him.",
+    "english": "Falling into demonic wombs, deluded birth after birth, never reaching me, son of Kunti, they sink to the lowest state.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Born in such wombs again and again, sinking lower, they go to an even lower state; 'never reaching me' does not imply they ever could have."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Born again and again in births hostile to me, never gaining the knowledge that the Lord Vāsudeva exists, they go lower and lower."}
+    ],
+    "safety_flags": ["distress_gentle"], "review_status": "draft"
+  },
+  "BG.16.21": {
+    "context": "Krishna names the three gates to hell, desire, anger and greed, and urges giving them up.",
+    "english": "Threefold is this gate of hell that destroys the self: desire, anger and greed. So one should give up these three.",
+    "situations": ["anger_resentment", "temptation_self_control", "success_wealth"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Entering this gate, the self is ruined and becomes unfit for any of life's goals; so give up desire, anger and greed."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Desire, anger and greed are the path into this demonic nature, which is a hell; since they lead to terrible hell, give them up from far off."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.16.22": {
+    "context": "Krishna says one freed from these three gates does what is good for the self and reaches the highest goal.",
+    "english": "Freed from these three gates to darkness, son of Kunti, a person does what is truly good for the self, and so reaches the highest goal.",
+    "situations": ["anger_resentment", "temptation_self_control", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Freed from these gates of darkness, one practises what is good, which they could not before, and so reaches even liberation."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Freed from desire, anger and greed, the causes of wrong knowledge of me, one gains knowledge of me, acts in harmony with me, and so reaches me."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.16.23": {
+    "context": "Krishna warns that one who ignores scripture and follows desire gains neither success, happiness nor the highest goal.",
+    "english": "One who sets aside the injunctions of scripture and acts on the impulse of desire attains neither perfection, nor happiness, nor the highest goal.",
+    "situations": ["temptation_self_control", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "One who sets aside the Veda's injunctions and prohibitions and acts from desire gains no fitness for life's goals, no happiness here, and neither heaven nor liberation."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Scripture is the Veda, my command; one who ignores it and does as they please gains no success in the next world, no happiness in this one, and certainly not the highest goal."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.16.24": {
+    "context": "Krishna closes chapter 16: let scripture be the guide to what should and should not be done.",
+    "english": "So let scripture be your authority in deciding what should and should not be done. Knowing what scripture prescribes, you should do your work here.",
+    "situations": ["conflict_of_duties", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Scripture is your means of knowing what to do and avoid; knowing the duty it prescribes, you should do it here."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "In deciding what to take up and what to reject, scripture alone is your authority: the Vedas, amplified by the law books, epics and Purāṇas, which teach the highest Person and the action that pleases and reaches him."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  }
+}

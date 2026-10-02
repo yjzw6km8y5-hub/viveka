@@ -1,0 +1,310 @@
+{
+  "BG.5.1": {
+    "context": "Arjuna asks Krishna to settle which is better, renouncing action or acting with discipline, opening chapter 5.",
+    "english": "Krishna, you praise renouncing action, and then again the yoga of action. Tell me decisively which one of the two is better.",
+    "situations": ["purpose_meaning", "conflict_of_duties"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Arjuna is unsure because Krishna praises both giving up prescribed actions and performing them: which is better, doing them or giving them up?"},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Arjuna asks because chapter 2 put karma yoga first and the path of knowledge after it, while chapters 3-4 praised karma yoga even for those fit for knowledge."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This chapter expands the karma yoga of chapter 3, covering both renunciation (4.22) and action (4.15); he explains 'Krishna' as the one who draws the whole world by governing it."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.2": {
+    "context": "Krishna answers that both paths lead to freedom, but disciplined action is the better of the two.",
+    "english": "Renunciation and the yoga of action both lead to the highest good; but of the two, the yoga of action is better than renouncing action.",
+    "situations": ["conflict_of_duties", "purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Both lead to liberation by giving rise to knowledge, but here performing action is praised above mere renunciation of action."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Even for one capable of the path of knowledge, both work on their own to bring the highest good, but karma yoga is better."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This renunciation is not the monastic stage of life; he cites a text that worship of the Lord is greater than renunciation understood as giving up the opposites."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.3": {
+    "context": "Krishna redefines the renunciant as one free of hatred and craving, whatever their outward life.",
+    "english": "Know that one who neither hates nor craves is always a renunciant; free of the pairs of opposites, mighty-armed one, such a person is easily released from bondage.",
+    "situations": ["anger_resentment", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "A person of action who neither hates nor craves is to be known as always a renunciant, even while acting, and is freed without effort."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "A karma yogi content in experiencing the self wants nothing else and so hates nothing; such a person is always established in knowledge, and is easily freed because karma yoga is easy to practise."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Explains what the word 'renunciation' means, to show why it leads to the highest good."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.4": {
+    "context": "Krishna says the paths of knowledge and action are not truly separate.",
+    "english": "The childish, not the wise, speak of Sankhya and yoga as different; one who is truly established in even one of them gains the fruit of both.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Only the childish say they have different, opposed results; the wise know both lead to the same highest good."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Those who say the two differ in their fruit, karma yoga leading to knowledge and knowledge alone to seeing the self, are not wise: both have the one fruit of seeing the self."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Both are inner aids to knowledge, so they do not conflict."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.5": {
+    "context": "Krishna continues: both paths reach the same goal, and seeing this is true understanding.",
+    "english": "The state reached by the followers of Sankhya is reached by the followers of yoga as well. One who sees Sankhya and yoga as one truly sees.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The liberation reached by renunciants devoted to knowledge is reached by yogis too, who act for the Lord without seeking results, by way of gaining knowledge and renunciation."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The vision of the self reached by those devoted to knowledge is reached by karma yogis too; one who sees them as one in their fruit sees rightly."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Yogis too reach the fruit of knowledge, by way of knowledge."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.6": {
+    "context": "Krishna explains why action is better: renunciation without disciplined action is hard to achieve.",
+    "english": "But renunciation is hard to attain without yoga, mighty-armed one; the sage disciplined in yoga soon reaches Brahman.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "True renunciation is hard to reach without karma yoga; the sage disciplined in action offered to the Lord soon reaches Brahman, here meaning renunciation grounded in knowledge."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The path of knowledge cannot be reached without karma yoga; one who practises karma yoga reaches the self easily and soon, while one on the path of knowledge reaches it with great difficulty."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Without yoga, renunciation brings only the hardship of conquering desire and the like, not its real fruit, liberation."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.7": {
+    "context": "Krishna describes the disciplined person who acts in the world without being stained by it.",
+    "english": "One disciplined in yoga, pure in heart, self-controlled, with senses mastered, whose self has become the self of all beings, is not stained even while acting.",
+    "situations": ["purpose_meaning", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "One whose self is the self of all beings, from Brahmā down to a blade of grass, sees rightly; acting for the world's welfare, they are not stained."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "One who practises karma yoga as worship of the Supreme is purified by it, easily masters the mind and senses, and sees the selves of all beings as alike with their own."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'The self of all beings' is the Supreme Lord."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.8": {
+    "context": "Krishna describes how the knower of truth sees all activity as the senses at work (5.8-5.9).",
+    "english": "\"I do nothing at all,\" thinks the disciplined knower of truth, while seeing, hearing, touching, smelling, eating, walking, sleeping, breathing,",
+    "situations": ["ego_pride_envy", "purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The knower of truth, composed, regards themselves as doing nothing at all, whatever the body and senses are doing."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Knowing that the senses and breath act on their objects, one thinks 'I do nothing'; the self, whose nature is knowledge alone, is a doer only through its karma-born link with the senses."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "These two verses clarify what renunciation means."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.9": {
+    "context": "Krishna completes the thought: in all activity, the knower sees only the senses meeting their objects.",
+    "english": "speaking, letting go, holding, opening and closing the eyes, holding firmly that it is only the senses moving among the objects of the senses.",
+    "situations": ["ego_pride_envy", "purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"], "school_notes": [],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.10": {
+    "context": "Krishna gives the image of the lotus leaf for acting without being stained.",
+    "english": "One who acts placing all actions in Brahman and giving up attachment is not stained by wrongdoing, as a lotus leaf is not wetted by water.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Placing all actions in the Lord, as a servant acts for his master, and unattached even to liberation, one is untouched by sin; the only fruit of such action is purity of mind."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "'Brahman' here means prakṛti, as in 14.3: placing actions in prakṛti, present as the senses, and thinking 'I do nothing', one is untouched by sin."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Only one who has both renunciation and yoga is unstained by action; the result is repeated to show the means is essential."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.11": {
+    "context": "Krishna explains that the disciplined act only to purify themselves.",
+    "english": "Yogis act with the body, the mind, the intellect, or even the senses alone, giving up attachment, for the purification of the self.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "With body, mind, intellect and senses free of 'mine', thinking 'I act for the Lord, not for my own reward', they act to purify the mind."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Giving up attachment to rewards like heaven, they act to destroy the old karma that binds the self."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This is how such people conduct themselves."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.12": {
+    "context": "Krishna contrasts the peace of those who give up results with the bondage of those driven by desire.",
+    "english": "The disciplined, giving up the fruit of action, attain lasting peace; the undisciplined, driven by desire and attached to the fruit, are bound.",
+    "situations": ["fear_anxiety", "success_wealth", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "One who acts for the Lord, not for reward, gives up the fruit and reaches the peace called liberation, step by step; one driven by desire is bound."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "One focused on the self alone acts for its purification and reaches steady peace in experiencing it; one restless for other rewards, attached to the fruit, is bound."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "States the results of being disciplined or not, to establish the rule."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.13": {
+    "context": "Krishna pictures the body as a city of nine gates in which the self rests, untouched by action.",
+    "english": "Renouncing all actions in the mind, the self-controlled embodied one dwells happily in the city of nine gates, neither acting nor causing action.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Renouncing all actions with the discerning mind, by seeing inaction in action, the embodied one rests happily in the body, the city with nine gates."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Knowing that being a doer comes from the body, a result of past karma, and not from the self's own nature, one rests happily, neither driving the body nor acting through it."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'In the mind' means giving up the pride of being the doer."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.14": {
+    "context": "Krishna explains that the self does not create action or its consequences; nature does (5.14-5.15).",
+    "english": "The Lord does not create agency or actions for people, nor the link between action and its fruit; it is nature that does this.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'The Lord' here is the self: it does not create doership, actions or their fruits; it is one's own nature, māyā, that acts."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "'The Lord' here is the self in its natural state, free of karma: it does not produce the doership, acts and fruits peculiar to gods, humans and others; these come from tendencies born of contact with prakṛti."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The soul does not truly act; it is called 'lord' only relative to inert matter."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.15": {
+    "context": "Krishna adds that people are deluded because ignorance covers their knowledge.",
+    "english": "The all-pervading one does not take on anyone's wrongdoing or good deeds. Knowledge is covered by ignorance, and so beings are deluded.",
+    "situations": ["purpose_meaning", "failure_setback"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The Lord takes on no one's sin or merit, not even a devotee's; people are deluded, thinking 'I act, I enjoy', because their discernment is covered by ignorance."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The self, being all-pervading and tied to no one, does not take away the sorrow of those it loves or the joy of those it dislikes; all this comes from conditioning."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.16": {
+    "context": "Krishna compares knowledge to the sun, which reveals the truth once ignorance is cleared.",
+    "english": "But for those whose ignorance is destroyed by knowledge of the self, that knowledge, like the sun, reveals the supreme.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "For those whose ignorance is destroyed by discerning knowledge of the self, knowledge reveals the highest truth as the sun reveals all forms."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "When ignorance, the beginningless karma that covers the self, is destroyed by self-knowledge, the self's own unlimited knowledge shines like the sun."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Knowledge alone destroys ignorance; the first knowledge mentioned is indirect knowledge."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.17": {
+    "context": "Krishna describes those wholly devoted to the supreme, who reach freedom from rebirth.",
+    "english": "Their minds on That, their selves in That, established in That, devoted to That, their impurities shaken off by knowledge, they reach the state from which there is no return.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Their intellect rests in Brahman; Brahman is their very self; having renounced all actions, they abide in Brahman alone, their highest goal."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Resolved on seeing the self, minds set on it, devoted to its practice, their past impurities shaken off, they reach the self in the state from which there is no return."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This is the immediate means to direct knowledge."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.18": {
+    "context": "Krishna describes the equal vision of the wise, who see the same self in every being.",
+    "english": "The wise see the same in a brahmin rich in learning and humility, in a cow, an elephant, a dog, and an outcaste who eats dogs.",
+    "situations": ["ego_pride_envy", "relationships_forgiveness"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The wise see the one Brahman equally in a learned and humble brahmin, the most refined, and in a cow, an elephant, a dog and an outcaste."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Those who know the self see it as the same everywhere, of the nature of knowledge alone; inequality belongs to prakṛti, not to the self."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Seeing the Lord's forms as equal everywhere is a means to direct knowledge."}
+    ],
+    "safety_flags": ["caste_gender"], "review_status": "draft"
+  },
+  "BG.5.19": {
+    "context": "Krishna says those who see all beings equally have overcome rebirth in this very life.",
+    "english": "Even here, rebirth is overcome by those whose minds are established in sameness; for Brahman is flawless and the same in all, so they are established in Brahman.",
+    "situations": ["ego_pride_envy", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The deluded think Brahman is tainted by the faults of an outcaste, but it is untouched by them, flawless and the same; those whose minds rest in this sameness have conquered birth while still living."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Even while still practising, those whose minds rest in the sameness of all selves have conquered rebirth: the self, free of prakṛti's flaws, is Brahman, and resting in it is that victory."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Praises this equal vision."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.20": {
+    "context": "Krishna describes the one established in Brahman as unmoved by the pleasant and the unpleasant.",
+    "english": "One who does not rejoice at getting what is pleasant, nor recoil at getting what is unpleasant, steady in mind and undeluded, knows Brahman and is established in Brahman.",
+    "situations": ["success_wealth", "failure_setback", "fear_anxiety"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Only those who take the body for the self rejoice or grieve at the pleasant and unpleasant; one who sees the self alone does not meet with them at all."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Whatever pleasant or unpleasant things come through past karma, one should neither rejoice nor be shaken, keeping the mind on the steady self and free of confusing it with the changing body."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The rest of the chapter brings renunciation, yoga and knowledge together."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.21": {
+    "context": "Krishna contrasts outward pleasures with the lasting happiness found within (5.21-5.22).",
+    "english": "One unattached to outer contacts finds the happiness that is in the self; joined in yoga with Brahman, such a person enjoys happiness that never fades.",
+    "situations": ["purpose_meaning", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "With the mind not attached to outer sense objects, one finds the happiness that lies in the self, and, joined to Brahman in meditation, enjoys undying happiness."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Unattached to experiences other than the self, one finds happiness within, and through the practice of Brahman gains the undying happiness of experiencing it."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Only one joined in meditation on Brahman gains the undying happiness of the self, not otherwise."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.22": {
+    "context": "Krishna explains why the wise do not delight in sense pleasures: they begin, end and bring sorrow.",
+    "english": "Pleasures born of contact are nothing but sources of sorrow; they have a beginning and an end, son of Kunti, and the wise do not delight in them.",
+    "situations": ["temptation_self_control", "success_wealth"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Pleasures born of contact with objects are wombs of pain, in this world and the next; knowing that not a trace of happiness is found in worldly existence, the wise turn their senses away."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Pleasures from contact between the senses and objects end in sorrow and last only a short time; one who knows their true nature takes no delight in them."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Criticises pleasures of desire in order to encourage renunciation."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.23": {
+    "context": "Krishna says that withstanding the pull of desire and anger in this life is the mark of a happy, disciplined person.",
+    "english": "One who can withstand the surge of desire and anger here, before leaving the body, is disciplined; that person is happy.",
+    "situations": ["anger_resentment", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The surge of desire and anger can arise at any moment while one lives, so one must never relax one's guard until death; one who can withstand it is disciplined and happy."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "One who, through the joy of experiencing the self, can hold back the surge of desire and anger while still practising is fit for that experience."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Desire is easiest to master in a human body; higher worlds such as Brahmā's are reached only by those who have conquered desire."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.24": {
+    "context": "Krishna describes the yogi whose happiness, joy and light are all within.",
+    "english": "One whose happiness is within, whose joy is within, and whose light is within, that yogi becomes one with Brahman and reaches the peace of Brahman.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Such a yogi becomes Brahman while still alive and reaches liberation, the peace of Brahman."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Giving up all outward experience, finding joy only in the self and knowing only the self, the yogi attains the bliss of experiencing the self."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Their joy comes from seeing the Supreme Self, and their inner light is the self-luminous Lord made manifest."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.25": {
+    "context": "Krishna names the qualities of those who reach the peace of Brahman, including care for all beings.",
+    "english": "Sages whose wrongs are worn away, whose doubts are cut through, who are self-controlled and delight in the welfare of all beings, attain the peace of Brahman.",
+    "situations": ["purpose_meaning", "relationships_forgiveness"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Renunciants of right vision, sinless and free of doubt, self-restrained and devoted to the good of all beings, which is to say non-violent, attain liberation."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Free of the opposites, minds fixed on the self, devoted to the welfare of all beings as to their own, these seers attain the bliss of Brahman."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Doubts cut through' means doubt and error removed; he cites a verse that one should cut them with the sword of knowledge."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.26": {
+    "context": "Krishna says the peace of Brahman is close at hand for those free of desire and anger.",
+    "english": "For ascetics who are free of desire and anger, who have controlled their minds and know the self, the peace of Brahman is near on every side.",
+    "situations": ["anger_resentment", "temptation_self_control"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "For renunciants free of desire and anger who know the self, liberation is present on both sides: while living and after death."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "For those who strive, free of desire and anger and with minds mastered, the bliss of Brahman is already in their hands."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Brahman is easily reached by them, on every side."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.27": {
+    "context": "Krishna gives a brief instruction in meditation, previewing chapter 6 (5.27-5.28).",
+    "english": "Shutting out outer contacts, fixing the gaze between the eyebrows, making the in-breath and the out-breath even as they move within the nostrils,",
+    "situations": ["temptation_self_control"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "By not dwelling on the sounds and other objects the senses have brought in, one keeps them outside; then one fixes the gaze between the brows and evens the breath."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Withdrawing the senses, sitting upright in a posture suited to yoga, resting the gaze on the tip of the nose and evening the breath, one turns the mind only to the self."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Describes the method of meditation: fixing the gaze between the brows (a text also allows the tip of the nose) and resting in breath retention."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.28": {
+    "context": "Krishna completes the meditation instruction: the sage who masters senses, mind and intellect is already free.",
+    "english": "with senses, mind and intellect controlled, the sage intent on liberation, free of desire, fear and anger, is truly free for ever.",
+    "situations": ["fear_anxiety", "anger_resentment", "temptation_self_control"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"], "school_notes": [],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.5.29": {
+    "context": "Krishna closes chapter 5: knowing him as the friend of all beings brings peace.",
+    "english": "Knowing me as the enjoyer of sacrifices and austerities, the great Lord of all worlds, and the friend of all beings, one attains peace.",
+    "situations": ["purpose_meaning", "fear_anxiety"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Know me as the enjoyer of all sacrifices and austerities, the great Lord of all worlds, and the friend of all beings, who helps without expecting anything in return and dwells in every heart; knowing me, one attains peace."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Knowing me as the enjoyer of sacrifice, Lord even of the lords of the worlds, and friend of all, one finds happiness in the very doing of karma yoga."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This is the one who is to be meditated upon."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  }
+}

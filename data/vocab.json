@@ -1,0 +1,48 @@
+{
+  "speakers": {
+    "Dhritarashtra": "धृतराष्ट्र उवाच",
+    "Sanjaya": "सञ्जय उवाच",
+    "Arjuna": "अर्जुन उवाच",
+    "Krishna": "श्रीभगवानुवाच"
+  },
+  "situations": {
+    "grief_loss": "Grief and loss",
+    "fear_anxiety": "Fear and anxiety",
+    "anger_resentment": "Anger and resentment",
+    "failure_setback": "Failure and setback",
+    "lack_of_motivation": "Lack of motivation",
+    "conflict_of_duties": "Conflict of duties",
+    "relationships_forgiveness": "Relationships and forgiveness",
+    "ego_pride_envy": "Ego, pride and envy",
+    "temptation_self_control": "Temptation and self-control",
+    "success_wealth": "Success and wealth",
+    "purpose_meaning": "Purpose and meaning",
+    "ageing_death_impermanence": "Ageing, death and impermanence"
+  },
+  "life_stages": {
+    "student": "Learning years: study, training, early adulthood (brahmacarya)",
+    "householder": "Work, family and community responsibilities (gṛhastha)",
+    "elder": "Stepping back, mentoring, retirement (vānaprastha)",
+    "renunciant": "Full-time spiritual life (saṃnyāsa)"
+  },
+  "aims": {
+    "dharma": "Right action, duty, ethics",
+    "artha": "Livelihood, security, wealth",
+    "kama": "Pleasure, love, desire",
+    "moksha": "Liberation, inner freedom"
+  },
+  "safety_flags": {
+    "war": "Speaks of fighting, killing or battle. Never present as advice to harm anyone.",
+    "death": "Speaks of death or the deathless self. Handle with care for grieving or at-risk users.",
+    "renunciation": "Recommends giving up worldly life, work or family ties. Do not present as advice to abandon responsibilities.",
+    "under18_hold": "Do not show to users under 18 without human-reviewed framing. Applies whenever a verse presents death as harmless, urges fighting, or urges leaving family or the world.",
+    "distress_gentle": "Could deepen self-blame or hopelessness in someone who is struggling. Present gently, never as a rebuke.",
+    "caste_gender": "Ranks people by varna (caste) or gender. Present only with reviewed framing, never as endorsement."
+  },
+  "schools": {
+    "advaita": {"commentator": "Śaṅkara", "bhashya": "शाङ्करभाष्यम्"},
+    "vishishtadvaita": {"commentator": "Rāmānuja", "bhashya": "रामानुजभाष्यम्"},
+    "dvaita": {"commentator": "Madhva", "bhashya": "माध्वभाष्यम्"}
+  },
+  "review_status": ["draft", "reviewed", "approved"]
+}

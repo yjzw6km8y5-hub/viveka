@@ -1,0 +1,673 @@
+{
+  "BG.2.1": {
+    "context": "Sanjaya describes Arjuna in tears and despair as Krishna begins to speak, opening the teaching of chapter 2.",
+    "english": "To him, overcome with compassion, his eyes troubled and filled with tears, sinking in despair, Krishna spoke these words.",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.2": {
+    "context": "Krishna's first words in the Gita: he challenges Arjuna's despair at the critical moment as unworthy of him.",
+    "english": "Arjuna, where has this faintness of heart come from at this critical moment? It is not the way of a noble person; it does not lead to heaven, and it brings disgrace.",
+    "situations": ["fear_anxiety", "lack_of_motivation"], "life_stages": ["student", "householder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Summarises 2.1-2.3: Krishna rebukes Arjuna's grief as out of place, unknown to the wise, a bar to the higher worlds, a cause of disgrace, petty and born of weakness of heart, and tells him to drop it and rise to fight."}
+    ],
+    "safety_flags": ["distress_gentle"], "review_status": "draft"
+  },
+  "BG.2.3": {
+    "context": "Krishna urges Arjuna to shake off his weakness and stand up to fight.",
+    "english": "Son of Pritha, do not give in to unmanliness; it does not suit you. Cast off this petty weakness of heart and stand up, scorcher of enemies.",
+    "situations": ["lack_of_motivation", "fear_anxiety"], "life_stages": ["student", "householder"], "aims": ["dharma"], "school_notes": [],
+    "safety_flags": ["war", "under18_hold", "distress_gentle"], "review_status": "draft"
+  },
+  "BG.2.4": {
+    "context": "Arjuna answers Krishna's rebuke: he cannot bring himself to fight the elders he reveres.",
+    "english": "Krishna, how can I fight back with arrows in battle against Bhishma and Drona? They deserve my reverence, destroyer of enemies.",
+    "situations": ["conflict_of_duties"], "life_stages": ["householder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Arjuna, still shaken by love, compassion and fear of doing wrong, fails to grasp Krishna's helpful words and asks how he could kill revered elders like Bhishma and Drona, then enjoy pleasures stained with their blood (2.4-2.5)."}
+    ],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.2.5": {
+    "context": "Arjuna argues that a beggar's life would be better than enjoying a kingdom won by killing his teachers.",
+    "english": "It would be better to live in this world even by begging than to kill these noble teachers. If I killed my teachers, however much they seek gain, I would enjoy here only pleasures stained with blood.",
+    "situations": ["conflict_of_duties", "success_wealth"], "life_stages": ["householder"], "aims": ["dharma", "artha"], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.2.6": {
+    "context": "Arjuna admits he cannot tell whether winning or losing would be worse, since victory means killing his own kin.",
+    "english": "Nor do we know which is better for us: that we defeat them, or that they defeat us. The sons of Dhritarashtra stand before us; if we killed them, we would not even wish to live.",
+    "situations": ["conflict_of_duties", "purpose_meaning"], "life_stages": ["householder"], "aims": ["dharma"], "school_notes": [],
+    "safety_flags": ["war", "distress_gentle"], "review_status": "draft"
+  },
+  "BG.2.7": {
+    "context": "Arjuna, confused about what is right, asks Krishna to teach him and becomes his disciple, which sets up the teaching that follows.",
+    "english": "My nature is overcome by a pitiful weakness, and my mind is confused about what is right. I ask you: tell me clearly what is better. I am your student; I have come to you for refuge. Teach me.",
+    "situations": ["conflict_of_duties", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Summarises 2.6-2.8: Arjuna reasons that being killed by the Kauravas would be better than an unrighteous victory; then, utterly helpless, he takes refuge at Krishna's feet and asks, as his disciple, to be told what is truly good for him."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.8": {
+    "context": "Arjuna explains that no kingdom, not even rule over the gods, could take away his grief.",
+    "english": "I see nothing that could drive away this grief that dries up my senses, even if I won an unrivalled, prosperous kingdom on earth, or even lordship over the gods.",
+    "situations": ["grief_loss", "success_wealth", "purpose_meaning"], "life_stages": ["householder", "elder"], "aims": ["artha", "moksha"], "school_notes": [],
+    "safety_flags": ["distress_gentle"], "review_status": "draft"
+  },
+  "BG.2.9": {
+    "context": "Sanjaya reports that Arjuna, having asked for guidance, declares he will not fight and falls silent.",
+    "english": "Having spoken this way to Krishna, Arjuna said to him, \"I will not fight,\" O king, and fell silent.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Krishna saw that Arjuna, overcome by misplaced love and compassion, now took a warrior's highest duty for wrongdoing and had come to him for refuge. Knowing this delusion would not end without knowledge of the self, and of selfless duty as the way to it, Krishna began teaching that knowledge."}
+    ],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.2.10": {
+    "context": "Sanjaya describes Krishna, smiling between the two armies, about to begin his teaching.",
+    "english": "Then, O king, between the two armies, Krishna, as if smiling, spoke these words to the despairing Arjuna.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Śaṅkara's commentary begins here. He reads 1.2-2.9 as showing where grief and delusion, the seeds of worldly existence, come from: Arjuna's sense of 'I' and 'mine' towards kingdom, teachers, sons, friends and relatives."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.11": {
+    "context": "Krishna begins his teaching: Arjuna's grief rests on a misunderstanding of what a person truly is (2.11-2.30).",
+    "english": "You grieve for those who should not be grieved for, and yet you speak words that sound wise. The wise grieve neither for the dead nor for the living.",
+    "situations": ["grief_loss", "ageing_death_impermanence"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Bhishma, Drona and the others are not to be grieved for: they lived rightly, and in their true nature they are eternal. Arjuna shows folly and learning at once, like someone deranged."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Arjuna's arguments, such as ancestors falling when rites stop (1.42), come from taking the body for the self. Those who know the true nature of the body and of the self grieve for neither."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Krishna speaks to Arjuna caught in a net of delusion about his relatives; the 'wise-sounding words' are arguments of Arjuna's own devising."}
+    ],
+    "safety_flags": ["death", "under18_hold", "distress_gentle"], "review_status": "draft"
+  },
+  "BG.2.12": {
+    "context": "Krishna's first argument against grief: the self of every person, his own included, has always existed and always will.",
+    "english": "There was never a time when I did not exist, nor you, nor these kings; and none of us will ever cease to exist in the future.",
+    "situations": ["ageing_death_impermanence", "grief_loss"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Each of us exists as the self in all three times, unaffected as bodies arise and perish, as space is unaffected by pots. The plural 'we' follows the different bodies; it does not mean there are many selves."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Just as the Lord of all is eternal, so are the individual selves, Arjuna and these kings. Because Krishna says 'I, you, these, all of us' while teaching the highest truth, the distinction between the Lord and the selves, and among the selves, is real."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Krishna cites his own eternity, well known from the Upanishads, as an example: just as I am eternal, so are you and these kings."}
+    ],
+    "safety_flags": ["death"], "review_status": "draft"
+  },
+  "BG.2.13": {
+    "context": "Krishna compares death to the changes of a single lifetime to show that the self continues.",
+    "english": "Just as the embodied self passes through childhood, youth and old age in this body, so it passes into another body. A steady person is not confused by this.",
+    "situations": ["ageing_death_impermanence", "grief_loss"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The self does not perish when childhood ends or come into being when youth begins; it passes unchanged through these states, and in the same way into another body."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Just as no one grieves that the self has perished when it moves from childhood to youth in one body, the wise do not grieve when it moves to another body."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The self is the one who experiences childhood and the other stages, which the inert body cannot do; as it continues through these, so it continues into another body."}
+    ],
+    "safety_flags": ["death"], "review_status": "draft"
+  },
+  "BG.2.14": {
+    "context": "Krishna turns to the sensations of pain and pleasure, urging Arjuna to bear them because they pass.",
+    "english": "Contact with the objects of the senses, son of Kunti, brings cold and heat, pleasure and pain. These come and go; they do not last. Bear them patiently, Arjuna.",
+    "situations": ["failure_setback", "fear_anxiety"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The 'contacts' are the meeting of the senses with sound and other objects, which give cold, heat, pleasure and pain; since they come and go, they should be borne."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Bear them with fortitude until your prescribed duty, such as this battle, is complete. They can be borne because they come and go, and they cease altogether when the karma that binds is exhausted."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Pain and pleasure do not belong to the self by nature, since they come and go; if they did, they would persist even in deep sleep."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.15": {
+    "context": "Krishna says that the person who stays steady in pain and pleasure is fit for liberation.",
+    "english": "The steady person whom these do not shake, best of men, who stays the same in pain and pleasure, is fit for immortality.",
+    "situations": ["failure_setback", "success_wealth", "fear_anxiety"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "One who is neither elated nor dejected by pleasure and pain, because they see the eternal self, is able to attain immortality, that is, liberation."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Only one who bears unavoidable pain as if it were pleasure, while doing their duty without seeking its fruit, attains immortality; not someone who cannot bear pain."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "States the purpose of endurance: the person who keeps pain and pleasure equal, through steadiness, is not troubled by sense contacts."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.16": {
+    "context": "Krishna distinguishes what is real, and never ceases, from what is unreal, as the basis for his teaching on the self.",
+    "english": "The unreal never comes into being; the real never ceases to be. Those who see the truth have reached the final understanding of both.",
+    "situations": ["purpose_meaning", "ageing_death_impermanence"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Heat, cold and every other effect are unreal: no effect is found apart from its cause, as a pot is nothing apart from clay. Only the real, Brahman, truly is."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The body, being perishable, has unreality as its nature; the conscious self, being imperishable, has reality as its nature. This is the settled conclusion of those who see the truth about both."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Neither the cause of the world (prakṛti, here called 'unreal') nor Brahman ('the real') ever ceases to exist; citing the Viṣṇu Purāṇa, he holds that prakṛti, the soul and time are eternal."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.17": {
+    "context": "Krishna describes the self that pervades everything as beyond destruction.",
+    "english": "Know that what pervades all this is indestructible. No one can destroy the imperishable.",
+    "situations": ["ageing_death_impermanence", "fear_anxiety"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "What pervades the whole world, as space pervades pots, is Brahman, called 'the real'; having no parts, it neither grows nor declines, so nothing can destroy it."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The self pervades all non-conscious things and is subtler than all of them. Weapons, fire and the like destroy only what they can pervade, so nothing can destroy the self."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "What is unlimited in space is eternal; it cannot be destroyed even by something like a curse."}
+    ],
+    "safety_flags": ["death"], "review_status": "draft"
+  },
+  "BG.2.18": {
+    "context": "Krishna contrasts perishable bodies with the imperishable self and draws the conclusion that Arjuna should fight.",
+    "english": "These bodies of the eternal, indestructible, immeasurable embodied self are said to come to an end. So fight, Arjuna.",
+    "situations": ["ageing_death_impermanence", "conflict_of_duties"], "life_stages": ["householder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'Fight' is not a command to fight: Arjuna was already engaged in battle and had stopped only because of grief and delusion. The word merely removes that obstacle, since the Gita aims to remove grief and delusion, not to prompt action."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Bodies are built up to experience the fruits of karma and perish when that karma ends. The self is imperishable because it is never known as an object, only ever as the knower."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The self does not perish with the body as a reflection vanishes with its mirror, because it resembles the immeasurable Lord."}
+    ],
+    "safety_flags": ["war", "death", "under18_hold"], "review_status": "draft"
+  },
+  "BG.2.19": {
+    "context": "Krishna argues that the true self neither kills nor is killed, answering Arjuna's horror at killing his kin.",
+    "english": "Whoever thinks this self is a killer, and whoever thinks it is killed, neither of them understands. It does not kill, and it is not killed.",
+    "situations": ["ageing_death_impermanence", "grief_loss"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Those who think 'I kill' or 'I am killed' mistake the body for the self; the self is neither the doer nor the object of killing."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Because the self is eternal, it neither causes death nor dies. 'Killing' means separating a self from its body, so scripture's command not to harm any being still forbids every such separation scripture does not sanction."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Ordinary talk of killing is mistaken: the self neither kills nor is killed. Like a reflection, it acts only through the actions of the original, the Lord."}
+    ],
+    "safety_flags": ["war", "death", "under18_hold"], "review_status": "draft"
+  },
+  "BG.2.20": {
+    "context": "Krishna's first answer to Arjuna's grief over killing his teachers and kin: the true self is not the body and does not die with it (2.11-2.30).",
+    "english": "The self is never born and never dies. It did not come into being, and it will never stop being. Unborn, eternal, constant and ancient, it is not killed when the body is killed.",
+    "situations": ["grief_loss", "ageing_death_impermanence", "fear_anxiety"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Reads the verse as denying, one by one, all six changes that worldly things undergo (birth, existence, growth, change, decline, destruction). The self has no parts, so it can neither decline nor grow; it is entirely free of change."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Birth and death belong to the non-conscious body and never touch the self, even in the bodies of great beings that arise and dissolve with each cosmic cycle. 'Ancient' means the self is old yet always fresh."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Says the teaching also has Vedic mantra support, and that the self is unborn and eternal because it resembles the Lord in nature. He glosses 'ancient' (purāṇa) as 'that which animates the body'."}
+    ],
+    "safety_flags": ["death", "war", "under18_hold"], "review_status": "draft"
+  },
+  "BG.2.21": {
+    "context": "Krishna draws out what knowing the indestructible self means for Arjuna's fear of killing.",
+    "english": "Son of Pritha, how can a person who knows this self to be indestructible, eternal, unborn and unchanging kill anyone, or cause anyone to be killed?",
+    "situations": ["ageing_death_impermanence", "conflict_of_duties"], "life_stages": ["householder"], "aims": ["moksha", "dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The question is rhetorical: one who knows the self to be changeless does not, in any way, kill anyone or cause anyone to kill."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Grieving 'I am killing them' comes from not knowing the true nature of the self; with eternal selves, only their separation from bodies takes place."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Glosses 'indestructible' as free of destruction from outside causes, or free of defects, and 'eternal' as free of destruction by its own nature."}
+    ],
+    "safety_flags": ["war", "death", "under18_hold"], "review_status": "draft"
+  },
+  "BG.2.22": {
+    "context": "Krishna gives his best-known image of rebirth: the self changes bodies as a person changes clothes.",
+    "english": "As a person throws away worn-out clothes and puts on new ones, so the embodied self throws away worn-out bodies and enters new ones.",
+    "situations": ["grief_loss", "ageing_death_impermanence"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Like the person who changes clothes, the self remains unchanged as it leaves old bodies and takes on new ones."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Scripture teaches that those who give up the body in a righteous war gain a better one, so this is cause for joy, like exchanging worn clothes for fine new ones."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "An illustration to help one experience the self as distinct from the body."}
+    ],
+    "safety_flags": ["death", "under18_hold"], "review_status": "draft"
+  },
+  "BG.2.23": {
+    "context": "Krishna describes the self as beyond the reach of weapons and the elements.",
+    "english": "Weapons do not cut it, fire does not burn it, water does not wet it, and wind does not dry it.",
+    "situations": ["ageing_death_impermanence", "fear_anxiety"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Having no parts, the self cannot be divided by weapons, burned to ash, loosened by water or dried out by wind."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The self pervades all the elements and is subtler than them, so they cannot pervade it; and cutting, burning, wetting and drying work only on what they pervade."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Even something that does not perish of itself might seem destructible by some special cause; this verse rules out such causes for the self."}
+    ],
+    "safety_flags": ["death"], "review_status": "draft"
+  },
+  "BG.2.24": {
+    "context": "Krishna continues describing the self as untouched by any physical force, eternal and unchanging.",
+    "english": "It cannot be cut, burned, wetted or dried. It is eternal, present everywhere, stable, unmoving and timeless.",
+    "situations": ["ageing_death_impermanence", "fear_anxiety"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Because the elements that destroy one another cannot destroy the self, it is eternal; being eternal, it is everywhere; being everywhere, it is stable and unmoving; and it is timeless, not produced by any cause."}
+    ],
+    "safety_flags": ["death"], "review_status": "draft"
+  },
+  "BG.2.25": {
+    "context": "Krishna concludes that, knowing the self to be unmanifest and unchanging, Arjuna has no reason to grieve.",
+    "english": "It is called unmanifest, beyond thought and unchanging. So, knowing it to be like this, you should not grieve.",
+    "situations": ["grief_loss", "ageing_death_impermanence"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The self is not an object of any sense, so it is unmanifest and beyond thought; having no parts, it does not change the way milk turns into curd."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The self is not revealed by the means that reveal things that can be cut, and, being unlike everything else, cannot even be conceived in their terms; so it cannot change, and there is no reason to grieve for it."}
+    ],
+    "safety_flags": ["death", "under18_hold"], "review_status": "draft"
+  },
+  "BG.2.26": {
+    "context": "Krishna makes a second argument: even if the self were born and died with each body, grief would still be misplaced.",
+    "english": "And even if you think of the self as constantly being born and constantly dying, even then, mighty-armed one, you should not grieve like this.",
+    "situations": ["grief_loss", "ageing_death_impermanence"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Even granting the popular view that the self is born and dies with each body, grief is wrong, since what is born must die and what dies must be born."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Even if you take the self to be just the body, you should not grieve so much, because birth and destruction are unavoidable for a body that changes by nature."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Answers the objection that even if the self is eternal, birth and death, as joining and leaving a body, still happen."}
+    ],
+    "safety_flags": ["death", "under18_hold"], "review_status": "draft"
+  },
+  "BG.2.27": {
+    "context": "Krishna continues the second argument: what is born must die, so grief over the unavoidable is misplaced.",
+    "english": "Death is certain for whoever is born, and birth is certain for whoever dies. So you should not grieve over what cannot be avoided.",
+    "situations": ["grief_loss", "ageing_death_impermanence"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Birth and death are bound to each other and cannot be avoided, so grieving over them is unfitting."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Arising and perishing are only states of a substance that always exists, as threads in a certain arrangement are called cloth; so what is destroyed is born again."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "There is no cause for grief, because birth and death are fixed."}
+    ],
+    "safety_flags": ["death", "under18_hold"], "review_status": "draft"
+  },
+  "BG.2.28": {
+    "context": "Krishna observes that beings come from the unseen and return to it, appearing only in between.",
+    "english": "Beings are unmanifest at their beginning, manifest in their middle, Arjuna, and unmanifest again at their end. What is there to lament in that?",
+    "situations": ["grief_loss", "ageing_death_impermanence"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Sons, friends and others come from the unseen before birth and return to the unseen after death; he quotes a saying that the one who came from the unseen and went back to it was neither yours nor you his."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Even on the view that the self is the body, beings simply pass through unseen, seen and unseen states, so there is no cause for lament."}
+    ],
+    "safety_flags": ["death", "under18_hold"], "review_status": "draft"
+  },
+  "BG.2.29": {
+    "context": "Krishna acknowledges how hard it is to grasp the self: even those who hear of it rarely understand.",
+    "english": "Some see this self as a wonder; another speaks of it as a wonder; another hears of it as a wonder; and even after hearing of it, no one truly knows it.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The self is hard to understand: one who truly sees it, speaks of it or hears of it is a rarity, one among many thousands."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Among countless beings, only someone whose sins have been worn away by great austerity sees this self, which is unlike everything else; and even among seers, speakers and hearers, true seeing, speaking and hearing are rare."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The self is hard to see because it resembles the Lord and is subtle, so the one who sees it is a wonder."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.30": {
+    "context": "Krishna sums up his first line of argument (2.11-2.30): the self in every body cannot be killed, so grief is unfounded.",
+    "english": "The self that dwells in every body is eternal and can never be killed, Arjuna. So you should not grieve for any being.",
+    "situations": ["grief_loss", "ageing_death_impermanence"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Even when the body of any being is killed, the self within it cannot be, so do not grieve for Bhishma and the others."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "All beings, from gods to plants, differ in form but are alike and eternal in their true nature; inequality and impermanence belong only to bodies. So grieve for none of them, not only for Bhishma and the others."}
+    ],
+    "safety_flags": ["death", "under18_hold"], "review_status": "draft"
+  },
+  "BG.2.31": {
+    "context": "Krishna's second line of argument begins: apart from the nature of the self, a warrior's own duty calls him to fight a just war.",
+    "english": "And looking at your own duty, you should not waver; for a warrior, there is nothing better than a war fought for what is right.",
+    "situations": ["conflict_of_duties"], "life_stages": ["householder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "A warrior's own duty is to fight; this war, waged to win the land for the sake of dharma and to protect the people, is entirely in keeping with dharma."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Although battle involves killing, it is a warrior's own duty, like a prescribed Vedic rite; nothing is better for a warrior than a war waged justly. He cites 18.43 on the warrior's nature."}
+    ],
+    "safety_flags": ["war", "under18_hold"], "review_status": "draft"
+  },
+  "BG.2.32": {
+    "context": "Krishna describes the battle Arjuna faces as, by the warrior ethic of his time, a rare opportunity.",
+    "english": "Fortunate are the warriors, son of Pritha, who find a war like this, come of its own accord: an open door to heaven.",
+    "situations": ["conflict_of_duties"], "life_stages": ["householder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Unsought, the war has come to them as an open gate to heaven; are the warriors who gain such a war not fortunate?"},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Only warriors with merit gain, without effort, such an unobstructed war, which is a means to supreme happiness."}
+    ],
+    "safety_flags": ["war", "death", "under18_hold"], "review_status": "draft"
+  },
+  "BG.2.33": {
+    "context": "Krishna warns Arjuna that refusing to fight this righteous battle would mean abandoning his duty and honour.",
+    "english": "But if you do not fight this righteous battle, you will give up your duty and your honour, and you will incur sin.",
+    "situations": ["conflict_of_duties"], "life_stages": ["householder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "By not fighting, you lose your duty and the fame you won in encounters such as the one with Mahādeva, and gain only sin."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "If, out of delusion, you do not fight the battle already begun, you lose the supreme happiness and fame that victory brings and incur great sin."}
+    ],
+    "safety_flags": ["war", "under18_hold"], "review_status": "draft"
+  },
+  "BG.2.34": {
+    "context": "Krishna appeals to Arjuna's sense of honour, warning of lasting disgrace if he withdraws.",
+    "english": "People will tell of your disgrace for ever, and for someone who has been honoured, disgrace is worse than death.",
+    "situations": ["ego_pride_envy", "fear_anxiety"], "life_stages": ["householder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "For someone honoured for virtues such as righteousness and courage, death is better than disgrace."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Disgrace from failing in courage is worse than death for one honoured for valour; for you, death would be better than such disgrace."}
+    ],
+    "safety_flags": ["war", "death", "under18_hold", "distress_gentle"], "review_status": "draft"
+  },
+  "BG.2.35": {
+    "context": "Krishna warns that the other warriors will put Arjuna's withdrawal down to fear, not compassion.",
+    "english": "The great warriors will think you pulled back from battle out of fear, and those who once thought highly of you will think little of you.",
+    "situations": ["ego_pride_envy", "fear_anxiety"], "life_stages": ["householder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Duryodhana and the others will think you withdrew out of fear of Karna and the rest, not out of compassion."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Brave enemies cannot imagine a warrior quitting battle out of love for his relatives, so Karna, Duryodhana and the others will put it down to fear."}
+    ],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.2.36": {
+    "context": "Krishna adds that Arjuna's enemies will mock his courage, a pain worse than any other.",
+    "english": "Your enemies will say many things that should never be said, mocking your strength. What could be more painful than that?",
+    "situations": ["ego_pride_envy", "fear_anxiety"], "life_stages": ["householder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Your enemies will scorn the prowess you showed in battles such as the one against the Nivātakavacas; no pain is worse than that scorn."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Your enemies will say you could not stand a moment before brave men like them; you yourself would think death better than hearing that."}
+    ],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.2.37": {
+    "context": "Krishna's second line of argument (2.31-2.38): apart from the nature of the self, Arjuna's own duty as a warrior calls him to fight a righteous war.",
+    "english": "If you are killed, you will reach heaven; if you win, you will enjoy the earth. So stand up, son of Kunti, resolved to fight.",
+    "situations": ["conflict_of_duties"], "life_stages": ["householder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Takes the verse at face value: either outcome is a gain, so Arjuna should rise with the firm resolve 'I will defeat the enemy or die'."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Reads it as about a righteous war (dharma-yuddha) fought without seeking its fruits. Such duty is itself a means to the highest good, liberation, so the effort to fight is undertaken for that end."}
+    ],
+    "safety_flags": ["war", "death", "under18_hold"], "review_status": "draft"
+  },
+  "BG.2.47": {
+    "context": "Krishna turns from the nature of the self to how to act: with a steady mind, doing one's work without clinging to results (2.39-2.53).",
+    "english": "Your right is to the work alone, never to its results. Do not let the results be your motive, and do not become attached to doing nothing.",
+    "situations": ["failure_setback", "fear_anxiety", "lack_of_motivation", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Arjuna's entitlement is to action, not yet to the path of pure knowledge. Never thirst for results, because acting from that thirst makes one a cause of further birth; but this must not become a liking for inaction either."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Work done for its fruit binds; work done without desire for fruit, as worship of the Lord, leads to liberation. One should also reflect that one is not the sole doer: agency rests with the guṇas or with the Lord."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The ban on acting for results applies even to the wise, and all the more to others, since results do not depend on oneself alone. Scripture's promises of rewards are only an inducement, like sweetening medicine."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.38": {
+    "context": "Krishna closes his argument from duty: fight with an even mind towards pleasure and pain, gain and loss, victory and defeat.",
+    "english": "Treating pleasure and pain, gain and loss, victory and defeat as the same, prepare yourself for battle. Then you will incur no sin.",
+    "situations": ["failure_setback", "success_wealth", "conflict_of_duties"], "life_stages": ["householder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Treat them alike, without attachment or aversion, and fight. This advice is incidental: the arguments from a warrior's duty (2.31-2.37) were worldly reasoning to dispel grief, not the main point, which is the vision of the highest truth."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Knowing the eternal self beyond the body, and unmoved by the pain, gain or defeat war brings, begin the battle without aiming at heaven, simply as what must be done. Then you will not fall into 'sin', the painful cycle of rebirth, but be freed from it."}
+    ],
+    "safety_flags": ["war", "under18_hold"], "review_status": "draft"
+  },
+  "BG.2.39": {
+    "context": "Krishna turns from knowledge of the self (Sankhya) to the discipline of action (yoga), the theme of 2.39-2.53.",
+    "english": "This is the understanding I have taught you in terms of Sankhya. Now hear it in terms of yoga: joined with this understanding, son of Pritha, you will throw off the bondage of action.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Sankhya here is discernment of the highest truth, which directly removes the causes of grief and delusion; yoga is the means to it: action without attachment, done as worship of the Lord, and meditation."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Sankhya is the truth of the self grasped by the intellect, taught in 2.12-2.30; yoga is the understanding with which one performs action, grounded in that knowledge, as a means to liberation."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Sankhya means knowledge of the pure self and yoga means the means to it, citing Vyāsa and the Bhāgavata; the separate Sankhya and Yoga schools are not what is meant."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.40": {
+    "context": "Krishna reassures Arjuna that on the path of selfless action, no effort is ever lost.",
+    "english": "On this path no effort is wasted and no harm comes from falling short. Even a little of this practice protects a person from great fear.",
+    "situations": ["failure_setback", "fear_anxiety", "lack_of_motivation"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Unlike farming, a start on this path never goes to waste, and unlike an unfinished course of medicine, an incomplete practice does no harm; even a little protects from the great fear of birth and death."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Karma yoga, even begun and broken off, is not fruitless and brings no penalty; even a small part protects from the fear of rebirth. He links this to 6.40."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.41": {
+    "context": "Krishna contrasts a resolute, single-minded purpose with the scattered aims of the irresolute.",
+    "english": "On this path, Arjuna, the resolute mind is single-pointed; but the thoughts of the irresolute are many-branched and endless.",
+    "situations": ["purpose_meaning", "lack_of_motivation"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The resolute understanding, born of right knowledge, is one, and it overcomes the endless contrary notions that keep worldly existence going."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Action for liberation rests on firm conviction about the true self, so the mind is single; action for desired rewards needs no such conviction, and its aims branch out endlessly."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Answers the worry that so many differing views make commitment hard: views rightly settled by sound reasoning are in fact one."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.42": {
+    "context": "Krishna contrasts the resolute mind with people who treat Vedic ritual only as a way to heaven and its rewards (2.42-2.44).",
+    "english": "The unwise, son of Pritha, who delight in the letter of the Vedas and claim there is nothing more, speak flowery words",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The undiscerning, delighting in Vedic passages that praise rewards, say there is nothing beyond rites that bring heaven, cattle and the like; their words are like a tree in flower, pleasant to hear."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "People of little understanding, attached to Vedic promises of heaven, speak words that are all flower and no fruit, attractive at first; they think nothing surpasses heaven."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Not only non-Vedic views are irresolute: some Vedic interpreters also say rites yield only heaven. Compared with liberation, their words are mere flowers."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.43": {
+    "context": "Krishna continues describing those who value Vedic ritual only for the pleasures and power it promises.",
+    "english": "full of desire, intent on heaven, offering rebirth as the reward of action, and crowded with special rites for gaining pleasure and power.",
+    "situations": ["success_wealth", "temptation_self_control"], "life_stages": ["householder", "elder"], "aims": ["artha", "kama", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Full of desire and holding heaven as the highest goal, they speak words that promise rebirth as the fruit of action and abound in special rites aimed at pleasure and power."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "They claim the Vedas aim only at gaining enjoyment and power."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.44": {
+    "context": "Krishna concludes that people carried away by desire for pleasure and power cannot develop a steady, resolute mind.",
+    "english": "Those who cling to pleasure and power, their minds carried away by such words, do not develop the resolute understanding that rests in deep concentration.",
+    "situations": ["success_wealth", "temptation_self_control", "purpose_meaning"], "life_stages": ["householder", "elder"], "aims": ["artha", "kama", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "In those devoted to pleasure and power, whose discernment is covered over by such words, resolute understanding, whether of Sankhya or yoga, does not arise in the mind."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "In such people the conviction about the true self, on which action for liberation depends, never arises; so a seeker of liberation should avoid rites done for desired rewards."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Their understanding does not settle in concentration on the Lord, which comes from rightly established knowledge and is the means to liberation."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.45": {
+    "context": "Krishna urges Arjuna to look beyond the rewards promised by Vedic ritual and rise above the three gunas, the qualities of nature.",
+    "english": "The Vedas deal with the three gunas. Rise above the three gunas, Arjuna: be free of the pairs of opposites, always grounded in purity, unconcerned with getting and keeping, and centred in the self.",
+    "situations": ["purpose_meaning", "success_wealth", "temptation_self_control"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The Vedas have worldly existence, the realm of the three gunas, as their subject; you should be free of desire, beyond the opposites, always in sattva, and unconcerned with gaining or keeping things."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Out of great care, the Vedas teach what is good for people dominated by each of the gunas; Arjuna should rise above that and grow in sattva alone."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Because the Vedas speak indirectly, they seem to be about heaven and other rewards tied to the gunas; do not be misled by that apparent sense. The Vedas themselves are not being rejected."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.46": {
+    "context": "Krishna compares the Vedas' rewards to a well beside a flood: for one who knows the truth, they add nothing.",
+    "english": "As much use as there is in a small well when water is flooding everywhere, so much is there in all the Vedas for a brahmin who truly knows.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Just as every use of wells and ponds is contained in a great flood of water, the fruit of all Vedic rites is contained in the knowledge of the brahmin, here a renunciant who knows the highest truth."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "As a thirsty person takes from a full reservoir only what they need to drink, a Vedic seeker of liberation takes from the Vedas only what leads to liberation."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Whatever fruit all the Vedas give is included in the fruit of the one who knows; 'brahmin' here means one with direct knowledge of Brahman."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.48": {
+    "context": "Krishna defines yoga as evenness of mind, acting without attachment to success or failure.",
+    "english": "Established in yoga, do your work, Arjuna, giving up attachment and staying the same in success and failure. This evenness of mind is called yoga.",
+    "situations": ["failure_setback", "success_wealth", "fear_anxiety", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Act only for the Lord's sake, giving up even the attachment 'may the Lord be pleased with me'. Success here is the purity of mind that leads to knowledge; staying even in success and failure is itself the yoga."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Give up attachment to kingdom and kin and do your work, such as fighting, even-minded about victory or defeat; yoga here is this evenness, a settled mind."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Clarifies the previous verse: yoga is the means; giving up fondness for results makes one even in success and failure."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.49": {
+    "context": "Krishna contrasts action driven by results with action guided by an even, clear understanding.",
+    "english": "Action done for its results is far inferior to the discipline of understanding, Arjuna. Seek refuge in that understanding; those whose motive is the result are pitiable.",
+    "situations": ["purpose_meaning", "success_wealth", "failure_setback"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Action done for results is far inferior, since it causes birth and death. Take refuge in the understanding of evenness, or in the knowledge it ripens into; those who act for results are wretched."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Action with this discipline removes all worldly suffering and leads to liberation; action without it leads to the endless suffering of rebirth."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The discipline of understanding is the means to knowledge; take your stand in knowledge. 'Those whose motive is the result' act for the fruit."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.50": {
+    "context": "Krishna explains that acting with an even mind frees a person from the binding effects of good and bad deeds.",
+    "english": "One joined with this understanding leaves behind both good and bad deeds, here in this life. So devote yourself to yoga: yoga is skill in action.",
+    "situations": ["purpose_meaning", "failure_setback"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Joined with even understanding, one sheds both merit and demerit through purity of mind and knowledge. Skill in action is doing one's own duty with the mind offered to the Lord, even-minded in success and failure."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Acting with this understanding, one sheds the endless merit and demerit, piled up since beginningless time, that cause bondage. This discipline in action is 'skill': it takes great capacity."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The knower gives up only the unwanted fruits of good deeds, such as another human birth, not the great fruit of worship; he cites the Upanishads to show that a knower's good karma is not lost."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.51": {
+    "context": "Krishna describes where selfless action leads: freedom from rebirth and a state beyond suffering.",
+    "english": "The wise, joined with this understanding, give up the fruit that action brings; freed from the bondage of rebirth, they reach the state beyond all suffering.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Giving up the fruit of action, good or bad births, through even understanding, the wise are freed from the bondage of birth even while living, and reach Viṣṇu's highest state, liberation."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Acting while giving up the fruit, they are freed from the bondage of birth and reach the state free of suffering, as all the Upanishads teach."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The method: give up the fruit by offering it to the Lord without desire. This yoga of action is a means to knowledge, and knowledge is the means to liberation."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.52": {
+    "context": "Krishna tells Arjuna that once his mind clears, he will no longer be swayed by the many promises of ritual and teaching.",
+    "english": "When your understanding crosses beyond the thicket of delusion, you will become indifferent to what you have heard and to what you have yet to hear.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "When your mind passes beyond the confusion that blurs self and non-self, you will gain dispassion, and what has been heard and what remains to be heard will seem fruitless."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "When your mind, cleansed by acting this way, passes beyond the delusion that clings to petty rewards, you will turn away of yourself from the rewards you have heard of and those you have yet to hear of."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Answers how long a seeker must keep acting this way: until 'nirveda', which he reads not as disgust but as complete attainment."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.53": {
+    "context": "Krishna describes the goal of this discipline: a mind steady and settled, no longer pulled in different directions.",
+    "english": "When your understanding, unsettled by all you have heard, stands firm and unmoving in deep concentration, then you will attain yoga.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Your mind, distracted by the many Vedic teachings on means and ends, will reach yoga when it becomes still and settles, unwavering, in the self."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "When the understanding gained from hearing me settles steadily in a mind purified by unattached action, you will attain yoga, the vision of the self. Action grounded in knowledge leads to steady wisdom."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "When the mind, once confused by the Vedas, stands firm through knowledge that accords with their true meaning, unshaken even by contrary words, and rests in bliss through direct vision of Brahman, the means is accomplished."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.54": {
+    "context": "Arjuna asks Krishna to describe the person of steady wisdom, opening the portrait in 2.55-2.72.",
+    "english": "Krishna, how would you describe a person of steady wisdom, settled in deep concentration? How does someone of steady mind speak, how do they sit, how do they move?",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Arjuna asks for the marks of one whose wisdom, 'I am the supreme Brahman', is firmly established."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Arjuna asks what words describe such a person's nature and how such a person acts, since describing their conduct also reveals their nature."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Description' (bhāṣā) means the distinguishing mark: Arjuna asks for the marks of one whose knowledge is steady."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.55": {
+    "context": "Krishna begins his portrait of the person of steady wisdom: free of cravings and content within.",
+    "english": "Son of Pritha, when a person gives up every desire that enters the mind and is content in the self, by the self, that person is said to be of steady wisdom.",
+    "situations": ["temptation_self_control", "purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "When one gives up all desires and, independent of outward gains, is content in the inner self, one is called steady in wisdom."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Content in the self through a mind resting on the self alone, one lets go of every other desire; this is the peak of steadiness in knowledge."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Through remaining past karma even the wise may keep slight desires, as sages like Śuka did, so 'all desires' means practically all."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.56": {
+    "context": "Krishna continues: the person of steady wisdom is not shaken by sorrow and is free of craving, fear and anger.",
+    "english": "One whose mind is not shaken by sorrows, who does not crave pleasures, and who is free of passion, fear and anger, is called a sage of steady mind.",
+    "situations": ["fear_anxiety", "anger_resentment", "grief_loss", "temptation_self_control"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Unshaken when sorrows come, without craving when pleasures come, and free of passion, fear and anger: such a person is a sage, a renunciant of steady wisdom."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Not distressed at losing what is dear, not longing for pleasant things even when they are near, and free of craving, of fear of loss, and of anger, which is one's own mind's reaction to someone who causes pain."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "These marks of the wise are also the means for the one seeking knowledge."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.57": {
+    "context": "Krishna adds that the steady person meets good and bad fortune without elation or resentment.",
+    "english": "One who is without attachment anywhere, who neither rejoices at good fortune nor resents misfortune, has wisdom that is firmly established.",
+    "situations": ["success_wealth", "failure_setback"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Without attachment even to body and life, neither delighted by good nor resentful of bad, such a person has wisdom born of discernment, firmly established."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Indifferent towards what is dear, neither delighted nor resentful at gaining or losing it: this too is steady wisdom, at a lower stage than the last."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Because they are unattached everywhere, they neither delight nor resent on meeting good or bad."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.58": {
+    "context": "Krishna gives the image of the tortoise for mastery over the senses.",
+    "english": "When, like a tortoise drawing in its limbs, a person withdraws the senses completely from their objects, that person's wisdom is firmly established.",
+    "situations": ["temptation_self_control"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "As a tortoise draws in its limbs out of fear, one devoted to knowledge draws the senses back from all their objects."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The moment the senses reach for their objects, such a person withdraws them like a tortoise and fixes the mind on the self. He reads 2.55-2.58 as four stages of steadiness in knowledge, each leading to the one before it."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.59": {
+    "context": "Krishna explains that simply avoiding sense objects does not remove the craving for them; only seeing the highest does.",
+    "english": "When an embodied person stops feeding the senses, their objects fall away, but the taste for them remains; even that taste fades once the supreme is seen.",
+    "situations": ["temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"], "school_notes": [],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.60": {
+    "context": "Krishna warns that the senses can overpower even a wise person who is making an effort.",
+    "english": "Even when a wise person is striving, son of Kunti, the turbulent senses forcibly carry the mind away.",
+    "situations": ["temptation_self_control", "failure_setback"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"], "school_notes": [],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.61": {
+    "context": "Krishna gives the remedy: restrain the senses and fix the mind on him.",
+    "english": "Having restrained them all, one should sit disciplined, intent on me. One whose senses are under control has wisdom that is firmly established.",
+    "situations": ["temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"], "school_notes": [],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.62": {
+    "context": "Krishna traces how brooding on sense objects leads step by step to anger (2.62-2.63).",
+    "english": "When a person dwells on the objects of the senses, attachment to them arises; from attachment comes desire, and from desire comes anger.",
+    "situations": ["anger_resentment", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"], "school_notes": [],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.63": {
+    "context": "Krishna completes the chain from brooding to ruin: anger clouds judgement until reason itself is lost.",
+    "english": "From anger comes delusion; from delusion, confused memory; from confused memory, the loss of reason; and when reason is lost, a person is ruined.",
+    "situations": ["anger_resentment", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"], "school_notes": [],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.64": {
+    "context": "Krishna shows the alternative to the chain of craving: living among sense objects without attraction or aversion brings calm.",
+    "english": "But one who moves among the objects of the senses with senses free of attraction and aversion, under the self's control, with a disciplined mind, attains inner calm.",
+    "situations": ["temptation_self_control", "anger_resentment"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"], "school_notes": [],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.65": {
+    "context": "Krishna describes what inner calm brings: the end of sorrow and a steady mind.",
+    "english": "In that calm, all sorrows come to an end; for the understanding of one whose mind is calm soon becomes steady.",
+    "situations": ["grief_loss", "fear_anxiety"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"], "school_notes": [],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.66": {
+    "context": "Krishna explains why discipline matters: without it there is no clarity, no peace, and so no happiness.",
+    "english": "One who is undisciplined has no understanding and no power of contemplation; without contemplation there is no peace, and without peace, how can there be happiness?",
+    "situations": ["fear_anxiety", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"], "school_notes": [],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.67": {
+    "context": "Krishna gives the image of a boat blown off course to show how the senses can sweep away judgement.",
+    "english": "When the mind follows the wandering senses, it carries away a person's wisdom, as the wind carries away a boat on the water.",
+    "situations": ["temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"], "school_notes": [],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.68": {
+    "context": "Krishna concludes his teaching on the senses: mastery over them is the mark of steady wisdom.",
+    "english": "So, mighty-armed one, a person whose senses are completely held back from their objects has wisdom that is firmly established.",
+    "situations": ["temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"], "school_notes": [],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.69": {
+    "context": "Krishna contrasts the outlook of the sage with that of ordinary people: what one sees as real, the other does not.",
+    "english": "What is night for all beings is the time of waking for the self-controlled; and when other beings are awake, that is night for the sage who truly sees.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"], "school_notes": [],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.70": {
+    "context": "Krishna compares the person of steady wisdom to the ocean, which rivers keep filling without disturbing it.",
+    "english": "As waters flow into the ocean, which is always being filled yet stays still within its bounds, so the person into whom all desires flow in this way finds peace; not the one who chases desires.",
+    "situations": ["temptation_self_control", "success_wealth", "purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"], "school_notes": [],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.71": {
+    "context": "Krishna sums up the person of steady wisdom: free of craving, possessiveness and ego, and at peace.",
+    "english": "A person who gives up all desires and lives free of longing, without any sense of 'mine' and without ego, attains peace.",
+    "situations": ["temptation_self_control", "ego_pride_envy", "success_wealth"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"], "school_notes": [],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.2.72": {
+    "context": "Krishna closes chapter 2: steady wisdom is the state of Brahman, which leads to final peace even at the hour of death.",
+    "english": "This is the state of Brahman, son of Pritha. Having reached it, a person is never deluded again; remaining in it even at the hour of death, they attain the peace of Brahman.",
+    "situations": ["purpose_meaning", "ageing_death_impermanence"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"], "school_notes": [],
+    "safety_flags": ["death"], "review_status": "draft"
+  }
+}

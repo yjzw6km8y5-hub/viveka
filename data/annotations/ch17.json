@@ -1,0 +1,290 @@
+{
+  "BG.17.1": {
+    "context": "Arjuna opens chapter 17 asking about people who worship with faith but outside the rules of scripture.",
+    "english": "Krishna, what is the standing of those who set aside the rules of scripture but worship with faith: is it sattva, rajas or tamas?",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Arjuna asks about those who, not seeing any rule of scripture, worship gods and others with faith: is their standing sattvic, rajasic or tamasic?"},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "'Standing' (niṣṭhā) means the guna they are established in: is it sattva, rajas or tamas?"},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This chapter details the differences among the gunas; 'setting aside scripture' means acting without knowing it."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.17.2": {
+    "context": "Krishna answers that faith is of three kinds, shaped by each person's nature (17.2-17.4).",
+    "english": "The faith of embodied beings is of three kinds, born of their own nature: sattvic, rajasic and tamasic. Hear about it.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Faith arises from one's nature, the impressions of past lives that show themselves; sattvic faith turns to the gods, rajasic to yakṣas and rākṣasas."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Faith is eagerness for a means, born of trust that it will bring what one wants; it follows one's tastes, which come from old tendencies."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "So he explains it by dividing it into kinds."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.17.3": {
+    "context": "Krishna says each person's faith matches their inner being: a person is what their faith is.",
+    "english": "Everyone's faith is in keeping with their inner nature, Arjuna. A person is made of their faith: whatever their faith is, that is what they are.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Each being's faith matches their inner faculty with its impressions; the worldly self is largely made of faith, and is whatever its faith is."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Faith follows the inner faculty and its qualities; a person is a transformation of their faith: whatever they have faith in, they come to that fruit."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "One whose faith is sattvic is sattvic, and so on."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.17.4": {
+    "context": "Krishna says what people worship reveals their nature.",
+    "english": "Sattvic people worship the gods; rajasic people, yakshas and rakshasas; and others, tamasic people, worship ghosts and hosts of spirits.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The sattvic worship the gods, the rajasic yakṣas and rākṣasas, and the tamasic ghosts and spirits; only one in thousands is established in sattva."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Sattvic faith leads to worship that brings happiness unmixed with sorrow; rajasic faith gives small pleasure mixed with sorrow; tamasic faith gives even less."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.17.5": {
+    "context": "Krishna condemns harsh austerities that torment the body, done from hypocrisy, ego and desire (17.5-17.6).",
+    "english": "Those people who practise terrible austerities not prescribed by scripture, full of hypocrisy and ego, driven by the force of desire and passion,",
+    "situations": ["ego_pride_envy", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Austerity not prescribed by scripture, terrible because it causes pain to oneself and to other beings, done with hypocrisy and ego."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Those who undertake harsh austerities or laborious rites not prescribed by scripture, out of hypocrisy, ego, desire and attachment, wear down the elements of the body and the self within it, which is part of me."}
+    ],
+    "safety_flags": ["distress_gentle"], "review_status": "draft"
+  },
+  "BG.17.6": {
+    "context": "Krishna says those who torment their own bodies torment him within them too.",
+    "english": "senselessly tormenting the elements in the body, and me too, who dwell within the body: know them to be of demonic resolve.",
+    "situations": ["temptation_self_control", "ego_pride_envy"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Wearing down the senses, and me, Nārāyaṇa, the witness within the body; not following my teaching is itself to torment me."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "They wear down the elements of the body and the self within it, which is part of me, so their resolve is demonic."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Tormenting the Lord' means having a small view of him; he cites a text that one who does not see the great supreme Person is a tormentor and a great sinner."}
+    ],
+    "safety_flags": ["distress_gentle"], "review_status": "draft"
+  },
+  "BG.17.7": {
+    "context": "Krishna says food, sacrifice, austerity and giving are each of three kinds (17.7-17.22).",
+    "english": "Even the food that each person likes is of three kinds, and so are sacrifice, austerity and giving. Hear how they differ.",
+    "situations": ["temptation_self_control", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The food each being likes is of three kinds, and so are sacrifice, austerity and giving; hear their differences."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Food, sacrifice, austerity and giving each take three forms according to the gunas."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.17.8": {
+    "context": "Krishna describes the food that sattvic people like: nourishing, wholesome and pleasing.",
+    "english": "Foods that increase life, vitality, strength, health, happiness and good cheer, that are tasty, rich, substantial and pleasing to the heart, are dear to the sattvic.",
+    "situations": ["temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "kama"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Foods that increase life, vitality, strength, health, happiness and cheer, that are tasty, oily, long-lasting in the body and pleasing, are dear to the sattvic."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Sattvic foods increase life and also sattva, which here means knowledge, as 14.17 says knowledge comes from sattva."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Substantial' means not quickly digested, like ghee; 'pleasing' means pleasing to look at."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.17.9": {
+    "context": "Krishna describes the food that rajasic people like: harsh, burning foods that bring pain and illness.",
+    "english": "Foods that are bitter, sour, salty, very hot, pungent, dry and burning are liked by the rajasic; they bring pain, grief and illness.",
+    "situations": ["temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "kama"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'Very' applies to each: very bitter, very sharp and so on; such foods bring pain, grief and disease."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Such foods, harmful through excess, dry the body and burn; being full of rajas, they produce pain, grief and illness."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.17.10": {
+    "context": "Krishna describes the food that tamasic people like: stale, spoiled and impure.",
+    "english": "Food that is stale, tasteless, putrid and left overnight, food that is leftover and impure, is dear to the tamasic.",
+    "situations": ["temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Half-cooked, without flavour, foul-smelling, kept overnight, left over by others and unfit for offering: such food is dear to the tamasic."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Food kept long, that has lost its natural flavour, smells bad, has turned, is left over by those other than one's elders, or is unfit for sacrifice."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.17.11": {
+    "context": "Krishna describes sattvic sacrifice: offered as duty, without desire for reward.",
+    "english": "Sacrifice that is offered according to the rules by those who seek no reward, with the mind settled on the thought that it simply ought to be done, is sattvic.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Sacrifice done as scripture directs, by those who seek no fruit, resolved only that the rite itself must be performed, is sattvic."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Sacrifice done without desire for its fruit, as scripture lays down, with the mind set on it as worship of the Lord and an end in itself, is sattvic."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.17.12": {
+    "context": "Krishna describes rajasic sacrifice: done for reward or for show.",
+    "english": "But sacrifice offered with an eye on the reward, or for the sake of show, best of the Bharatas, know that sacrifice to be rajasic.",
+    "situations": ["ego_pride_envy", "success_wealth"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Sacrifice done aiming at its fruit, or for show, is rajasic."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Sacrifice done by those seeking fruits, full of hypocrisy and aimed at fame, is rajasic."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.17.13": {
+    "context": "Krishna describes tamasic sacrifice: done carelessly, without rules, gifts or faith.",
+    "english": "Sacrifice that ignores the rules, in which no food is shared, no sacred words are said and no gifts are given, and which lacks faith, is called tamasic.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Sacrifice contrary to the rules, in which no food is given to brahmins, the mantras are wrong, no fee is given, and there is no faith, is tamasic."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Sacrifice without the guidance of brahmins learned in the rules, with substances not prescribed, without mantras, fees or faith, is tamasic."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.17.14": {
+    "context": "Krishna describes austerity of the body: reverence, purity, honesty, celibacy and non-violence (17.14-17.16).",
+    "english": "Reverence for the gods, the twice-born, teachers and the wise; purity, honesty, celibacy and non-violence: this is called austerity of the body.",
+    "situations": ["temptation_self_control", "relationships_forgiveness"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Honouring gods, the twice-born, teachers and the wise, purity, straightness, celibacy and non-violence are austerity done mainly through the body."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Celibacy here means not looking at women as objects of enjoyment; non-violence is causing no pain to living beings."}
+    ],
+    "safety_flags": ["caste_gender"], "review_status": "draft"
+  },
+  "BG.17.15": {
+    "context": "Krishna describes austerity of speech: words that are true, kind, helpful and do not upset others.",
+    "english": "Speech that causes no distress, that is true, pleasant and beneficial, and the regular study of scripture: this is called austerity of speech.",
+    "situations": ["relationships_forgiveness", "anger_resentment", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Speech must cause no distress and be true, pleasant and beneficial together; if any one of these is missing, it is not austerity of speech."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Words that do not upset others and are true, pleasant and beneficial, together with the practice of reciting scripture, are austerity of speech."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.17.16": {
+    "context": "Krishna describes austerity of the mind: calm, kindness, silence, self-control and purity of heart.",
+    "english": "Serenity of mind, gentleness, silence, self-control and purity of heart: this is called austerity of the mind.",
+    "situations": ["anger_resentment", "fear_anxiety", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Serenity is a calm, clear mind; silence, here, is the control of the mind from which control of speech follows."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Serenity is a mind free of anger and the like; gentleness is a mind inclined to the good of others; silence is the mind restraining speech."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Gentleness is not being cruel; 'silence' means being given to reflection, citing the Upanishad on the sage."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.17.17": {
+    "context": "Krishna says this threefold austerity, done with faith and without desire for reward, is sattvic.",
+    "english": "This threefold austerity, practised with supreme faith by disciplined people who seek no reward, is called sattvic.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "This austerity of body, speech and mind, practised with supreme faith by people who seek no fruit, is called sattvic by the wise."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Practised without desire for fruit, as worship of the Supreme Person, with supreme faith, this threefold austerity is sattvic."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.17.18": {
+    "context": "Krishna describes rajasic austerity: done for honour and show, unstable and fleeting.",
+    "english": "Austerity practised to gain respect, honour and reverence, and out of hypocrisy, is called rajasic here: unstable and fleeting.",
+    "situations": ["ego_pride_envy"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Austerity done so that people say 'what a holy ascetic', and rise and bow to one, is rajasic, unstable because its fruit is only occasional."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Respect is regard in the mind, honour is praise in words, reverence is bowing; austerity done for these, with hypocrisy, is rajasic, unstable and fleeting."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.17.19": {
+    "context": "Krishna describes tamasic austerity: self-torment from foolish obstinacy, or done to harm others.",
+    "english": "Austerity practised out of foolish obstinacy, with self-torture, or to bring ruin on another, is called tamasic.",
+    "situations": ["anger_resentment", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Austerity done from a foolish, undiscerning conviction, tormenting oneself, or to destroy another, is tamasic."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Austerity undertaken by the undiscerning without weighing one's strength, tormenting oneself, or to destroy another, is tamasic."}
+    ],
+    "safety_flags": ["distress_gentle"], "review_status": "draft"
+  },
+  "BG.17.20": {
+    "context": "Krishna describes sattvic giving: given as a duty, to one who cannot repay, at the right time and place.",
+    "english": "A gift given because it is right to give, to one who can give nothing in return, at the proper place and time and to a worthy person, is held to be sattvic.",
+    "situations": ["success_wealth", "relationships_forgiveness", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "artha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Given with the thought 'this should be given', to one unable to repay, or to one able but without expecting a return, at a holy place, an auspicious time and to a worthy recipient."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "A gift given without desire for reward, simply because it should be given, to one who has done nothing for the giver, at the right place and time and to the right person, is sattvic."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.17.21": {
+    "context": "Krishna describes rajasic giving: given for a return, for reward, or grudgingly.",
+    "english": "But a gift given in hope of something in return, or with an eye on the reward, or given grudgingly, is held to be rajasic.",
+    "situations": ["success_wealth", "relationships_forgiveness"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "artha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Given thinking 'he will repay me in time', or for some unseen fruit, and given with reluctance, the gift is rajasic."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "A gift given with an eye to a return or reward, or of poor quality, is rajasic."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.17.22": {
+    "context": "Krishna describes tamasic giving: at the wrong time, to the wrong person, or with contempt.",
+    "english": "A gift given at the wrong place or time to unworthy people, without respect or with contempt, is called tamasic.",
+    "situations": ["success_wealth", "relationships_forgiveness", "ego_pride_envy"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "artha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Given at an unfit place or time, to the undeserving such as fools or thieves, without kind words or honour, or with scorn for the recipient: such a gift is tamasic."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "A gift given at the wrong place or time to unworthy recipients, without the courtesy of washing their feet and the like, and with contempt, is tamasic."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.17.23": {
+    "context": "Krishna introduces 'Om tat sat', the threefold name of Brahman that sanctifies sacred acts (17.23-17.27).",
+    "english": "'Om tat sat' is held to be the threefold designation of Brahman. By it, of old, the brahmins, the Vedas and the sacrifices were ordained.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'Om tat sat' is the threefold name of Brahman known to the knowers of Brahman; saying that brahmins, Vedas and sacrifices were created by it praises the name."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "'Om', 'tat' and 'sat' are words connected with Brahman: the Vedas, Vedic rites and those who perform them are all linked with these words."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "These are names of the supreme Brahman; he cites a Ṛg Veda supplement explaining 'tat' and 'sat'."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.17.24": {
+    "context": "Krishna says followers of the Veda begin every sacrifice, gift and austerity by saying 'Om'.",
+    "english": "So those who follow the Veda always begin their acts of sacrifice, giving and austerity, as prescribed, by uttering 'Om'.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Therefore those who speak of Brahman begin their prescribed rites of sacrifice, giving and austerity by uttering 'Om'."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Those devoted to the Veda always begin prescribed sacrifice, giving and austerity with 'Om', as the Vedas themselves begin with it."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.17.25": {
+    "context": "Krishna says seekers of liberation perform their acts with 'tat', without aiming at reward.",
+    "english": "Uttering 'tat', seekers of liberation perform the various acts of sacrifice, austerity and giving without aiming at any reward.",
+    "situations": ["purpose_meaning", "success_wealth"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Uttering 'tat', a name of Brahman, and not aiming at the fruit, seekers of liberation perform their sacrifices, austerities and gifts."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Acts done without desire for fruit by those who seek liberation, as means to reaching Brahman, are what the word 'tat', which names Brahman, refers to."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Without aiming at reward' means without thinking 'may that fruit be mine'."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.17.26": {
+    "context": "Krishna explains the word 'sat': it means reality, goodness and praiseworthy action.",
+    "english": "The word 'sat' is used to mean reality and goodness; and, son of Pritha, the word 'sat' is also used for a praiseworthy act.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'Sat' is used for coming into being, as at a son's birth, and for goodness, when one of bad conduct becomes good; it is also used for auspicious acts such as marriage."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "In both ordinary and Vedic usage, 'sat' is used for what exists and for what is good, and for any praiseworthy deed."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.17.27": {
+    "context": "Krishna says steadiness in sacrifice, austerity and giving, and any act done for that purpose, is called 'sat'.",
+    "english": "Steadfastness in sacrifice, austerity and giving is also called 'sat', and any action done for that purpose is likewise called 'sat'.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Steadiness in sacrifice, austerity and giving is called 'sat' by the wise, and so is action done for them, or for the Lord whose names these three are."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Steadiness in Vedic sacrifice, austerity and giving is called 'sat' because it is good, and so is the action done for it."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.17.28": {
+    "context": "Krishna closes chapter 17: whatever is done without faith counts for nothing, here or hereafter.",
+    "english": "Whatever is offered, given or done, and whatever austerity is practised without faith, is called 'asat', son of Pritha; it is of no use here or hereafter.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Whatever is offered, given, practised or done without faith is 'asat', outside the path to me; however much effort it takes, it bears no fruit hereafter and wins no praise here."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Even a rite prescribed by scripture, done without faith, is 'asat': it leads neither to liberation nor to any worldly fruit."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  }
+}

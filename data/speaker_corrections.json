@@ -1,0 +1,7 @@
+{
+  "_about": "Speaker fixes where the Wikisource page omits an 'X उवाच' line. Each correction carries forward to following verses until the next speaker line, exactly as a source speaker line would. Every entry must give evidence from the snapshot, not from memory.",
+  "BG.5.2": {
+    "speaker": "Krishna",
+    "evidence": "The page has no श्रीभगवानुवाच before 5.2, so 5.2-5.29 inherit Arjuna from 5.1. The commentaries on the same page open their 5.2 sections with श्रीभगवानुवाच, and 5.2 answers the question Arjuna asks in 5.1."
+  }
+}

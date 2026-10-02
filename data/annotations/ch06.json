@@ -1,0 +1,501 @@
+{
+  "BG.6.1": {
+    "context": "Krishna opens chapter 6, on meditation, by redefining the true renunciant as one who acts without depending on results.",
+    "english": "One who does the work that should be done, without depending on its fruit, is a renunciant and a yogi; not one who merely gives up the sacred fire, nor one who gives up action.",
+    "situations": ["purpose_meaning", "lack_of_motivation"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "One who does their regular duty without thirst for its fruit is both renunciant and yogi; not merely someone who has given up the sacred fires and rites."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "One who acts, not for rewards like heaven, but because worshipping the Supreme Person, our friend, is itself the goal, is both a renunciant (devoted to knowledge) and a yogi (devoted to action)."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This chapter teaches the yoga of meditation, close to knowledge. Even monks have their 'fire' and rites: Brahman and its worship."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.2": {
+    "context": "Krishna says renunciation and yoga are the same at heart: both require giving up selfish intentions.",
+    "english": "What they call renunciation, know that to be yoga, son of Pandu; for no one becomes a yogi without renouncing selfish intentions.",
+    "situations": ["purpose_meaning", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The true renunciation known to scripture, giving up all actions and their fruits, is likened to the yoga of action because no one becomes a yogi without giving up intentions."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "What they call the path of knowledge, know to be karma yoga itself: through reflecting on the true self, one gives up the intention of taking prakṛti to be the self."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Renunciation is contained within yoga: without giving up desire and intention, how could anyone have the means?"}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.3": {
+    "context": "Krishna explains that action is the way into yoga, and calm is the way once yoga is reached.",
+    "english": "For the sage who wants to rise to yoga, action is said to be the means; for the same sage, once risen to yoga, calm is said to be the means.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "For one who cannot yet stay in meditation, action is the means; once established in it, calm, the ceasing of all actions, is the means."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Karma yoga is the means for one seeking the vision of the self; only for one firmly established is ceasing from action the means. Action must be done until liberation is reached."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "For one who has completed the means and has direct knowledge, calm in absorption is the cause of supreme happiness."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.4": {
+    "context": "Krishna describes the one who has risen to yoga: free of attachment to pleasures and to action itself.",
+    "english": "When a person is not attached to the objects of the senses or to actions, and has renounced all selfish intentions, they are said to have risen to yoga.",
+    "situations": ["temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "When the meditating yogi, seeing no purpose in them, clings neither to sense objects nor to any kind of action, and has given up all intentions, they are said to have risen to yoga."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "When the yogi, by nature experiencing only the self, clings neither to material objects nor to related actions, they have risen to yoga; until then, karma yoga, the practice of not clinging, is the means."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Gives the mark of one risen to yoga: for them faults dissolve by themselves, for others only through effort."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.5": {
+    "context": "In the chapter on meditation, Krishna says self-mastery must come before steady practice, and calls Arjuna to rely on his own effort.",
+    "english": "Lift yourself up by your own effort, and do not let yourself sink. You alone are your own friend, and you alone are your own enemy.",
+    "situations": ["lack_of_motivation", "failure_setback", "temptation_self_control", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Raise yourself out of the ocean of worldly existence to steadiness in yoga. Even a loving relative can be a tie rather than a help toward liberation, so the self alone is the true friend; and any outside enemy is ultimately of one's own making."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Reads 'self' here as the mind: a mind not attached to sense objects lifts a person up, while an attached mind drags them down. The mind alone is friend or enemy."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "A brief note: the ascent to yoga has to be made by one's own effort."}
+    ],
+    "safety_flags": ["distress_gentle"], "review_status": "draft"
+  },
+  "BG.6.6": {
+    "context": "Krishna explains when the self is friend and when it is enemy: it depends on self-mastery.",
+    "english": "For one who has conquered themselves, the self is a friend; but for one who has not, the self acts with hostility, like an enemy.",
+    "situations": ["temptation_self_control", "lack_of_motivation", "failure_setback"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The self is a friend to one who has mastered body and senses; for one who has not, it behaves like an outside enemy."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Whoever has won their mind back from sense objects has that mind as a friend; for one who has not, their own mind works against their good like an enemy. He quotes Parāśara: the mind alone is the cause of bondage and liberation."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Self' here is the mind, which is friend or enemy to the soul; he quotes the saying that the mind alone is the cause of bondage and liberation."}
+    ],
+    "safety_flags": ["distress_gentle"], "review_status": "draft"
+  },
+  "BG.6.7": {
+    "context": "Krishna describes the self-mastered person as steady through comfort and hardship, praise and insult.",
+    "english": "For one who has conquered themselves and is at peace, the supreme self stays steady in cold and heat, pleasure and pain, honour and dishonour.",
+    "situations": ["failure_setback", "ego_pride_envy", "fear_anxiety"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "For the self-mastered renunciant whose mind is serene, the Supreme Self is present as their very self; such a person stays even in heat and cold, honour and insult."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "'Supreme self' here means the individual self in its own nature, called supreme relative to earlier states; it is firmly settled in a mind unchanged by heat, cold, honour and dishonour."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "For the self-mastered, the mind seldom goes out to objects, so the Supreme Self is present in the heart: such a person has direct knowledge."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.8": {
+    "context": "Krishna describes the disciplined yogi, content with wisdom and indifferent to wealth.",
+    "english": "The yogi who is satisfied with knowledge and wisdom, unshakable, with senses mastered, to whom a lump of earth, a stone and gold are the same, is called disciplined.",
+    "situations": ["success_wealth", "purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Knowledge is understanding what scripture teaches; wisdom is making it one's own experience. Satisfied by both, the yogi becomes unshakable."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Satisfied with knowledge of the self and of how it differs from prakṛti, and steady in the self that is the same through every state, such a person sees earth, stone and gold alike."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.9": {
+    "context": "Krishna praises the even-minded person who regards friend and enemy, good and bad, alike.",
+    "english": "One who has the same regard for well-wishers, friends and enemies, the neutral and the impartial, the hateful and relatives, the good and even the wicked, stands out.",
+    "situations": ["relationships_forgiveness", "anger_resentment"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Defines each: a well-wisher helps without expecting a return; a friend has affection; the neutral takes no side; the impartial wishes well to both sides of a quarrel."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Distinguishes them by age and motive (well-wishers of any age, friends of one's own age, enemies for some cause, those hostile or kind from birth), and says the yogi regards all of them equally as selves."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "All souls are alike in being conscious; differences come from the mind, and whatever goodness beings have is the Lord's doing, not their own."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.10": {
+    "context": "Krishna begins detailed instructions for meditation: practise alone, in a quiet place, free of possessiveness (6.10-6.17).",
+    "english": "The yogi should constantly practise concentration, staying in a secluded place, alone, with mind and body controlled, without expectations and without possessions.",
+    "situations": ["temptation_self_control", "purpose_meaning"], "life_stages": ["elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Meditate in a solitary place such as a mountain cave, alone, which implies having renounced, with mind and body controlled."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The practitioner of karma yoga should, during the time set for yoga each day, make the mind steady in seeing the self, in a quiet place free of people, alone."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This begins the method of the yoga of meditation."}
+    ],
+    "safety_flags": ["renunciation", "under18_hold"], "review_status": "draft"
+  },
+  "BG.6.11": {
+    "context": "Krishna describes how to prepare a place and a seat for meditation.",
+    "english": "In a clean place, setting up a firm seat for oneself, neither too high nor too low, covered with cloth, a deerskin and kusha grass,",
+    "situations": ["temptation_self_control"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "A clean place, pure by nature or made pure; a steady seat with cloth, skin and kusha grass, laid in the reverse of the order named."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "A pure place, untouched by impure people or things; a seat of wood or the like, neither too high nor too low, with a back support and pleasing to the mind."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.12": {
+    "context": "Krishna continues: seated, with mind focused and senses quiet, one practises for inner purification.",
+    "english": "sitting there on the seat, making the mind one-pointed, with the activity of mind and senses controlled, one should practise yoga to purify oneself.",
+    "situations": ["temptation_self_control"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Withdrawing the mind from every object and making it one-pointed, one should practise yoga to purify the inner self."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This is the yoga of absorption."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.13": {
+    "context": "Krishna gives the posture for meditation: body upright, gaze steady, not looking around.",
+    "english": "holding the body, head and neck straight and still, steady, gazing at the tip of one's nose and not looking around,",
+    "situations": ["temptation_self_control"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Holding body, head and neck erect and still, one gazes as if at the tip of the nose; 'as if', because the aim is to fix the mind on the self, not on the nose."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Sitting supported and steady, eyes on the tip of the nose, calm, fearless, celibate, the mind controlled and fixed on me, one should sit thinking only of me (6.13-6.14)."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.14": {
+    "context": "Krishna describes the inner attitude for meditation: calm, fearless, self-restrained and focused on him.",
+    "english": "calm and fearless, firm in the vow of celibacy, controlling the mind and thinking of me, one should sit disciplined, intent on me.",
+    "situations": ["fear_anxiety", "temptation_self_control"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Fearless, keeping the student's vow (celibacy, serving the teacher, living on alms), with the mind withdrawn and fixed on me, the Supreme Lord."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.15": {
+    "context": "Krishna describes the goal of meditation: a peace that rests in him.",
+    "english": "Always practising in this way, with mind controlled, the yogi reaches peace, the supreme nirvana that rests in me.",
+    "situations": ["purpose_meaning", "fear_anxiety"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Practising this way, the yogi reaches the peace that culminates in liberation and abides in me."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Always fixing the mind on me, the Supreme Brahman and the mind's auspicious support, the yogi's mind, purified by contact with me, becomes still and reaches the peace that rests in me."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Supreme nirvana' is what follows after leaving the body."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.16": {
+    "context": "Krishna advises moderation: extremes of eating and sleeping obstruct yoga.",
+    "english": "Yoga is not for one who eats too much, nor for one who does not eat at all; not for one who sleeps too much, Arjuna, nor for one who stays awake too long.",
+    "situations": ["temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Not for one who eats beyond their measure, nor one who fasts entirely; he quotes scripture that food in one's own measure protects, more harms, and less does not sustain."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Overeating and fasting, too much and too little activity, too much sleep and too much waking, and overexertion and idleness all obstruct yoga."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The warning against fasting and the like is for those not strong enough for it."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.17": {
+    "context": "Krishna describes the balanced life in which yoga can end sorrow.",
+    "english": "For one who is moderate in eating and recreation, measured in effort at work, and moderate in sleep and waking, yoga becomes the destroyer of sorrow.",
+    "situations": ["temptation_self_control", "fear_anxiety"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Measured in food and in walking, measured in action, keeping set times for sleep and waking: for such a person, yoga ends all sorrow."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "For one moderate in food, recreation, effort, sleep and waking, the yoga that ends all sorrow and bondage is achieved."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "As much food and rest as keeps fatigue away."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.18": {
+    "context": "Krishna describes the sign of success in meditation: a mind resting in the self, free of craving.",
+    "english": "When the well-controlled mind rests in the self alone, free of longing for any desire, one is said to be disciplined in yoga.",
+    "situations": ["temptation_self_control"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "When the controlled mind gives up thoughts of outer things and rests in the self alone, free of thirst for any object seen or unseen, one is called absorbed."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "When the mind, finding the self to be the highest goal, rests fixed and still there, one is free of all desire and called fit for yoga."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.19": {
+    "context": "Krishna gives the image of a lamp sheltered from wind for the steady mind in meditation.",
+    "english": "\"A lamp in a windless place does not flicker\": that is the comparison used for the yogi of controlled mind, practising the yoga of the self.",
+    "situations": ["fear_anxiety", "temptation_self_control"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Those who know yoga use this image of a lamp in a windless place for the controlled mind of one practising meditation."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The image is for the self itself: with every other activity of the mind stilled, the self stands unwavering and shining with knowledge, like a flame out of the wind."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'The yoga of the self' means yoga directed towards the Lord."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.20": {
+    "context": "Krishna begins describing the fulfilment of meditation (6.20-6.23).",
+    "english": "When the mind, restrained by the practice of yoga, comes to rest, and when, seeing the self through the self, one is content in the self,",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "When the restrained mind comes to rest, and one sees the supreme light of consciousness with a mind purified by absorption, one is content in one's own self."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "When the mind delights in yoga as the highest happiness, and, seeing the self with the mind, one is content in the self, needing nothing else."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "With the mind, one sees the Lord, the true self, within the body."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.21": {
+    "context": "Krishna continues describing the boundless happiness found in meditation, which keeps the yogi steady.",
+    "english": "when one knows that boundless happiness, grasped by the intellect and beyond the senses, and, established there, never moves away from the truth,",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "This happiness is endless, grasped by the intellect alone without the senses, not born of objects; established in it, one does not move from the truth."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Experiencing that boundless happiness, beyond the senses and grasped only by the intellect turned to the self, one does not move away from it."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'From the truth', because that happiness is the Lord's own nature."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.22": {
+    "context": "Krishna continues: the one established in this state is not shaken even by great sorrow.",
+    "english": "having gained which one thinks no other gain greater, and established in which one is not shaken even by great sorrow,",
+    "situations": ["grief_loss", "failure_setback", "fear_anxiety"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Having gained the self, one thinks no gain greater; established in it, one is not moved even by great pain, such as being struck by weapons."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Once out of meditation, one longs only for it; while in it, one is not shaken even by great sorrow, such as the loss of a virtuous son."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.23": {
+    "context": "Krishna defines yoga as freedom from sorrow and urges practising it without discouragement.",
+    "english": "know that this release from union with sorrow is called yoga. This yoga should be practised with determination and without discouragement.",
+    "situations": ["lack_of_motivation", "failure_setback", "purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Yoga is named by its opposite: it is disconnection from contact with sorrow. It must be practised with firm resolve and a mind that does not despair."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Know that knowledge opposed to contact with sorrow is what 'yoga' means; at the start, practise it resolutely and with a glad heart."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "It not only ends sorrow that has arisen but stops it arising at all; whoever wishes to thrive must practise it."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.24": {
+    "context": "Krishna gives further meditation instruction: let go of desires and gather in the senses (6.24-6.26).",
+    "english": "Giving up completely all desires born of selfish intention, and restraining the whole range of the senses on every side by the mind alone,",
+    "situations": ["temptation_self_control"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Give up every desire born of intention without residue, and control the whole range of senses on all sides with the discerning mind."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Desires are of two kinds: born of contact (heat, cold) and born of intention (sons, grandsons, land). The second can be given up entirely by the mind; for the first, which cannot be avoided, give up the joy or distress they bring."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Not even a small, occasional desire for any object should be kept, and only the mind can restrain them."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.25": {
+    "context": "Krishna teaches patience: settle the mind gradually in the self and let all thoughts go.",
+    "english": "one should gradually come to rest, with the intellect held firm by steadiness; making the mind abide in the self, one should think of nothing at all.",
+    "situations": ["temptation_self_control", "fear_anxiety"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Gradually, not suddenly, with an intellect held by patience, making the mind rest in the self with the conviction 'the self is all; there is nothing else', one should think of nothing."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The intellect is the means for restraining the mind and for delighting in the self."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.26": {
+    "context": "Krishna gives practical advice for a wandering mind: bring it back, each time it strays.",
+    "english": "Wherever the restless, unsteady mind wanders off, one should rein it in from there and bring it back under the control of the self.",
+    "situations": ["fear_anxiety", "temptation_self_control", "failure_setback"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Wherever the restless mind goes out, to sound or any other object, restrain it by seeing that object's true nature and by cultivating dispassion, and bring it back to the self."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Wherever the mind goes out, drawn by attraction to objects, restrain it with effort and bring it under control by contemplating the self as surpassing joy."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Wherever' means in whatever direction it runs; bring it under control in the self alone."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.27": {
+    "context": "Krishna describes the supreme happiness of the yogi whose mind has become calm (6.27-6.28).",
+    "english": "Supreme happiness comes to the yogi whose mind is at peace, whose passions are stilled, who is free of impurity and has become one with Brahman.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Unsurpassed happiness comes to the yogi of tranquil mind, free of the passion of delusion and the like, liberated while living, firm in the conviction 'all is Brahman', and sinless."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The yogi whose mind is fixed on the self, all impurities burned and rajas destroyed, abides in their own nature and gains the highest happiness, the experience of the self."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.28": {
+    "context": "Krishna continues: the purified yogi easily comes to the boundless happiness of contact with Brahman.",
+    "english": "Always practising in this way, the yogi, freed from impurity, easily attains the boundless happiness of contact with Brahman.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Practising in this way, free of obstacles and sin, the yogi easily reaches unsurpassed happiness through contact with the supreme Brahman."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Practising this way, with all past impurities removed, the yogi always enjoys, without strain, the boundless happiness of experiencing Brahman; next come four stages of yoga's ripening."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Expands the previous verse."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.29": {
+    "context": "Krishna describes the yogi's vision of oneness: the self in all beings and all beings in the self.",
+    "english": "One whose self is disciplined in yoga sees the self in all beings and all beings in the self, seeing the same everywhere.",
+    "situations": ["relationships_forgiveness", "ego_pride_envy", "purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Such a one sees their own self in all beings, and all beings, from Brahmā to a blade of grass, as one with the self; they see the one Brahman and self equally in all."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Selves free of prakṛti are all alike, being of the nature of knowledge, and difference belongs to prakṛti; so the yogi sees their own self in all beings and all beings in their self."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The self in all beings is the Supreme Lord, and all beings are in him; quoting the Bhāgavata, one sees him equally present in Brahmā and in a blade of grass."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.30": {
+    "context": "Krishna promises that one who sees him everywhere is never separated from him.",
+    "english": "Whoever sees me everywhere and sees everything in me, I am never lost to them, and they are never lost to me.",
+    "situations": ["purpose_meaning", "fear_anxiety"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Whoever sees me, Vāsudeva, the self of all, in all beings, and all beings in me, never loses sight of me, nor I of them, since we share one self."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "In the ripened stage, seeing every self, freed of merit and demerit, as like me, one sees me in all selves and all selves in me."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'I am never lost to them' means I always provide for their welfare; 'they are never lost to me' means they always remain my devotees."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.31": {
+    "context": "Krishna says the yogi who worships him in all beings abides in him in every circumstance.",
+    "english": "The yogi who, established in oneness, worships me as dwelling in all beings, remains in me, however they may live.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "However the yogi of right vision lives, they abide in Viṣṇu's supreme state, always free; nothing obstructs their liberation."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Even when out of meditation and living in whatever way, such a yogi, seeing themselves and all beings, sees me."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Holding that the one Lord is everywhere, they abide in me in every condition; yet such a person rarely does wrong, and if they do, great suffering follows."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.32": {
+    "context": "Krishna names the highest yogi as one who feels others' joy and pain as their own.",
+    "english": "One who, by comparison with oneself, sees the same in all beings, Arjuna, whether it is pleasure or pain, is considered the highest yogi.",
+    "situations": ["relationships_forgiveness", "ego_pride_envy"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "As pleasure is welcome to me, it is welcome to every being; as pain is unwelcome to me, so it is to all; one who sees this sees equally."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Such a person regards the birth or death of another's son just as they would their own son's, since all selves are alike."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Explains equal vision in another way."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.33": {
+    "context": "Arjuna objects that the mind is too restless for the steady yoga Krishna describes (6.33-6.34).",
+    "english": "Krishna, this yoga of evenness you have described, I do not see how it can last, because the mind is restless.",
+    "situations": ["fear_anxiety", "lack_of_motivation", "failure_setback"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Because the mind is restless, Arjuna does not see this yoga of evenness becoming stable."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Arjuna finds it hard to see all selves, long experienced as utterly different, as equal to one another and to the Lord, because the mind is so restless."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Because the mind is restless, the yoga cannot stand firm."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.34": {
+    "context": "Arjuna compares controlling the mind to controlling the wind.",
+    "english": "For the mind is restless, Krishna, turbulent, strong and stubborn. I think controlling it is as hard as controlling the wind.",
+    "situations": ["fear_anxiety", "temptation_self_control", "failure_setback"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The mind not only wanders but churns up the body and senses and overpowers them; restraining it is as hard as holding back the wind."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Even with familiar things the mind will not stay put; holding it on the self, so unlike its usual objects, is like fanning against a gale."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "He cites Vyāsa: because the mind is restless, steadiness in yoga is impossible without practice or dispassion."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.35": {
+    "context": "Krishna agrees the mind is hard to control but gives the remedy: practice and detachment.",
+    "english": "Without doubt, mighty-armed one, the mind is restless and hard to control; but it can be held, son of Kunti, through practice and detachment.",
+    "situations": ["fear_anxiety", "temptation_self_control", "failure_setback", "lack_of_motivation"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Practice is the mind's repeated return to the same object; detachment is freedom from thirst for pleasures, seen and unseen, by repeatedly seeing their flaws."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The mind is indeed hard to hold, but it can be held somehow: by turning towards the self through practice, and by losing thirst for other things through seeing their flaws."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.36": {
+    "context": "Krishna adds that yoga is difficult without self-control but achievable with steady effort.",
+    "english": "Yoga is hard to reach for one who lacks self-control; that is my view. But one who is self-controlled and keeps striving can reach it by the right means.",
+    "situations": ["failure_setback", "lack_of_motivation", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "For one whose mind is not controlled through practice and detachment, yoga is hard to gain; one who masters the mind that way and keeps striving can reach it."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Without mastery of the mind, yoga is hard to gain however great the effort; with the mind won over through karma yoga, worship of me, and continued striving, this yoga of equal vision can be reached."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The mind never controls itself on its own; he cites a text that liberation is not for those without good intent."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.37": {
+    "context": "Arjuna asks what happens to someone who sets out on the path in faith but falls short (6.37-6.39).",
+    "english": "Krishna, what becomes of one who has faith but does not strive enough, whose mind strays from yoga, and who fails to reach perfection in yoga?",
+    "situations": ["failure_setback", "fear_anxiety", "lack_of_motivation"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Arjuna asks about one with faith but little effort, whose mind strays from yoga, even at the time of death, and so fails to reach right vision."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Arjuna asks about one who began yoga with faith but whose practice faltered for lack of firm effort."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Does not strive enough' means makes no effort."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.38": {
+    "context": "Arjuna fears that someone who falls short may lose both worldly and spiritual goals.",
+    "english": "Fallen from both, does such a person not perish like a scattered cloud, without support, mighty-armed one, lost on the path to Brahman?",
+    "situations": ["failure_setback", "fear_anxiety"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Fallen from both the path of action and the path of yoga, without support and confused on the path to Brahman, does such a person vanish like a torn cloud?"},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Like a piece of cloud torn from one great cloud that never reaches another, does such a person, having left the means to heaven and not reached Brahman, perish in between?"}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.39": {
+    "context": "Arjuna asks Krishna to resolve his doubt about the one who falls short.",
+    "english": "Krishna, please dispel this doubt of mine completely; no one but you can dispel it.",
+    "situations": ["fear_anxiety", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "No sage or god other than you can remove this doubt, so you alone should."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "No one but you, who see everything directly and always, can cut this doubt."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.40": {
+    "context": "Krishna reassures Arjuna that no sincere effort for good is ever lost (6.40-6.45).",
+    "english": "Son of Pritha, there is no destruction for such a person, neither in this world nor in the next; for no one who does good, my friend, ever comes to a bad end.",
+    "situations": ["failure_setback", "fear_anxiety", "lack_of_motivation"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Destruction here means a birth lower than before, which does not happen to one fallen from yoga. Krishna calls Arjuna 'tāta', a word for a son, since a father extends himself in his son."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "For one who began yoga with faith and fell away, there is no loss in either world: neither failure to gain what was desired nor meeting with harm."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.41": {
+    "context": "Krishna describes the next life of one who fell short in yoga: rest in higher worlds, then birth in a good family.",
+    "english": "Having reached the worlds of those who do good and lived there for countless years, one who fell from yoga is born into the home of the pure and prosperous.",
+    "situations": ["failure_setback", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The renunciant fallen from yoga reaches the worlds of those who performed great sacrifices such as the horse sacrifice, and after enjoying them is born into a pure and prosperous family."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Fallen from yoga out of desire for some pleasure, they enjoy that kind of pleasure in the worlds of the very meritorious, by the power of yoga, until the craving is spent, and are then born into a pure, prosperous home."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.42": {
+    "context": "Krishna says one who was further along may be born directly into a family of yogis, a rarer birth.",
+    "english": "Or they are born into a family of wise yogis; but a birth like this is harder to gain in this world.",
+    "situations": ["failure_setback", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Or they are born into a poor family of wise yogis, a birth harder to gain than the one just described."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "If their yoga had ripened before they strayed, they are born into a family of wise yogis who teach yoga; both kinds of birth are rare for ordinary people and come from the greatness of yoga."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.43": {
+    "context": "Krishna explains that past spiritual progress carries over into the next life.",
+    "english": "There they regain the understanding they had in their former body, and from there they strive again for perfection, joy of the Kurus.",
+    "situations": ["failure_setback", "lack_of_motivation", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "In that family they regain the understanding of their former body and, from those impressions, strive even harder for perfection."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "In that birth they regain their earlier understanding of yoga and, like someone waking from sleep, strive again so that no obstacle stops them."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.44": {
+    "context": "Krishna says past practice carries a person forward, and even the wish to know yoga lifts one beyond ritual.",
+    "english": "By that earlier practice they are carried forward even without wanting to; even one who merely wishes to know yoga goes beyond the Veda, Brahman in the form of words.",
+    "situations": ["purpose_meaning", "lack_of_motivation"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The earlier practice draws them on toward perfection, unless they have done some stronger wrong in the meantime; even one who only wants to know yoga goes beyond the results of Vedic rites."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Carried by earlier practice, the one who fell from yoga is drawn back into yoga even against their will; even one who had only begun to inquire, then strayed, regains that inquiry and takes up karma yoga again."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Even one who longs intensely to know yoga goes beyond the Veda and reaches the Supreme Brahman."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.45": {
+    "context": "Krishna says that steady effort across many lives brings the yogi to the highest goal.",
+    "english": "But the yogi who strives with effort, cleansed of wrongdoing and perfected over many births, then reaches the highest goal.",
+    "situations": ["failure_setback", "lack_of_motivation", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Striving harder, purified of sin and gathering impressions little by little over many births, the yogi gains right vision and reaches the highest goal."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Purified by merit gathered over many births, the yogi who strives with effort, even after straying, surely reaches the highest goal."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Not in one birth: by knowing, meditating and seeing over many births one enters Nārāyaṇa, as a text he cites says."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.46": {
+    "context": "Krishna urges Arjuna to become a yogi, ranking yoga above austerity, learning and ritual.",
+    "english": "The yogi is greater than ascetics, greater even than people of learning, and greater than people of ritual action. So be a yogi, Arjuna.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'People of learning' here means those learned in scripture, and 'people of action' those who perform rites like the fire offering; the yogi surpasses them all."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Yoga leads to a greater goal than austerity alone, than knowledge other than self-knowledge, or than rites like the horse sacrifice; so the yogi surpasses them all."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Citing the Garuḍa Purāṇa: meditation on Hari surpasses austerity and sacrifice, and even meditation on other gods."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.6.47": {
+    "context": "Krishna closes chapter 6: the greatest yogi is the one devoted to him with faith, preparing the theme of devotion.",
+    "english": "And of all yogis, the one who worships me with faith, with their inner self absorbed in me, I consider the most disciplined of all.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Even among yogis who meditate on Rudra, the Ādityas and others, the one who worships me, Vāsudeva, with faith and a mind fixed on me, is the most disciplined."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Reads 'of all yogis' as 'than all yogis': this devotee is not one of the four kinds of yogi described earlier, but surpasses them and the ascetics and the rest."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  }
+}

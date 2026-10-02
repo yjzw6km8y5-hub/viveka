@@ -1,0 +1,450 @@
+{
+  "BG.4.1": {
+    "context": "Krishna reveals that the yoga he teaches is ancient, passed down from the sun to the first kings (4.1-4.3).",
+    "english": "I taught this imperishable yoga to Vivasvat, the sun; Vivasvat taught it to Manu, and Manu passed it on to Ikshvaku.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "This yoga, taught in the last two chapters, I gave to the sun at the beginning of creation, to strengthen the rulers who protect the world. It is imperishable because its fruit, liberation, is imperishable."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Do not think this yoga was taught now just to spur you to fight: at the dawn of the age I taught it to Vivasvat as the means to liberation for the whole world, and it came down through a line of teachers."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This chapter teaches the Lord's greatness, the kinds of action and the greatness of knowledge; this verse shows the teaching was practised long before."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.2": {
+    "context": "Krishna explains that the teaching passed through a line of royal sages and was eventually lost.",
+    "english": "Handed down in this way, the royal sages knew it. But over a long span of time, scorcher of enemies, this yoga was lost here.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Royal sages, both kings and sages, knew it through this succession; over a long time the line of teaching was broken."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.3": {
+    "context": "Krishna tells Arjuna he is receiving this ancient teaching because of their friendship and his devotion.",
+    "english": "This same ancient yoga I have taught to you today, because you are my devotee and my friend; for this is the highest secret.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Because you are my devotee and my friend, I have taught you this ancient yoga, the supreme secret, which is knowledge."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "I taught it to you in full because you came to me in friendship and great devotion; no one but me could know or tell it, since it is the supreme secret taught in the Vedānta."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.4": {
+    "context": "Arjuna is puzzled how Krishna, born in his own time, could have taught the sun at the beginning of the world.",
+    "english": "Your birth was recent, and Vivasvat's birth was long ago. How am I to understand that you taught it in the beginning?",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "You were born recently in Vasudeva's house, and the sun at creation; how can you have taught it first? Krishna's answer removes the doubt, held by the foolish, that Vāsudeva is not the all-knowing Lord."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Arjuna asks how this can really be so, given the vast span of time between Vivasvat's birth and Krishna's."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Having heard 'surrender all actions to me' (3.30), Arjuna asks in order to learn Krishna's greatness from the beginning."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.5": {
+    "context": "Krishna answers that he and Arjuna have both lived many lives, but only he remembers them.",
+    "english": "Many births of mine have passed, Arjuna, and many of yours too. I know them all; you do not, scorcher of enemies.",
+    "situations": ["purpose_meaning", "ageing_death_impermanence"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "You do not know your past births because your power of knowing is blocked by merit and demerit; I know mine because I am by nature eternally pure, awake and free."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "This shows that Krishna's births are real: he says 'many births of mine have passed' and compares them with Arjuna's."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.6": {
+    "context": "Krishna explains how he, the unborn Lord, takes birth: by his own power, not by force of karma.",
+    "english": "Though I am unborn and my self is imperishable, though I am the Lord of all beings, I come into being by my own power, taking charge of my own nature.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Though unborn, imperishable and Lord of all, I come into being by governing my own prakṛti, the three-guna māyā of Viṣṇu, which holds the whole world in its power and keeps it from knowing me, Vāsudeva, as its own self."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Without giving up any divine quality, such as being unborn, imperishable and Lord of all, I come into being in my own form by my own will; 'prakṛti' here means my own nature."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Even the Lord's body is imperishable; citing the Bhāgavata, he is the imperishable source of many incarnations."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.7": {
+    "context": "Krishna explains why he takes birth: whenever dharma declines (4.7-4.8).",
+    "english": "Whenever there is a decline of dharma, Arjuna, and a rise of adharma, then I bring myself forth.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Dharma here is the order of varnas and life-stages that brings beings prosperity and liberation; whenever it declines and adharma rises, I bring myself forth through māyā."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "There is no fixed time for my coming: whenever the dharma taught by the Vedas declines and its opposite rises, I take birth by my own will."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.8": {
+    "context": "Krishna gives the purpose of his coming: to protect the good, end evil and re-establish dharma.",
+    "english": "To protect the good, to destroy those who do evil, and to establish dharma firmly, I come into being age after age.",
+    "situations": ["purpose_meaning", "fear_anxiety"], "life_stages": ["householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "To protect those on the good path, to destroy wrongdoers and to establish dharma fully, I come into being in every age."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "'The good' are the foremost devotees, who cannot bear a moment without seeing him; he comes to sustain them by letting them see him, hear him and speak with him."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "He is not compelled to be born in order to protect; he acts freely, in play, like a child at games, as the Brahma Sūtra says."}
+    ],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.4.9": {
+    "context": "Krishna promises freedom from rebirth to anyone who truly understands his divine birth and actions.",
+    "english": "One who truly knows my divine birth and actions in this way is not born again on leaving the body, Arjuna, but comes to me.",
+    "situations": ["purpose_meaning", "ageing_death_impermanence"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "My birth is through māyā and my acts, such as protecting the good, are divine; whoever knows this truly is not reborn but comes to me, liberated."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Whoever truly knows that my birth and acts are not those of a karma-bound being but divine, undertaken only to protect those who take refuge in me, reaches me on leaving this body."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Knowing this is not by itself liberation: one who knows and constantly worships me reaches me."}
+    ],
+    "safety_flags": ["death"], "review_status": "draft"
+  },
+  "BG.4.10": {
+    "context": "Krishna says many have already reached him by overcoming passion, fear and anger through knowledge.",
+    "english": "Free from passion, fear and anger, absorbed in me, taking refuge in me, many people, purified by the austerity of knowledge, have come to my state of being.",
+    "situations": ["fear_anxiety", "anger_resentment", "purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Those who see no difference between themselves and the Lord, devoted to knowledge alone and purified by knowledge as their austerity, have reached the state of the Lord: liberation."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Many have been purified by the austerity of knowing the truth of my birth and acts, and have reached this state."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "There are such liberated souls; 'absorbed in me' means they see nothing anywhere without me."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.11": {
+    "context": "Krishna says he meets people in the way they approach him, since all paths lead to him.",
+    "english": "However people approach me, so I receive them. Everywhere, son of Pritha, people follow my path.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "I favour people in the way they seek me: to those who want results I give results. One cannot seek liberation and results at the same time."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "However devotees conceive of me and take refuge, I show myself to them in that way; all people long to follow me, and I let even their ordinary eyes see my nature."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Even those who worship other gods follow my path, since I am the doer and enjoyer of all actions, as 9.23 says."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.12": {
+    "context": "Krishna observes that most people worship for quick worldly success.",
+    "english": "Wanting success from their actions, people here worship the gods, because in the human world success born of action comes quickly.",
+    "situations": ["success_wealth"], "life_stages": ["householder"], "aims": ["artha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Wanting results, people worship gods such as Indra and Agni; he quotes the Upanishad that one who worships a god as other than oneself does not know."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "People seek rewards by worshipping Indra and the others, not me, the self of those gods and enjoyer of all sacrifice, because rewards such as sons, cattle and food come quickly."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This is why they follow my path: through it, results come quickly."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.13": {
+    "context": "Krishna says he created the four varnas according to qualities and actions, yet remains untouched as a non-doer.",
+    "english": "The four varnas were created by me according to the division of qualities and actions. Though I am their maker, know me as the non-doer, the unchanging.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The four varnas were created according to the gunas and their duties: the sattva-dominant brahmin has duties such as calm and self-control, the kshatriya, in whom rajas dominates, has others, and so on."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Reads the verse as about the whole world, from Brahmā to a blade of grass, headed by the four varnas and divided by gunas and their duties; Krishna creates, sustains and withdraws it, yet is not its doer."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Assigns the gunas: the brahmin is sattvic, the kshatriya sattvic-rajasic, the vaishya rajasic-tamasic, the shudra tamasic; their duties are listed at 18.42."}
+    ],
+    "safety_flags": ["caste_gender"], "review_status": "draft"
+  },
+  "BG.4.14": {
+    "context": "Krishna explains that action does not bind him because he has no desire for its fruit.",
+    "english": "Actions do not stain me, and I have no longing for their fruit. Whoever knows me this way is not bound by actions.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Actions do not stain me because I have no ego and no thirst for their fruit; whoever knows me, or anyone else, as the self in this way is not bound."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The variety of creation follows from beings' own good and bad karma, not from me, so in that sense I am not its doer."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The Lord has will but no clinging; his 'desire' is simply his knowledge."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.15": {
+    "context": "Krishna urges Arjuna to act as the wise of old did, knowing that action need not bind.",
+    "english": "Knowing this, the seekers of liberation of old also acted. So you too should act, as those before you did long ago.",
+    "situations": ["purpose_meaning", "lack_of_motivation"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Act, rather than sitting idle or renouncing: if you do not yet know the self, to purify yourself; if you do, for the world's sake, as Janaka and others did."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Purified by this knowledge of me, do the ancient action that Vivasvat, Manu and the others did."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.16": {
+    "context": "Krishna begins to explain the subtle difference between action and inaction (4.16-4.23).",
+    "english": "What is action? What is inaction? Even the wise are confused about this. I will explain action to you; knowing it, you will be freed from harm.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Even the wise are confused about action and inaction; knowing them, you will be freed from worldly existence. Do not think action is simply bodily movement and inaction simply sitting still."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "'Inaction' here means the knowledge of the true self that must be present within the action; even the learned do not rightly know the nature of the action and the knowledge within it."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Action is hard to understand rightly."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.17": {
+    "context": "Krishna stresses that understanding right action, wrong action and inaction is difficult but necessary.",
+    "english": "One must understand what action is, understand what wrong action is, and understand what inaction is; the way of action is hard to fathom.",
+    "situations": ["purpose_meaning", "conflict_of_duties"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "One must understand prescribed action, forbidden action and not acting; the true nature of all three is hard to know."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Takes 'vikarma' here to mean action in its varied forms (regular, occasional and desire-driven rites, and earning the means for them), not wrong action."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Action, inaction (failing to do what is prescribed) and wrong action (what is forbidden, which binds) must be told apart, since without knowing them there is no liberation."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.18": {
+    "context": "Krishna gives the riddle of seeing inaction in action, a key to acting without bondage.",
+    "english": "One who sees inaction in action and action in inaction is wise among people; such a person is disciplined and does all that is to be done.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "One who sees that the self does not act even in action, and that not acting still depends on a doer and so is action, sees rightly; all talk of doers and deeds belongs to the realm of ignorance."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "'Inaction' is self-knowledge: one sees the action being done as taking the form of knowledge, and sees that knowledge as present within the action."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "While acting, one sees that it is Viṣṇu's action, not one's own as a mere reflection; and when not acting, as in sleep, one sees that the Lord is always acting."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.19": {
+    "context": "Krishna describes the wise person whose actions, free of selfish desire, are consumed by knowledge (4.19-4.23).",
+    "english": "One whose undertakings are all free of desire and of the intentions behind it, whose actions are burned up in the fire of knowledge, is called learned by the wise.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Such a person acts without desire: for the world's welfare if engaged in action, or just to sustain life if withdrawn. Their actions are burned up in the fire of knowledge."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "A seeker of liberation whose actions are free of desire for results and of identifying the self with prakṛti is called wise."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This and the next four verses expand on the previous one."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.20": {
+    "context": "Krishna adds that one free of attachment to results does nothing at all, even while fully active.",
+    "english": "Giving up attachment to the fruits of action, always content and depending on nothing, such a person does nothing at all, even while fully engaged in action.",
+    "situations": ["purpose_meaning", "success_wealth"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Action done by one who knows the actionless self is, in truth, no action at all."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Though engaged in action, such a person is really practising knowledge in the form of action."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Such a person knows, 'I resemble the Lord, ever content and independent.'"}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.21": {
+    "context": "Krishna describes someone who acts only as the body requires, without expectation or possessiveness.",
+    "english": "Without expectations, with mind and body controlled, having given up all possessions, doing only what the body requires, one incurs no fault.",
+    "situations": ["temptation_self_control", "success_wealth"], "life_stages": ["elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "One who has given up all possessions does only what keeps the body alive, without even ego in that, and incurs no sin."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Without desire for results, with mind controlled, free of 'mine' towards material things, and doing only bodily action throughout life, one sees the self through karma yoga alone."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Explains 'does nothing at all' (4.20): such a person incurs no sin."}
+    ],
+    "safety_flags": ["renunciation", "under18_hold"], "review_status": "draft"
+  },
+  "BG.4.22": {
+    "context": "Krishna continues: one content with what comes, free of envy and even in success or failure, is not bound by action.",
+    "english": "Content with whatever comes unsought, beyond the pairs of opposites, free of envy, the same in success and failure, such a person is not bound even when acting.",
+    "situations": ["success_wealth", "failure_setback", "ego_pride_envy"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Content with what comes unasked, unshaken by heat and cold, without enmity, and even-minded whether food comes or not, such a renunciant is not bound."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Content with what comes to sustain the body, bearing heat and cold, without resentment towards others since misfortune comes from one's own karma, and even in victory or defeat, one is not bound even without the path of knowledge."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "These are the marks of one whose mind is controlled."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.23": {
+    "context": "Krishna concludes that action done as sacrifice, by one grounded in knowledge, leaves no trace.",
+    "english": "For one who is free of attachment, liberated, with a mind established in knowledge, acting only as sacrifice, all action dissolves completely.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The action of such a person, together with its fruit, is wholly destroyed."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "All the old karma that causes bondage is wholly destroyed for such a person."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Liberated' means not identifying with the body; 'established in knowledge' means knowing the Lord."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.24": {
+    "context": "Krishna describes the vision in which every part of an act of offering is seen as Brahman.",
+    "english": "The act of offering is Brahman, the offering is Brahman, poured by Brahman into the fire that is Brahman. Brahman is reached by one who sees Brahman in every action.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The knower sees the ladle and every other part of the sacrifice as nothing but Brahman, just as one sees that the 'silver' was only mother-of-pearl all along."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Everything in the rite is Brahman because it is Brahman's effect and has Brahman as its self; one who meditates on this reaches Brahman."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "All this is called Brahman because its existence and activity depend on Brahman, not because it is Brahman's very nature; he cites the Padma Purāṇa."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.25": {
+    "context": "Krishna begins listing the many forms that sacrifice can take (4.25-4.30).",
+    "english": "Some yogis offer sacrifice to the gods alone; others offer sacrifice, by sacrifice itself, into the fire of Brahman.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Some practitioners of ritual worship the gods; others offer the self into Brahman, which the Upanishads call truth, knowledge and the infinite."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Some practitioners of karma yoga devote themselves to worshipping the gods; others offer oblations, themselves Brahman, into the fire that is Brahman."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "For some renunciants, worship of the Lord is itself their sacrifice."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.26": {
+    "context": "Krishna describes self-restraint as a form of sacrifice.",
+    "english": "Some offer hearing and the other senses into the fires of restraint; others offer sound and the other objects of the senses into the fires of the senses.",
+    "situations": ["temptation_self_control"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Some practise restraint of the senses; others take in only objects that are not forbidden, and treat that as their offering."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Some strive to restrain the senses; others strive to stop the senses from chasing their objects."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.27": {
+    "context": "Krishna continues: some offer all the activity of the senses and breath into self-control.",
+    "english": "Others offer all the actions of the senses and of the breath into the fire of the yoga of self-control, kindled by knowledge.",
+    "situations": ["temptation_self_control"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "They offer the activities of the senses and the vital breath into the fire of self-restraint, lit by discernment as a lamp is lit by oil."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Others, through the mind, strive to stop the senses and breath from turning to activity."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Self-restraint is the means, the fire."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.28": {
+    "context": "Krishna lists sacrifices of wealth, austerity, yoga, study and knowledge.",
+    "english": "Some offer wealth as sacrifice, some austerity, some yoga; and other ascetics of strict vows offer study and knowledge as their sacrifice.",
+    "situations": ["purpose_meaning", "success_wealth"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Some give wealth at holy places as a sacrifice, others practise austerity, others yoga such as breath control and withdrawal of the senses, others recitation of the Veda and its understanding."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Some practitioners of karma yoga worship with rightly earned wealth, through charity, rites and offerings; others devote themselves to fasting and austerity; others to visiting holy places."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Each offers their austerity or other practice into the Lord as an act of worship."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.29": {
+    "context": "Krishna describes breath control (prāṇāyāma) as a form of sacrifice.",
+    "english": "Others, devoted to breath control, offer the in-breath into the out-breath and the out-breath into the in-breath, holding back the flow of both.",
+    "situations": ["temptation_self_control"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "These are the three phases of breath control: drawing in, breathing out, and holding."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Some practise the three kinds of breath control, inhaling, exhaling and holding, together with a regulated diet."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "They remain in breath retention."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.30": {
+    "context": "Krishna completes the list of sacrifices, saying all of them purify those who practise them.",
+    "english": "Others, restricting their food, offer the breaths into the breaths. All of these know what sacrifice is, and through sacrifice their impurities are destroyed.",
+    "situations": ["temptation_self_control"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "With measured food, they master each vital breath and merge the others into it; all of these, through sacrifice, have their sins destroyed."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "By eating little, the breaths are offered into the breaths; as a text says, 'one who eats little has offered the breaths into the breaths'."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.31": {
+    "context": "Krishna says sacrifice is necessary even for success in this world, let alone the next.",
+    "english": "Those who eat the nectar left over from sacrifice reach eternal Brahman. This world is not for one who does not sacrifice; how then the next, best of the Kurus?",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Having performed these sacrifices, they eat the prescribed food, called nectar, in the time left over; if they seek liberation, they reach eternal Brahman."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Without the daily and occasional rites, not even the ordinary goals of dharma, wealth and pleasure are achieved, let alone liberation."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.32": {
+    "context": "Krishna sums up: all these sacrifices are forms of action, and knowing this brings freedom.",
+    "english": "So many kinds of sacrifice are spread out before Brahman. Know them all to be born of action; knowing this, you will be set free.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "These sacrifices are known through the Veda; know them as born of action of body, speech and mind, not of the self, which does not act. Knowing this, you will be freed."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "These forms of karma yoga lead to realising the self; know them as arising from daily and occasional duties, and by doing them you will be freed."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "They are spread before the Supreme Self, who enjoys all sacrifices (9.24). Even what you would do for liberation after giving up the war is action, so prescribed action should not be abandoned."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.33": {
+    "context": "Krishna ranks the sacrifice of knowledge above all other offerings.",
+    "english": "The sacrifice of knowledge is better than any sacrifice of material things, scorcher of enemies; all action, without exception, culminates in knowledge, son of Pritha.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Material sacrifice produces further results, while the sacrifice of knowledge does not, so it is better; all action is contained in knowledge, as small pools are in a flood."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "In action that has both a material and a knowledge side, the knowledge side is better, since all action culminates in knowledge."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "All action, with all its parts such as worship, has knowledge as its fruit."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.34": {
+    "context": "Krishna tells Arjuna how to gain knowledge: approach those who have seen the truth with humility, questions and service.",
+    "english": "Learn it by bowing down, by asking questions and by serving; the wise who have seen the truth will teach you knowledge.",
+    "situations": ["purpose_meaning", "ego_pride_envy"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Approach teachers with full prostration, with questions about bondage, liberation, knowledge and ignorance, and with service; won over by such humility, they will teach you."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Though I have taught you about the self (2.17-2.39), in time learn it more clearly from the wise, through humility, questions and service."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Arjuna already has knowledge; delusion has only overpowered it."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.35": {
+    "context": "Krishna promises that this knowledge will end Arjuna's confusion and show him the unity of all beings.",
+    "english": "Knowing this, you will not fall into confusion like this again, son of Pandu; through it you will see all beings in yourself, and then in me.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Through this knowledge you will see all beings, from Brahmā to a blade of grass, in your own self, and also in me, Vāsudeva, the Supreme Lord."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "You will no longer mistake the body for the self; you will see all beings as alike with your own self, since all selves, free of prakṛti, are of the nature of knowledge."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "With delusion gone, through this knowledge you will see all beings in me, their self."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.36": {
+    "context": "Krishna assures Arjuna that knowledge can carry anyone across even the worst wrongdoing.",
+    "english": "Even if you were the worst wrongdoer of all, you would cross over all wrongdoing by the boat of knowledge alone.",
+    "situations": ["failure_setback", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Even the worst sinner crosses the ocean of sin on the raft of knowledge; for a seeker of liberation, even merit counts as sin here."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Even the greatest sinner crosses the whole ocean of past sin on the raft of self-knowledge."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This and the next two verses praise knowledge."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.37": {
+    "context": "Krishna compares knowledge to a fire that consumes the effects of all past actions.",
+    "english": "As a blazing fire turns firewood to ash, Arjuna, so the fire of knowledge turns all actions to ash.",
+    "situations": ["failure_setback", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Knowledge does not literally burn actions like fuel: right vision makes all actions seedless, unable to bear fruit."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The fire of self-knowledge burns up the store of karma accumulated since beginningless time."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.38": {
+    "context": "Krishna praises knowledge as the greatest purifier, found within through steady practice.",
+    "english": "Nothing in this world purifies like knowledge. One who is perfected in yoga finds it, in time, within oneself.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "A seeker made ready by karma yoga and meditation finds this knowledge within after a long time."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Nothing purifies like self-knowledge; one perfected by daily karma yoga practised as knowledge finds it within, in time."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The following verses give its means and what opposes it."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.39": {
+    "context": "Krishna names the qualities that lead to knowledge and peace: faith, dedication and self-control.",
+    "english": "One who has faith, who is devoted to it and has mastered the senses, gains knowledge; having gained knowledge, one soon reaches supreme peace.",
+    "situations": ["purpose_meaning", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Faith alone may be slow, so add dedication to the means, such as serving a teacher, and control of the senses; one with all three surely gains knowledge and soon reaches liberation."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "One with faith in growing the knowledge taught, focused on it and restraining the senses, soon gains mature knowledge and the supreme peace, nirvāṇa."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.40": {
+    "context": "Krishna warns of the cost of doubt and lack of faith.",
+    "english": "But the ignorant, the faithless and the doubting perish; for one who doubts, there is neither this world, nor the next, nor happiness.",
+    "situations": ["fear_anxiety", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The ignorant and the faithless perish, but not as surely as the doubter, the worst of all, who has neither this world, nor the next, nor happiness, since doubt arises even there."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "One without this knowledge, without eagerness to grow it, or doubting it, is lost: they gain neither the ordinary goals of life nor liberation."}
+    ],
+    "safety_flags": ["distress_gentle"], "review_status": "draft"
+  },
+  "BG.4.41": {
+    "context": "Krishna describes the one who is free: acting through yoga, with doubts cut away by knowledge.",
+    "english": "Actions do not bind one who has renounced action through yoga, whose doubts are cut away by knowledge, and who is self-possessed, Arjuna.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Through yoga, here the vision of the highest truth, such a person has renounced merit and demerit, and their doubt is cut by knowledge of the oneness of the self and the Lord."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "One whose action has taken the form of knowledge through this yoga, whose doubts about the self are cut away, and whose mind is firm, is not bound by past karma."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.4.42": {
+    "context": "Krishna ends chapter 4 urging Arjuna to cut through doubt with knowledge and rise to act.",
+    "english": "So, with the sword of knowledge, cut away this doubt about the self, born of ignorance and lodged in your heart; take up yoga, and stand up, Arjuna.",
+    "situations": ["purpose_meaning", "fear_anxiety"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Cut this doubt, born of lack of discernment and lodged in the intellect, with the sword of right knowledge, which removes grief and delusion; the doubt is 'about the self' because it concerns your own self."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Cut the doubt about the self, born of beginningless ignorance, with the sword of the self-knowledge I have taught; take up the karma yoga I have taught, and stand up for it."}
+    ],
+    "safety_flags": ["war", "under18_hold"], "review_status": "draft"
+  }
+}

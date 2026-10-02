@@ -1,0 +1,293 @@
+{
+  "BG.1.1": {
+    "context": "The blind king Dhritarashtra asks his minister Sanjaya what is happening at Kurukshetra, where his sons, the Kauravas, face their cousins, the Pandavas, for battle.",
+    "english": "On the field of dharma, the field of the Kurus, my sons and the sons of Pandu have gathered, eager to fight. What did they do, Sanjaya?",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Treats the opening as narrative and summarises the scene that follows: Duryodhana's unease, the conch blasts, and Arjuna's chariot drawn up between the armies. He gives no doctrinal reading of this verse."}
+    ],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.2": {
+    "context": "Sanjaya begins his report to the blind king: Duryodhana, seeing the Pandava army arrayed for battle, goes to his teacher Drona.",
+    "english": "But when King Duryodhana saw the Pandava army drawn up in battle order, he went up to his teacher and spoke these words.",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.3": {
+    "context": "Duryodhana points out the Pandava army to his teacher Drona, noting that Drona's own student arranged it.",
+    "english": "Teacher, look at this great army of the sons of Pandu, arrayed by your gifted student, the son of Drupada.",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.4": {
+    "context": "Duryodhana begins listing the great warriors of the Pandava army for Drona.",
+    "english": "Here are heroes, mighty archers equal in battle to Bhima and Arjuna: Yuyudhana, Virata, and Drupada, a great chariot-warrior;",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.5": {
+    "context": "Duryodhana continues listing the great warriors of the Pandava army.",
+    "english": "Dhrishtaketu, Chekitana, and the valiant king of Kashi; Purujit, Kuntibhoja, and Shaibya, a bull among men;",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.6": {
+    "context": "Duryodhana finishes listing the great warriors of the Pandava army.",
+    "english": "the bold Yudhamanyu and the valiant Uttamaujas, the son of Subhadra and the sons of Draupadi: all of them great chariot-warriors.",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.7": {
+    "context": "Duryodhana turns from the enemy's warriors to name the leaders of his own army for Drona.",
+    "english": "Now hear, best of the twice-born, about the most distinguished among us, the leaders of my army. I name them for you so that you know them.",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.8": {
+    "context": "Duryodhana names the chief warriors on the Kaurava side, beginning with Drona himself.",
+    "english": "You yourself, Bhishma, Karna, and Kripa, victorious in battle; Ashvatthama, Vikarna, and also the son of Somadatta.",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.9": {
+    "context": "Duryodhana tells Drona that many more heroes are ready to die for his cause.",
+    "english": "And many other heroes are ready to give up their lives for my sake, armed with many kinds of weapons, all of them skilled in war.",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war", "death"], "review_status": "draft"
+  },
+  "BG.1.10": {
+    "context": "Duryodhana compares the two armies, revealing his unease about the strength of his own side.",
+    "english": "Our army, guarded by Bhishma, is not enough, while their army, guarded by Bhima, is enough.",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.11": {
+    "context": "Duryodhana orders his commanders to hold their positions and, above all, to protect Bhishma, who guards their army.",
+    "english": "So all of you, standing in your assigned places at every point of the formation, must protect Bhishma above all.",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.12": {
+    "context": "Bhishma, the eldest of the Kuru family, blows his conch to raise Duryodhana's spirits as the battle is about to begin.",
+    "english": "Then, to cheer him, the mighty Bhishma, eldest of the Kurus and their grandfather, roared like a lion and blew his conch.",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.13": {
+    "context": "The Kaurava army answers Bhishma's signal with a great din of conches, drums and horns.",
+    "english": "Then conches and kettledrums, tabors, drums and horns all sounded at once, and the noise was tremendous.",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.14": {
+    "context": "On the Pandava side, Krishna and Arjuna answer with their own divine conches.",
+    "english": "Then Krishna and Arjuna, standing in their great chariot yoked to white horses, blew their divine conches.",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.15": {
+    "context": "Sanjaya names the conches blown by Krishna, Arjuna and Bhima on the Pandava side.",
+    "english": "Krishna blew Panchajanya, Arjuna blew Devadatta, and Bhima, doer of fearsome deeds, blew the great conch Paundra.",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.16": {
+    "context": "Sanjaya continues naming the conches of the Pandava brothers.",
+    "english": "King Yudhishthira, son of Kunti, blew Anantavijaya; Nakula and Sahadeva blew Sughosha and Manipushpaka.",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.17": {
+    "context": "Sanjaya names more of the Pandava allies who sound their conches.",
+    "english": "The king of Kashi, a superb archer, and Shikhandi, a great chariot-warrior; Dhrishtadyumna, Virata, and the unconquered Satyaki;",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.18": {
+    "context": "Sanjaya finishes listing the Pandava warriors who sound their conches.",
+    "english": "Drupada and the sons of Draupadi, O king, and the mighty-armed son of Subhadra: on every side, each blew his own conch.",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.19": {
+    "context": "Sanjaya tells the king how the Pandava conches struck fear into the hearts of his own sons.",
+    "english": "That tumultuous roar, echoing through sky and earth, tore apart the hearts of Dhritarashtra's sons.",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.20": {
+    "context": "As the fighting is about to start, Arjuna raises his bow; the sentence continues into the next verse.",
+    "english": "Then Arjuna, whose banner bears a monkey, saw Dhritarashtra's sons drawn up in order. As the weapons were about to clash, the son of Pandu raised his bow",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.21": {
+    "context": "Sanjaya narrates the first line; Arjuna's words begin in the second, asking Krishna, his charioteer, to drive between the two armies.",
+    "english": "and spoke these words to Krishna, O king: \"Krishna, halt my chariot between the two armies,",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.22": {
+    "context": "Arjuna explains why he wants his chariot placed between the armies: to see whom he must fight.",
+    "english": "so that I can look at those standing here eager to fight, and see whom I must fight in this coming battle.",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.23": {
+    "context": "Arjuna wants to see those who have come to fight on the side of Duryodhana, Dhritarashtra's son.",
+    "english": "I want to see those who have gathered here to fight, wishing to please the evil-minded son of Dhritarashtra in battle.\"",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.24": {
+    "context": "Sanjaya tells the king that Krishna did as Arjuna asked and drove the chariot between the two armies.",
+    "english": "Spoken to in this way by Arjuna, O king, Krishna drew up that finest of chariots between the two armies,",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Summarises 1.20-1.25 as narrative: urged by Arjuna, Krishna at once did as asked in full view of Bhishma, Drona and all the kings, and Sanjaya tells Dhritarashtra that this is how his side's victory looks."}
+    ],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.25": {
+    "context": "Krishna halts the chariot facing Bhishma and Drona and tells Arjuna to look at the assembled Kurus.",
+    "english": "in front of Bhishma, Drona and all the rulers of the earth, and said: \"Son of Pritha, look at these Kurus gathered together.\"",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.26": {
+    "context": "Looking across the field, Arjuna sees that the armies are full of his own relatives, teachers and friends; the sentence continues to 1.28.",
+    "english": "There the son of Pritha saw them standing: fathers and grandfathers, teachers, uncles, brothers, sons, grandsons, and friends,",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.27": {
+    "context": "Sanjaya describes the moment Arjuna takes in that his own kin stand on both sides of the battle.",
+    "english": "fathers-in-law and companions, in both armies. Seeing all these relatives standing there, the son of Kunti",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.28": {
+    "context": "Sanjaya narrates the first line; then Arjuna begins his lament, the despair that Krishna answers in the rest of the Gita.",
+    "english": "was overcome with deep compassion, and in despair he said: \"Krishna, seeing my own people standing here, eager to fight,",
+    "situations": ["grief_loss", "conflict_of_duties"], "life_stages": ["householder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Summarises 1.26-1.47: Arjuna was generous, deeply compassionate and righteous, had been wronged again and again by his cousins, and had the Supreme Person as his ally. Yet seeing his kin about to die, out of love, compassion and fear of doing wrong, he said 'I will not fight' and sat down in grief."}
+    ],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.29": {
+    "context": "Arjuna describes the physical symptoms of his distress at the thought of fighting his own kin; Krishna answers this despair from chapter 2.",
+    "english": "my limbs give way and my mouth goes dry. My body trembles and my hair stands on end.",
+    "situations": ["fear_anxiety"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"], "school_notes": [],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.1.30": {
+    "context": "Arjuna's distress overwhelms him physically, so that he can barely hold his bow or stand.",
+    "english": "My bow Gandiva slips from my hand and my skin is burning. I cannot stand steady, and my mind seems to be reeling.",
+    "situations": ["fear_anxiety"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.31": {
+    "context": "Arjuna begins to argue against the battle, seeing no good in killing his relatives.",
+    "english": "Krishna, I see bad omens, and I see no good in killing my own people in battle.",
+    "situations": ["conflict_of_duties", "fear_anxiety"], "life_stages": ["householder"], "aims": ["dharma"], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.32": {
+    "context": "In despair, Arjuna says that victory, kingdom and even life mean nothing to him; Krishna answers this despair from chapter 2.",
+    "english": "Krishna, I do not want victory, or a kingdom, or pleasures. What use to us is a kingdom, or enjoyment, or even life?",
+    "situations": ["purpose_meaning", "lack_of_motivation", "success_wealth"], "life_stages": ["householder"], "aims": ["artha", "kama"], "school_notes": [],
+    "safety_flags": ["distress_gentle"], "review_status": "draft"
+  },
+  "BG.1.33": {
+    "context": "Arjuna reflects that the people for whom he wanted a kingdom are the very people he would have to kill.",
+    "english": "The very people for whose sake we wanted a kingdom, enjoyment and pleasures stand here in battle, ready to give up their lives and wealth:",
+    "situations": ["relationships_forgiveness", "purpose_meaning"], "life_stages": ["householder"], "aims": ["artha", "kama"], "school_notes": [],
+    "safety_flags": ["war", "death"], "review_status": "draft"
+  },
+  "BG.1.34": {
+    "context": "Arjuna lists the relatives he sees standing ready for battle.",
+    "english": "teachers, fathers, sons and grandfathers, uncles, fathers-in-law, grandsons, brothers-in-law, and other relatives.",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.1.35": {
+    "context": "Arjuna declares he will not kill his relatives even to save his own life, a conclusion Krishna goes on to reject.",
+    "english": "I do not want to kill them, Krishna, even if they kill me, not even to rule the three worlds, let alone this earth.",
+    "situations": ["relationships_forgiveness", "conflict_of_duties"], "life_stages": ["householder"], "aims": ["dharma"], "school_notes": [],
+    "safety_flags": ["war", "death"], "review_status": "draft"
+  },
+  "BG.1.36": {
+    "context": "Arjuna argues that killing his cousins, even though they are aggressors, would bring only sin.",
+    "english": "What joy could we have from killing the sons of Dhritarashtra, Krishna? Only sin would come to us from killing these aggressors.",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.37": {
+    "context": "Arjuna concludes that killing his own relatives could never bring happiness.",
+    "english": "So it is not right for us to kill the sons of Dhritarashtra, our own relatives. How could we be happy after killing our own people, Krishna?",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.38": {
+    "context": "Arjuna argues that destroying a family is a grave wrong, even if his cousins, blinded by greed, cannot see it.",
+    "english": "Even if they, their minds overcome by greed, do not see the wrong in destroying a family, or the sin in betraying friends,",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.39": {
+    "context": "Arjuna argues that he and his brothers, unlike their cousins, can see the wrong and should turn away from it.",
+    "english": "why should we not know to turn back from this sin, Krishna, when we can clearly see the wrong in destroying a family?",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.40": {
+    "context": "Arjuna begins a chain of consequences (1.40-1.44): war will destroy families and with them their traditions.",
+    "english": "When a family is destroyed, its timeless family traditions perish; and when that dharma is lost, lawlessness overtakes the whole family.",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.41": {
+    "context": "Continuing his chain of consequences, Arjuna says lawlessness corrupts a family's women and leads to the mixing of varnas.",
+    "english": "When lawlessness prevails, Krishna, the women of the family become corrupt; and when the women are corrupt, the varnas become mixed.",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["caste_gender"], "review_status": "draft"
+  },
+  "BG.1.42": {
+    "context": "Arjuna argues that the mixing of varnas sends both the family and its destroyers to hell, as the rites for ancestors stop.",
+    "english": "This mixing drags the family and those who destroyed it down to hell, for their ancestors fall, deprived of their offerings of rice and water.",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war", "caste_gender"], "review_status": "draft"
+  },
+  "BG.1.43": {
+    "context": "Arjuna concludes that destroying families wipes out the ancient duties of caste and family.",
+    "english": "Through these wrongs of those who destroy families, which cause the mixing of varnas, the timeless duties of caste and family are wiped out.",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war", "caste_gender"], "review_status": "draft"
+  },
+  "BG.1.44": {
+    "context": "Arjuna ends his chain of consequences with what he has heard about the fate of people who lose their family traditions.",
+    "english": "We have heard, Krishna, that people whose family traditions have been destroyed live in hell for an endless time.",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.1.45": {
+    "context": "Arjuna laments that greed for a kingdom has brought him and his brothers to the edge of a great sin.",
+    "english": "Alas! We are set on committing a great sin, ready to kill our own people out of greed for the pleasures of a kingdom.",
+    "situations": ["conflict_of_duties", "temptation_self_control"], "life_stages": ["householder"], "aims": ["dharma", "artha"], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  },
+  "BG.1.46": {
+    "context": "In despair, Arjuna says he would rather be killed without resisting, a despair Krishna rejects in chapter 2.",
+    "english": "It would be better for me if the sons of Dhritarashtra, weapons in hand, killed me in battle while I stood unarmed and did not resist.\"",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war", "death", "under18_hold"], "review_status": "draft"
+  },
+  "BG.1.47": {
+    "context": "Sanjaya reports that Arjuna, overwhelmed with grief, puts down his bow and sits down in his chariot, ending chapter 1.",
+    "english": "Having said this on the battlefield, Arjuna sank down on the seat of his chariot, casting aside his bow and arrows, his mind overwhelmed with grief.",
+    "situations": [], "life_stages": [], "aims": [], "school_notes": [],
+    "safety_flags": ["war"], "review_status": "draft"
+  }
+}

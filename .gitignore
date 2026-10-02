@@ -1,0 +1,11 @@
+# Local tool state
+.claude/
+__pycache__/
+*.pyc
+
+# Google Drive and OS artefacts
+desktop.ini
+.tmp.drivedownload/
+.tmp.driveupload/
+Thumbs.db
+.DS_Store

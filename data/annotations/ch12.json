@@ -1,0 +1,205 @@
+{
+  "BG.12.1": {
+    "context": "Arjuna opens chapter 12, on devotion, asking which is better: worshipping Krishna in form or meditating on the formless Imperishable.",
+    "english": "Of those devotees who, ever disciplined in this way, worship you, and those who worship the Imperishable, the unmanifest, which know yoga best?",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'In this way' points back to 11.55: those wholly devoted to the Lord meditate on the universal form; others, having renounced all desires, meditate on the imperishable Brahman, free of all qualities."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Arjuna compares devotees who worship the Lord, full of every auspicious quality, as the highest goal, with those who meditate on the Imperishable, here the individual self in its own nature."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This chapter shows that worshipping the Lord is better than meditating on the unmanifest, and gives the means to it."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.12.2": {
+    "context": "Krishna answers that those who worship him with devoted, steady minds are the most disciplined.",
+    "english": "Those who fix their minds on me and worship me, always disciplined and endowed with supreme faith, I consider the most disciplined.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Those who fix their minds on me, the universal form and lord of all masters of yoga, and worship me with supreme faith, spend their days and nights in me, so they are rightly called most disciplined."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Those who, out of intense love, fix their minds on me with supreme faith are the most disciplined: they reach me easily and soon."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.12.3": {
+    "context": "Krishna turns to those who meditate on the formless Imperishable (12.3-12.5).",
+    "english": "But those who worship the Imperishable, which cannot be defined, the unmanifest, all-pervading, beyond thought, unchanging, unmoving and constant,",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The Imperishable cannot be described because it is unmanifest, revealed by no means of knowledge; worship means approaching it as scripture teaches and dwelling on it in an unbroken stream, like flowing oil."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The Imperishable here is the individual self: indefinable by words like 'god' or 'human' because it is other than the body, present in every body yet unlike them, and the same in all."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Answers what fruit others gain; citing the Bhāgavata, it is māyā (prakṛti) that is called indefinable."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.12.4": {
+    "context": "Krishna says those who meditate on the formless also reach him, through self-control and care for all beings.",
+    "english": "restraining all the senses, even-minded everywhere, delighting in the welfare of all beings, they too reach me.",
+    "situations": ["purpose_meaning", "temptation_self_control", "relationships_forgiveness"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Withdrawing the senses, even-minded at gain and loss, devoted to the good of all, they reach me; there is nothing more to say about them, since the wise are my very self (7.18)."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.12.5": {
+    "context": "Krishna explains why the path of the formless is harder for embodied beings.",
+    "english": "The difficulty is greater for those whose minds are set on the unmanifest, for the unmanifest goal is hard for embodied beings to reach.",
+    "situations": ["purpose_meaning", "failure_setback"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The difficulty is greater for them because they must give up identifying with the body; the goal of the unmanifest is hard for the embodied."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Those who identify with the body find it hard to turn the mind to the unmanifest self, since they take the body to be the self."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The path to him through meditation on the unmanifest is hard, needing intense practice, mastery of all the senses, equal vision and devotion to Viṣṇu."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.12.6": {
+    "context": "Krishna describes those who offer all actions to him and meditate on him with single-minded devotion (12.6-12.7).",
+    "english": "But those who surrender all actions to me, take me as the highest, and worship me, meditating on me with undivided yoga,",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Those who give up all actions to me and meditate on me with yoga that rests on nothing else but the universal form."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Those who offer to me all ordinary actions for sustaining the body, and all Vedic rites, and meditate on me with yoga that has no other goal."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "His worshippers face no such hardship; he cites the Mokṣadharma that single-minded devotees are best and he is their goal."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.12.7": {
+    "context": "Krishna promises to lift his devotees swiftly from the ocean of death and rebirth.",
+    "english": "for them, whose minds are set on me, I soon become the one who lifts them out of the ocean of death and worldly existence, son of Pritha.",
+    "situations": ["fear_anxiety", "ageing_death_impermanence", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Worldly existence, bound up with death, is an ocean because it is so hard to cross; I lift them out of it, not after long but quickly."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.12.8": {
+    "context": "Krishna begins a graded series of practices, starting with the highest: fixing the whole mind on him (12.8-12.11).",
+    "english": "Fix your mind on me alone; let your understanding rest in me. Then you will dwell in me alone hereafter; there is no doubt.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Set your deliberating mind and deciding intellect on me alone; then after the body falls you will surely dwell in me."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Because I am the highest goal, easy to reach and soon reached, fix your mind on me and resolve that I alone am the goal; right after that resolve you will dwell in me."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.12.9": {
+    "context": "Krishna offers a second way for those who cannot yet keep the mind steady: practice.",
+    "english": "If you cannot keep your mind steadily on me, then seek to reach me through the yoga of practice, Arjuna.",
+    "situations": ["lack_of_motivation", "failure_setback", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Practice is drawing the mind back from everything and fixing it again and again on one support; through such yoga, seek to reach me."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "If you cannot fix your mind on me all at once, then by repeatedly dwelling on my countless auspicious qualities, seek to reach me."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.12.10": {
+    "context": "Krishna offers a third way: if practice is too hard, do one's work for his sake.",
+    "english": "If you are unable even to practise, make work for me your highest aim; even by doing actions for my sake, you will reach perfection.",
+    "situations": ["lack_of_motivation", "failure_setback", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Even without practice, just doing actions for me will bring perfection, by way of purity of mind, yoga and knowledge."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Do acts of service for me out of love: building temples, tending gardens, lighting lamps, cleaning, gathering flowers, worship, chanting my names, bowing and praising; these bring you to me soon."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.12.11": {
+    "context": "Krishna offers a fourth way: if even that is too hard, give up the fruits of all actions with self-control.",
+    "english": "If you are unable to do even this, then, taking refuge in my yoga and with self-control, give up the fruit of all your actions.",
+    "situations": ["lack_of_motivation", "failure_setback", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "If you cannot even make work for me your aim, then, self-controlled, give up the fruits of all actions."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "If you cannot do even these acts born of love for me, then take up the path of reflecting on the self taught in chapters 1-6, which gives rise to supreme devotion, and as its means give up the fruits of all actions."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.12.12": {
+    "context": "Krishna ranks knowledge, meditation and giving up the fruits of action, saying the last brings immediate peace.",
+    "english": "Knowledge is better than practice; meditation is better than knowledge; giving up the fruit of action is better than meditation; and from giving up comes peace at once.",
+    "situations": ["fear_anxiety", "purpose_meaning", "success_wealth"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Knowledge is better than practice without discernment; meditation with knowledge is better still; giving up the fruits of action is better than that, and peace, the end of worldly existence and its cause, follows at once."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Each is better than the one before as a means to one's good, since each leads to the next: giving up fruits leads to meditation, meditation to direct knowledge of the self, and so on."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Giving up the fruit is better than meditation' is praise, not literal ranking; he cites a Sāmaveda text that meditation leads to direct vision and then to peace."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.12.13": {
+    "context": "Krishna begins describing the devotee dear to him: without hatred, kind and compassionate (12.13-12.20).",
+    "english": "One who bears no hatred towards any being, who is friendly and compassionate, free of possessiveness and ego, the same in pain and pleasure, and forgiving,",
+    "situations": ["anger_resentment", "relationships_forgiveness", "ego_pride_envy"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Hating no being, not even one who causes them pain, since they see all beings as the self; friendly, compassionate to those who suffer, free of 'mine' and of ego."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Bearing no hatred even towards those who hate and harm them, reflecting that these beings are moved by the Lord in keeping with their own faults; friendly towards them, and compassionate when they suffer."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.12.14": {
+    "context": "Krishna continues: the devotee dear to him is content, self-controlled and wholly given to him.",
+    "english": "always content, disciplined, self-controlled and firm in resolve, with mind and understanding offered to me: that devotee of mine is dear to me.",
+    "situations": ["purpose_meaning", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Content whether the means of life come or not; always absorbed; firm in conviction about the self; with mind and intellect given to me."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.12.15": {
+    "context": "Krishna adds that the devotee dear to him neither disturbs others nor is disturbed by them.",
+    "english": "One from whom the world does not shrink, and who does not shrink from the world, who is free of elation, impatience, fear and agitation, is dear to me.",
+    "situations": ["fear_anxiety", "anger_resentment", "relationships_forgiveness"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "No one is troubled by such a person, nor are they troubled by anyone; free of elation at gain, impatience, fear and agitation."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Such a person does nothing that troubles anyone, and everyone treats them likewise, since they oppose no one; so they feel no elation, resentment, fear or agitation towards anyone."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.12.16": {
+    "context": "Krishna continues the portrait: free of craving, pure, capable and untroubled.",
+    "english": "One who expects nothing, who is pure, capable, impartial and free of anxiety, who has given up all self-centred undertakings: that devotee of mine is dear to me.",
+    "situations": ["fear_anxiety", "temptation_self_control", "purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Without desire, pure inside and out, able to act promptly as needed, taking no one's side, fearless, and having given up all undertakings for pleasure here or hereafter."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Wanting nothing apart from the self, sustained by what scripture allows, capable in prescribed action and indifferent elsewhere, unshaken by unavoidable discomforts, and giving up every undertaking except what scripture prescribes."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "These verses expand 12.6; 'giving up all undertakings' is the general statement that the following verses spell out."}
+    ],
+    "safety_flags": ["renunciation"], "review_status": "draft"
+  },
+  "BG.12.17": {
+    "context": "Krishna describes the devotee who is not swept away by joy, hatred, grief or craving.",
+    "english": "One who neither rejoices nor hates, neither grieves nor craves, who has let go of both good and bad outcomes, and is full of devotion, is dear to me.",
+    "situations": ["grief_loss", "anger_resentment", "temptation_self_control", "success_wealth"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Not elated at gaining the desired, not hating the undesired, not grieving at losing the dear, not craving what is not yet gained, and giving up good and bad actions alike."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Not grieving at what makes people grieve, such as the loss of wife, children or wealth, nor craving them when absent, nor rejoicing or hating at what makes people do so."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.12.18": {
+    "context": "Krishna continues: the devotee stays the same towards friend and foe, honour and insult (12.18-12.19).",
+    "english": "One who is the same towards enemy and friend, in honour and dishonour, the same in cold and heat, pleasure and pain, free of attachment,",
+    "situations": ["relationships_forgiveness", "anger_resentment", "ego_pride_envy", "failure_setback"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Even towards enemy and friend, in honour and insult, in cold and heat, pleasure and pain, and without attachment anywhere."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Verse 12.13 said such a person bears no hatred towards enemies; here, even when enemies and friends are present before them, their mind stays even."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.12.19": {
+    "context": "Krishna completes the portrait of the devotee: steady, content with little, unmoved by praise or blame.",
+    "english": "to whom blame and praise are the same, who is restrained in speech, content with whatever comes, without a fixed home, steady of mind and full of devotion: that person is dear to me.",
+    "situations": ["ego_pride_envy", "success_wealth", "relationships_forgiveness"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Restrained in speech and content with whatever keeps the body going; he quotes a saying that the gods call a brahmin one who is clothed, fed and housed by whatever comes."}
+    ],
+    "safety_flags": ["renunciation", "under18_hold"], "review_status": "draft"
+  },
+  "BG.12.20": {
+    "context": "Krishna closes chapter 12: those who follow this teaching with faith are exceedingly dear to him.",
+    "english": "But those who, with faith and taking me as the highest, follow this immortal dharma as I have taught it, those devotees are exceedingly dear to me.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "This dharma, from 12.13 on, is 'immortal' because it leads to immortality; renunciants who follow it with faith, with me, the Imperishable, as their highest goal, are exceedingly dear to me."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The path of devotion described from 12.2 on is both dharma and 'nectar', as sweet as the goal itself; those who follow it are exceedingly dear to me."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Sums up: 'dharma' is Viṣṇu, so 'dharmya' means concerning him; 'immortal' means destroying death and worldly existence; 'faith' means conviction."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  }
+}

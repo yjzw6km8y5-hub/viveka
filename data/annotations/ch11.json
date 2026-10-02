@@ -1,0 +1,550 @@
+{
+  "BG.11.1": {
+    "context": "Arjuna opens chapter 11 saying Krishna's teaching has cleared his confusion, before asking to see his divine form.",
+    "english": "Out of kindness to me, you have spoken the supreme secret about the self, and by those words this confusion of mine is gone.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The teaching on telling the self from the non-self has removed my lack of discernment."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The teaching on the self from 2.12 to 6.47, given only to help me, who was deluded into taking the body for the self, has removed that delusion."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This chapter shows his form as it has been described, so that meditation on it becomes possible."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.2": {
+    "context": "Arjuna acknowledges what he has learned about Krishna's greatness.",
+    "english": "I have heard from you in detail of the origin and dissolution of beings, lotus-eyed one, and of your imperishable greatness.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "I have heard in detail, not briefly, how beings arise and dissolve, and of your undying greatness."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "In chapters 7 to 10 I heard in detail how all beings arise from you and dissolve into you, and of your eternal lordship over everything."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.3": {
+    "context": "Arjuna asks to see Krishna's divine form for himself (11.3-11.4).",
+    "english": "It is just as you have described yourself, supreme Lord. Yet I long to see your divine form, supreme Person.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "It is just as you say; still, I want to see your form as Viṣṇu, full of knowledge, lordship, power, strength, valour and splendour."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "I am certain it is as you say; ocean of love for those who depend on you, I long to see your form as ruler, protector, creator and destroyer of all."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.4": {
+    "context": "Arjuna humbly asks to be shown the cosmic form, if Krishna judges him able.",
+    "english": "If you think it is possible for me to see it, Lord, master of yoga, then show me your imperishable self.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "If you think I am able to see it, master of yogis, then, since I long to, show me your imperishable self."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "'Master of yoga': 'yoga' here is his union with knowledge and the other auspicious qualities, as in 11.8."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Lord' (prabhu) means the one who is able."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.5": {
+    "context": "Krishna begins to reveal his cosmic form (11.5-11.8).",
+    "english": "Behold my forms, son of Pritha, by the hundreds and the thousands, of many kinds, divine, of many colours and shapes.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Divine, not material forms, of many colours such as blue and yellow, and of many shapes."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "See my forms, the support of everything, by the hundreds and thousands, of many colours and shapes."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.6": {
+    "context": "Krishna invites Arjuna to see the gods and countless wonders within his form.",
+    "english": "See the Adityas, the Vasus, the Rudras, the two Ashvins and the Maruts; see many wonders never seen before, Arjuna.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The twelve Ādityas, eight Vasus, eleven Rudras, two Aśvins and the groups of Maruts, and many wonders never seen in the human world."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.7": {
+    "context": "Krishna shows Arjuna the entire universe within his body.",
+    "english": "See here today the whole universe, moving and unmoving, gathered in one place in my body, Arjuna, and whatever else you wish to see.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'Whatever else you wish to see' includes victory or defeat, the doubt Arjuna raised in 2.6."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "See the whole world in one part of my one body, and whatever else you wish to see there too."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.8": {
+    "context": "Krishna grants Arjuna divine sight so he can see the cosmic form.",
+    "english": "But you cannot see me with these eyes of yours. I give you divine sight: see my sovereign power.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "You cannot see me in my universal form with ordinary eyes; I give you divine sight to see my lordly power."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Your eyes grasp only limited things; I give you a divine, non-material eye with which to see me."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.9": {
+    "context": "Sanjaya tells the king that Krishna revealed his supreme form to Arjuna (11.9-11.14).",
+    "english": "Having said this, O king, Krishna, the great lord of yoga, then showed the son of Pritha his supreme, sovereign form,",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Hari, Nārāyaṇa, the great lord of yoga, showed Arjuna his universal form."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Hari, the great lord of yoga, who as Arjuna's cousin was serving as his charioteer, showed his supreme form."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Hari' because he takes (harati) the share of every sacrifice, as the Mokṣadharma says."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.10": {
+    "context": "Sanjaya describes the cosmic form: countless faces, eyes, ornaments and raised weapons.",
+    "english": "with many mouths and eyes, many wondrous sights, many divine ornaments and many divine weapons raised,",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "A form with many mouths and eyes, many astonishing sights, many divine ornaments and many raised divine weapons."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.11": {
+    "context": "Sanjaya continues describing the divine form, infinite and facing everywhere.",
+    "english": "wearing divine garlands and garments, anointed with divine fragrances, made of every wonder, radiant, infinite, facing in every direction.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Wearing divine garlands and garments, anointed with divine scents, full of every wonder, infinite and facing everywhere."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Made of every wonder' means that every wonder is his very nature."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.12": {
+    "context": "Sanjaya compares the cosmic form's radiance to a thousand suns rising at once.",
+    "english": "If the light of a thousand suns were to blaze forth all at once in the sky, that might resemble the splendour of that great being.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "If that light were to resemble it at all; otherwise the universal form's light surpasses even that."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "This shows the boundless, undiminishing brilliance of the form."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Thousand' means endless; the comparison is only to help understanding."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.13": {
+    "context": "Sanjaya says Arjuna saw the entire universe within Krishna's body.",
+    "english": "There, in the body of the god of gods, the son of Pandu then saw the whole universe gathered in one place, divided in many ways.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The whole world, divided into gods, ancestors, humans and others, was seen in one place in the body of Hari."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.14": {
+    "context": "Sanjaya describes Arjuna, awestruck, bowing to address the cosmic form.",
+    "english": "Then Arjuna, overcome with wonder, his hair standing on end, bowed his head to the god and, with joined palms, spoke.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Overcome with wonder, his hair standing on end, Arjuna bowed and folded his hands to praise."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Seeing the god who holds the whole wondrous world in one part of his body, Arjuna prostrated himself and, with folded hands, spoke."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.15": {
+    "context": "Arjuna begins describing what he sees in the cosmic form (11.15-11.31).",
+    "english": "In your body, O God, I see all the gods and all the hosts of different beings; Brahma the lord, seated on the lotus, all the sages and the divine serpents.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "I see in your body all the gods and every kind of being, and four-faced Brahmā, lord of creatures, seated on his lotus."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Takes 'the lord seated on the lotus' to be Īśa (Śiva), present within Brahmā, who sits on the lotus."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.16": {
+    "context": "Arjuna sees Krishna's form as without beginning, middle or end.",
+    "english": "I see you with countless arms, bellies, mouths and eyes, infinite in form on every side; I see no end, no middle and no beginning of you, lord of the universe, whose form is the universe.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "I see you everywhere with many arms, bellies, mouths and eyes, and with endless forms."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Because you are infinite, I see no end, middle or beginning of you."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Many' here means infinite; he cites the Upanishad: 'eyes on every side, faces on every side'."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.17": {
+    "context": "Arjuna describes the blinding radiance of the cosmic form.",
+    "english": "I see you wearing a crown, bearing a mace and a discus, a mass of radiance shining everywhere, hard to look at, blazing all around like burning fire and the sun, immeasurable.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Crowned, bearing mace and discus, a mass of light shining everywhere and hard to look at."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Immeasurable' removes any idea that the comparison with fire and sun limits him."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.18": {
+    "context": "Arjuna praises Krishna as the Imperishable and guardian of eternal dharma.",
+    "english": "You are the Imperishable, the supreme one to be known; you are the ultimate resting place of this universe; you are the undying guardian of eternal dharma; you are, I believe, the eternal Person.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "You are the supreme Brahman, to be known by seekers of liberation, and the final support of the whole world."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "You are the supreme Imperishable that the Upanishads say must be known, and the final support of the universe."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.19": {
+    "context": "Arjuna describes the overwhelming power of the cosmic form.",
+    "english": "I see you without beginning, middle or end, of infinite power, with countless arms, the sun and moon as your eyes, your mouth a blazing fire, scorching this universe with your own radiance.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "'Infinite power' stands for a store of unsurpassed knowledge, strength, lordship, power and splendour."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Sun and moon as eyes' is like 'I am the ritual' (9.16); he cites the Veda: the moon was born from his mind, the sun from his eye."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.20": {
+    "context": "Arjuna says the three worlds tremble at the sight of the cosmic form.",
+    "english": "The space between heaven and earth, and all the directions, are filled by you alone. Seeing this wondrous, terrible form of yours, great one, the three worlds tremble.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "You alone fill the space between heaven and earth and all directions; seeing your fierce form, the three worlds are struck with fear."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.21": {
+    "context": "Arjuna sees gods and sages entering and praising the cosmic form.",
+    "english": "These hosts of gods enter into you; some, afraid, praise you with joined palms; crying \"May all be well!\", hosts of great sages and perfected beings praise you with rich hymns.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "These are the hosts of gods born as warriors to relieve the earth's burden, seen entering you."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The gods approach joyfully, seeing you as the support of all; some, afraid of your terrible form, praise you with folded hands."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.22": {
+    "context": "Arjuna names the many beings who gaze at the cosmic form in amazement.",
+    "english": "The Rudras, Adityas, Vasus and Sadhyas, the Vishvedevas, the two Ashvins, the Maruts and the ancestors, hosts of gandharvas, yakshas, asuras and perfected beings all gaze at you in amazement.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The 'drinkers of the warm portion' (ūṣmapāḥ) are the ancestors, as the Veda says."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.23": {
+    "context": "Arjuna confesses that he, like all the worlds, is shaken by the sight (11.23-11.25); Krishna reassures him in 11.49.",
+    "english": "Seeing your mighty form, with many mouths and eyes, mighty-armed one, with many arms, thighs and feet, many bellies, and terrible with many tusks, the worlds are shaken, and so am I.",
+    "situations": ["fear_anxiety"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "All beings, hostile, friendly or neutral, and I myself, are deeply shaken by this terrible form with its many tusks."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.24": {
+    "context": "Arjuna says the vision leaves him without steadiness or peace.",
+    "english": "Seeing you touching the sky, blazing, many-coloured, mouths gaping and huge eyes burning, my inner self is shaken, and I find no steadiness or peace, Vishnu.",
+    "situations": ["fear_anxiety"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Seeing you reaching to the sky, blazing, mouths open wide, my inner self is terrified, and I find neither steadiness nor calm."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.25": {
+    "context": "Arjuna, overwhelmed, begs Krishna for grace.",
+    "english": "Seeing your mouths, terrible with tusks and blazing like the fire at the end of time, I lose all sense of direction and find no comfort. Be gracious, lord of gods, refuge of the world.",
+    "situations": ["fear_anxiety"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Your mouths are like the fire that burns the worlds at dissolution; I cannot tell one direction from another."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Seeing your mouths set on destroying everything, I find no comfort; be gracious to me, so that I may return to my normal state."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.26": {
+    "context": "Arjuna sees the warriors of both armies rushing into the cosmic form's mouths (11.26-11.30).",
+    "english": "And all these sons of Dhritarashtra, together with the hosts of kings, Bhishma, Drona, and Karna too, son of the charioteer, along with the chief warriors on our own side,",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Duryodhana and his brothers, the allied kings, Bhishma, Drona and Karna are rushing in; the sentence continues into the next verse."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "These, along with some of our own chief warriors, rush into your terrible mouths to their destruction."}
+    ],
+    "safety_flags": ["war", "death"], "review_status": "draft"
+  },
+  "BG.11.27": {
+    "context": "Arjuna describes warriors being crushed in the cosmic form's jaws.",
+    "english": "are rushing into your terrible mouths, fearsome with tusks; some are seen caught between your teeth, their heads crushed.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Some of those who enter are seen stuck between your teeth like chewed food, with their heads crushed."}
+    ],
+    "safety_flags": ["war", "death"], "review_status": "draft"
+  },
+  "BG.11.28": {
+    "context": "Arjuna compares the warriors entering the cosmic form to rivers flowing into the sea.",
+    "english": "As the many currents of rivers rush towards the ocean, so these heroes of the human world enter your blazing mouths.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Bhishma and the other heroes of the human world enter your mouths as rivers flow into the sea."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "These kings rush of their own accord to their destruction, like rivers to the ocean or moths into a flame."}
+    ],
+    "safety_flags": ["war", "death"], "review_status": "draft"
+  },
+  "BG.11.29": {
+    "context": "Arjuna compares beings rushing to their end to moths flying into a flame.",
+    "english": "As moths rush at full speed into a blazing fire to their destruction, so these worlds rush at full speed into your mouths to their destruction.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "As moths fly at full speed into a blazing fire to perish, so living beings rush into your mouths."}
+    ],
+    "safety_flags": ["war", "death"], "review_status": "draft"
+  },
+  "BG.11.30": {
+    "context": "Arjuna describes the cosmic form consuming the worlds and scorching the universe with its light.",
+    "english": "Devouring all the worlds on every side with your flaming mouths, you lick your lips; your fierce rays fill the whole universe with radiance and scorch it, Vishnu.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "You savour them, drawing in the worlds on every side with your blazing mouths, and your fierce rays scorch the whole world."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Devouring the hosts of kings with your blazing mouths in fury, you lick your lips again and again."}
+    ],
+    "safety_flags": ["war", "death"], "review_status": "draft"
+  },
+  "BG.11.31": {
+    "context": "Arjuna, frightened, asks the terrible form who it is and what it intends.",
+    "english": "Tell me who you are, in this terrible form. I bow to you, best of gods; be gracious. I want to know you, the first of all, for I do not understand what you are doing.",
+    "situations": ["fear_anxiety"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Tell me who you are, so fierce in form; I want to know you, the first, for I do not understand your purpose."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Who are you, in this terrible form, and what have you set out to do? I do not know your intention."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Arjuna asks 'who are you?' to learn another aspect of him, as one may know someone's name and still ask what they are; otherwise he could not have just called him Viṣṇu."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.32": {
+    "context": "Krishna answers that he is Time, the destroyer, and the warriors' end is already set (11.32-11.34).",
+    "english": "I am Time, grown mighty, the destroyer of worlds, now set on annihilating the worlds here. Even without you, none of the warriors drawn up in the opposing armies will survive.",
+    "situations": ["ageing_death_impermanence"], "life_stages": ["householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "I am Time, grown great to destroy the worlds; even without you, Bhishma, Drona, Karna and the others will not live."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "'Time' is the one who counts out the lifespans of Duryodhana and the other kings; I have come in this fearsome form to destroy them."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Time' (kāla) names the Lord's powers to bind, to cut the bonds of the world, and to know, from the senses of the root."}
+    ],
+    "safety_flags": ["war", "death", "under18_hold"], "review_status": "draft"
+  },
+  "BG.11.33": {
+    "context": "Krishna tells Arjuna the outcome is already decided and that he is only the instrument.",
+    "english": "So stand up and win glory; conquer your enemies and enjoy a prosperous kingdom. They have already been slain by me; be merely the instrument, Arjuna.",
+    "situations": ["ego_pride_envy", "purpose_meaning", "conflict_of_duties"], "life_stages": ["householder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Win the glory of defeating Bhishma and others whom even the gods could not defeat; I have already slain them, so be only the occasion."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Rise to fight and win a righteous kingdom; these men have already been slain by me for their wrongs, and you are merely the instrument of their killing."}
+    ],
+    "safety_flags": ["war", "death", "under18_hold"], "review_status": "draft"
+  },
+  "BG.11.34": {
+    "context": "Krishna names the great warriors Arjuna fears and tells him not to be distressed but to fight.",
+    "english": "Drona and Bhishma, Jayadratha and Karna, and the other great warriors too, already slain by me, you must slay. Do not be distressed. Fight: you will conquer your rivals in battle.",
+    "situations": ["fear_anxiety", "conflict_of_duties"], "life_stages": ["householder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Krishna names each warrior Arjuna feared: Drona, his own teacher, master of divine weapons; Bhishma; Jayadratha; and Karna."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Do not be distressed, thinking 'how can I kill my teachers and kin?'; I have appointed them for death for their wrongs."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Jayadratha is named because of his father's boon that whoever made his head fall to the ground would have their own head shattered; Karna because of the spear he had from Indra."}
+    ],
+    "safety_flags": ["war", "death", "under18_hold"], "review_status": "draft"
+  },
+  "BG.11.35": {
+    "context": "Sanjaya describes Arjuna, trembling and awed, beginning a hymn to Krishna (11.35-11.46).",
+    "english": "Hearing these words of Krishna, Arjuna, trembling, with joined palms, bowed down; and bowing again, overwhelmed with fear, he spoke to Krishna in a faltering voice.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "His voice faltered from fear and from the joy that comes with affection, his eyes filled with tears."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Hearing the words of Keśava, ocean of love for those who depend on him, Arjuna bowed again and again and, greatly afraid, spoke haltingly."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.36": {
+    "context": "Arjuna begins his hymn of praise to Krishna.",
+    "english": "It is right, Krishna, that the world rejoices and delights in praising you; demons flee in fear in every direction, and all the hosts of the perfected bow down.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "It is fitting that the world rejoices and delights in hearing your glory."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "It is fitting that all the beings who came to watch the battle rejoice, seeing you, the Lord of all, by your grace."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.37": {
+    "context": "Arjuna praises Krishna as greater than the creator and beyond being and non-being.",
+    "english": "And why should they not bow to you, great one, greater even than Brahma, the first creator? Infinite one, lord of gods, refuge of the world, you are the Imperishable: being and non-being, and what is beyond both.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Why would they not bow to you, the cause even of Hiraṇyagarbha, the creator?"},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Takes 'the Imperishable' here to mean the individual self, which Krishna is too, being its inner self."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.38": {
+    "context": "Arjuna continues his praise of Krishna as the source and support of all.",
+    "english": "You are the first god, the ancient Person; you are the supreme resting place of this universe; you are the knower and what is to be known, and the highest abode. The universe is pervaded by you, whose forms are endless.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "You are the first god as creator of the world; in you everything rests at the great dissolution."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "You are the supreme support of the universe, which is your body, since you are its self."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.39": {
+    "context": "Arjuna bows again and again, naming Krishna as all the gods.",
+    "english": "You are Vayu, Yama, Agni, Varuna and the moon; you are Prajapati, and the great-grandfather of all. Salutations to you a thousand times, and again and again, salutations!",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "You are the father even of Brahmā, and so the great-grandfather of all."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Hiraṇyagarbha is the grandfather of creatures; as his father, you are their great-grandfather."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.40": {
+    "context": "Arjuna offers salutations in every direction to Krishna, who pervades all.",
+    "english": "Salutations to you in front and behind; salutations to you on every side, you who are all. Your power is infinite and your might immeasurable; you pervade everything, and so you are everything.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Salutations in the east and behind you, and on every side, to you who are everywhere."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "You pervade all things as their self, so all things are modes of you, and you are 'all'."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.41": {
+    "context": "Arjuna asks forgiveness for having treated Krishna too casually as a friend (11.41-11.44).",
+    "english": "Whatever I said rashly, thinking of you as a friend, \"Hey Krishna! Hey Yadava! Hey friend!\", not knowing this greatness of yours, out of carelessness or out of affection,",
+    "situations": ["relationships_forgiveness", "ego_pride_envy"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Thinking of you as a friend my own age, I spoke rashly, not knowing your greatness as the Lord with the universal form."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Not knowing your infinite power and your being the self and creator of all, out of confusion or long familiarity I treated you as 'my companion'."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.42": {
+    "context": "Arjuna continues asking forgiveness for past disrespect.",
+    "english": "and whatever disrespect I showed you in jest, while playing, resting, sitting or eating, alone or in front of others, Krishna, for all that I ask your forgiveness, immeasurable one.",
+    "situations": ["relationships_forgiveness", "ego_pride_envy"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Whatever disrespect I showed you in jest, during play, rest, sitting or meals, in private or in company, I beg your forgiveness."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.43": {
+    "context": "Arjuna praises Krishna as the father and teacher of the world, without equal.",
+    "english": "You are the father of the world, of all that moves and does not move; you are its object of worship and its greatest teacher. No one in the three worlds equals you; how could anyone surpass you, whose power has no equal?",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "You are not only the father of the world but worthy of worship, being the greatest teacher; no one equals you."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "No one in the three worlds equals you, let alone surpasses you, in compassion or in anything else."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.44": {
+    "context": "Arjuna asks Krishna to forgive him as a father, friend or lover forgives.",
+    "english": "So, bowing down and prostrating my body, I ask your grace, Lord who is to be praised. As a father bears with a son, a friend with a friend, a lover with the beloved, so please bear with me, O God.",
+    "situations": ["relationships_forgiveness"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "As a father forgives his son's faults, a friend a friend's, and a lover the beloved's, so bear with me."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "As a father or friend is won over by someone who bows and asks forgiveness, even after doing wrong, so you, supremely compassionate, should bear with everything I have done."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.45": {
+    "context": "Arjuna, both thrilled and frightened, asks to see Krishna's familiar form again (11.45-11.46).",
+    "english": "I am thrilled to have seen what was never seen before, yet my mind is shaken with fear. Show me that other form of yours, O God; be gracious, lord of gods, refuge of the world.",
+    "situations": ["fear_anxiety"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Show me the form that is my friend."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "I rejoice at seeing your form, never seen before, but my mind is shaken with fear; show me again your gentle, gracious form."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.46": {
+    "context": "Arjuna asks Krishna to return to his four-armed form.",
+    "english": "I wish to see you as before, wearing a crown, holding a mace, discus in hand. Take on that four-armed form, thousand-armed one, whose body is the universe.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Become again that four-armed form, the son of Vasudeva."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Take again your earlier four-armed form, you who now appear thousand-armed, with the universe as your body."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.47": {
+    "context": "Krishna tells Arjuna the vision was a gift of grace, granted to no one before (11.47-11.48).",
+    "english": "Out of grace, Arjuna, through my own power, I have shown you this supreme form, made of light, universal, infinite and first of all, which no one but you has ever seen.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Grace here means my wish to favour you; with it I showed you this form by the power of my own lordship."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "This form, full of radiance, the self of all, without beginning, middle or end, the source of everything, has been seen by no one else."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.48": {
+    "context": "Krishna says no ritual, study or austerity can win this vision on its own.",
+    "english": "Not through the Vedas, sacrifice or study, not through gifts, rituals or severe austerities can I be seen in this form in the human world by anyone but you, hero of the Kurus.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Not by studying the four Vedas, by great gifts, by rites or by harsh austerities can I be seen in this form."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "No one without wholehearted devotion to me can see me as I am through the Vedas, sacrifices and the like alone."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.49": {
+    "context": "Krishna reassures the frightened Arjuna and returns to his familiar form.",
+    "english": "Do not be afraid or bewildered at seeing this terrible form of mine. Free of fear and glad at heart, see again this form of mine.",
+    "situations": ["fear_anxiety"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Let there be no fear or bewilderment; free of fear and glad of mind, see again my four-armed form with conch, discus and mace."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Let the distress and bewilderment caused by this terrible form be gone; I will show you the gentle form you already know."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.50": {
+    "context": "Sanjaya reports that Krishna resumed his gentle form and comforted Arjuna.",
+    "english": "Having spoken to Arjuna in this way, Krishna showed his own form again; and the great one, taking on his gentle form once more, comforted the frightened Arjuna.",
+    "situations": [], "life_stages": [], "aims": [],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "He showed again his form born in Vasudeva's house and, becoming gentle in body, comforted the frightened Arjuna."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Vasudeva's son showed his own four-armed form again and, taking his familiar gentle shape, comforted Arjuna, who had been frightened by the unfamiliar form."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.51": {
+    "context": "Arjuna, calmed by the sight of Krishna's gentle form, regains his composure.",
+    "english": "Seeing this gentle human form of yours, Krishna, I am now myself again; my mind is calm and I have returned to my normal state.",
+    "situations": ["fear_anxiety"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Seeing your gentle human form, my friend's form, I am composed and myself again."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Seeing your gentle human form, unmatched in beauty and grace, I have come to my senses and returned to my natural state."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.52": {
+    "context": "Krishna tells Arjuna how rare the vision he received is (11.52-11.54).",
+    "english": "This form of mine that you have seen is very hard to see; even the gods long always to see it.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Even the gods, who always long to see this form, have not seen it as you have, nor will they."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "This form, which rules, supports and causes everything, can be seen by no one; even the gods long for it but have not seen it."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.53": {
+    "context": "Krishna repeats that no outward practice alone can bring this vision.",
+    "english": "Not through the Vedas, nor austerity, nor gifts, nor sacrifice can I be seen as you have seen me.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Not by the four Vedas, by austerities such as the lunar fast, by gifts of cows, land and gold, or by sacrifice or worship."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Vedic study, sacrifice, gifts and austerities without devotion to me cannot bring the sight of me as I truly am."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.54": {
+    "context": "Krishna names the one way to know, see and enter him: undivided devotion.",
+    "english": "But by undivided devotion, Arjuna, I can be known in this form, truly seen, and entered into, scorcher of enemies.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Undivided devotion is devotion never apart from the Lord, through which nothing but Vāsudeva is perceived by any of the senses."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "By undivided devotion alone I can be truly known through scripture, truly seen directly, and truly entered."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.11.55": {
+    "context": "Krishna closes chapter 11 with the devotee who reaches him: free of attachment and of ill will toward any being.",
+    "english": "One who works for me, takes me as the highest goal, is devoted to me, is free of attachment and bears no ill will towards any being, comes to me, son of Pandu.",
+    "situations": ["anger_resentment", "relationships_forgiveness", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Unlike a servant who works for a master but does not take him as the final goal, this person works for me and takes me as the highest goal; devoted, unattached and without enmity, they reach me."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "One who does all actions, such as Vedic study, as worship of me, has me as the highest aim of every undertaking, and loves me intensely, reaches me."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  }
+}

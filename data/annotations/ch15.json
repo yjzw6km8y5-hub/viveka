@@ -1,0 +1,214 @@
+{
+  "BG.15.1": {
+    "context": "Krishna opens chapter 15 with the image of worldly existence as an upside-down fig tree (15.1-15.4).",
+    "english": "They speak of an imperishable fig tree with its roots above and its branches below, whose leaves are the Vedic hymns; whoever knows it knows the Veda.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The tree of worldly existence has the unmanifest Brahman, endowed with the power of māyā, as its root 'above', being subtle, causal, eternal and great; he cites the Kaṭha Upaniṣad."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The tree is worldly existence, as the Kaṭha Upaniṣad describes; it is rooted above in four-faced Brahmā, who dwells beyond the seven worlds."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This chapter shows the nature of worldly existence and the means of going beyond it; 'above' is Viṣṇu, the highest, and 'aśvattha' means what does not stay the same even until tomorrow."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.15.2": {
+    "context": "Krishna continues the image: the tree's branches are fed by the gunas, and its roots of action spread into the human world.",
+    "english": "Its branches spread below and above, nourished by the gunas, with sense objects as their shoots; and below, its roots stretch out, binding to action in the human world.",
+    "situations": ["temptation_self_control", "purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Its branches, the fruits of knowledge and action, spread from plants up to the world of Brahmā; they are swollen by the gunas, with sense objects as their buds."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The tree, rooted in Brahmā's world, ends in humans; its roots of karma spread into the human world, since actions done as humans lead to further births above and below."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The roots are the Lord's own forms; the Lord too gives fruit in keeping with karma."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.15.3": {
+    "context": "Krishna says this tree's true form cannot be grasped, and it must be cut down with detachment (15.3-15.4).",
+    "english": "Its form is not perceived here as it really is: neither its end, nor its beginning, nor its foundation. Having cut down this firmly rooted fig tree with the strong axe of non-attachment,",
+    "situations": ["temptation_self_control", "purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Its form is not found as described, since it is like a dream, a mirage or a city in the clouds, appearing and vanishing; so it has no end, beginning or middle that anyone can grasp."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "People caught in worldly life do not perceive the tree this way; they know only 'I am a human, son of so-and-so'."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Its beginning and end is Viṣṇu; the axe is knowledge joined with non-attachment, and 'cutting' means discerning it."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.15.4": {
+    "context": "Krishna continues: after cutting the tree, one should seek the state of no return by taking refuge in the primal Person.",
+    "english": "one should then seek that state from which those who reach it never return, thinking: \"I take refuge in that primal Person from whom this ancient activity has flowed forth.\"",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Then seek that state of Viṣṇu from which none return, by taking refuge in the primal Person from whom the stream of worldly existence has flowed."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "To cut the tree, take refuge in him alone; he cites a text that one who takes refuge in him neither grieves nor rejoices, is neither born nor dies."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.15.5": {
+    "context": "Krishna describes those who reach the imperishable state: free of pride, delusion, attachment and craving.",
+    "english": "Free of pride and delusion, having overcome the fault of attachment, always intent on the self, with desires turned away, freed from the pairs of opposites known as pleasure and pain, the undeluded reach that imperishable state.",
+    "situations": ["ego_pride_envy", "temptation_self_control", "purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Free of pride and delusion, having conquered attachment, always reflecting on the supreme self, with desires wholly gone, they reach that imperishable state."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Taking refuge in me, freed from the delusion of taking the non-self for the self and from attachment to the gunas' pleasures, devoted to meditation on the self, they reach it."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Gives a further means."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.15.6": {
+    "context": "Krishna describes his supreme abode, lit by no sun, moon or fire, from which there is no return.",
+    "english": "Neither the sun, nor the moon, nor fire lights it up; having gone there, people do not return. That is my supreme abode.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Though the sun can illumine everything, it does not illumine that radiant state of Viṣṇu; neither do the moon or fire."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The light of the self is not lit by sun, moon or fire: knowledge itself reveals everything, while outer lights only remove the darkness between sense and object."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Describes the Lord's own nature."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.15.7": {
+    "context": "Krishna says the individual self in every being is an eternal part of him.",
+    "english": "An eternal part of me, becoming a living being in the world of the living, draws to itself the senses, with the mind as the sixth, which rest in nature.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "A 'part' of me as the sun's reflection in water is a part of the sun: when the water is gone it returns to the sun; so the self, limited by adjuncts like space in a pot, is one with me."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The eternal self, truly a part of me, is covered by the ignorance of beginningless karma and so, as a living being, draws the senses in its body; another, freed of that ignorance, abides in its own form."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.15.8": {
+    "context": "Krishna describes the self carrying the senses from body to body as wind carries scents.",
+    "english": "When the lord of the body takes on a body and when it leaves one, it takes these with it and goes, as the wind carries scents from their source.",
+    "situations": ["ageing_death_impermanence"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "When the self, master of the body, leaves one body for another, it takes the senses with it, as wind carries scents from flowers."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "As wind carries scents from garlands and sandalwood along with their fine particles, so the self, master of the senses, takes them with the subtle elements into its next body."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Rules out the soul's independence: it is the Lord who takes the senses along when the soul gains or leaves a body, as the Mokṣadharma says."}
+    ],
+    "safety_flags": ["death"], "review_status": "draft"
+  },
+  "BG.15.9": {
+    "context": "Krishna says the self experiences the world through the senses and the mind.",
+    "english": "Presiding over hearing, sight, touch, taste and smell, and over the mind, it enjoys the objects of the senses.",
+    "situations": ["temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Dwelling in the body and presiding over each sense and the mind, it experiences sound and the other objects."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Directing the senses and the mind to their objects, the self enjoys sound and the rest."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The Lord too experiences through the senses, but only what is good, as the Upanishad says: 'evil does not reach the gods'."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.15.10": {
+    "context": "Krishna says the deluded cannot see the self, while those with the eye of knowledge can.",
+    "english": "Whether it is leaving the body, staying in it, or experiencing the world through the gunas, the deluded do not see it; those with the eye of knowledge see it.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Though the self is so directly present, the deluded, drawn by pleasures seen and unseen, do not see it; those whose eye is knowledge, born of scripture, do."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Whether leaving a body, staying in it, or enjoying objects, the deluded never see the self as knowledge itself, distinct from the human body; those with the eye of knowledge do."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Answers why the Lord is not seen."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.15.11": {
+    "context": "Krishna says striving yogis see the self within, but those who are not inwardly prepared do not, however hard they try.",
+    "english": "Yogis who strive see it dwelling within themselves; but those who are not inwardly prepared, lacking understanding, do not see it, even though they strive.",
+    "situations": ["purpose_meaning", "failure_setback"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Yogis who strive see the self in their own mind as 'I am this'; those not refined by austerity and self-mastery, who have not given up wrongdoing, do not see it even with the help of scripture."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Those who strive in karma yoga after taking refuge in me, minds purified, see the self as distinct from the body; those who strive without taking refuge in me do not."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Not inwardly prepared' means of impure understanding."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.15.12": {
+    "context": "Krishna begins describing how he sustains the world: the light of sun, moon and fire is his (15.12-15.15).",
+    "english": "The radiance in the sun that lights the whole world, the radiance in the moon and in fire: know that radiance to be mine.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The light that lies in the sun, moon and fire and illumines the whole world is my light, the light of Viṣṇu."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The radiance of the sun and the others, which lights the whole world, is mine, given to them by me when they worshipped me."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Expands the knowledge given earlier."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.15.13": {
+    "context": "Krishna says he upholds all beings within the earth and nourishes plants as the moon.",
+    "english": "Entering the earth, I sustain all beings with my strength; and becoming the moon, the essence of sap, I nourish all plants.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Entering the earth with my strength, free of desire and passion, I keep it from sinking or splitting, as the Veda says, 'by whom the heavens are strong and the earth firm'."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Entering the earth, I sustain all beings by my unhindered power; becoming the moon, full of nectar, I nourish all plants."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.15.14": {
+    "context": "Krishna says he is the digestive fire within living beings.",
+    "english": "Becoming the fire of digestion, I dwell in the bodies of living beings and, joined with the in-breath and out-breath, digest the four kinds of food.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "I am the fire in the belly, as the Upanishad says, 'this fire within a person by which food is digested'."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "As the digestive fire in all beings, I digest the four kinds of food: what is chewed, sucked, licked and drunk."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.15.15": {
+    "context": "Krishna says he dwells in every heart as the source of memory, knowledge and their loss, and is what the Vedas teach.",
+    "english": "I dwell in the heart of all; from me come memory, knowledge and their loss. I alone am what all the Vedas teach; I am the author of Vedanta and the knower of the Vedas.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "As the self of all, I dwell in the heart; for the virtuous, memory and knowledge arise in keeping with their good deeds, and for others they are lost in keeping with theirs."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "I dwell as the self in the heart, where all knowledge arises, governing everything by my will; he cites the Upanishads on the inner controller."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Vedānta' here means the Mīmāṁsā that settles the meaning of the Vedas; he is the author of that reasoning, as a Sāmaveda text says."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.15.16": {
+    "context": "Krishna distinguishes two kinds of person: the perishable and the imperishable (15.16-15.18).",
+    "english": "There are two persons in this world, the perishable and the imperishable. The perishable is all beings; the unchanging is called the imperishable.",
+    "situations": ["purpose_meaning", "ageing_death_impermanence"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The perishable is the whole changing world; the imperishable is the Lord's power of māyā, the seed of the perishable."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The perishable person is the bound self, joined to perishable matter from Brahmā down to plants; the imperishable is the liberated self, free of matter."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The perishable is all beings, beginning with Brahmā; the unchanging imperishable is prakṛti; he cites a text naming the Lord as different from both."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.15.17": {
+    "context": "Krishna says beyond both is the highest Person, the Supreme Self who sustains the three worlds.",
+    "english": "But the highest Person is another, called the Supreme Self, the imperishable Lord who enters the three worlds and sustains them.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The highest Person is utterly different from both: the Supreme Self, the inner consciousness of all beings, who sustains the three worlds by the power of his consciousness."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The highest Person is different from both the bound and the liberated selves, as all the scriptures show by calling him the Supreme Self; he enters and sustains the three worlds."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.15.18": {
+    "context": "Krishna explains why he is called the highest Person: he is beyond both the perishable and the imperishable.",
+    "english": "Because I am beyond the perishable and higher even than the imperishable, I am known in the world and in the Veda as the highest Person.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Because I am beyond the perishable tree of worldly existence and higher than its seed, the imperishable, I am known as the highest Person."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Because I surpass the bound person and am higher even than the liberated one, I am known as the highest Person in scripture and in the traditions based on it."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.15.19": {
+    "context": "Krishna says whoever knows him as the highest Person knows everything and worships him with their whole being.",
+    "english": "Whoever, free of delusion, knows me in this way as the highest Person knows everything, and worships me with their whole being, Arjuna.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Whoever knows me as 'I am this' knows everything and worships me, present in all beings, as the self of all."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Whoever knows me as different in kind from the perishable and imperishable persons knows all that must be known to reach me, and worships me in every way taught as a means to me."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.15.20": {
+    "context": "Krishna closes chapter 15, calling it the most secret teaching, which fulfils whoever understands it.",
+    "english": "So I have taught you this most secret teaching, sinless one. Understanding it, a person becomes wise and has done all there is to do, Arjuna.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "This chapter is called 'the teaching' in praise, since the whole meaning of the Gita, and indeed of the Vedas, is summed up in it."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "This teaching that I am the highest Person is the most secret of all; understanding it, one has gained all the understanding and done all the duties that one who seeks me must."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  }
+}

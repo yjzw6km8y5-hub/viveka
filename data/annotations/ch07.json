@@ -1,0 +1,318 @@
+{
+  "BG.7.1": {
+    "context": "Krishna opens chapter 7, on knowledge of his nature, promising Arjuna complete understanding of him.",
+    "english": "Hear, son of Pritha, how, with your mind attached to me, practising yoga and relying on me, you will know me completely, without doubt.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "With your mind attached to me, the Supreme Lord, practising yoga and relying on me alone, unlike those who rely on rites or austerity for some goal, hear how you will know me fully."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "With a mind bound fast to me in intense love, so that you would fall apart if separated from my nature, qualities and deeds, and depending on me alone, hear how you will know me."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The earlier chapters stressed the means; the next six stress the greatness of the Lord."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.2": {
+    "context": "Krishna promises a complete teaching about himself, after which nothing more needs to be known.",
+    "english": "I will teach you this knowledge in full, together with realised wisdom; once you know it, nothing more here remains to be known.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Knowledge 'with wisdom' means with one's own direct experience; knowing it, nothing further remains to be known as a means to life's goal."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "'Wisdom' (vijñāna) is knowledge of what sets me apart from all conscious and non-conscious things: free of every flaw and full of countless auspicious qualities."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This knowledge is about me; 'wisdom' is knowledge of the particulars."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.3": {
+    "context": "Krishna notes how rare true knowledge of him is.",
+    "english": "Among thousands of people, hardly one strives for perfection; and among those who strive and succeed, hardly one knows me as I truly am.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Among thousands, one strives for perfection; and of those who strive, who are already accomplished in a sense, only one knows me truly."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Among thousands fit for scripture, few strive all the way to perfection; among those, few know me and strive through me; and among thousands who know me, hardly one knows me as I truly am."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Shows how rare this knowledge is."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.4": {
+    "context": "Krishna describes his lower nature, the eight components of the material world (7.4-7.5).",
+    "english": "Earth, water, fire, air, space, mind, intellect and ego: this is my nature, divided eightfold.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "'Earth' and the rest mean the subtle elements, not the gross ones; 'mind' stands for its cause, ego; 'intellect' for the great principle; and 'ego' for the unmanifest joined with ignorance."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "This eightfold prakṛti, which takes the form of the world's objects, instruments and places of enjoyment, belongs to me."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Ego is included within the great principle."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.5": {
+    "context": "Krishna describes his higher nature, the life that animates and sustains the world.",
+    "english": "This is my lower nature. But know my other, higher nature, mighty-armed one, which is life itself and by which this world is sustained.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The lower nature is impure and binds one to worldly existence; the higher is pure, my own self: the knower of the field, the life by which the world is held together."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Unlike non-conscious prakṛti, which conscious beings enjoy, my higher prakṛti is conscious, made up of the selves who enjoy it, and it sustains the whole non-conscious world."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The higher nature is Śrī, consciousness itself, who sustains the life of beings; he cites a text on the Lord's two natures, one inert and one conscious."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.6": {
+    "context": "Krishna declares himself the source and end of the whole world through his two natures.",
+    "english": "Understand that all beings have these two as their source. I am the origin of the whole world, and its dissolution.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "All beings arise from these two natures, the field and the knower of the field; since my two natures are their cause, I am the origin and the end of the whole world."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.7": {
+    "context": "Krishna says nothing exists beyond him; everything is held together in him like pearls on a thread.",
+    "english": "There is nothing higher than me, Arjuna. All this is strung on me, like pearls on a thread.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "There is no other cause beyond me, the Supreme Lord; all beings are strung on me, as cloth is woven on threads or gems on a string."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "I am higher than all, as the cause of both natures and the master of everything conscious and non-conscious; no one else has greater knowledge, power or strength."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "I alone am the highest; there is nothing at all higher than me."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.8": {
+    "context": "Krishna begins describing how he is present in the essence of everything (7.8-7.11).",
+    "english": "I am the taste in water, son of Kunti; I am the light of the moon and the sun; I am Om in all the Vedas, sound in space, and the vigour in human beings.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "I am the essence, taste, in water, and water is strung on me; and so throughout: the light in sun and moon, Om on which all the Vedas are strung, and sound in space."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "All these distinctive things arise from me, exist for me as my body and rest in me, so I am present as their very form."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This is the detailed knowledge: the Lord alone governs the natural qualities of things, such as taste in water; those qualities do not depend on water and the rest."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.9": {
+    "context": "Krishna continues naming his presence in the essence of the elements and of living beings.",
+    "english": "I am the pure fragrance of the earth and the brilliance in fire; I am the life in all beings and the austerity in ascetics.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "I am the pure scent of the earth, and earth is strung on me. Scent is pure by nature; impurity in things arises from the ignorance and karma of beings bound to worldly life."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.10": {
+    "context": "Krishna calls himself the eternal seed of all beings and the source of intelligence and brilliance.",
+    "english": "Know me, son of Pritha, as the eternal seed of all beings. I am the intelligence of the intelligent and the brilliance of the brilliant.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "I am the seed from which all beings sprout; I am the discerning power of the discerning and the boldness of the bold."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.11": {
+    "context": "Krishna says he is present even in desire, so long as it does not go against dharma.",
+    "english": "Of the strong, I am the strength that is free of desire and passion; in all beings, I am desire that is not against dharma, best of the Bharatas.",
+    "situations": ["temptation_self_control", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "kama"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "I am the strength free of craving for absent things and passion for present ones, the strength that simply sustains the body, not the strength that feeds the thirst of worldly people."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.12": {
+    "context": "Krishna says the three qualities of nature come from him, yet he is not bound by them.",
+    "english": "Whatever states of being there are, whether of sattva, rajas or tamas, know that they come from me alone; but I am not in them, they are in me.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Though they come from me, I am not under their control as worldly beings are; rather, they are under mine."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "All states of sattva, rajas and tamas, as objects, bodies, senses and their causes, arise from me and rest in me as my body; I never depend on them."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.13": {
+    "context": "Krishna explains why the world fails to recognise him: it is bewildered by the play of the three gunas.",
+    "english": "Deluded by these states made of the three gunas, this whole world does not recognise me, who am beyond them and imperishable.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Deluded by the gunas' products, attraction, aversion, delusion and the like, beings lose discernment and do not know me as distinct from the gunas and imperishable."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The whole world, conscious and non-conscious, arises from me, rests in me as my body and dissolves into me; yet, deluded by the gunas, beings do not know me."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Made of' the gunas expresses identity, not product: māyā itself is not a product of the gunas."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.14": {
+    "context": "Krishna says the illusion woven by the gunas is hard to cross, except by taking refuge in him.",
+    "english": "This divine māyā of mine, made of the gunas, is hard to get past; but those who take refuge in me alone cross beyond this māyā.",
+    "situations": ["fear_anxiety", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "This māyā of the Lord Viṣṇu, made of the three gunas, is hard to overcome; those who give up everything else and take refuge in me alone, their own self, cross the māyā that deludes all beings."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "This māyā of the three gunas is 'divine' because I made it in play; it is called māyā because it produces wondrous effects, like the magical weapons of asuras in the Viṣṇu Purāṇa."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Māyā deludes; belonging to the God who creates and plays, it is immensely powerful and hard to cross. He derives 'divine' from the root 'div', to play."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.15": {
+    "context": "Krishna describes those who do not turn to him, deluded and drawn to a demonic nature.",
+    "english": "Evildoers, the deluded, the lowest of people, whose knowledge is stolen by māyā and who have taken on a demonic nature, do not take refuge in me.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Sinners, the deluded, the lowest of people, robbed of knowledge by māyā, take on the demonic nature marked by violence, falsehood and the like."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Those who do not take refuge in me are of four kinds, according to the degree of their sin; the 'deluded' misunderstand my nature and cling to material things."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The demonic nature is described from 16.7 onwards."}
+    ],
+    "safety_flags": ["distress_gentle"], "review_status": "draft"
+  },
+  "BG.7.16": {
+    "context": "Krishna names four kinds of people who turn to him: the distressed, the curious, those seeking gain, and the wise.",
+    "english": "Four kinds of virtuous people worship me, Arjuna: the distressed, the seeker of knowledge, the seeker of wealth, and the wise, best of the Bharatas.",
+    "situations": ["grief_loss", "fear_anxiety", "success_wealth", "purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["artha", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The distressed are those beset by thieves, tigers, disease and the like; the seeker wants to know the truth of the Lord; the seeker of wealth wants riches; the wise know the truth of Viṣṇu."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The distressed have lost position and wealth and want them back; the seeker of wealth wants riches not yet gained. They are ranked by the merit behind them, each higher than the last."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.17": {
+    "context": "Krishna singles out the wise devotee, who loves him for his own sake, as dearest to him.",
+    "english": "Of these, the wise one, always disciplined and devoted to the One alone, stands out; for I am exceedingly dear to the wise, and they are dear to me.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The wise, knowing the truth, are always absorbed and devoted to one alone, since they see nothing else to worship; I am their very self, so I am supremely dear to them."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The wise one's union with me is constant, since I alone am their goal; the others are joined to me only until they get what they want."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Devoted to the One alone' means devotion to me and to no other, as the Garuḍa Purāṇa says."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.18": {
+    "context": "Krishna says all four kinds of devotees are noble, but the wise one is his very self.",
+    "english": "All of these are noble, but I consider the wise one to be my very self; for, wholly disciplined, they rely on me alone as the highest goal.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "All are dear to me, for no devotee of mine is not dear; but the wise one is my very self, not other than me."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "All are generous, since even those who seek small things from me are giving me everything. But I hold that I depend on the wise one to sustain myself, since they cannot sustain themselves without me."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.19": {
+    "context": "Krishna describes the rare great soul who, after many lives, sees him in everything.",
+    "english": "At the end of many births, the wise one comes to me, knowing \"Vāsudeva is all.\" Such a great soul is very rare.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "At the end of many births, with mature knowledge, one directly realises me, Vāsudeva, the inner self, as everything; no one equals such a great soul."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "After many births of merit, one knows that they exist only for Vāsudeva and depend on him, and that he is their goal, their means, and everything they desire."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "One becomes wise only at the end of many births, as the Brahma Purāṇa says."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.20": {
+    "context": "Krishna explains that people driven by desires worship other gods for what they want (7.20-7.23).",
+    "english": "Those whose knowledge is carried away by various desires turn to other gods, following one rule or another, driven by their own nature.",
+    "situations": ["temptation_self_control", "success_wealth"], "life_stages": ["householder"], "aims": ["artha", "kama"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Robbed of discernment by desires for sons, cattle, heaven and the like, they turn to gods other than Vāsudeva, following the rules of each, driven by tendencies from past lives."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Driven by sinful tendencies bound up with the gunas, worldly people, their knowledge of me stolen by desires, worship Indra and other gods alone to fulfil those desires."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'Nature' here means conditioning, impressions, tendencies."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.21": {
+    "context": "Krishna says he strengthens each person's faith in whatever form they choose to worship.",
+    "english": "Whatever form any devotee wishes to worship with faith, I make that very faith of theirs unwavering.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["dharma", "moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Whatever divine form a desire-driven devotee wishes to worship with faith, I make that faith steady."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Those gods are my bodies, as the Upanishad says of the sun; even one who does not know this, worshipping such a form with faith, receives steady faith from me."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Devotees of Brahmā and other gods reach a limit, while devotees of Viṣṇu reach the endless, as a Nārada text he cites says."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.22": {
+    "context": "Krishna says that even worship of other gods bears fruit only because he grants it.",
+    "english": "Endowed with that faith, they seek to worship that form, and from it they gain their desires, which are in fact granted by me alone.",
+    "situations": ["success_wealth", "purpose_meaning"], "life_stages": ["householder"], "aims": ["artha", "kama"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "With the faith I give them, they worship that deity and gain their desires, which are in fact arranged by me, the all-knowing Lord who apportions the fruits of action."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Worshipping Indra and the others, who are my body, they gain the desires I grant, though they do not know that this worship is really worship of me."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.23": {
+    "context": "Krishna contrasts the limited fruit of worshipping lesser gods with coming to him.",
+    "english": "But the fruit gained by these people of small understanding comes to an end. Worshippers of the gods go to the gods; my devotees come to me.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Their fruit perishes; with the same effort they could have gained endless fruit by coming to me. Krishna voices compassion for them."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Those who worship only Indra and the like reach those gods, whose enjoyments and lifespans are limited, and so they fall again along with them."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.24": {
+    "context": "Krishna says the unwise mistake his appearance in human form for an ordinary birth (7.24-7.26).",
+    "english": "The unwise think of me, the unmanifest, as having become manifest, not knowing my higher nature, which is imperishable and supreme.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "The undiscerning think I, the eternal Lord, have only now become manifest, not knowing my supreme nature as the Supreme Self."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Out of supreme compassion I was born as Vasudeva's son without giving up my nature, so that all could approach me; the unwise take me for an ordinary prince."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "The unwise think the Lord, who has no body made of matter, has taken on such a body; citing scripture, his body is bliss itself."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.25": {
+    "context": "Krishna says his divine nature is hidden by his own power, so the world fails to see him.",
+    "english": "Veiled by my yoga-māyā, I am not revealed to everyone. This deluded world does not know me as unborn and imperishable.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "I am revealed only to some, my devotees; veiled by yoga-māyā, the joining of the gunas, I am not known to the deluded world."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Veiled by the 'māyā' of a human form like any other being's, I am not seen by all; seeing only my human shape, the world does not know me as the Lord, though my deeds surpass those of wind and Indra."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "This not-knowing is by my will: through my power and my māyā I hide myself and bind the world's mind, as the Padma Purāṇa says."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.26": {
+    "context": "Krishna says he knows all beings in all times, though none of them truly knows him.",
+    "english": "I know the beings of the past, the present and the future, Arjuna, but no one knows me.",
+    "situations": ["purpose_meaning"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "No one knows me except the devotee who takes refuge in me; for lack of knowing my truth, people do not worship me."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Among all beings of the three times that I watch over, I find hardly anyone who knows me as Vāsudeva, come down to be the refuge of all, and takes refuge in me."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Māyā does not bind me; no one, however powerful, knows me by their own power."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.27": {
+    "context": "Krishna explains how desire and aversion confuse all beings from birth (7.27-7.28).",
+    "english": "Through the delusion of the opposites, which arises from desire and aversion, all beings fall into confusion at birth, scorcher of enemies.",
+    "situations": ["anger_resentment", "temptation_self_control"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Desire and aversion, opposed to each other like heat and cold, give rise to the delusion of the opposites, and through it all beings are confused from the moment they come into being."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Because of desire and aversion practised in earlier births towards pleasure and pain, beings are deluded by the opposites at the very moment of birth."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "When desire and aversion grow strong, nothing can be known; they arise once there is a body."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.28": {
+    "context": "Krishna describes those who, freed from desire and aversion, turn to him steadfastly.",
+    "english": "But people of good deeds, whose wrongdoing has come to an end, freed from the delusion of the opposites, worship me with firm resolve.",
+    "situations": ["purpose_meaning"], "life_stages": ["student", "householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Those whose sin is nearly exhausted through merit that purifies the mind are freed from the delusion of the opposites and worship me, the Supreme Self, with firm vows."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Those whose beginningless sin, which turns them away from me, is destroyed by merit gathered over many births take refuge in me and are freed from delusion."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "Some are the opposite of those just described."}
+    ],
+    "safety_flags": [], "review_status": "draft"
+  },
+  "BG.7.29": {
+    "context": "Krishna says those who seek freedom from ageing and death through him come to know Brahman, the self and action.",
+    "english": "Those who take refuge in me and strive for freedom from old age and death know Brahman fully, the inner self, and all of action.",
+    "situations": ["ageing_death_impermanence", "purpose_meaning"], "life_stages": ["householder", "elder", "renunciant"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Those who rely on me and strive for release from old age and death know the supreme Brahman, the whole of the inner self, and all action."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "Those who strive, relying on me, to see the self free of prakṛti come to know that Brahman, the whole of the inner self, and all action."},
+      {"school": "dvaita", "commentator": "Madhva", "note": "'For freedom from old age and death' praises the longing for liberation rather than commanding it; he cites texts that the single-minded devotee who does not even seek liberation is greater."}
+    ],
+    "safety_flags": ["death"], "review_status": "draft"
+  },
+  "BG.7.30": {
+    "context": "Krishna closes chapter 7 with terms (adhibhūta, adhidaiva, adhiyajña) that prompt Arjuna's questions in chapter 8.",
+    "english": "Those who know me in relation to beings, to the gods and to sacrifice, their minds disciplined, know me even at the hour of death.",
+    "situations": ["ageing_death_impermanence", "purpose_meaning"], "life_stages": ["householder", "elder"], "aims": ["moksha"],
+    "school_notes": [
+      {"school": "advaita", "commentator": "Śaṅkara", "note": "Those who know me together with what pertains to beings, to the gods and to sacrifice, with minds absorbed, know me even at the time of death."},
+      {"school": "vishishtadvaita", "commentator": "Rāmānuja", "note": "The repeated 'those who' marks another group: seekers of power, who know me in relation to beings and the gods; knowing me in relation to sacrifice is taught to all three groups."}
+    ],
+    "safety_flags": ["death"], "review_status": "draft"
+  }
+}
