@@ -310,3 +310,9 @@ Technical choices made without asking, newest last. Format: date, decision, why.
   - **Recommendation pass/fail gate:** it is must-fix 1 in STATUS.md as a product feature, per v3. The earlier must-fix 1, reporting pass/fail per test case, is folded into it.
   - The other v3 sections (independent blind evaluation in `reviews/evaluations/`, release evidence, urgent-safety alerts) are in PROCESS.md for the builder to follow. No separate change was asked for now.
   - Eight items wait for tonight's summary: six from the 16:56 version of PROCESS_AGREEMENT_chatgpt.md and the two re-queued observer items. That agreement file changed again at 17:02, so tonight's import will also list its eight newer findings.
+
+## 2026-10-02: Recommendation gate (engine/gate.py)
+- **Decision:** every answer is checked by `engine.gate.check` (quotes exact library text, recommendation and next step present, no renunciation/fatalism or restricted principle for distress/under-18 or danger). In tests it also fails when the top principle is not acceptable for the case. `run_tests.py` reports gate pass/fail per case, separate from the 0-12 score.
+- **Why:** STATUS.md must-fix 1 (PROCESS.md v3). A failure must not be averaged away by a high score.
+- **Baseline:** heldout2 15/30 fail, heldout 6/30 fail, situations 19/100 fail. Engine-side withholding/regeneration is the next step.
+- Scratch file `scripts/_q.py` could not be deleted in a cycle; it is gitignored (it caused the earlier "uncommitted changes" failure).

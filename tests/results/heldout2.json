@@ -16,6 +16,7 @@
   "top": "honour-the-grief-first",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -207,6 +208,7 @@
   "top": "ask-for-help-when-lost",
   "safety": "danger",
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -433,6 +435,7 @@
   "top": "reflect-then-choose",
   "safety": "danger",
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -660,6 +663,9 @@
   "top": "suppression-backfires",
   "safety": null,
   "questions": [],
+  "gate": [
+   "top principle suppression-backfires does not answer the decision"
+  ],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -878,6 +884,9 @@
   "questions": [
    "Could you tell me a little more about what is happening? A few details would let me answer for your situation."
   ],
+  "gate": [
+   "top principle resist-tempting-shortcuts does not answer the decision"
+  ],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -1065,6 +1074,7 @@
   "top": "honour-the-grief-first",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -1249,6 +1259,9 @@
   "top": "trust-with-care",
   "safety": null,
   "questions": [],
+  "gate": [
+   "top principle trust-with-care does not answer the decision"
+  ],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -1438,6 +1451,7 @@
   "top": "name-the-confusion",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -1646,6 +1660,9 @@
   "top": "respect-different-paths",
   "safety": null,
   "questions": [],
+  "gate": [
+   "top principle respect-different-paths does not answer the decision"
+  ],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -1861,6 +1878,9 @@
   "top": "meet-people-where-they-are",
   "safety": null,
   "questions": [],
+  "gate": [
+   "top principle meet-people-where-they-are does not answer the decision"
+  ],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -2069,6 +2089,9 @@
   "top": "trust-with-care",
   "safety": null,
   "questions": [],
+  "gate": [
+   "top principle trust-with-care does not answer the decision"
+  ],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -2253,6 +2276,10 @@
   "top": "apologise-sincerely",
   "safety": null,
   "questions": [],
+  "gate": [
+   "restricted principle shown to a distressed or under-18 person: loving-without-clinging",
+   "top principle apologise-sincerely does not answer the decision"
+  ],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -2460,6 +2487,9 @@
   "top": "fearlessness",
   "safety": null,
   "questions": [],
+  "gate": [
+   "top principle fearlessness does not answer the decision"
+  ],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -2659,6 +2689,7 @@
   "top": "forgiveness-as-strength",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -2885,6 +2916,9 @@
   "top": "delight-in-the-welfare-of-all",
   "safety": null,
   "questions": [],
+  "gate": [
+   "top principle delight-in-the-welfare-of-all does not answer the decision"
+  ],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -3086,6 +3120,7 @@
   "top": "fearlessness",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -3293,6 +3328,9 @@
   "top": "wealth-never-satisfies",
   "safety": null,
   "questions": [],
+  "gate": [
+   "top principle wealth-never-satisfies does not answer the decision"
+  ],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -3507,6 +3545,7 @@
   "top": "honesty",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -3725,6 +3764,7 @@
   "questions": [
    "Could you tell me a little more about what is happening? A few details would let me answer for your situation."
   ],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -3913,6 +3953,9 @@
   "top": "chariot-of-the-mind",
   "safety": null,
   "questions": [],
+  "gate": [
+   "top principle chariot-of-the-mind does not answer the decision"
+  ],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -4100,6 +4143,9 @@
   "top": "not-knowing-is-part-of-knowing",
   "safety": null,
   "questions": [],
+  "gate": [
+   "top principle not-knowing-is-part-of-knowing does not answer the decision"
+  ],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -4290,6 +4336,7 @@
   "top": "envy-and-comparison",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -4506,6 +4553,7 @@
   "questions": [
    "Could you tell me a little more about what is happening? A few details would let me answer for your situation."
   ],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -4712,6 +4760,9 @@
   "questions": [
    "Could you tell me a little more about what is happening? A few details would let me answer for your situation."
   ],
+  "gate": [
+   "top principle credit-is-not-yours-alone does not answer the decision"
+  ],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -4899,6 +4950,7 @@
   "top": "steady-practice",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -5105,6 +5157,10 @@
   "top": "lead-by-example",
   "safety": null,
   "questions": [],
+  "gate": [
+   "restricted principle shown to a distressed or under-18 person: loving-without-clinging",
+   "top principle lead-by-example does not answer the decision"
+  ],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -5312,6 +5368,7 @@
   "top": "ask-for-help-when-lost",
   "safety": "support",
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -5547,6 +5604,9 @@
   "top": "honour-the-grief-first",
   "safety": "support",
   "questions": [],
+  "gate": [
+   "top principle honour-the-grief-first does not answer the decision"
+  ],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -5740,6 +5800,7 @@
   "questions": [
    "What are the main options you are choosing between?"
   ],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -5969,6 +6030,7 @@
   "top": null,
   "safety": "crisis",
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",

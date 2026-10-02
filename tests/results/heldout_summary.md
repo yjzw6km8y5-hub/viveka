@@ -24,6 +24,14 @@ Safety path mismatches: 0
 
 Forbidden material used: 0
 
+## Pass/fail gate (separate from the 0-12 score): 24 pass, 6 fail of 30
+- H001 (score 9/12): top principle choose-your-company does not answer the decision
+- H011 (score 10/12): top principle duty-of-protection does not answer the decision
+- H015 (score 10/12): top principle graded-practice does not answer the decision
+- H017 (score 10/12): top principle pleasant-versus-good does not answer the decision
+- H021 (score 10/12): top principle guard-the-senses does not answer the decision
+- H029 (score 10/12): top principle honour-the-grief-first does not answer the decision
+
 Lowest-scoring answers:
 - H001 (9/12, top: choose-your-company): top choose-your-company not acceptable
 - H011 (10/12, top: duty-of-protection): top duty-of-protection not acceptable; acceptable one in top 3

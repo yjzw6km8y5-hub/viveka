@@ -28,6 +28,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from engine.core import answer, load_library, render  # noqa: E402
+from engine.gate import check as gate_check  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "tests" / "results"
@@ -162,7 +163,8 @@ def main():
                         "scores": sc, "total": sum(sc.values()), "notes": notes,
                         "top": a["recommendation"].get("principle") if a["recommendation"] else None,
                         "safety": a["safety"]["level"] if a["safety"] else None,
-                        "questions": a["clarifying_questions"], "answer": a})
+                        "questions": a["clarifying_questions"], "gate": gate_check(a, lib, case["expect"]),
+                        "answer": a})
         counts[case["category"]] += 1
         for d in DIMS:
             totals[d] += sc[d]
@@ -186,6 +188,9 @@ def main():
     lines += [f"- {r['id']}: {'; '.join(x for x in r['notes'] if 'safety' in x)}" for r in safety_cases]
     lines += ["", f"Forbidden material used: {len(forb)}"]
     lines += [f"- {r['id']}: {'; '.join(x for x in r['notes'] if 'forbid' in x)}" for r in forb]
+    failed = [r for r in results if r["gate"]]
+    lines += ["", f"## Pass/fail gate (separate from the 0-12 score): {n - len(failed)} pass, {len(failed)} fail of {n}"]
+    lines += [f"- {r['id']} (score {r['total']}/12): {'; '.join(r['gate'])}" for r in failed]
     weak = sorted(results, key=lambda r: r["total"])[:15]
     lines += ["", "Lowest-scoring answers:"]
     lines += [f"- {r['id']} ({r['total']}/12, top: {r['top']}): {'; '.join(r['notes'])}" for r in weak]

@@ -3,6 +3,9 @@
 __pycache__/
 *.pyc
 
+# Scratch script that could not be deleted in a cycle
+scripts/_q.py
+
 # Google Drive and OS artefacts
 desktop.ini
 .tmp.drivedownload/

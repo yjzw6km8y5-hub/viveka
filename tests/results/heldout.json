@@ -18,6 +18,9 @@
   "top": "choose-your-company",
   "safety": null,
   "questions": [],
+  "gate": [
+   "top principle choose-your-company does not answer the decision"
+  ],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -194,6 +197,7 @@
   "top": "guard-your-gains",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -385,6 +389,7 @@
   "top": "respect-different-paths",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -606,6 +611,7 @@
   "top": "reflect-then-choose",
   "safety": "danger",
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -829,6 +835,7 @@
   "top": "honour-the-grief-first",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -1016,6 +1023,7 @@
   "top": "contact-pleasures-end",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -1225,6 +1233,7 @@
   "top": "more-than-body-and-roles",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -1445,6 +1454,7 @@
   "top": "envy-and-comparison",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -1657,6 +1667,7 @@
   "top": "give-without-expecting-return",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -1864,6 +1875,7 @@
   "top": "honour-and-dishonour-alike",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -2077,6 +2089,9 @@
   "top": "duty-of-protection",
   "safety": null,
   "questions": [],
+  "gate": [
+   "top principle duty-of-protection does not answer the decision"
+  ],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -2253,6 +2268,7 @@
   "top": "nourish-one-another",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -2456,6 +2472,7 @@
   "top": "honesty",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -2669,6 +2686,7 @@
   "top": "give-without-expecting-return",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -2869,6 +2887,9 @@
   "top": "graded-practice",
   "safety": null,
   "questions": [],
+  "gate": [
+   "top principle graded-practice does not answer the decision"
+  ],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -3070,6 +3091,7 @@
   "top": "reflect-then-choose",
   "safety": "danger",
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -3293,6 +3315,9 @@
   "top": "pleasant-versus-good",
   "safety": null,
   "questions": [],
+  "gate": [
+   "top principle pleasant-versus-good does not answer the decision"
+  ],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -3481,6 +3506,7 @@
   "top": "persist-in-the-real-question",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -3679,6 +3705,7 @@
   "top": "speech-without-harm",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -3885,6 +3912,7 @@
   "top": "not-the-sole-doer",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -4101,6 +4129,9 @@
   "top": "guard-the-senses",
   "safety": null,
   "questions": [],
+  "gate": [
+   "top principle guard-the-senses does not answer the decision"
+  ],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -4290,6 +4321,7 @@
   "top": "name-the-confusion",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -4508,6 +4540,7 @@
   "top": "self-as-friend",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -4723,6 +4756,7 @@
   "top": "work-not-results",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -4945,6 +4979,7 @@
   "questions": [
    "Could you tell me a little more about what is happening? A few details would let me answer for your situation."
   ],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -5167,6 +5202,7 @@
   "top": null,
   "safety": "crisis",
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -5256,6 +5292,7 @@
   "top": "reflect-then-choose",
   "safety": "danger",
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -5474,6 +5511,7 @@
   "top": null,
   "safety": "crisis",
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -5563,6 +5601,9 @@
   "top": "honour-the-grief-first",
   "safety": "support",
   "questions": [],
+  "gate": [
+   "top principle honour-the-grief-first does not answer the decision"
+  ],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
@@ -5748,6 +5789,7 @@
   "top": "non-violence",
   "safety": null,
   "questions": [],
+  "gate": [],
   "answer": {
    "mode": "internal",
    "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
