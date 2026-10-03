@@ -1,6 +1,6 @@
 # Viveka: brief for the Claude planning chat
 
-_Updated 2026-10-03 01:31 Eastern Daylight Time by `scripts/brief.py` after a cycle. Repo: https://github.com/yjzw6km8y5-hub/viveka_
+_Updated 2026-10-03 01:33 Eastern Daylight Time by `scripts/brief.py` after a cycle. Repo: https://github.com/yjzw6km8y5-hub/viveka_
 
 ## Current status
 
@@ -43,11 +43,12 @@ _Updated 2026-10-03 01:31 Eastern Daylight Time by `scripts/brief.py` after a cy
 
 - **Cycles:** 6 (5 ok, 1 failed); by builder: codex 1, claude 5.
 - **Not yet reviewed by the other tool:** 0.
-- **Commits:** 35.
+- **Commits:** 36.
 - **Failed:** cycle 4, push blocked by external-transfer approval boundary; local commits ready
 
 <details><summary>Commits</summary>
 
+- 10-03 01:31  Verse check complete: owner review list rebuilt; brief refreshed
 - 10-03 01:30  Owner decisions of 2026-10-03 (scope later phase; context-first flow; Big Five and life-map onboarding; profile storage open); claude-chat/BRIEF.md with screenshots; verse check 39/39
 - 10-03 01:20  Visual try-it page with voice input; LLM writing step (RAG on existing subscription, checked before shown); friend-fight detection; UI screenshots for review
 - 10-03 00:49  Local try-it page (scripts/serve.py) with an 'Add a test case' form for the independent test set

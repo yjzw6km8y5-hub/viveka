@@ -145,9 +145,21 @@ def main():
           "1. **Profile storage** (Big Five answers and the life map): where, if anywhere, they are kept. Until decided, they stay in the browser for that visit only and are never sent or saved.",
           "2. **Privacy for the LLM step:** a zero-data-retention agreement with a provider, or a local model.",
           "3. **Adopting ChatGPT's roadmap** (with Claude's amendments) as PROJECT_BRIEF.md.", ""]
+    text = "\n".join(L) + "\n"
     OUT.parent.mkdir(exist_ok=True)
-    OUT.write_text("\n".join(L) + "\n", encoding="utf-8", newline="\n")
+    OUT.write_text(text, encoding="utf-8", newline="\n")
     print(f"wrote {OUT.relative_to(ROOT)}")
+    # The Claude planning chat reads its own copy on the Drive. Overwrite the contents of that existing file
+    # in place (same file, same Drive ID); never delete, rename or recreate it.
+    desk = ROOT.parent / "AI Review Desk" / "Viveka" / "BRIEF.md"
+    if desk.exists():
+        with open(desk, "r+b") as f:
+            f.seek(0)
+            f.write(text.encode("utf-8"))
+            f.truncate()
+        print("overwrote AI Review Desk/Viveka/BRIEF.md in place")
+    else:
+        print("AI Review Desk/Viveka/BRIEF.md not found; not created (Claude chat must create it)")
 
 
 if __name__ == "__main__":
