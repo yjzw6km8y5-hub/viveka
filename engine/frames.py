@@ -84,7 +84,7 @@ FRAMES = {
         ["purpose-beyond-pleasure", "act-as-offering", "know-it-in-this-life", "turn-inward", "skill-in-action",
          "keep-contributing"]),
     "ageing": (
-        [r"\bretire", r"\bgetting old", r"\bold age\b", r"\bageing\b", r"\baging\b", r"\bempty nest\b",
+        [r"\bretire", r"\blast years\b", r"\bremaining years\b", r"\bgetting old",r"\bold age\b", r"\bageing\b", r"\baging\b", r"\bempty nest\b",
          r"\bchildren (?:have )?(?:left|moved out)\b"],
         ["keep-contributing", "more-than-body-and-roles", "knowledge-handed-down", "see-the-pain-of-ageing-clearly",
          "impermanence"]),
@@ -100,7 +100,8 @@ FRAMES = {
     "witness_wrong": (
         [r"\bcorrupt", r"\bfraud\b", r"\bbribe", r"\bunethical\b", r"\boffered me a gift\b", r"\bto raise (?:his|her|their) grade\b",
          r"\bfeels wrong\b", r"\bcover(?:ing)? up\b", r"\bwhistle", r"\breport (?:it|him|her|them)\b",
-         r"\bbully(?:ing)?\b"],
+         r"\bbully(?:ing)?\b", r"\b(?:change|alter|falsify|fake) (?:the |these |some )?(?:numbers|figures|report|records?)\b",
+         r"\baudit"],
         ["duty-of-protection", "honesty", "clear-understanding", "fearlessness"]),
     "peer_pressure": (
         [r"\bpeer pressure\b", r"\beveryone (?:else )?is doing\b", r"\bfit in\b", r"\bmy friends (?:want|say|think)\b",
@@ -280,7 +281,7 @@ def detect_frames(text, danger=False, distress=False, eating=False):
 # Frames whose cues signal the person's main question; their candidates outrank
 # incidental topics mentioned along the way (e.g. 'exam' inside a scheduling clash).
 PRIMARY = {"decision": 1.4, "danger": 2.0, "fatalism": 1.4, "burnout": 1.3, "death_question": 1.3,
-           "impostor": 1.2, "loneliness": 1.2, "renounce_wish": 1.3, "witness_wrong": 1.3, "spiritual_doubt": 1.4,
+           "impostor": 1.2, "loneliness": 1.2, "renounce_wish": 1.7, "witness_wrong": 1.3, "spiritual_doubt": 1.4,
            "coercive_authority": 2.0, "friendship_hurt": 1.3, "controlling": 1.4, "lending": 1.3,
            "i_hurt_someone": 1.3, "revenge": 1.5, "risky_choice": 1.5, "difficult_conversation": 1.3,
            "parent_child": 1.3, "existential": 1.4, "unappreciated": 1.4, "selfishness": 1.4, "worry_control": 1.3,
@@ -291,6 +292,7 @@ PRIMARY = {"decision": 1.4, "danger": 2.0, "fatalism": 1.4, "burnout": 1.3, "dea
 FRAME_EXCLUDE = {"eating": {"honour-the-grief-first", "desire-as-enemy", "fortitude-that-holds", "guard-the-senses",
                             "food-shapes-mind", "dont-quit-because-its-hard", "steady-practice", "mental-discipline",
                             "withstand-the-surge", "contact-pleasures-end", "pleasant-versus-good"},
+                 "fatalism": {"effort-over-fate"},
                  "remarriage": {"full-renunciation-path", "keep-your-word", "seek-a-parents-peace", "fortitude-that-holds"},
                  "why_suffering": {"fate-decides", "nature-and-the-inner-controller", "your-nature-shapes-you",
                                    "credit-is-not-yours-alone", "three-gunas-awareness"},
