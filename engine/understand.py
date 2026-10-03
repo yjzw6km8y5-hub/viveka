@@ -99,8 +99,7 @@ DISTRESS = ["hopeless", "worthless", "can't go on", "nothing matters", "no point
             "everything feels pointless", "everything is pointless", "pointless lately", "don't feel anything",
             "do not feel anything", "feel nothing", "empty inside", "i deserve it", "i deserve this", "deserve to suffer",
             "can't do this anymore", "cannot do this anymore", "no energy for anything", "don't see the point",
-            "do not see the point", "drinking every night", "stopped eating", "not eating properly", "make myself sick",
-            "make myself throw up", "skip meals", "want to be thinner", "starving myself", "cannot go on", "falling apart", "depressed", "depression",
+            "do not see the point", "drinking every night", "cannot go on", "falling apart", "depressed", "depression",
             "breakdown", "can't cope", "cannot cope", "unbearable", "crying every", "numb", "exhausted all the time",
             "no way out", "trapped"]
 
@@ -128,6 +127,24 @@ def eating_risk(text):
     named = any(re.search(p, text) for p in EATING_NAMED)
     restrict = any(re.search(p, text) for p in EATING_RESTRICT) and any(re.search(p, text) for p in EATING_MOTIVE)
     return purging or named or restrict, purging
+
+# Eating-related distress is judged by meaning too (a bare phrase such as "stopped eating" also matches
+# "I stopped eating lunch at my desk"): unexplained or alarming restriction, or restriction alongside
+# an emotional cue, counts as distress even where there is no weight motive.
+EATING_ALARM = [r"\b(?:stopped|stop) eating(?: anything| altogether| at all| completely| entirely| properly)?\s*(?:[.,;!?]|$)",
+                r"\bnot eating properly\b", r"\bstarv(?:e|ing) myself\b", r"\bcan'?t (?:eat|keep food down)\b",
+                r"\b(?:haven'?t|have not) eaten (?:anything )?(?:in|for) (?:days|a few days|\d+ days)\b"]
+EATING_EMOTION = [r"\bdied\b", r"\bgrie\w+", r"\bsad\b", r"\banxi\w+", r"\bhopeless\b", r"\bcry(?:ing)?\b",
+                  r"\bdepress\w+", r"\bashamed\b", r"\bhate (?:myself|my body)\b", r"\boverwhelm\w+",
+                  r"\bpanic\w*", r"\bscared\b", r"\bnumb\b", r"\bsince (?:he|she|they|my \w+) (?:died|left|passed)\b"]
+
+
+def eating_distress(text):
+    """True when eating language signals distress (not an ordinary change of routine or a religious fast)."""
+    if any(re.search(p, text) for p in EATING_ALARM):
+        return True
+    return any(re.search(p, text) for p in EATING_RESTRICT) and any(re.search(p, text) for p in EATING_EMOTION)
+
 
 MINOR_CUES = [r"\bi'?m a (?:teen|teenager|minor)\b", r"\bi am a (?:teen|teenager|minor)\b",
               r"\bin high school\b", r"\bunder 18\b", r"\bunderage\b"]
@@ -274,7 +291,8 @@ def understand(raw, profile=None):
     s.danger = _word(text, DANGER) or any(c in text for c in ("stalk", "harass", "abus"))
     risk, s.purging = eating_risk(text)
     s.protective = ["eating"] if risk else []
-    s.distress = s.self_harm or _word(text, DISTRESS) or bool(profile.get("distress")) or bool(s.protective)
+    s.distress = s.self_harm or _word(text, DISTRESS) or bool(profile.get("distress")) or bool(s.protective) \
+        or eating_distress(text)
     s.months_since_loss = months_since_loss(text)
 
     # A parent named only as an owner ("my father's property") is not shown as holding power.

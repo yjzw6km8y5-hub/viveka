@@ -39,9 +39,14 @@ def test_nothing_passes_asks_a_clarifying_question_if_one_exists():
         assert a.get("withheld")
 
 
+def reject_all_but_withheld(a, l, e=None):
+    """Every candidate fails; the withheld fallback is judged by the real gate."""
+    return real_check(a, l, e) if a.get("withheld") else ["test failure"]
+
+
 def test_nothing_passes_withholds_but_keeps_safety():
     text = "I'm 15 and I skip meals every day so I can get skinny."
-    a = with_check(lambda a, l, e=None: ["test failure"], lambda: answer(text))
+    a = with_check(reject_all_but_withheld, lambda: answer(text))
     assert a.get("withheld") and not a["sources"]
     assert a["safety"] and a["protective"], "safety and protective guidance must survive withholding"
 
@@ -104,9 +109,31 @@ def test_audit_cue_matches_audits_not_auditorium():
 
 def test_withheld_answer_passes_the_real_gate():
     for text in [Q, "I'm 15 and I skip meals every day so I can get skinny.", "I'm 15. My stepdad hits me when he drinks."]:
-        a = with_check(lambda a, l, e=None: ["test failure"], lambda: answer(text))
-        assert a.get("withheld") and "final_gate_failures" in a, text  # the shown answer was rechecked
+        a = with_check(reject_all_but_withheld, lambda: answer(text))
+        assert a.get("withheld") and a["final_gate_failures"] == [] and a["displayable"], text  # rechecked, passed
         assert real_check(a, lib) == [], (text, real_check(a, lib))   # and passes the real gate
+
+
+def test_final_fallback_fails_closed_when_the_active_gate_still_rejects():
+    for text in [Q, "I'm 15 and I skip meals every day so I can get skinny.", "I'm 15. My stepdad hits me when he drinks."]:
+        def run():
+            a = answer(text)
+            return a, gate_mod.check(a, lib)   # the active check, as answer() used it
+        a, active = with_check(lambda a, l, e=None: ["test failure"], run)
+        assert a["blocked"] and a["displayable"] is False and a["final_gate_failures"] == ["test failure"], text
+        assert not a["recommendation"] and not a["sources"] and not a["challenge"] and not a["example"], text
+        assert not a["protective"] and not a["next_step"], text
+        t = render(a)
+        assert "not showing one" in t and "Recommendation" not in t and "Source text" not in t, text
+        if a["safety"]:  # the library's own help lines survive
+            assert a["safety"]["help"] and a["safety"]["help"][0]["number"] in t, text
+        assert active, "this test must exercise an answer the active gate rejects"
+    # Invariant: an answer marked displayable passes the active check.
+    for fake in (lambda a, l, e=None: ["x"], reject_all_but_withheld, real_check):
+        for text in [Q, "I'm 15 and I skip meals every day so I can get skinny."]:
+            a = with_check(fake, lambda: answer(text))
+            if a["displayable"]:
+                assert with_check(fake, lambda: gate_mod.check(a, lib)) == [], text
 
 
 def test_every_replacement_is_checked_before_one_is_accepted():
@@ -136,6 +163,16 @@ def test_eating_risk_is_found_by_meaning_not_exact_phrases():
               "I skip breakfast because I'm never hungry in the morning.", "I'm fasting for Navratri this week.",
               "I've been throwing up because I have the flu."]:
         assert understand(t).protective == [], t
+    for t in ["I stopped eating lunch at my desk because I eat with my colleagues now.",
+              "I skip breakfast because I'm never hungry in the morning.", "I'm fasting for Navratri this week."]:
+        a = answer(t)
+        u = a["understanding"]
+        assert not u["distress"] and not u["protective"], t
+        assert a["safety"] is None and a["protective"] is None and a["displayable"], t
+        assert "help" not in render(a).split("Recommendation")[0].lower(), t
+    for t in ["Since my mother died I have stopped eating and I cry every day.", "I've stopped eating. I don't know why."]:
+        u = understand(t)
+        assert u.distress, t
     a = answer("i'm 14 and i make myself throw up after dinner")
     t = render(a).lower()
     assert "as soon as you can" in t and "today or tomorrow" in t

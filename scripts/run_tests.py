@@ -167,6 +167,8 @@ def text_checks(case, a):
 
 
 def outcome(a):
+    if a.get("blocked"):
+        return "blocked"
     if a.get("withheld"):
         return "withheld"
     if a.get("clarify"):

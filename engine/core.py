@@ -612,6 +612,7 @@ def answer(question, profile=None, mode="internal", region=None, gate=True):
     fails = check(out, lib)
     out["gate_failures"] = fails
     if not fails:
+        out["displayable"] = True
         return out
     # 1. Try better-supported recommendations: candidates backed by the problem the person describes
     #    come first. Every replacement goes through the same gate; the gate is never relaxed.
@@ -625,6 +626,7 @@ def answer(question, profile=None, mode="internal", region=None, gate=True):
         log.append({"principle": c["id"], "failures": f})
         if not f:
             alt["regenerated"], alt["gate_log"], alt["gate_failures"] = True, log, []
+            alt["displayable"] = True
             return alt
     out["gate_log"] = log
     # 2. Nothing passes: ask a useful clarifying question if there is one (safety parts are kept).
@@ -636,7 +638,7 @@ def answer(question, profile=None, mode="internal", region=None, gate=True):
                     next_step={"label": "Viveka's application",
                                "text": (out["protective"] or {}).get("next_step") or "Reply with a little more detail, and I'll try again."})
         if not check(clar, lib):
-            clar["gate_failures"] = []
+            clar["gate_failures"], clar["displayable"] = [], True
             return clar
     # 3. Otherwise withhold safely.
     if fails:
@@ -657,12 +659,33 @@ def answer(question, profile=None, mode="internal", region=None, gate=True):
                              "help": help_lines(lib, ["distress", "self_harm"], region)[:2]}
             final = check(out, lib)
         out["final_gate_failures"] = final
+        if final:
+            return _blocked(out, final)  # fail closed: never return an answer the active gate rejects
+        out["displayable"] = True
     return out
+
+
+def _blocked(out, failures):
+    """The last resort when even the withheld answer fails the active gate: nothing from the answer is
+    shown except the library's own help lines. Not displayable; render() prints a fixed message."""
+    safety = out.get("safety")
+    return dict(out, blocked=True, displayable=False, withheld=True, final_gate_failures=failures,
+                recommendation=None, next_step=None, sources=[], commentary=[], comparison=[], challenge=None,
+                example=None, protective=None, clarifying_questions=[], shortlist=[], safety_footer=None,
+                safety=({k: safety[k] for k in ("label", "level", "message", "help")} if safety else None))
 
 
 def render(a):
     """Plain-text rendering with every part labelled."""
     L = [f"[{a['notice']}]", ""]
+    if a.get("blocked"):
+        if a["safety"]:
+            L += [f"{a['safety']['label']}: {a['safety']['message']}"]
+            L += [f"  - {h['name']}: {h['number']} ({h['region']})" for h in a["safety"]["help"]]
+            L.append("")
+        L.append("Viveka cannot give a checked answer to this right now, so it is not showing one. "
+                 "Please talk it through with someone you trust, or a qualified person.")
+        return "\n".join(L)
     if a["safety"]:
         L += [f"{a['safety']['label']}: {a['safety']['message']}"]
         L += [f"  - {h['name']}: {h['number']} ({h['region']})" for h in a["safety"]["help"]]
