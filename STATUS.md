@@ -33,7 +33,7 @@ _Item 1 is from PROCESS.md v3 (approved by the owner 2026-10-02). Items 2-3 are 
      - a Dharma / Artha / Kama / Moksha life map, with Ikigai as an alternative
      - the profile stays in the browser for the visit only; never send or save it
    - Use the profile to tailor answers; add tests; update `claude-chat/BRIEF.md`.
-1. Resume the verse check: `python scripts/verse_check.py run`, then `list` (batches 32-39 remain).
+1. Verse check complete (39/39). The owner's list is ready in `reviews/verse-check/OWNER_REVIEW.md`: 484 verses listed (1539/1539 checked by Codex, 127 disagreements).
 2. Continue must-fix 1 in small batches: the remaining per-case failures are listed in `tests/results/2026-10-02-guidance-batch.md` (situations 16, held-out v1 5, held-out v2 13). Do not weaken the gate, and do not treat spent-set reruns as fresh evidence; the next unbiased claim needs an independently written held-out set.
 The text queue is paused after the Katha (CLAUDE.md section 10). Do not add or annotate new texts.
 Work the plan instead: reviewed starter collection, then comparative testing (see `tests/README.md`

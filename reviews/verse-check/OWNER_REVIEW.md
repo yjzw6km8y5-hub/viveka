@@ -1,7 +1,7 @@
 # Verses for the owner to review
 
-Codex has checked 1240 of 1539 verses and disagrees with 90.
-This list has 453 verses: every Codex disagreement, every verse with a safety flag, and a fixed 5% random sample (77 verses, drawn before any results).
+Codex has checked 1539 of 1539 verses and disagrees with 127.
+This list has 484 verses: every Codex disagreement, every verse with a safety flag, and a fixed 5% random sample (77 verses, drawn before any results).
 
 **How to mark them:** open `OWNER_REVIEW.csv` (Excel is fine). In `owner_decision`, write `reviewed` if the English is right, or `fix` with a note in `owner_note`. Then ask Claude Code to run `python scripts/verse_check.py apply`.
 
@@ -4145,6 +4145,18 @@ hriyaṃ kāmaḥ sarvamevābhimānaḥ ||*
 
 **English:** Old age robs beauty, hope robs patience, death robs life, envy robs the practice of dharma, anger robs good fortune, serving the ignoble robs good character, lust robs modesty, and pride robs everything.
 
+## VN.3.50 (Codex disagrees)
+
+सत्यं रूपं श्रुतं विद्या कौल्यं शीलं बलं धनम् ।
+शौर्यं च चिरभाष्यं च दशः संसर्गयोनयः ॥
+
+*satyaṃ rūpaṃ śrutaṃ vidyā kaulyaṃ śīlaṃ balaṃ dhanam |
+śauryaṃ ca cirabhāṣyaṃ ca daśaḥ saṃsargayonayaḥ ||*
+
+**English:** Truth, beauty, learning, knowledge, family, character, strength, wealth, courage and varied speech: these ten are the sources of association.
+
+**Codex:** “Varied speech” does not translate cirabhāṣyam; that would require a reading such as citrabhāṣyam. Sanskrit says: The tenth item is cirabhāṣyam, meaning long or prolonged speech.
+
 ## VN.3.54 (random sample)
 
 असूयको दन्द शूको निष्ठुरो वैरकृन्नरः ।
@@ -4154,6 +4166,18 @@ hriyaṃ kāmaḥ sarvamevābhimānaḥ ||*
 sa kṛcchraṃ mahadāpnoto nacirātpāpamācaran ||*
 
 **English:** The envious, the biting, the harsh and the one who makes enemies, doing wrong, soon meets great trouble.
+
+## VN.3.56 (Codex disagrees)
+
+प्रज्ञामेवागमयति यः प्राज्ञेभ्यः स पण्डितः ।
+प्राज्ञो ह्यवाप्य धर्मार्थौ शक्नोति सुखमेधितुम् ॥
+
+*prajñāmevāgamayati yaḥ prājñebhyaḥ sa paṇḍitaḥ |
+prājño hyavāpya dharmārthau śaknoti sukhamedhitum ||*
+
+**English:** One who gains wisdom from the wise is truly wise; for the wise, having gained dharma and true benefit, can grow in happiness.
+
+**Codex:** “True benefit” adds “true” and obscures artha, while “grow in happiness” changes the construction sukham edhitum. Sanskrit says: The wise person, having obtained dharma and artha, can prosper happily.
 
 ## VN.3.58 (safety flags: death)
 
@@ -4219,6 +4243,18 @@ kāvyāṃ vācaṃ vaktumarhasyudārām ||*
 
 **English:** We are the Sadhya gods, great sage. Seeing you, we cannot fathom you. You are known to us as steady and wise through learning; please speak noble, wise words.
 
+## VN.4.13 (Codex disagrees)
+
+यादृशैः संविवदते यादृशांश् चोपसेवते ।
+यादृगिच्छेच्च भवितुं तादृग्भवति पूरुषः ॥
+
+*yādṛśaiḥ saṃvivadate yādṛśāṃś copasevate |
+yādṛgicchecca bhavituṃ tādṛgbhavati pūruṣaḥ ||*
+
+**English:** Such as those he quarrels with, such as those he serves, and such as he wishes to be: such a person becomes.
+
+**Codex:** Saṃvivadate means conversing or associating with people, not quarrelling with them. Sanskrit says: A person becomes like those with whom he converses, those whom he serves, and what he wishes to become.
+
 ## VN.4.14 (safety flags: renunciation)
 
 यतो यतो निवर्तते ततस्ततो विमुच्यते ।
@@ -4228,6 +4264,82 @@ kāvyāṃ vācaṃ vaktumarhasyudārām ||*
 nivartanāddhi sarvato na vetti duḥkhamaṇvapi ||*
 
 **English:** From whatever one turns away, from that one is freed. By turning away from everything, one does not know even the slightest pain.
+
+## VN.4.18 (Codex disagrees)
+
+दुःशासनस्तूपहन्ता न शास्ता
+नावर्तते मन्युवशात्कृतघ्नः ।
+न कस्य चिन्मित्रमथो दुरात्मा
+कलाश्चैता अधमस्येह पुंसः ॥
+
+*duḥśāsanastūpahantā na śāstā
+nāvartate manyuvaśātkṛtaghnaḥ |
+na kasya cinmitramatho durātmā
+kalāścaitā adhamasyeha puṃsaḥ ||*
+
+**English:** Harsh in command, a destroyer rather than a guide, not turning back from anger, ungrateful, friend to no one, evil-minded: these are the marks of the lowest person here.
+
+**Codex:** “Harsh in command” reverses the sense of duḥśāsana, which describes someone difficult to govern, restrain, or instruct. Sanskrit says: The lowest person is difficult to govern or instruct, an injurer rather than a guide, unrelenting under anger, ungrateful, friendless, and evil-minded.
+
+## VN.4.19 (Codex disagrees)
+
+न श्रद्दधाति कल्याणं परेभ्योऽप्यात्मशङ्कितः ।
+निराकरोति मित्राणि यो वै सोऽधम पूरुषः ॥
+
+*na śraddadhāti kalyāṇaṃ parebhyo'pyātmaśaṅkitaḥ |
+nirākaroti mitrāṇi yo vai so'dhama pūruṣaḥ ||*
+
+**English:** One who, doubting himself, does not believe any good of others, and drives away his friends, is the lowest person.
+
+**Codex:** “Does not believe any good of others” changes the direction of parebhyaḥ: the person distrusts what is good or beneficial when it comes from others, rather than disbelieving that others possess goodness. Sanskrit says: One who, being suspicious, does not trust what is beneficial from others and drives away friends is the lowest person.
+
+## VN.4.22 (Codex disagrees)
+
+महाकुलानां स्पृहयन्ति देवा
+धर्मार्थवृद्धाश्च बहुश्रुताश् च ।
+पृच्छामि त्वां विदुर प्रश्नमेतं
+भवन्ति वै कानि महाकुलानि ॥
+
+*mahākulānāṃ spṛhayanti devā
+dharmārthavṛddhāśca bahuśrutāś ca |
+pṛcchāmi tvāṃ vidura praśnametaṃ
+bhavanti vai kāni mahākulāni ||*
+
+**English:** The gods, those grown in dharma and true benefit, and the deeply learned admire great families. I ask you this question, Vidura: which families are truly great?
+
+**Codex:** Spṛhayanti means “desire” or “long for,” not merely “admire,” and artha is replaced by the interpretive phrase “true benefit.” Sanskrit says: The gods, those advanced in dharma and artha, and the deeply learned long for great families; Dhritarashtra asks which families are great.
+
+## VN.4.23 (Codex disagrees)
+
+तमो दमो ब्रह्मवित्त्वं वितानाः
+पुण्या विवाहाः सततान्न दानम् ।
+येष्वेवैते सप्तगुणा भवन्ति
+सम्यग्वृत्तास्तानि महाकुलानि ॥
+
+*tamo damo brahmavittvaṃ vitānāḥ
+puṇyā vivāhāḥ satatānna dānam |
+yeṣvevaite saptaguṇā bhavanti
+samyagvṛttāstāni mahākulāni ||*
+
+**English:** Austerity, self-control, knowledge of the Veda, sacrifices, pure marriages and constant giving of food: families in which these seven qualities are found and practised rightly are great families.
+
+**Codex:** As supplied, the Sanskrit begins tamo, “darkness,” not tapo, “austerity”; the English silently translates the likely intended emendation rather than the given text. Sanskrit says: As written, it begins “darkness, self-control, knowledge of Brahman/the Veda, sacrifices, pure marriages, and constant giving of food”; tapo would instead mean “austerity.”
+
+## VN.4.24 (Codex disagrees)
+
+येषां न वृत्तं व्यथते न योनिर्
+वृत्तप्रसादेन चरन्ति धर्मम् ।
+ये कीर्तिमिच्छन्ति कुले विशिष्टां
+त्यक्तानृतास्तानि महाकुलानि ॥
+
+*yeṣāṃ na vṛttaṃ vyathate na yonir
+vṛttaprasādena caranti dharmam |
+ye kīrtimicchanti kule viśiṣṭāṃ
+tyaktānṛtāstāni mahākulāni ||*
+
+**English:** Those whose conduct does not falter, who do not shame their ancestry, who practise dharma with a glad heart, who wish for distinguished fame for their family and have given up falsehood: those are great families.
+
+**Codex:** Vṛttaprasādena refers to the purity or excellence of conduct, not to practising dharma “with a glad heart.” Sanskrit says: They practise dharma through the purity or excellence of their conduct, seek distinguished family renown, and have abandoned falsehood.
 
 ## VN.4.25 (safety flags: caste_gender)
 
@@ -4259,6 +4371,22 @@ kulānyakulatāṃ yānti nyāsāpaharaṇena ca ||*
 
 **English:** Through contempt for brahmins and slander of them, Bharata, and through stealing deposits held in trust, families fall to low standing.
 
+## VN.4.30 (Codex disagrees)
+
+मा नः कुले वैरकृत्कश् चिदस्तु
+राजामात्यो मा परस्वापहारी ।
+मित्रद्रोही नैकृतिकोऽनृती वा
+पूर्वाशी वा पितृदेवातिथिभ्यः ॥
+
+*mā naḥ kule vairakṛtkaś cidastu
+rājāmātyo mā parasvāpahārī |
+mitradrohī naikṛtiko'nṛtī vā
+pūrvāśī vā pitṛdevātithibhyaḥ ||*
+
+**English:** May there be none in our family who makes enmity, no king's minister who steals others' property, no betrayer of friends, no deceiver or liar, and none who eats before the ancestors, gods and guests.
+
+**Codex:** The English incorrectly makes “king’s minister” modify the person who steals. The Sanskrit lists a king’s minister and a thief of others’ property as separate unwanted members of the family. Sanskrit says: May our family contain no maker of enmity, king’s minister, thief of another’s property, betrayer of friends, deceiver, liar, or person who eats before the ancestors, gods, and guests.
+
 ## VN.4.31 (safety flags: caste_gender)
 
 यश्च नो ब्राह्मणं हन्याद्यश्च नो ब्राह्मणान्द्विषेत् ।
@@ -4269,6 +4397,22 @@ na naḥ sa samitiṃ gacchedyaśca no nirvapetkṛṣim ||*
 
 **English:** Whoever among us kills a brahmin or hates brahmins, and whoever among us takes up farming, let him not come to our assembly.
 
+## VN.4.34 (Codex disagrees)
+
+सूक्ष्मोऽपि भारं नृपते स्यन्दनो वै
+शक्तो वोढुं न तथान्ये महीजाः ।
+एवं युक्ता भारसहा भवन्ति
+महाकुलीना न तथान्ये मनुष्याः ॥
+
+*sūkṣmo'pi bhāraṃ nṛpate syandano vai
+śakto voḍhuṃ na tathānye mahījāḥ |
+evaṃ yuktā bhārasahā bhavanti
+mahākulīnā na tathānye manuṣyāḥ ||*
+
+**English:** Even a small chariot, king, can bear a load that other things from the earth cannot. So people of great families, when joined to a task, bear the burden, and other people do not.
+
+**Codex:** Mahījāḥ here means trees or earth-born wood, not the much broader “things from the earth.” Sanskrit says: Even a small chariot can bear a burden, whereas other trees or pieces of wood cannot; similarly, people of great families can bear burdens that others cannot.
+
 ## VN.4.40 (safety flags: death)
 
 सत्कृताश्च कृतार्थाश्च मित्राणां न भवन्ति ये ।
@@ -4278,6 +4422,18 @@ na naḥ sa samitiṃ gacchedyaśca no nirvapetkṛṣim ||*
 tānmṛtānapi kravyādāḥ kṛtaghnānnopabhuñjate ||*
 
 **English:** Those who, honoured and helped by friends, do not stand by them: even flesh-eating creatures will not eat such ungrateful people when dead.
+
+## VN.4.41 (Codex disagrees)
+
+अर्थयेदेव मित्राणि सति वासति वा धने ।
+नानर्थयन्विजानाति मित्राणां सारफल्गुताम् ॥
+
+*arthayedeva mitrāṇi sati vāsati vā dhane |
+nānarthayanvijānāti mitrāṇāṃ sāraphalgutām ||*
+
+**English:** One should seek out friends whether one has wealth or not; without asking of them, one does not learn which friends are solid and which hollow.
+
+**Codex:** Arthayet means to ask or make a request of friends, not simply to “seek out” friends. Sanskrit says: One should make requests of friends whether wealth is present or absent; without asking them, one cannot discover which friends are substantial and which are hollow.
 
 ## VN.4.44 (safety flags: death)
 
@@ -4401,7 +4557,51 @@ kitavatvaṃ paṇḍitā varjayanti ||*
 
 **English:** Earlier, seeing Draupadi won at the dice game, I told you, king, 'Stop Duryodhana'; you did not follow my words. The wise avoid gambling.
 
-## VN.5.3 (safety flags: caste_gender)
+## VN.4.70 (Codex disagrees)
+
+धार्तराष्ट्राः पाण्डवान्पालयन्तु
+पाण्डोः सुतास्तव पुत्रांश्च पान्तु ।
+एकारिमित्राः कुरवो ह्येकमन्त्रा
+जीवन्तु राजन्सुखिनः समृद्धाः ॥
+
+*dhārtarāṣṭrāḥ pāṇḍavānpālayantu
+pāṇḍoḥ sutāstava putrāṃśca pāntu |
+ekārimitrāḥ kuravo hyekamantrā
+jīvantu rājansukhinaḥ samṛddhāḥ ||*
+
+**English:** Let Dhritarashtra's sons protect the Pandavas, and let Pandu's sons protect your sons. Let the Kurus, with one enemy and one friend and one counsel, live happy and prosperous, king.
+
+**Codex:** “One enemy and one friend” wrongly treats eka as numerical; the compound describes the Kurus as sharing the same friends and enemies. Sanskrit says: Let the Kurus, having common friends and enemies and united in counsel, live happy and prosperous, O king.
+
+## VN.4.72 (Codex disagrees)
+
+सन्धत्स्व त्वं कौरवान्पाण्डुपुत्रैर्
+मा तेऽन्तरं रिपवः प्रार्थयन्तु ।
+सत्ये स्थितास्ते नरदेव सर्वे
+दुर्योधनं स्थापय त्वं नरेन्द्र ॥
+
+*sandhatsva tvaṃ kauravānpāṇḍuputrair
+mā te'ntaraṃ ripavaḥ prārthayantu |
+satye sthitāste naradeva sarve
+duryodhanaṃ sthāpaya tvaṃ narendra ||*
+
+**English:** Make peace between the Kauravas and the sons of Pandu; do not let enemies look for a gap between you. They all stand in truth, god among men; restrain Duryodhana, lord of men.
+
+**Codex:** “A gap between you” changes te antaram, which means an opening or vulnerable point belonging to the king, not necessarily a division between the two parties. Sanskrit says: Do not let your enemies seek an opening or weakness in you.
+
+## VN.5.1 (Codex disagrees)
+
+सप्तदशेमान्राजेन्द्र मनुः स्वायम्भुवोऽब्रवीत् ।
+वैचित्रवीर्य पुरुषानाकाशं मुष्टिभिर्घ्नतः ॥
+
+*saptadaśemānrājendra manuḥ svāyambhuvo'bravīt |
+vaicitravīrya puruṣānākāśaṃ muṣṭibhirghnataḥ ||*
+
+**English:** Svayambhuva Manu, lord of kings, spoke of these seventeen people, son of Vichitravirya, who strike the sky with their fists,
+
+**Codex:** The English incorrectly makes “lord of kings” an epithet of Manu; rā́jendra is a vocative addressed to Dhritarashtra. Sanskrit says: O lord of kings, O son of Vichitravirya, Svayambhuva Manu spoke of these seventeen men who strike the sky with their fists.
+
+## VN.5.3 (Codex disagrees; safety flags: caste_gender)
 
 यश्चाशिष्यं शासति यश् च कुप्यते
 यश्चातिवेलं भजते द्विषन्तम् ।
@@ -4414,6 +4614,8 @@ striyaśca yo'rakṣati bhadramastu te
 yaścāyācyaṃ yācati yaś ca katthate ||*
 
 **English:** one who instructs the unteachable, one who gets angry, one who serves an enemy beyond measure, one who does not protect women, bless you, one who begs what should not be begged, and one who boasts;
+
+**Codex:** The English reverses yo ’rakṣati: this is ā-rakṣati, “guards” or “tries to guard,” not “does not protect.” Sanskrit says: The list includes one who tries to guard or control women.
 
 ## VN.5.5 (safety flags: caste_gender)
 
@@ -4449,7 +4651,7 @@ vṛṣalī patirdvijo yaśca pānapaścaiva bhārata ||*
 
 **English:** One who goes to the wife of a man who trusts him, one who violates his teacher's bed, a twice-born man who marries a shudra woman, and a drinker, Bharata,
 
-## VN.5.12 (safety flags: caste_gender)
+## VN.5.12 (Codex disagrees; safety flags: caste_gender)
 
 शरणागतहा चैव सर्वे ब्रह्महणैः समाः ।
 एतैः समेत्य कर्तव्यं प्रायश्चित्तमिति श्रुतिः ॥
@@ -4458,6 +4660,8 @@ vṛṣalī patirdvijo yaśca pānapaścaiva bhārata ||*
 etaiḥ sametya kartavyaṃ prāyaścittamiti śrutiḥ ||*
 
 **English:** and one who kills a refugee: all are equal to killers of brahmins. Scripture says that having fallen in with these, one must do atonement.
+
+**Codex:** “Refugee” is too broad and modern for śaraṇāgata, which specifically denotes someone who has come seeking refuge or protection. Sanskrit says: The list includes one who kills a person who has sought refuge or protection.
 
 ## VN.5.17 (safety flags: caste_gender)
 
@@ -4468,6 +4672,22 @@ etaiḥ sametya kartavyaṃ prāyaścittamiti śrutiḥ ||*
 ātmānaṃ satataṃ rakṣeddārairapi dhanairapi ||*
 
 **English:** One should guard wealth against misfortune; guard one's wife even with wealth; and always guard oneself, even with wife and wealth.
+
+## VN.5.18 (Codex disagrees)
+
+उक्तं मया द्यूतकालेऽपि राजन्
+नैवं युक्तं वचनं प्रातिपीय ।
+तदौषधं पथ्यमिवातुरस्य
+न रोचते तव वैचित्र वीर्य ॥
+
+*uktaṃ mayā dyūtakāle'pi rājan
+naivaṃ yuktaṃ vacanaṃ prātipīya |
+tadauṣadhaṃ pathyamivāturasya
+na rocate tava vaicitra vīrya ||*
+
+**English:** I said at the time of the dice game, king, that this was not right. But like medicine to a sick man, that beneficial advice did not please you, son of Vichitravirya.
+
+**Codex:** The English omits the vocative prātipīya, “descendant of Pratipa.” Sanskrit says: I said at the time of the dice game, O king, O descendant of Pratipa, that this was not right; that advice did not please you, O son of Vichitravirya, just as beneficial medicine does not please a sick man.
 
 ## VN.5.25 (random sample)
 
@@ -4483,7 +4703,23 @@ dūtaṃ vadantyaṣṭa guṇopapannam ||*
 
 **English:** Not stubborn, not timid, not slow, compassionate, gentle, not to be won over by others, of healthy stock and eloquent: they call such an envoy endowed with eight qualities.
 
-## VN.5.28 (safety flags: caste_gender)
+## VN.5.27 (Codex disagrees)
+
+न निह्नवं सत्र गतस्य गच्छेत्
+संसृष्ट मन्त्रस्य कुसङ्गतस्य ।
+न च ब्रूयान्नाश्वसामि त्वयीति
+स कारणं व्यपदेशं तु कुर्यात् ॥
+
+*na nihnavaṃ satra gatasya gacchet
+saṃsṛṣṭa mantrasya kusaṅgatasya |
+na ca brūyānnāśvasāmi tvayīti
+sa kāraṇaṃ vyapadeśaṃ tu kuryāt ||*
+
+**English:** One should not contradict a man sitting in an assembly whose counsel is mixed with bad company; nor should one say 'I do not trust you', but should give a reason or excuse.
+
+**Codex:** The first half is misconstrued: nihnavam means concealment or denial, while saṃsṛṣṭamantrasya refers to someone with whom counsel or secrets have been shared, not to counsel being “mixed with bad company.” Sanskrit says: One should not resort to concealment or denial concerning one who has gone to the assembly, with whom counsel has been shared, and who has fallen into bad company; one should not say “I do not trust you,” but should give a reason or pretext.
+
+## VN.5.28 (Codex disagrees; safety flags: caste_gender)
 
 घृणी राजा पुंश्चली राजभृत्यः
 पुत्रो भ्राता विधवा बाल पुत्रा ।
@@ -4496,6 +4732,8 @@ senā jīvī coddhṛta bhakta eva
 vyavahāre vai varjanīyāḥ syurete ||*
 
 **English:** A compassionate king, a loose woman, a king's servant, a son, a brother, a widow with a young son, one who lives by soldiering, and one who has lost his position: these should be avoided in transactions.
+
+**Codex:** Uddhṛtabhakta does not simply mean someone who has lost his position; it denotes someone whose food, ration, or maintenance has been withdrawn. Sanskrit says: A compassionate king, a loose woman, a royal servant, a son, a brother, a widow with a young son, a soldier, and one whose maintenance has been withdrawn should be avoided in transactions.
 
 ## VN.5.29 (safety flags: caste_gender)
 
@@ -4511,6 +4749,34 @@ sparśaśca gandhaśca viśuddhatā ca
 
 **English:** Ten benefits come to one who bathes regularly: strength, beauty, a clear voice and complexion, softness of touch, fragrance, purity, fortune, delicacy, and the finest women.
 
+## VN.5.32 (Codex disagrees)
+
+कदर्यमाक्रोशकमश्रुतं च
+वराक सम्भूतममान्य मानिनम् ।
+निष्ठूरिणं कृतवैरं कृतघ्नम्
+एतान्भृतार्तोऽपि न जातु याचेत् ॥
+
+*kadaryamākrośakamaśrutaṃ ca
+varāka sambhūtamamānya māninam |
+niṣṭhūriṇaṃ kṛtavairaṃ kṛtaghnam
+etānbhṛtārto'pi na jātu yācet ||*
+
+**English:** A miser, an abuser, the unlearned, the base-born who honours the dishonourable, the harsh, one who has made enemies, and the ungrateful: one should never beg from these, even in distress.
+
+**Codex:** Amānyamāninam does not mean someone who honours the dishonourable; it means someone who thinks highly of himself despite being unworthy of honour. The base-born person and this conceited person are also separate items in the list. Sanskrit says: One should never beg, even in distress, from a miser, an abuser, an unlearned person, one of base origin, one who considers himself worthy of honour although he is not, a harsh person, one who has made enemies, or an ingrate.
+
+## VN.5.34 (Codex disagrees)
+
+सहायबन्धना ह्यर्थाः सहायाश्चार्थबन्धनाः ।
+अन्योन्यबन्धनावेतौ विनान्योन्यं न सिध्यतः ॥
+
+*sahāyabandhanā hyarthāḥ sahāyāścārthabandhanāḥ |
+anyonyabandhanāvetau vinānyonyaṃ na sidhyataḥ ||*
+
+**English:** Aims are bound to helpers, and helpers are bound to means; these two are bound to each other, and neither succeeds without the other.
+
+**Codex:** The English renders the repeated artha as two different things, “aims” and “means,” obscuring the verse’s stated mutual dependence between only two parties. Sanskrit says: Resources or undertakings depend upon helpers, and helpers depend upon resources; the two depend upon each other, and neither succeeds without the other.
+
 ## VN.5.35 (safety flags: renunciation, under18_hold)
 
 उत्पाद्य पुत्राननृणांश्च कृत्वा
@@ -4524,6 +4790,18 @@ sthāne kumārīḥ pratipādya sarvā
 araṇyasaṃstho munivadbubhūṣet ||*
 
 **English:** Having fathered sons and freed them from debt, having arranged some livelihood for them, and having given all daughters in marriage properly, one should wish to live in the forest as a sage.
+
+## VN.5.36 (Codex disagrees)
+
+हितं यत्सर्वभूतानामात्मनश्च सुखावहम् ।
+तत्कुर्यादीश्वरो ह्येतन्मूलं धर्मार्थसिद्धये ॥
+
+*hitaṃ yatsarvabhūtānāmātmanaśca sukhāvaham |
+tatkuryādīśvaro hyetanmūlaṃ dharmārthasiddhaye ||*
+
+**English:** What is beneficial to all beings and brings happiness to oneself, the lord should do; this is the root of success in dharma and true benefit.
+
+**Codex:** “True benefit” adds an unsupported qualification and does not accurately preserve artha, the second term paired with dharma. Sanskrit says: The lord should do what benefits all beings and brings happiness to himself, for this is the root of attaining dharma and artha, or material welfare.
 
 ## VN.5.38 (safety flags: war)
 
@@ -4552,6 +4830,18 @@ utsādayellokamimaṃ pravṛddhaḥ
 śveto grahastiryagivāpatankhe ||*
 
 **English:** The anger of Bhishma, of you who are like Indra, of Drona and of King Yudhishthira, once roused, could destroy this world, like a white comet falling across the sky.
+
+## VN.5.41 (Codex disagrees)
+
+धार्तराष्ट्रा वनं राजन्व्याघ्राः पाण्डुसुता मताः ।
+मा वनं छिन्धि स व्याघ्रं मा व्याघ्रान्नीनशो वनात् ॥
+
+*dhārtarāṣṭrā vanaṃ rājanvyāghrāḥ pāṇḍusutā matāḥ |
+mā vanaṃ chindhi sa vyāghraṃ mā vyāghrānnīnaśo vanāt ||*
+
+**English:** Dhritarashtra's sons are a forest, king, and Pandu's sons are held to be the tigers. Do not cut down the forest with its tigers; do not drive the tigers out of the forest.
+
+**Codex:** The second imperative uses a form of naś, “perish” or “destroy”; “drive the tigers out” softens this to mere expulsion. Sanskrit says: Dhritarashtra’s sons are the forest and Pandu’s sons the tigers. Do not cut down the forest together with its tigers, and do not destroy or cause the tigers to perish from the forest.
 
 ## VN.5.51 (random sample)
 
@@ -4667,7 +4957,21 @@ teṣāṃ sarvatragaṃ tejaḥ svāsu yoniṣu śāmyati ||*
 
 **English:** Fire arose from water, the kshatriya from the brahmin, iron from stone. Their power reaches everywhere, but it is quenched in its own source.
 
-## VN.6.23 (random sample)
+## VN.6.18 (Codex disagrees)
+
+नासुहृत्परमं मन्त्रं भारतार्हति वेदितुम् ।
+अपण्डितो वापि सुहृत्पण्डितो वाप्यनात्मवान् ।
+अमात्ये ह्यर्थलिप्सा च मन्त्ररक्षणमेव च ॥
+
+*nāsuhṛtparamaṃ mantraṃ bhāratārhati veditum |
+apaṇḍito vāpi suhṛtpaṇḍito vāpyanātmavān |
+amātye hyarthalipsā ca mantrarakṣaṇameva ca ||*
+
+**English:** One who is not a friend does not deserve to know one's highest counsel, Bharata; nor does a friend who is unwise, nor a wise one who lacks self-control. Choose a minister only after testing him, for on him depend gaining wealth and keeping counsel.
+
+**Codex:** “Choose a minister only after testing him” is an addition not present in the Sanskrit. Sanskrit says: An enemy, an unwise friend, and a wise but uncontrolled person are unfit to know the highest counsel; the acquisition of wealth and the safeguarding of counsel depend upon a minister.
+
+## VN.6.23 (Codex disagrees; random sample)
 
 अमोघक्रोधहर्षस्य स्वयं कृत्यान्ववेक्षिणः ।
 आत्मप्रत्यय कोशस्य वसुधेयं वसुन्धरा ॥
@@ -4676,6 +4980,8 @@ teṣāṃ sarvatragaṃ tejaḥ svāsu yoniṣu śāmyati ||*
 ātmapratyaya kośasya vasudheyaṃ vasundharā ||*
 
 **English:** For one whose anger and joy are not fruitless, who personally oversees what must be done, and whose treasury is known to himself, this earth yields wealth.
+
+**Codex:** The final clause turns a statement of possession or dominion into the different claim that the earth “yields wealth.” Sanskrit says: This wealth-bearing earth belongs to the person whose anger and pleasure are effective, who personally oversees what must be done, and who has personal command or assured knowledge of his treasury.
 
 ## VN.6.25 (safety flags: caste_gender)
 
@@ -4737,6 +5043,18 @@ yaṃ praśaṃsanti bandhakyo na sa jīvati mānavaḥ ||*
 
 **English:** The man whom gamblers praise, whom bards praise, whom loose women praise: that man does not truly live.
 
+## VN.6.43 (Codex disagrees)
+
+हित्वा तान्परमेष्वासान्पाण्डवानमितौजसः ।
+आहितं भारतैश्वर्यं त्वया दुर्योधने महत् ॥
+
+*hitvā tānparameṣvāsānpāṇḍavānamitaujasaḥ |
+āhitaṃ bhārataiśvaryaṃ tvayā duryodhane mahat ||*
+
+**English:** Abandoning the Pandavas, great archers of boundless energy, you have placed the great sovereignty of the Bharatas in Duryodhana, Bharata.
+
+**Codex:** The final vocative “Bharata” is an addition. The verse's only form of that word is part of the compound meaning “the sovereignty of the Bharatas,” which the English has already translated. Sanskrit says: Abandoning the Pandavas, supreme archers of boundless energy, you have placed the great sovereignty of the Bharatas in Duryodhana.
+
 ## VN.7.1 (safety flags: fatalism)
 
 अनीश्वरोऽयं पुरुषो भवाभवे
@@ -4751,6 +5069,18 @@ tasmādvada tvaṃ śravaṇe ghṛto'ham ||*
 
 **English:** This person is not master of his rising or falling; he is like a wooden doll moved by strings. He is under the control of what the Creator has ordained. So speak on; I am intent on listening.
 
+## VN.7.3 (Codex disagrees)
+
+प्रियो भवति दानेन प्रियवादेन चापरः ।
+मन्त्रं मूलबलेनान्यो यः प्रियः प्रिय एव सः ॥
+
+*priyo bhavati dānena priyavādena cāparaḥ |
+mantraṃ mūlabalenānyo yaḥ priyaḥ priya eva saḥ ||*
+
+**English:** One becomes dear through gifts, another through pleasant words, another through the strength of counsel and charms; but one who is dear is dear simply.
+
+**Codex:** “Counsel and charms” misreads mantra and mūla in this context: they refer to incantations and roots or herbs used for their magical power. Sanskrit says: One becomes dear through gifts, another through pleasant speech, and another through the power of incantations and roots; but one who is naturally dear remains dear.
+
 ## VN.7.7 (random sample)
 
 सर्वं त्वमायती युक्तं भाषसे प्राज्ञसंमतम् ।
@@ -4760,6 +5090,42 @@ tasmādvada tvaṃ śravaṇe ghṛto'ham ||*
 na cotsahe sutaṃ tyaktuṃ yato dharmastato jayaḥ ||*
 
 **English:** All that you say is sound for the future and approved by the wise. Yet I cannot bring myself to abandon my son. Where dharma is, there is victory.
+
+## VN.7.11 (Codex disagrees)
+
+ये पापा इति विख्याताः संवासे परिगर्हिताः ।
+युक्ताश्चान्यैर्महादोषैर्ये नरास्तान्विवर्जयेत् ॥
+
+*ye pāpā iti vikhyātāḥ saṃvāse parigarhitāḥ |
+yuktāścānyairmahādoṣairye narāstānvivarjayet ||*
+
+**English:** Those known to be wicked, censured by those who live with them, and joined to other great faults: one should avoid such people.
+
+**Codex:** “Censured by those who live with them” assigns the censure to cohabitants. The Sanskrit says that association or living with such people is itself condemned. Sanskrit says: Those known as wicked, whose company is condemned, and who possess other great faults should be avoided.
+
+## VN.7.25 (Codex disagrees)
+
+श्रीमन्तं ज्ञातिमासाद्य यो ज्ञातिरवसीदति ।
+दिग्धहस्तं मृग इव स एनस्तस्य विन्दति ॥
+
+*śrīmantaṃ jñātimāsādya yo jñātiravasīdati |
+digdhahastaṃ mṛga iva sa enastasya vindati ||*
+
+**English:** If a relative comes to a prosperous relative and still suffers, the prosperous one incurs his sin, as a hunter with a poisoned arrow incurs the deer's.
+
+**Codex:** The English reverses who acquires whose sin and attaches the simile incorrectly. Grammatically, the suffering relative is the subject of both avasīdati and vindati. Sanskrit says: A relative who, after approaching a prosperous relative, still sinks into distress acquires that prosperous relative’s sin, like a deer approaching someone whose hand is smeared with poison.
+
+## VN.7.40 (Codex disagrees)
+
+अपनीतं सुनीतेन योऽर्थं प्रत्यानिनीषते ।
+मतिमास्थाय सुदृढां तदकापुरुष व्रतम् ॥
+
+*apanītaṃ sunītena yo'rthaṃ pratyāninīṣate |
+matimāsthāya sudṛḍhāṃ tadakāpuruṣa vratam ||*
+
+**English:** One who, holding to a firm resolve, seeks by good conduct to win back a gain lost through bad conduct: that is the vow of a person who is no coward.
+
+**Codex:** The English adds that the gain was lost “through bad conduct.” The Sanskrit does not state what caused the loss; apanītam means that the wealth or objective was taken away or lost. Sanskrit says: One who, adopting a very firm resolve, seeks to recover by sound policy what has been taken away or lost follows the vow of one who is no coward.
 
 ## VN.7.48 (safety flags: distress_gentle)
 
@@ -4771,7 +5137,7 @@ na śrīrvasatyadānteṣu ye cotsāha vivarjitāḥ ||*
 
 **English:** Fortune does not dwell with those overcome by sorrow, the careless, unbelievers, the lazy, the undisciplined, and those without energy.
 
-## VN.7.51 (safety flags: caste_gender)
+## VN.7.51 (Codex disagrees; safety flags: caste_gender)
 
 अग्निहोत्रफला वेदाः शीलवृत्तफलं श्रुतम् ।
 रतिपुत्र फला दारा दत्तभुक्त फलं धनम् ॥
@@ -4780,6 +5146,8 @@ na śrīrvasatyadānteṣu ye cotsāha vivarjitāḥ ||*
 ratiputra phalā dārā dattabhukta phalaṃ dhanam ||*
 
 **English:** The fruit of the Vedas is the fire offering; the fruit of learning is good character and conduct; the fruit of a wife is love and sons; the fruit of wealth is giving and enjoying it.
+
+**Codex:** “Love” softens and changes rati, which here denotes sexual pleasure or intercourse. Sanskrit says: The fruit of a wife is sexual pleasure and sons.
 
 ## VN.7.54 (random sample)
 
@@ -4811,7 +5179,7 @@ nirāhārāḥ prajāḥ śocyāḥ śocyaṃ rāṣṭramarājakam ||*
 
 **English:** An uneducated person is to be pitied; a couple without children is to be pitied; people without food are to be pitied; a kingdom without a king is to be pitied.
 
-## VN.7.63 (safety flags: caste_gender)
+## VN.7.63 (Codex disagrees; safety flags: caste_gender)
 
 अध्वा जरा देहवतां पर्वतानां जलं जरा ।
 असम्भोगो जरा स्त्रीणां वाक्षल्यं मनसो जरा ॥
@@ -4820,6 +5188,8 @@ nirāhārāḥ prajāḥ śocyāḥ śocyaṃ rāṣṭramarājakam ||*
 asambhogo jarā strīṇāṃ vākṣalyaṃ manaso jarā ||*
 
 **English:** Travel is old age for embodied beings; water is old age for mountains; lack of enjoyment is old age for women; harsh words are old age for the mind.
+
+**Codex:** “Lack of enjoyment” obscures the specifically sexual sense of asambhoga in this context. Sanskrit says: Lack of sexual union or intercourse is old age for women.
 
 ## VN.7.64 (safety flags: caste_gender)
 
@@ -4870,6 +5240,50 @@ nālamekasya tatsarvamiti paśyanna muhyati ||*
 nāntakaḥ sarvabhūtānāṃ na puṃsāṃ vāmalocanā ||*
 
 **English:** Fire is never satisfied with logs, nor the great ocean with rivers, nor death with all beings, nor a beautiful-eyed woman with men.
+
+## VN.8.7 (Codex disagrees)
+
+आशा धृतिं हन्ति समृद्धिमन्तकः
+क्रोधः श्रियं हन्ति यशः कदर्यता ।
+अपालनं हन्ति पशूंश्च राजन्न्
+एकः क्रुद्धो ब्राह्मणो हन्ति राष्ट्रम् ॥
+
+*āśā dhṛtiṃ hanti samṛddhimantakaḥ
+krodhaḥ śriyaṃ hanti yaśaḥ kadaryatā |
+apālanaṃ hanti paśūṃśca rājann
+ekaḥ kruddho brāhmaṇo hanti rāṣṭram ||*
+
+**English:** Craving destroys steadiness; death destroys prosperity; anger destroys fortune; miserliness destroys fame; neglect destroys cattle, king; and one angry brahmin destroys a kingdom.
+
+**Codex:** Āśā means hope, expectation, or longing; rendering it as “craving” narrows and reinterprets the statement. Sanskrit says: Hope or expectation destroys steadfastness.
+
+## VN.8.8 (Codex disagrees)
+
+अजश्च कांस्यं च रथश्च नित्यं
+मध्वाकर्षः शकुनिः श्रोत्रियश् च ।
+वृद्धो ज्ञातिरवसन्नो वयस्य
+एतानि ते सन्तु गृहे सदैव ॥
+
+*ajaśca kāṃsyaṃ ca rathaśca nityaṃ
+madhvākarṣaḥ śakuniḥ śrotriyaś ca |
+vṛddho jñātiravasanno vayasya
+etāni te santu gṛhe sadaiva ||*
+
+**English:** Goats, bronze, a chariot, honey, a bird, a Vedic scholar, an aged relative and a friend fallen on hard times: may these always be in your house.
+
+**Codex:** The English incorrectly separates madhvākarṣaḥ śakuniḥ into “honey” and “a bird.” It is a single expression describing a honey-drawing or honey-attracting bird. Sanskrit says: The list includes a honey-drawing bird, not honey and a bird as separate items.
+
+## VN.8.9 (Codex disagrees)
+
+अजोक्षा चन्दनं वीणा आदर्शो मधुसर्पिषी ।
+विषमौदुम्बरं शङ्खः स्वर्णं नाभिश्च रोचना ॥
+
+*ajokṣā candanaṃ vīṇā ādarśo madhusarpiṣī |
+viṣamaudumbaraṃ śaṅkhaḥ svarṇaṃ nābhiśca rocanā ||*
+
+**English:** A goat and a bull, sandalwood, a lute, a mirror, honey and ghee, poison-curing fig wood, a conch, gold, musk and yellow pigment:
+
+**Codex:** The English combines viṣam and audumbaram into the unsupported compound “poison-curing fig wood,” adding a curing relationship that the Sanskrit does not state. Sanskrit says: The verse separately lists poison and an object made of udumbara (fig) wood.
 
 ## VN.8.13 (safety flags: death)
 
@@ -4922,6 +5336,38 @@ puṇyena pāpena ca veṣṭyamānaḥ ||*
 agnau prāstaṃ tu puruṣaṃ karmānveti svayaṃ kṛtam ||*
 
 **English:** Relatives, friends and sons leave him and turn back; but the person thrown into the fire is followed by the deeds he himself has done.
+
+## VN.8.17 (Codex disagrees)
+
+अस्माल्लोकादूर्ध्वममुष्य चाधो
+महत्तमस्तिष्ठति ह्यन्धकारम् ।
+तद्वै महामोहनमिन्द्रियाणां
+बुध्यस्व मा त्वां प्रलभेत राजन् ॥
+
+*asmāllokādūrdhvamamuṣya cādho
+mahattamastiṣṭhati hyandhakāram |
+tadvai mahāmohanamindriyāṇāṃ
+budhyasva mā tvāṃ pralabheta rājan ||*
+
+**English:** Above this world and below the next lies a great darkness, the great bewilderer of the senses. Understand this, king, so that it does not seize you.
+
+**Codex:** “Seize you” changes the meaning of pralabheta, which here means deceive, beguile, or delude. Sanskrit says: Understand this, king, so that it does not delude you.
+
+## VN.8.21 (Codex disagrees)
+
+प्रज्ञा वृद्धं धर्मवृद्धं स्वबन्धुं
+विद्या वृद्धं वयसा चापि वृद्धम् ।
+कार्याकार्ये पूजयित्वा प्रसाद्य
+यः सम्पृच्छेन्न स मुह्येत्कदा चित् ॥
+
+*prajñā vṛddhaṃ dharmavṛddhaṃ svabandhuṃ
+vidyā vṛddhaṃ vayasā cāpi vṛddham |
+kāryākārye pūjayitvā prasādya
+yaḥ sampṛcchenna sa muhyetkadā cit ||*
+
+**English:** One who honours and pleases a relative grown in wisdom, in dharma, in learning or in age, and asks him about what should and should not be done, is never confused.
+
+**Codex:** The English changes the conjunctive list of qualities into alternatives by using “or.” The Sanskrit describes a relative advanced in wisdom, dharma, learning, and also age. Sanskrit says: One who honours and pleases his relative who is advanced in wisdom, dharma, learning, and age, and consults him about what should and should not be done, is never confused.
 
 ## VN.8.23 (safety flags: caste_gender)
 

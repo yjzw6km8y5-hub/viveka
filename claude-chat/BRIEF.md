@@ -1,6 +1,6 @@
 # Viveka: brief for the Claude planning chat
 
-_Updated 2026-10-03 01:30 Eastern Daylight Time by `scripts/brief.py` after a cycle. Repo: https://github.com/yjzw6km8y5-hub/viveka_
+_Updated 2026-10-03 01:31 Eastern Daylight Time by `scripts/brief.py` after a cycle. Repo: https://github.com/yjzw6km8y5-hub/viveka_
 
 ## Current status
 
@@ -15,7 +15,7 @@ _Updated 2026-10-03 01:30 Eastern Daylight Time by `scripts/brief.py` after a cy
        - a Dharma / Artha / Kama / Moksha life map, with Ikigai as an alternative
        - the profile stays in the browser for the visit only; never send or save it
      - Use the profile to tailor answers; add tests; update `claude-chat/BRIEF.md`.
-  1. Resume the verse check: `python scripts/verse_check.py run`, then `list` (batches 32-39 remain).
+  1. Verse check complete (39/39). The owner's list is ready in `reviews/verse-check/OWNER_REVIEW.md`: 484 verses listed (1539/1539 checked by Codex, 127 disagreements).
   2. Continue must-fix 1 in small batches: the remaining per-case failures are listed in `tests/results/2026-10-02-guidance-batch.md` (situations 16, held-out v1 5, held-out v2 13). Do not weaken the gate, and do not treat spent-set reruns as fresh evidence; the next unbiased claim needs an independently written held-out set.
   The text queue is paused after the Katha (CLAUDE.md section 10). Do not add or annotate new texts.
   Work the plan instead: reviewed starter collection, then comparative testing (see `tests/README.md`
@@ -43,11 +43,12 @@ _Updated 2026-10-03 01:30 Eastern Daylight Time by `scripts/brief.py` after a cy
 
 - **Cycles:** 6 (5 ok, 1 failed); by builder: codex 1, claude 5.
 - **Not yet reviewed by the other tool:** 0.
-- **Commits:** 34.
+- **Commits:** 35.
 - **Failed:** cycle 4, push blocked by external-transfer approval boundary; local commits ready
 
 <details><summary>Commits</summary>
 
+- 10-03 01:30  Owner decisions of 2026-10-03 (scope later phase; context-first flow; Big Five and life-map onboarding; profile storage open); claude-chat/BRIEF.md with screenshots; verse check 39/39
 - 10-03 01:20  Visual try-it page with voice input; LLM writing step (RAG on existing subscription, checked before shown); friend-fight detection; UI screenshots for review
 - 10-03 00:49  Local try-it page (scripts/serve.py) with an 'Add a test case' form for the independent test set
 - 10-03 00:47  Merge owner-approved proposals [10, 13, 14, 18, 20, 22, 23]; rejected [2, 3, 4, 5, 6, 7, 9, 12, 15, 16, 17, 19, 21]
