@@ -1,99 +1,124 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1"><title>Viveka</title>
 <style>
-:root{--bg:#f7f3ec;--fg:#1d1b18;--mut:#6f685d;--card:#fffdf9;--line:#e8e0d2;--acc:#b8601c;--acc2:#2f6b5f;--soft:#f2e6d6;--warn:#a32020;--warnbg:#fbeaea;--ok:#2f6b5f;--okbg:#e5f2ee;--shadow:0 1px 2px rgba(0,0,0,.04),0 6px 18px rgba(80,50,10,.06)}
-@media (prefers-color-scheme:dark){:root{--bg:#141210;--fg:#efe9e0;--mut:#a59d90;--card:#1f1c18;--line:#34302a;--acc:#e8954f;--acc2:#7fc7b4;--soft:#2c241b;--warn:#ffb3b3;--warnbg:#3a1f1f;--ok:#9fdcc9;--okbg:#17302a;--shadow:none}}
-*{box-sizing:border-box}html,body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
-main{max-width:720px;margin:0 auto;padding:20px 16px 80px}
-header{display:flex;align-items:center;gap:12px;margin-bottom:6px}.logo{width:38px;height:38px;border-radius:50%;background:radial-gradient(circle at 35% 35%,#f4c27a,var(--acc));display:grid;place-items:center;color:#fff;font-weight:700}
-h1{font-size:24px;margin:0}.tag{color:var(--mut);font-size:14px;margin:0 0 16px}
-nav{display:flex;gap:6px;margin-bottom:14px}nav button{border:1px solid var(--line);background:var(--card);color:var(--fg);padding:7px 14px;border-radius:999px;cursor:pointer;font:inherit;font-size:14px}nav button.on{background:var(--fg);color:var(--bg);border-color:var(--fg)}
-.ask{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:12px;box-shadow:var(--shadow)}
-textarea{width:100%;border:0;outline:0;resize:none;min-height:70px;background:transparent;color:var(--fg);font:inherit;font-size:17px}
-.bar{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-.mic{width:42px;height:42px;border-radius:50%;border:1px solid var(--line);background:var(--card);cursor:pointer;display:grid;place-items:center}.mic.rec{background:var(--warn);border-color:var(--warn)}.mic svg{width:20px;height:20px;fill:var(--fg)}.mic.rec svg{fill:#fff}
-.go{margin-left:auto;background:var(--acc);color:#fff;border:0;border-radius:999px;padding:10px 20px;font:inherit;font-weight:600;cursor:pointer}
-.small{font-size:13px;color:var(--mut)}input.age{width:90px;padding:8px 10px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--fg);font:inherit;font-size:14px}
-label.sw{display:flex;align-items:center;gap:6px;font-size:13px;color:var(--mut)}
-.chips{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0 4px}.chip{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:6px 12px;font-size:14px;cursor:pointer;color:var(--fg)}.chip:hover{border-color:var(--acc)}
-.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px;margin:14px 0;box-shadow:var(--shadow)}
-.lab{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--mut);font-weight:600;margin-bottom:6px}
-.hero h2{font-size:22px;line-height:1.3;margin:2px 0 8px}.hero p{margin:0}.writing{color:var(--mut);font-size:13px;margin-top:8px}
-.step{display:flex;gap:12px;align-items:flex-start;background:var(--okbg);color:var(--ok);border-radius:14px;padding:14px;margin-top:12px}.step b{display:block;font-size:12px;letter-spacing:.06em;text-transform:uppercase}
-.alert{border-color:var(--warn);background:var(--warnbg)}.alert .lab{color:var(--warn)}.alert ul{margin:6px 0 0;padding-left:18px}
-.grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}@media (max-width:560px){.grid{grid-template-columns:1fr}}
-.pill{display:inline-block;background:var(--soft);border-radius:999px;padding:4px 10px;margin:3px 4px 3px 0;font-size:13px}
-.meter{display:flex;align-items:center;gap:12px}.ring{width:64px;height:64px}.ring circle{fill:none;stroke-width:8}.ring .bg{stroke:var(--line)}.ring .fg{stroke-linecap:round;transform:rotate(-90deg);transform-origin:50% 50%}
-.ring text{font:700 18px system-ui;fill:var(--fg)}
-.pb{margin:10px 0}.pb .row{display:flex;justify-content:space-between;font-size:14px;margin-bottom:4px}.pb .track{height:10px;border-radius:99px;background:var(--line);overflow:hidden}.pb .fill{height:100%;border-radius:99px;background:var(--acc2)}.pb.top .fill{background:var(--acc)}
-details{border-top:1px solid var(--line);padding:10px 0}details:first-of-type{border-top:0}summary{cursor:pointer;font-weight:600;list-style:none}summary::-webkit-details-marker{display:none}summary:before{content:"+ ";color:var(--acc)}details[open] summary:before{content:"− "}
-.verse{margin:10px 0 0}.dev{font-family:"Noto Serif Devanagari","Nirmala UI",serif;font-size:18px;color:var(--mut);margin-top:6px;line-height:1.7}
-.draft{font-size:12px;color:var(--warn);background:var(--warnbg);border-radius:999px;padding:4px 10px;display:inline-block}
-.foot{font-size:12px;color:var(--mut);margin-top:16px}
-form.case textarea,form.case input,form.case select{width:100%;border:1px solid var(--line);border-radius:12px;padding:10px;background:var(--card);color:var(--fg);font:inherit;margin:6px 0}
-.okmsg{background:var(--okbg);color:var(--ok);border-radius:12px;padding:10px}
-</style></head><body><main>
-<header><div class="logo">V</div><div><h1>Viveka</h1></div></header>
-<p class="tag">Wisdom for real situations · local test page · not saved</p>
-<nav><button id="t1" class="on" onclick="tab(1)">Ask</button><button id="t2" onclick="tab(2)">Add a test case</button></nav>
-<section id="s1">
-<div class="ask">
-<textarea id="q" placeholder="What's on your mind? Type or tap the mic." oninput="if(!this.value)document.getElementById('ex').hidden=false"></textarea>
-<div class="bar">
-<button class="mic" id="mic" title="Speak" onclick="talk()"><svg viewBox="0 0 24 24"><path d="M12 14a3 3 0 0 0 3-3V5a3 3 0 1 0-6 0v6a3 3 0 0 0 3 3zm5-3a5 5 0 0 1-10 0H5a7 7 0 0 0 6 6.92V21h2v-3.08A7 7 0 0 0 19 11h-2z"/></svg></button>
-<input class="age" id="age" type="number" min="10" max="110" placeholder="Age">
-<label class="sw"><input type="checkbox" id="ai" checked> AI-written</label>
-<button class="go" onclick="ask()">Ask</button>
-</div></div>
-<div class="small" id="micnote" hidden>Voice is turned into text by your browser's speech service, which may send the audio to its provider.</div>
-<div class="chips" id="ex"></div>
-<div id="out"></div>
-</section>
-<section id="s2" hidden>
-<div class="card"><div class="lab">Independent test set</div>
-<p class="small">Write a realistic situation the engine has never seen, and what a good answer must do. Each case is scored once before anyone tunes against it.</p>
-<form class="case" onsubmit="addCase(event)">
-<textarea id="ct" placeholder="The situation, in the person's own words" rows="4"></textarea>
+:root{--bg:#f7f3ec;--fg:#1d1b18;--mut:#6f685d;--card:#fffdf9;--line:#e8e0d2;--acc:#b8601c;--soft:#f2e6d6;--me:#2f6b5f;--warn:#a32020;--warnbg:#fbeaea;--ok:#2f6b5f;--okbg:#e5f2ee;--shadow:0 1px 2px rgba(0,0,0,.04),0 6px 18px rgba(80,50,10,.06)}
+@media (prefers-color-scheme:dark){:root{--bg:#141210;--fg:#efe9e0;--mut:#a59d90;--card:#1f1c18;--line:#34302a;--acc:#e8954f;--soft:#2c241b;--me:#2a5b51;--warn:#ffb3b3;--warnbg:#3a1f1f;--ok:#9fdcc9;--okbg:#17302a;--shadow:none}}
+[hidden]{display:none!important}*{box-sizing:border-box}html,body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+.app{max-width:720px;margin:0 auto;min-height:100vh;display:flex;flex-direction:column}
+header{display:flex;align-items:center;gap:10px;padding:14px 16px;position:sticky;top:0;background:var(--bg);z-index:2;border-bottom:1px solid var(--line)}
+.logo{width:34px;height:34px;border-radius:50%;background:radial-gradient(circle at 35% 35%,#f4c27a,var(--acc));display:grid;place-items:center;color:#fff;font-weight:700}
+header h1{font-size:20px;margin:0;flex:1}.icon{border:1px solid var(--line);background:var(--card);color:var(--fg);border-radius:10px;padding:6px 10px;cursor:pointer;font:inherit;font-size:14px}
+#thread{flex:1;padding:16px;display:flex;flex-direction:column;gap:12px}
+.msg{max-width:88%;padding:12px 14px;border-radius:16px;box-shadow:var(--shadow)}
+.me{align-self:flex-end;background:var(--me);color:#fff;border-bottom-right-radius:4px}
+.v{align-self:flex-start;background:var(--card);border:1px solid var(--line);border-bottom-left-radius:4px}
+.v p{margin:0 0 8px}.v p:last-child{margin:0}.mut{color:var(--mut);font-size:13px}
+.q{margin:12px 0 0}.q b{display:block;margin-bottom:6px;font-weight:600}
+.opts{display:flex;flex-wrap:wrap;gap:6px}.opt{border:1px solid var(--line);background:var(--bg);color:var(--fg);border-radius:999px;padding:6px 12px;font:inherit;font-size:14px;cursor:pointer}
+.opt.on{background:var(--acc);border-color:var(--acc);color:#fff}
+.q input{width:100%;border:1px solid var(--line);border-radius:10px;padding:8px 10px;background:var(--bg);color:var(--fg);font:inherit}
+.row{display:flex;gap:8px;margin-top:14px;flex-wrap:wrap}.btn{background:var(--acc);color:#fff;border:0;border-radius:999px;padding:9px 18px;font:inherit;font-weight:600;cursor:pointer}.ghost{background:none;color:var(--acc);border:1px solid var(--acc)}
+.alert{border-color:var(--warn);background:var(--warnbg)}.alert .t{color:var(--warn);font-weight:700;margin-bottom:4px}.alert ul{margin:6px 0 0;padding-left:18px}
+.opening{font-size:19px;font-weight:600;line-height:1.35;margin-bottom:8px}
+.step{background:var(--okbg);color:var(--ok);border-radius:12px;padding:12px;margin:12px 0 4px}.step b{display:block;font-size:12px;letter-spacing:.06em;text-transform:uppercase}
+.fit{margin-top:12px;display:flex;flex-direction:column;gap:6px}.fit .lab{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--mut)}
+.tagc{display:inline-block;background:var(--soft);border-radius:999px;padding:4px 10px;margin:2px 4px 2px 0;font-size:14px}.tagc.top{background:var(--acc);color:#fff}
+details{border-top:1px solid var(--line);padding:8px 0}details:first-of-type{margin-top:10px}summary{cursor:pointer;font-weight:600;list-style:none}summary::-webkit-details-marker{display:none}summary:before{content:"+ ";color:var(--acc)}details[open]>summary:before{content:"− "}
+details details{border:0;padding:4px 0 0}details details summary{font-weight:500;font-size:14px;color:var(--mut)}
+.dev{font-family:"Noto Serif Devanagari","Nirmala UI",serif;font-size:18px;color:var(--mut);line-height:1.7}
+.draft{font-size:12px;color:var(--warn)}
+.thinking{display:flex;gap:6px;align-items:center}.dot{width:7px;height:7px;border-radius:50%;background:var(--mut);animation:b 1.2s infinite}.dot:nth-child(2){animation-delay:.2s}.dot:nth-child(3){animation-delay:.4s}@keyframes b{0%,80%,100%{opacity:.25}40%{opacity:1}}
+footer{position:sticky;bottom:0;background:var(--bg);padding:10px 16px 14px;border-top:1px solid var(--line)}
+.ask{display:flex;gap:8px;align-items:flex-end;background:var(--card);border:1px solid var(--line);border-radius:18px;padding:8px;box-shadow:var(--shadow)}
+textarea{flex:1;border:0;outline:0;resize:none;min-height:44px;max-height:160px;background:transparent;color:var(--fg);font:inherit;font-size:16px;padding:8px}
+.mic{width:40px;height:40px;border-radius:50%;border:1px solid var(--line);background:var(--card);cursor:pointer;display:grid;place-items:center;flex:none}.mic.rec{background:var(--warn);border-color:var(--warn)}.mic svg{width:18px;height:18px;fill:var(--fg)}.mic.rec svg{fill:#fff}
+.send{width:40px;height:40px;border-radius:50%;background:var(--acc);border:0;color:#fff;font-size:18px;cursor:pointer;flex:none}
+.foot{font-size:12px;color:var(--mut);margin-top:8px}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}
+.overlay{position:fixed;inset:0;background:rgba(20,15,10,.45);display:grid;place-items:center;z-index:5;padding:16px}
+.panel{background:var(--card);border-radius:18px;padding:20px;max-width:440px;width:100%;box-shadow:var(--shadow)}
+.panel h2{margin:0 0 6px;font-size:20px}.panel label{display:block;margin:14px 0 6px;font-weight:600}
+.panel input,.panel select{width:100%;border:1px solid var(--line);border-radius:10px;padding:10px;background:var(--bg);color:var(--fg);font:inherit}
+.sw{display:flex;align-items:center;gap:8px;margin-top:14px}
+form.case textarea,form.case input,form.case select{width:100%;border:1px solid var(--line);border-radius:10px;padding:8px;background:var(--bg);color:var(--fg);font:inherit;margin:4px 0}
+</style></head><body><div class="app">
+<header><div class="logo">V</div><h1>Viveka</h1><button class="icon" id="devbtn" hidden onclick="showCase()">Test case</button><button class="icon" onclick="openSettings()" title="Settings">⚙ Settings</button></header>
+<div id="thread"></div>
+<footer>
+<div class="ask"><button class="mic" id="mic" title="Speak" onclick="talk()"><svg viewBox="0 0 24 24"><path d="M12 14a3 3 0 0 0 3-3V5a3 3 0 1 0-6 0v6a3 3 0 0 0 3 3zm5-3a5 5 0 0 1-10 0H5a7 7 0 0 0 6 6.92V21h2v-3.08A7 7 0 0 0 19 11h-2z"/></svg></button>
+<textarea id="q" rows="1" placeholder="What's on your mind?"></textarea><button class="send" onclick="send()" title="Send">➤</button></div>
+<div class="foot" id="foot">Local test page · not published · nothing you write is saved</div>
+</footer></div>
+<div class="overlay" id="onb" hidden><div class="panel">
+<h2>Before we start</h2><p class="mut">Two quick questions, so the help lines and answers fit you. Your answers stay on this device.</p>
+<label for="o_age">Your age</label><input id="o_age" type="number" min="10" max="110" placeholder="e.g. 34">
+<label for="o_country">Where are you?</label><select id="o_country"><option value="CA">Canada</option><option value="IN">India</option><option value="US">United States</option><option value="UK">United Kingdom</option><option value="">Somewhere else</option></select>
+<p class="mut" style="margin-top:14px">Coming next: a short personality check (Big Five) and a life map (Dharma, Artha, Kama, Moksha).</p>
+<div class="row"><button class="btn" onclick="saveOnb()">Start</button></div></div></div>
+<div class="overlay" id="set" hidden><div class="panel">
+<h2>Settings</h2>
+<label for="s_age">Age</label><input id="s_age" type="number" min="10" max="110">
+<label for="s_country">Country (for help lines)</label><select id="s_country"><option value="CA">Canada</option><option value="IN">India</option><option value="US">United States</option><option value="UK">United Kingdom</option><option value="">Somewhere else</option></select>
+<div class="sw"><input type="checkbox" id="s_ai"><span>AI-written answers <span class="mut">(uses Claude through the owner's subscription; your text leaves this device; testing only)</span></span></div>
+<div class="row"><button class="btn" onclick="saveSettings()">Save</button><button class="btn ghost" onclick="closeSettings()">Cancel</button><button class="btn ghost" onclick="resetAll()">Forget me</button></div></div></div>
+<div class="overlay" id="casebox" hidden><div class="panel">
+<h2>Add a test case</h2><p class="mut">Developer only. A realistic situation the engine has never seen, and what a good answer must do. Scored once before anyone tunes against it.</p>
+<form class="case" onsubmit="addCase(event)"><textarea id="ct" rows="3" placeholder="The situation, in the person's own words"></textarea>
 <select id="cc"><option>adult</option><option>teen</option><option>ambiguous</option><option>hard</option></select>
-<select id="cs"><option value="">Safety route: none</option><option value="support">support (distress)</option><option value="danger">danger (abuse, threats)</option><option value="crisis">crisis (self-harm)</option></select>
-<textarea id="cg" placeholder="What a good answer must do (and must not do)" rows="3"></textarea>
-<input id="cn" placeholder="Your name or initials">
-<button class="go" style="margin:6px 0 0">Save test case</button></form><div id="cout"></div></div>
-</section>
-</main><script>
-const EX=["I'm nervous about my exam tomorrow","I had a fight with my best friend","Should I take the new job or stay?","I can't get myself to start working","My parents want me to study medicine but I love art","I feel jealous of my colleague's promotion"];
-document.getElementById('ex').innerHTML=EX.map(e=>`<button class="chip" onclick="pick(this)">${e}</button>`).join('');
-function pick(b){document.getElementById('q').value=b.textContent;ask()}
-function tab(n){for(const i of[1,2]){document.getElementById('s'+i).hidden=i!==n;document.getElementById('t'+i).classList.toggle('on',i===n)}}
-const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-function ring(v,label,color){const r=26,c=2*Math.PI*r,off=c*(1-v/10);return `<div class="meter"><svg class="ring" viewBox="0 0 64 64"><circle class="bg" cx="32" cy="32" r="${r}"/><circle class="fg" cx="32" cy="32" r="${r}" stroke="${color}" stroke-dasharray="${c}" stroke-dashoffset="${off}"/><text x="32" y="38" text-anchor="middle">${v}</text></svg><div>${label}</div></div>`}
-let rec=null;function talk(){const SR=window.SpeechRecognition||window.webkitSpeechRecognition;const m=document.getElementById('mic');if(!SR){alert('Voice input is not supported in this browser. Try Chrome or Edge.');return}
-document.getElementById('micnote').hidden=false;if(rec){rec.stop();return}rec=new SR();rec.lang='en-IN';rec.interimResults=true;rec.continuous=false;const q=document.getElementById('q');const base=q.value;
-rec.onresult=e=>{let t='';for(const r of e.results)t+=r[0].transcript;q.value=(base?base+' ':'')+t};rec.onend=()=>{m.classList.remove('rec');rec=null};rec.onerror=()=>{m.classList.remove('rec');rec=null};m.classList.add('rec');rec.start()}
-async function ask(){const q=document.getElementById('q').value.trim();if(!q)return;const o=document.getElementById('out');o.innerHTML='<p class="small">Thinking…</p>';
-const body={q,age:document.getElementById('age').value};const r=await fetch('/ask',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});const d=await r.json();if(d.error){o.innerHTML=`<div class="card">${esc(d.error)}</div>`;return}
-document.getElementById('ex').hidden=true;render(d);document.getElementById('out').scrollIntoView({behavior:'smooth'});if(document.getElementById('ai').checked&&d.ai_ok){document.getElementById('writing').hidden=false;const w=await(await fetch('/write',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)})).json();applyAI(w)}}
-function render(d){const a=d.answer,v=d.visual;let h='';
-if(a.safety&&a.safety.level!=='support')h+=`<div class="card alert"><div class="lab">${a.safety.level==='crisis'?'Please reach out now':'Your safety first'}</div><p>${esc(a.safety.message)}</p><ul>${a.safety.help.map(x=>`<li>${esc(x.name)}: <b>${esc(x.number)}</b></li>`).join('')}</ul></div>`;
-if(a.protective)h+=`<div class="card alert"><div class="lab">Your health first</div><p>${esc(a.protective.text)}</p></div>`;
-const rc=a.recommendation||{};h+=`<div class="card hero"><div class="lab">Viveka suggests</div><h2 id="hl">${esc(v.headline)}</h2><p id="ans">${esc(v.summary)}</p><div class="writing" id="writing" hidden>AI is writing a warmer version…</div>
-${a.next_step?`<div class="step"><div><b>One next step</b><span id="ns">${esc(a.next_step.text)}</span></div></div>`:''}</div>`;
-if(v.perspectives.length||v.themes.length){h+=`<div class="grid"><div class="card"><div class="lab">Your situation</div>${v.themes.map(t=>`<span class="pill">${esc(t)}</span>`).join('')}${v.people.length?`<div class="small" style="margin-top:8px">Involves: ${v.people.map(esc).join(', ')}</div>`:''}
-<div style="margin-top:12px">${ring(v.urgency,`<b>Urgency</b><div class="small">${esc(v.urgency_label)}</div>`,v.urgency>=7?'var(--warn)':'var(--acc)')}</div></div>
-<div class="card"><div class="lab">Perspectives compared (fit, 1-10)</div>${v.perspectives.map((p,i)=>`<div class="pb ${i?'':'top'}"><div class="row"><span>${esc(p.name)}</span><b>${p.fit}</b></div><div class="track"><div class="fill" style="width:${p.fit*10}%"></div></div></div>`).join('')}
-<div class="small">Engine's relative estimate, not a verdict.</div></div></div>`}
-h+=`<div class="card">`;
-for(const s of a.sources||[])h+=`<details open><summary>The text (${esc(s.id)})</summary><div class="verse">"${esc(s.english)}"<div class="dev">${esc(s.devanagari)}</div></div></details>`;
-if(rc.why_it_fits_you)h+=`<details><summary>Why this fits you</summary><p>${esc(rc.why_it_fits_you)}</p><p>${esc(rc.application)}</p></details>`;
-if(a.challenge)h+=`<details><summary>The other view</summary><p id="alt">${esc(a.challenge.text)}</p><p class="small">"${esc(a.challenge.source.english)}" (${esc(a.challenge.source.id)})</p></details>`;
-const cm=a.commentary||[];if(cm.length)h+=`<details><summary>What the commentators say</summary>${cm.map(c=>`<p class="small">${c.note?`<b>${esc(c.commentator)}:</b> ${esc(c.note)}`:esc(c.missing)}</p>`).join('')}</details>`;
-if(a.example)h+=`<details><summary>A story from the texts</summary><p><b>${esc(a.example.title)}.</b> ${esc(a.example.lesson)}</p><p class="small">Limits: ${esc(a.example.limits)}</p></details>`;
-h+=`</div><div class="foot"><span class="draft">Draft · ${v.reviewed} of ${v.quoted} quoted verses reviewed by a Sanskrit reader</span><br><br>${esc(a.safety_footer.text)}</div>`;
-document.getElementById('out').innerHTML=h}
-function applyAI(w){const el=document.getElementById('writing');if(!el)return;if(!w.written){el.textContent=w.note;return}
-document.getElementById('hl').textContent=w.written.headline;document.getElementById('ans').textContent=w.written.answer;if(document.getElementById('ns'))document.getElementById('ns').textContent=w.written.next_step;el.textContent='✓ '+w.note}
-async function addCase(e){e.preventDefault();const b={text:document.getElementById('ct').value.trim(),category:document.getElementById('cc').value,safety:document.getElementById('cs').value||null,good_answer:document.getElementById('cg').value.trim(),author:document.getElementById('cn').value.trim()};const o=document.getElementById('cout');
-if(!b.text||!b.good_answer||!b.author){o.innerHTML='<p class="small">Please fill in the situation, what a good answer must do, and your name.</p>';return}
-const a=await(await fetch('/case',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(b)})).json();o.innerHTML=a.error?esc(a.error):`<p class="okmsg">Saved as ${esc(a.id)} · ${esc(a.count)} independent cases so far.</p>`;if(!a.error){document.getElementById('ct').value='';document.getElementById('cg').value=''}}
-document.getElementById('q').addEventListener('keydown',e=>{if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();ask()}});
+<select id="cs"><option value="">Safety route: none</option><option value="support">support</option><option value="danger">danger</option><option value="crisis">crisis</option></select>
+<textarea id="cg" rows="2" placeholder="What a good answer must do (and must not do)"></textarea><input id="cn" placeholder="Your name or initials">
+<div class="row"><button class="btn">Save</button><button class="btn ghost" type="button" onclick="document.getElementById('casebox').hidden=true">Close</button></div></form><div id="cout"></div></div></div>
+<script>
+const $=id=>document.getElementById(id), esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const store={get(){try{return JSON.parse(localStorage.getItem('viveka_profile')||'null')}catch(e){return null}},set(v){try{localStorage.setItem('viveka_profile',JSON.stringify(v))}catch(e){}},clear(){try{localStorage.removeItem('viveka_profile')}catch(e){}}};
+let prof=store.get()||null; const DEV=new URLSearchParams(location.search).has('dev'); if(DEV)$('devbtn').hidden=false;
+const EX=["I'm nervous about my exam tomorrow","I had a fight with my best friend","Should I take the new job or stay?","I can't get myself to start working"];
+function profile(){return prof?{age:prof.age,country:prof.country}:{}}
+function add(html,cls){const d=document.createElement('div');d.className='msg '+cls;d.innerHTML=html;$('thread').appendChild(d);d.scrollIntoView({behavior:'smooth',block:'end'});return d}
+function helps(h){return h&&h.length?'<ul>'+h.map(x=>`<li>${esc(x.name)}: <b>${esc(x.number)}</b></li>`).join('')+'</ul>':''}
+function card(c){return add(`<div class="t">${esc(c.title)}</div><p>${esc(c.text)}</p>${helps(c.help)}`,'v alert')}
+function greet(){$('thread').innerHTML='';const d=add(`<p>Hello. Tell me what's on your mind, in your own words. I'll ask a few questions first, then suggest one way forward.</p><div class="chips">${EX.map(e=>`<button class="opt" onclick="pick(this)">${esc(e)}</button>`).join('')}</div>`,'v');}
+function pick(b){$('q').value=b.textContent;send()}
+let cur=null;
+async function send(){const q=$('q').value.trim();if(!q)return;$('q').value='';add(esc(q),'me');cur={q,ctx:{}};
+const t=await post('/triage',{q,profile:profile()});if(t.error){add(esc(t.error),'v');return}
+t.cards.forEach(card);
+if(t.final){if(t.next_step)add(`<div class="step"><b>Right now</b>${esc(t.next_step)}</div>`,'v');return}
+const qs=t.questions.map(x=>x.free?`<div class="q"><b>${esc(x.text)}</b><input data-q="${x.id}" placeholder="Type a short answer (optional)"></div>`:
+`<div class="q"><b>${esc(x.text)}</b><div class="opts" data-q="${x.id}" data-multi="${x.multi?1:0}">${x.options.map(o=>`<button class="opt" onclick="choose(this)">${esc(o)}</button>`).join('')}</div></div>`).join('');
+cur.box=add(`<p>${esc(t.reflection)} Before I suggest anything, a few quick questions:</p>${qs}<div class="row"><button class="btn" onclick="go(false)">Continue</button><button class="btn ghost" onclick="go(true)">Just answer</button></div>`,'v');
+cur.reflection=t.reflection}
+function choose(b){const g=b.parentElement;if(g.dataset.multi!=='1')g.querySelectorAll('.opt').forEach(x=>x.classList.remove('on'));b.classList.toggle('on')}
+async function go(skip){if(!cur||cur.sent)return;cur.sent=true;const ctx={};
+if(!skip){cur.box.querySelectorAll('.opts').forEach(g=>{const on=[...g.querySelectorAll('.opt.on')].map(x=>x.textContent);if(on.length)ctx[g.dataset.q]=g.dataset.multi==='1'?on:on[0]});cur.box.querySelectorAll('input[data-q]').forEach(i=>{if(i.value.trim())ctx[i.dataset.q]=i.value.trim()})}
+cur.box.querySelectorAll('button').forEach(b=>b.disabled=true);
+const wait=add(`<p>${esc(cur.reflection)} Let me think this through carefully${prof&&prof.ai?' (this can take up to a minute)':''}.</p><div class="thinking"><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>`,'v');
+const a=await post('/answer',{q:cur.q,context:ctx,profile:profile(),ai:!!(prof&&prof.ai)});wait.remove();if(a.error){add(esc(a.error),'v');return}
+a.cards.filter(c=>c.kind!=='support').forEach(card);
+let h=`<div class="opening">${esc(a.opening)}</div><p>${esc(a.body)}</p>`;
+if(a.next_step)h+=`<div class="step"><b>One next step</b>${esc(a.next_step)}</div>`;
+if(a.closest)h+=`<div class="fit"><div class="lab">Closest fit</div><div><span class="tagc top">${esc(a.closest)}</span></div>${a.also.length?`<div class="lab">Also worth considering</div><div>${a.also.map(x=>`<span class="tagc">${esc(x)}</span>`).join('')}</div>`:''}</div>`;
+for(const s of a.sources)h+=`<details><summary>The text (${esc(s.id)})</summary><p>"${esc(s.english)}"</p><details><summary>Sanskrit</summary><div class="dev">${esc(s.devanagari)}</div></details></details>`;
+if(a.why)h+=`<details><summary>Why this fits you</summary><p>${esc(a.why)}</p></details>`;
+if(a.alternative)h+=`<details><summary>The other view</summary><p>${esc(a.alternative)}</p>${a.alternative_source?`<p class="mut">"${esc(a.alternative_source.english)}" (${esc(a.alternative_source.id)})</p>`:''}</details>`;
+const cm=a.commentary||[];if(cm.length)h+=`<details><summary>What the commentators say</summary>${cm.map(c=>`<p class="mut">${c.note?`<b>${esc(c.commentator)}:</b> ${esc(c.note)}`:esc(c.missing)}</p>`).join('')}</details>`;
+if(a.example)h+=`<details><summary>A story from the texts</summary><p><b>${esc(a.example.title)}.</b> ${esc(a.example.lesson)}</p><p class="mut">Limits: ${esc(a.example.limits)}</p></details>`;
+h+=`<p class="draft" style="margin-top:10px">Draft · ${a.reviewed} of ${a.sources.length} verses reviewed by a Sanskrit reader · written by ${esc(a.written_by)}</p>`;
+add(h,'v');$('foot').innerHTML='If you are in crisis or not safe: '+a.footer.map(x=>`${esc(x.name.split('(')[0].trim())} <b>${esc(x.number)}</b>`).join(' · ');cur=null}
+async function post(u,b){try{return await(await fetch(u,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(b)})).json()}catch(e){return{error:'Could not reach the local server.'}}}
+function saveOnb(){prof={age:$('o_age').value,country:$('o_country').value,ai:true};store.set(prof);$('onb').hidden=true;greet()}
+function openSettings(){const p=prof||{};$('s_age').value=p.age||'';$('s_country').value=p.country??'CA';$('s_ai').checked=!!p.ai;$('set').hidden=false}
+function closeSettings(){$('set').hidden=true}
+function saveSettings(){prof={...(prof||{}),age:$('s_age').value,country:$('s_country').value,ai:$('s_ai').checked};store.set(prof);closeSettings()}
+function resetAll(){store.clear();prof=null;closeSettings();$('onb').hidden=false}
+function showCase(){$('casebox').hidden=false}
+async function addCase(e){e.preventDefault();const b={text:$('ct').value.trim(),category:$('cc').value,safety:$('cs').value||null,good_answer:$('cg').value.trim(),author:$('cn').value.trim()};
+if(!b.text||!b.good_answer||!b.author){$('cout').innerHTML='<p class="mut">Please fill in the situation, what a good answer must do, and your name.</p>';return}
+const a=await post('/case',b);$('cout').innerHTML=a.error?esc(a.error):`<p class="mut">Saved as ${esc(a.id)} · ${esc(a.count)} so far.</p>`;if(!a.error){$('ct').value='';$('cg').value=''}}
+let rec=null;function talk(){const SR=window.SpeechRecognition||window.webkitSpeechRecognition;const m=$('mic');if(!SR){alert('Voice input is not supported in this browser. Try Chrome or Edge.');return}
+if(rec){rec.stop();return}rec=new SR();rec.lang='en-IN';rec.interimResults=true;const q=$('q'),base=q.value;
+rec.onresult=e=>{let t='';for(const r of e.results)t+=r[0].transcript;q.value=(base?base+' ':'')+t};rec.onend=()=>{m.classList.remove('rec');rec=null};rec.onerror=()=>{m.classList.remove('rec');rec=null};
+m.classList.add('rec');$('foot').textContent="Listening… Voice is turned into text by your browser's speech service, which may send the audio to its provider.";rec.start()}
+$('q').addEventListener('keydown',e=>{if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();send()}});
+if(!prof)$('onb').hidden=false;else greet();
 </script></body></html>

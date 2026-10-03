@@ -4,16 +4,101 @@
   "default_message": "If you are in immediate danger, contact your local emergency number now. You deserve to be safe, and leaving a dangerous or abusive situation is never a failure of duty.",
   "regions": {
     "IN": [
-      {"name": "Emergency (police, fire, ambulance)", "number": "112", "for": ["danger", "abuse", "self_harm"], "source": "https://chrysalishigh.com/blog/student-corner/emergency-services-number-india-helpline-list/"},
-      {"name": "Tele-MANAS national mental health helpline (24/7, free, 20+ languages)", "number": "14416 or 1-800-891-4416", "for": ["self_harm", "distress"], "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1866498"},
-      {"name": "Childline (children in need of help)", "number": "1098", "for": ["abuse", "danger", "under18"], "source": "https://childlineindia.org/a/about/childline-india"},
-      {"name": "Women helpline (domestic violence, harassment)", "number": "181", "for": ["abuse", "danger"], "source": "https://indianhelpline.com/women-helpline"}
+      {
+        "name": "Emergency (police, fire, ambulance)",
+        "number": "112",
+        "for": [
+          "danger",
+          "abuse",
+          "self_harm"
+        ],
+        "source": "https://chrysalishigh.com/blog/student-corner/emergency-services-number-india-helpline-list/"
+      },
+      {
+        "name": "Tele-MANAS national mental health helpline (24/7, free, 20+ languages)",
+        "number": "14416 or 1-800-891-4416",
+        "for": [
+          "self_harm",
+          "distress"
+        ],
+        "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1866498"
+      },
+      {
+        "name": "Childline (children in need of help)",
+        "number": "1098",
+        "for": [
+          "abuse",
+          "danger",
+          "under18"
+        ],
+        "source": "https://childlineindia.org/a/about/childline-india",
+        "audience": "under18"
+      },
+      {
+        "name": "Women helpline (domestic violence, harassment)",
+        "number": "181",
+        "for": [
+          "abuse",
+          "danger"
+        ],
+        "source": "https://indianhelpline.com/women-helpline"
+      }
     ],
     "US": [
-      {"name": "988 Suicide & Crisis Lifeline (call or text, 24/7)", "number": "988", "for": ["self_harm", "distress"], "source": "https://www.samhsa.gov/mental-health/988/faqs"}
+      {
+        "name": "988 Suicide & Crisis Lifeline (call or text, 24/7)",
+        "number": "988",
+        "for": [
+          "self_harm",
+          "distress"
+        ],
+        "source": "https://www.samhsa.gov/mental-health/988/faqs"
+      }
     ],
     "UK": [
-      {"name": "Samaritans (24/7, free)", "number": "116 123", "for": ["self_harm", "distress"], "source": "https://www.psychologytoday.com/us/basics/suicide/suicide-prevention-hotlines-resources-worldwide"}
+      {
+        "name": "Samaritans (24/7, free)",
+        "number": "116 123",
+        "for": [
+          "self_harm",
+          "distress"
+        ],
+        "source": "https://www.psychologytoday.com/us/basics/suicide/suicide-prevention-hotlines-resources-worldwide"
+      }
+    ],
+    "CA": [
+      {
+        "name": "Emergency (police, fire, ambulance)",
+        "number": "911",
+        "for": [
+          "danger",
+          "abuse",
+          "self_harm"
+        ],
+        "source": "https://988.ca/ (\"If your safety is at risk, call 9-1-1\")"
+      },
+      {
+        "name": "9-8-8 Suicide Crisis Helpline (call or text, 24/7)",
+        "number": "988",
+        "for": [
+          "self_harm",
+          "distress"
+        ],
+        "source": "https://988.ca/"
+      },
+      {
+        "name": "Kids Help Phone (24/7; or text CONNECT to 686868)",
+        "number": "1-800-668-6868",
+        "for": [
+          "under18",
+          "distress",
+          "abuse",
+          "self_harm"
+        ],
+        "source": "https://kidshelpphone.ca/",
+        "audience": "under18"
+      }
     ]
-  }
+  },
+  "checked_CA": "2026-10-03 (official sites, read in the browser)"
 }

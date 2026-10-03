@@ -4,7 +4,7 @@ Run after every cycle (CLAUDE.md section 15):  python scripts/brief.py
 Status numbers come from the repo itself (built texts, test results, verse-check results, cycle log, git log).
 The screen-by-screen interface description below must be updated whenever scripts/serve_page.html changes.
 """
-import csv, datetime, json, re, subprocess
+import csv, datetime, json, re, shutil, subprocess
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -13,58 +13,69 @@ SHOTS = ROOT / "claude-chat" / "screenshots"
 REPO = "https://github.com/yjzw6km8y5-hub/viveka"
 RAW = "https://raw.githubusercontent.com/yjzw6km8y5-hub/viveka/main"
 
-INTERFACE = """### Screen 1: Ask (home)
-- Header: round "V" logo, title **Viveka**, line "Wisdom for real situations · local test page · not saved".
-- Tabs: **Ask** (selected) | **Add a test case**.
-- Text box, placeholder: "What's on your mind? Type or tap the mic." Enter sends; Shift+Enter adds a line.
-- Under the box, left to right:
-  - **Microphone button.** Tap to speak, tap again to stop; the button turns red while recording. On first use a note appears: "Voice is turned into text by your browser's speech service, which may send the audio to its provider."
-  - **Age** field (number, optional).
-  - **AI-written** checkbox (on by default).
-  - **Ask** button.
-- Example buttons (tap to ask at once):
+INTERFACE = """### Screen 1: Onboarding (first visit only)
+- Panel title **Before we start**. Text: "Two quick questions, so the help lines and answers fit you. Your answers stay on this device."
+- **Your age**: number field, placeholder "e.g. 34".
+- **Where are you?**: Canada (default) / India / United States / United Kingdom / Somewhere else.
+- Note: "Coming next: a short personality check (Big Five) and a life map (Dharma, Artha, Kama, Moksha)."
+- Button **Start**. The answers are kept in the browser on this device only; nothing is sent anywhere except with each question to the local engine.
+
+### Screen 2: Conversation (home)
+- Header: "V" logo, **Viveka**, **⚙ Settings**. (A **Test case** button appears only with `?dev=1`.)
+- First message from Viveka: "Hello. Tell me what's on your mind, in your own words. I'll ask a few questions first, then suggest one way forward."
+- Example buttons:
   - "I'm nervous about my exam tomorrow"
   - "I had a fight with my best friend"
   - "Should I take the new job or stay?"
   - "I can't get myself to start working"
-  - "My parents want me to study medicine but I love art"
-  - "I feel jealous of my colleague's promotion"
+- Bottom bar: **microphone** button, a text box "What's on your mind?", and a round **send** button (➤). Enter sends.
+- Under the bar: "Local test page · not published · nothing you write is saved". After an answer, this line shows the person's own country's help lines.
+- While recording, it shows: "Listening… Voice is turned into text by your browser's speech service, which may send the audio to its provider."
 
-  They hide after the first question and come back when the box is cleared.
-- No onboarding yet, and no follow-up questions before answering (both decided 2026-10-03, not built yet).
+### Screen 3: Context questions (after the person writes)
+- The person's message appears as a green bubble on the right.
+- **Safety first:** if there is danger, crisis or an eating risk, a red card appears at once, before any questions:
+  - "Your safety first", "Please reach out now" or "Your health first", with the message and help lines for their country.
+  - A crisis ends here, with a "Right now" step.
+  - Gentle distress shows a card titled "You don't have to carry this alone".
+- **Viveka's reply** first reflects the situation back, e.g. "It sounds like this is about a friendship, and it involves your best friend. Before I suggest anything, a few quick questions:". Then:
+  - **Who do you live with?** On my own / With family / With a partner / With roommates or friends / I'd rather not say
+  - **What's limiting your options right now?** (pick any) Money / Time / Family expectations / Health / Nothing major
+  - **How soon do you need to act?** Today / This week / No rush
+  - Sometimes one more free-text question from the engine (e.g. "What are the main options you are choosing between?")
+  - Buttons **Continue** and **Just answer**.
+- While Viveka thinks: "<the reflection> Let me think this through carefully (this can take up to a minute)." with three pulsing dots.
 
-### Screen 2: Answer (same page, below the box; it scrolls into view)
-1. **Safety card** (red), only for danger or crisis. Title "Your safety first" or "Please reach out now", a message, and help lines with numbers.
-2. **Health card** (red), only when eating risk is found. Title "Your health first", then the guidance (a doctor; for under-18s a trusted adult who is safe for them).
-3. **"Viveka suggests" card:**
-   - a headline (the principle's name)
-   - one short paragraph
-   - the line "AI is writing a warmer version…", which changes to "✓ written by AI from the passages above, then checked" or to the reason the AI text was not used
-   - a green box, **ONE NEXT STEP**, with one action
+### Screen 4: The answer (one answer only)
+- **Opening:** one sentence to the person, in large text, e.g. "After a fight with someone close, it can help to look at what a true friend does."
+- **Body:** a short paragraph (AI-written from the checked passages, or Viveka's own text if AI is off or fails the check).
+- **ONE NEXT STEP:** a green box with one action.
+- **CLOSEST FIT:** the principle, as an orange tag.
+- **ALSO WORTH CONSIDERING:** one or two principles, as tags.
+- **Folded sections:**
+  - "The text (ID)": the English first, then a further fold, "Sanskrit".
+  - "Why this fits you", "The other view", "What the commentators say", "A story from the texts".
+- **Footer line:** "Draft · N of M verses reviewed by a Sanskrit reader · written by AI, from the passages shown, then checked" (or "written by Viveka").
 
-   When the AI version arrives (40-70 s), it replaces the headline, the paragraph and the next step.
-4. **Two cards side by side** (stacked on phones):
-   - **YOUR SITUATION:** theme tags (e.g. "fear and anxiety", "focus and study"), "Involves: …", and an **Urgency ring 1-10** with a label ("Time to reflect" 3, "Soon, not rushed" 6, "Health matters soon" 7, "Safety comes first" 9, "Reach out today" 10).
-   - **PERSPECTIVES COMPARED (FIT, 1-10):** three bars with the principle names and scores; the top one is orange. Note: "Engine's relative estimate, not a verdict."
-5. **Details card** (folding sections):
-   - "The text (ID)": open by default, with the English in quotes and the Sanskrit in Devanagari.
-   - "Why this fits you", "The other view", "What the commentators say", "A story from the texts".
-6. **Footer:** red badge "Draft · N of M quoted verses reviewed by a Sanskrit reader", then the help-line footer (India 112, 14416, 1098, 181; US 988; UK 116 123).
+### Screen 5: Settings (⚙)
+- **Age**, **Country (for help lines)**.
+- **AI-written answers** checkbox, labelled "uses Claude through the owner's subscription; your text leaves this device; testing only".
+- Buttons **Save**, **Cancel**, **Forget me** (clears the device profile and shows onboarding again).
 
-### Screen 3: Add a test case
-- Card "Independent test set" with the text: "Write a realistic situation the engine has never seen, and what a good answer must do. Each case is scored once before anyone tunes against it."
-- Fields:
-  - the situation (text)
+### Screen 6: Add a test case (developer only, `?dev=1`)
+- Explanation, then fields:
+  - the situation
   - category: adult / teen / ambiguous / hard
   - safety route: none / support / danger / crisis
   - "What a good answer must do (and must not do)"
   - "Your name or initials"
-- Button **Save test case**. The confirmation reads "Saved as I00N · N independent cases so far."
+- Buttons **Save** and **Close**. Confirmation: "Saved as I00N · N so far."
 """
 
 
 def sh(*a):
-    return subprocess.run(a, cwd=ROOT, capture_output=True, text=True, encoding="utf-8").stdout.strip()
+    exe = shutil.which(a[0]) or (r"C:\Program Files\Git\cmd\git.exe" if a[0] == "git" else a[0])
+    return subprocess.run([exe, *a[1:]], cwd=ROOT, capture_output=True, text=True, encoding="utf-8").stdout.strip()
 
 
 def gate(set_name):
@@ -106,8 +117,7 @@ def main():
     n_ind = len(json.loads(ind.read_text(encoding="utf-8"))) if ind.exists() else 0
     rows.append(("Independent test set (30 wanted)", f"{n_ind} written by the owner; ChatGPT's 30 requested", pct_left(min(n_ind, 30), 30)))
     rows.append(("Blind comparison vs a general assistant", "not started (needs baseline answers)", 100))
-    rows.append(("Privacy decision for the LLM step", "open: zero data retention or a local model (owner)", 100))
-    rows.append(("Profile storage", "open: owner decision (2026-10-03)", 100))
+    rows.append(("Zero-data-retention API before anyone else uses Viveka", "not set up (owner testing uses his subscription)", 100))
 
     # Runner log, last 24 hours
     since = now - datetime.timedelta(hours=24)
@@ -141,10 +151,18 @@ def main():
     L += ["", "<details><summary>Commits</summary>", ""] + [f"- {c}" for c in commits[:60]] + ["", "</details>", "",
           "## The interface, screen by screen", "", INTERFACE, "## Screenshots", ""]
     L += [f"- [{p.stem}]({RAW}/claude-chat/screenshots/{p.name})" for p in shots] or ["(none yet)"]
-    L += ["", "## Open owner decisions", "",
-          "1. **Profile storage** (Big Five answers and the life map): where, if anywhere, they are kept. Until decided, they stay in the browser for that visit only and are never sent or saved.",
-          "2. **Privacy for the LLM step:** a zero-data-retention agreement with a provider, or a local model.",
-          "3. **Adopting ChatGPT's roadmap** (with Claude's amendments) as PROJECT_BRIEF.md.", ""]
+    L += ["", "## Owner decisions and what is still open", "",
+          "- **Decided 2026-10-03:** the profile stays on the device only.",
+          "- **Decided 2026-10-03:** the LLM step runs on the owner's subscription for the owner's own testing only. Before anyone else uses Viveka, it needs an API with zero data retention.",
+          "- **Open:** ChatGPT's roadmap and business plan (below). The owner decides after the Claude chat reviews it. Claude Code's four amendments are in `AI Review Desk/Viveka/ROADMAP_RESPONSE_claude.md`.", ""]
+    road = ROOT.parent / "AI Review Desk" / "Viveka" / "VIVEKA_DESIGN_ROADMAP.md"
+    if road.exists():
+        L += ["## For review: ChatGPT's roadmap and business plan (in full)", "",
+              "_Copied verbatim from `AI Review Desk/Viveka/VIVEKA_DESIGN_ROADMAP.md` each time this brief is written. "
+              "The business plan is its section \"Commercial forecast\"; there is no separate business-plan file._", "", "---", ""]
+        L += [re.sub(r"^(#+) ", lambda m: "#" * min(len(m.group(1)) + 2, 6) + " ", line)  # nest its headings under this one
+              for line in road.read_text(encoding="utf-8").splitlines()]
+        L += ["", "---", ""]
     text = "\n".join(L) + "\n"
     OUT.parent.mkdir(exist_ok=True)
     OUT.write_text(text, encoding="utf-8", newline="\n")

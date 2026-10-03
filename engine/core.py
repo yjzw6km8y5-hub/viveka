@@ -152,11 +152,13 @@ def principle_allowed(p, sit, mode):
 
 def help_lines(lib, kinds, region=None):
     regions = lib["help"]["regions"]
-    order = [region] if region in regions else []
-    order += [r for r in ("IN", "US", "UK") if r not in order]
+    # The person's own country only, when known; otherwise every region we have.
+    order = [region] if region in regions else [r for r in ("IN", "US", "UK", "CA") if r in regions]
     out = []
     for r in order:
         for h in regions[r]:
+            if h.get("audience") == "under18" and "under18" not in kinds:
+                continue  # youth services only for someone who may be under 18
             if set(h["for"]) & set(kinds):
                 out.append({"region": r, "name": h["name"], "number": h["number"]})
     return out

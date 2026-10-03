@@ -57,6 +57,11 @@ Owner decisions are marked as decisions. Reviewer suggestions stay proposals unt
 - **Now: context first.** Viveka asks follow-up questions about context (who they live with, where they are, constraints) before answering, never up front. The person can say "just answer". Safety help is never delayed by these questions.
 - **Now: visual onboarding in the prototype UI:** a short Big Five questionnaire (public-domain IPIP items, not MBTI or 16Personalities) and a visual life map on Dharma, Artha, Kama and Moksha, with Ikigai as an alternative.
 - **Open (owner decision): where the profile is stored.** Until decided, it stays in the browser for that visit only and is never sent or saved.
+- **Owner decisions, 2026-10-03 (later):**
+  - The profile stays on the device only.
+  - The LLM step runs on the owner's subscription for his own testing only; anyone else needs a zero-data-retention API first.
+  - The roadmap is decided after the Claude chat reviews it.
+  - Push to the project's repo is pre-approved.
 
 ## Review process
 - The build-and-review loop is in PROCESS.md (v3, approved 2026-10-02).

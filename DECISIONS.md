@@ -379,3 +379,22 @@ Technical choices made without asking, newest last. Format: date, decision, why.
   - **Personality and outlook:** the Big Five, using public-domain IPIP items, not MBTI or 16Personalities.
   - **A visual life map:** Dharma, Artha, Kama and Moksha, with Ikigai as an alternative.
 - **d. Open, needs an owner decision: where the profile is stored.** Until then, the builder's interim default follows the no-storage promise: the profile lives in the browser for that visit only, is never sent to any server or provider, and is never saved.
+
+## 2026-10-03 (later): Owner decisions and the conversation UI
+- **Owner: the profile stays on the device only.** This settles decision d. The browser keeps it (age, country, settings); "Forget me" clears it.
+- **Owner: the LLM step stays on the owner's subscription, for his own testing.** Before anyone else uses Viveka, it needs an API with zero data retention.
+- **Owner: the roadmap is decided after the Claude chat reviews it.** It is copied in full into BRIEF.md under "For review"; ChatGPT's business plan is the roadmap's "Commercial forecast" section.
+- **Owner: git push to the project's own repo is pre-approved, so cycles never stall.**
+  - Claude Code sessions in this project allow `git push origin HEAD/main` in the local, uncommitted `.claude/settings.local.json`.
+  - Codex's push is blocked by its own sandbox, which needs a change in the runner's Codex settings (owner's PC).
+  - Checked: GitHub main matched local (530419c) before these changes.
+- **UI changes (owner's list a-h), all in `scripts/serve.py` and `serve_page.html`:**
+  - **a.** A conversation thread: follow-up questions about context first, then the answer.
+  - **b.** One answer only. While waiting, the situation is reflected back.
+  - **c.** "AI-written" moved to Settings; age (and country) asked once in onboarding.
+  - **d.** The 1-10 scores are replaced by "Closest fit" and "Also worth considering".
+  - **e.** Help lines for the person's country. Canada was added and verified on the official sites: 911, 9-8-8 by call or text, and Kids Help Phone 1-800-668-6868 or text CONNECT to 686868. Youth-only lines (Kids Help Phone, Childline) are shown only to someone who may be under 18.
+  - **f.** English first, with the Sanskrit folded underneath.
+  - **g.** The answer opens with one sentence to the person, not a principle name.
+  - **h.** "Add a test case" is behind `?dev=1`.
+- **LLM rule added after the browser test:** the AI may use only facts the person stated, and must not join separate facts. It had assumed the "best friend" was a roommate.

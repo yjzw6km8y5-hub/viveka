@@ -25,7 +25,10 @@ material only.
 
 Rules:
 - Plain, warm, everyday English. Short. No jargon. Speak to the person as "you".
-- Lead with what you suggest and why it fits THEIR situation, in 2-4 sentences.
+- Open with ONE warm sentence spoken directly to the person about their situation (not a principle name, not a quote).
+- Then say what you suggest and why it fits THEIR situation, in 2-4 sentences.
+- Use only facts the person stated, and never join separate facts they did not join (for example, do not assume
+  the person they mention is someone they live with). If unsure, leave it out.
 - You may quote a passage only word for word from the English given, in double quotes, with its ID in brackets,
   e.g. "..." (BG.2.47). Never quote or paraphrase anything not given. Never invent facts about the person.
 - Mention the alternative view in one sentence, fairly.
@@ -33,11 +36,11 @@ Rules:
 - If a safety or health note is given, do not contradict or soften it.
 - Never say suffering is deserved or a punishment. Never recommend renunciation or leaving responsibilities.
 
-Reply with JSON only: {"headline": "max 12 words", "answer": "2-4 short sentences", "quote_ids": ["..."],
+Reply with JSON only: {"opening": "one sentence to the person", "answer": "2-4 short sentences", "quote_ids": ["..."],
 "alternative": "one sentence", "next_step": "one sentence"}"""
 
 
-KEYS = ("headline", "answer", "quote_ids", "alternative", "next_step")
+KEYS = ("opening", "answer", "quote_ids", "alternative", "next_step")
 
 
 def parse(raw):
@@ -82,10 +85,10 @@ def check(out, a):
     """Problems with the model's text; empty list means it may be shown."""
     allowed = {s["id"]: s["english"] for s in a.get("sources", [])}
     probs = []
-    for k in ("headline", "answer", "next_step"):
+    for k in ("opening", "answer", "next_step"):
         if not isinstance(out.get(k), str) or not out[k].strip():
             probs.append(f"missing {k}")
-    text = " ".join(str(out.get(k, "")) for k in ("headline", "answer", "alternative", "next_step"))
+    text = " ".join(str(out.get(k, "")) for k in ("opening", "answer", "alternative", "next_step"))
     quotes = re.findall(r"“([^”]{12,})”|\"([^\"]{12,})\"|(?<![A-Za-z])['‘]([^'’]{12,}?)['’](?![A-Za-z])", text)
     for q in quotes:
         q = (q[0] or q[1] or q[2]).strip()
