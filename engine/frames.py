@@ -156,7 +156,8 @@ FRAMES = {
          "hold-both-together"]),
     "friendship_hurt": (
         [r"\bignor(?:es|ing|ed) me\b", r"\bleft me out\b", r"\bexclud", r"\bghost(?:ed|ing)\b", r"\bsitting with other people\b",
-         r"\bdoesn't talk to me\b", r"\bstopped talking to me\b"],
+         r"\bdoesn't talk to me\b", r"\bstopped talking to me\b",
+         r"\b(?:fight|fought|argu(?:ed|ment)|falling out|fell out)\b[^.?!]{0,20}\bwith my (?:best |close |old )?friends?\b"],
         ["speech-without-harm", "marks-of-a-true-friend", "feel-others-pain-as-your-own", "honour-the-grief-first",
          "nourish-one-another", "ask-for-help-when-lost"]),
     "controlling": (
