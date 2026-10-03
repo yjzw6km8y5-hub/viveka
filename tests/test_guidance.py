@@ -95,6 +95,13 @@ def test_suffering_is_never_called_deserved():
         assert a["recommendation"]["principle"] not in ("fate-decides", "nature-and-the-inner-controller")
 
 
+def test_audit_cue_matches_audits_not_auditorium():
+    from engine.frames import detect_frames
+    assert "witness_wrong" not in detect_frames("I am anxious about giving a speech in the auditorium tomorrow.")
+    for t in ["My manager asked me to change the numbers before the audit.", "The auditors are coming and I know of fraud."]:
+        assert "witness_wrong" in detect_frames(t)
+
+
 if __name__ == "__main__":
     for n, f in list(globals().items()):
         if n.startswith("test_"):

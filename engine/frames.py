@@ -101,7 +101,7 @@ FRAMES = {
         [r"\bcorrupt", r"\bfraud\b", r"\bbribe", r"\bunethical\b", r"\boffered me a gift\b", r"\bto raise (?:his|her|their) grade\b",
          r"\bfeels wrong\b", r"\bcover(?:ing)? up\b", r"\bwhistle", r"\breport (?:it|him|her|them)\b",
          r"\bbully(?:ing)?\b", r"\b(?:change|alter|falsify|fake) (?:the |these |some )?(?:numbers|figures|report|records?)\b",
-         r"\baudit"],
+         r"\baudit(?:s|ed|ing|or|ors)?\b"],
         ["duty-of-protection", "honesty", "clear-understanding", "fearlessness"]),
     "peer_pressure": (
         [r"\bpeer pressure\b", r"\beveryone (?:else )?is doing\b", r"\bfit in\b", r"\bmy friends (?:want|say|think)\b",

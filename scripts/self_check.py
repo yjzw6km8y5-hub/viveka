@@ -17,12 +17,36 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 PY = sys.executable
 SETS = ["situations", "heldout", "heldout2", "paired"]
-UNIT = ["tests/test_gate.py", "tests/test_guidance.py", "tests/test_proposals.py"]
+UNIT = ["tests/test_gate.py", "tests/test_guidance.py", "tests/test_proposals.py", "tests/test_self_check.py"]
+SELFCHECK = ROOT / "tests/results/selfcheck"
 
 
 def run(args):
     r = subprocess.run([PY, *args], cwd=ROOT, capture_output=True, text=True, encoding="utf-8")
     return r.returncode, (r.stdout + r.stderr).strip()
+
+
+def run_set(s, runner=run):
+    """Run one test set fresh. Returns (results or None, problems); fails closed on any error.
+
+    Old output is deleted first so a crash can never be read as a pass from a previous run, and
+    output from a failed command, or output that was not rewritten, is never parsed."""
+    out = SELFCHECK / f"{s}.json"
+    for old in (out, SELFCHECK / f"{s}_summary.md"):
+        old.unlink(missing_ok=True)
+    code, text = runner(["scripts/run_tests.py", "--set", s, "--tag", "selfcheck", "--no-fail"])
+    if code:
+        return None, [f"test set {s} failed to run (exit {code}): {text.splitlines()[-1] if text else ''}"]
+    if not out.exists():
+        return None, [f"test set {s} wrote no results"]
+    try:
+        results = json.loads(out.read_text(encoding="utf-8"))
+        if not isinstance(results, list) or not results:
+            raise ValueError("no cases")
+        [(r["id"], r["notes"], r["gate"]) for r in results]
+    except (ValueError, KeyError, TypeError) as e:
+        return None, [f"test set {s} wrote unreadable results: {e}"]
+    return results, []
 
 
 def main():
@@ -38,8 +62,10 @@ def main():
         if code:
             problems.append(f"{t} failed: {out.splitlines()[-1] if out else code}")
     for s in SETS:
-        code, out = run(["scripts/run_tests.py", "--set", s, "--tag", "selfcheck", "--no-fail"])
-        new = json.loads((ROOT / "tests/results/selfcheck" / f"{s}.json").read_text(encoding="utf-8"))
+        new, errs = run_set(s)
+        if errs:
+            problems += errs
+            continue
         for r in new:
             if any("safety expected" in n or "forbid" in n for n in r["notes"]):
                 problems.append(f"{s} {r['id']}: {'; '.join(r['notes'])}")
@@ -62,8 +88,8 @@ def main():
     print("\n".join(notes))
     if "--accept" in sys.argv and not problems:
         for s in SETS:
-            shutil.copy(ROOT / "tests/results/selfcheck" / f"{s}.json", ROOT / "tests/results/after" / f"{s}.json")
-            shutil.copy(ROOT / "tests/results/selfcheck" / f"{s}_summary.md", ROOT / "tests/results/after" / f"{s}_summary.md")
+            shutil.copy(SELFCHECK / f"{s}.json", ROOT / "tests/results/after" / f"{s}.json")
+            shutil.copy(SELFCHECK / f"{s}_summary.md", ROOT / "tests/results/after" / f"{s}_summary.md")
         print("Accepted this run as the new baseline (tests/results/after/).")
     if problems:
         print("\nSELF-CHECK FAILED:\n- " + "\n- ".join(problems))
