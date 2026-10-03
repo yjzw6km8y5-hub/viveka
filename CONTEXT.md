@@ -52,6 +52,12 @@ Owner decisions are marked as decisions. Reviewer suggestions stay proposals unt
 - Upanishad school notes are mostly Shankara; this must be disclosed.
 - PROJECT_BRIEF.md does not exist yet. Until it does, this file and CLAUDE.md section 10 are the brief.
 
+## Owner decisions, 2026-10-03
+- **Later phase (after the first tests pass):** widen scope to Greek, Roman, Chinese and modern Western philosophy (e.g. Nietzsche), seen as the main paying audience. Public-domain works may be quoted; thinkers under copyright get paraphrased "view" records only. Not now: the first test stays on the current plan.
+- **Now: context first.** Viveka asks follow-up questions about context (who they live with, where they are, constraints) before answering, never up front. The person can say "just answer". Safety help is never delayed by these questions.
+- **Now: visual onboarding in the prototype UI:** a short Big Five questionnaire (public-domain IPIP items, not MBTI or 16Personalities) and a visual life map on Dharma, Artha, Kama and Moksha, with Ikigai as an alternative.
+- **Open (owner decision): where the profile is stored.** Until decided, it stays in the browser for that visit only and is never sent or saved.
+
 ## Review process
 - The build-and-review loop is in PROCESS.md (v3, approved 2026-10-02).
 - Order of authority, highest first: the owner's latest approved decision, DECISIONS.md, CONTEXT.md, PROCESS.md, STATUS.md. PROGRESS.md is history only.

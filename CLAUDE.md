@@ -187,3 +187,9 @@ After each piece of work, update `PROGRESS.md` with what's done and what's next.
   - The product itself learns only from fictional cases, reviews and, after a future owner privacy decision,
     opt-in feedback. No user conversation is ever stored.
 
+## 15. Owner brief (user-approved, 2026-10-03)
+- After every cycle, run `python scripts/brief.py`. It rewrites `claude-chat/BRIEF.md`: current status, % remaining per area,
+  the last 24 hours of the runner log, the interface screen by screen, and links to screenshots in `claude-chat/screenshots/`.
+- Whenever the try-it page changes, update the screen-by-screen text in `scripts/brief.py` and save fresh screenshots to
+  `claude-chat/screenshots/`.
+

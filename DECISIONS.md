@@ -370,3 +370,12 @@ Technical choices made without asking, newest last. Format: date, decision, why.
 - **Visual page (2026-10-03):** short headline, one next step, situation map, urgency 1-10 (rule-based: crisis 10, danger 9, health 7, soon 6, otherwise 3), perspective fit 1-10 (the engine's relative retrieval score, labelled as an estimate), the number of quoted verses reviewed by a Sanskrit reader, and folded details. Why: the owner found the text-heavy page hard to use. Only honest numbers are shown; the observer is asked to check which help and which mislead.
 - **Voice input** uses the browser's own speech recognition. A note on the page says the audio may go to the browser's speech provider. It is fine for the owner's testing; for production it is part of the privacy decision.
 
+## 2026-10-03: Owner decisions (from the owner, in chat)
+- **a. Later phase, after the first tests pass: widen scope to Greek, Roman, Chinese and modern Western philosophy** (e.g. Nietzsche), seen as the main paying audience. Public-domain works may be quoted. Thinkers under copyright get paraphrased "view" records only. **Not now:** the first test stays on the current plan, and the text queue stays paused.
+- **b. Now: ask about context first.** The answer flow asks follow-up questions about context first (who they live with, where they are, constraints), then responds. It never answers up front. The person can say "just answer" to skip.
+  - This supersedes the earlier rule "clarify (at most 1-2 questions, only if they change the advice)".
+  - Builder's safety reading, consistent with the safety rules: for crisis, danger or an eating-risk disclosure, the help lines and protective guidance are shown at once, and the context questions follow. Safety is never delayed behind a questionnaire.
+- **c. Now, in the prototype UI: a short visual onboarding.** It has two parts:
+  - **Personality and outlook:** the Big Five, using public-domain IPIP items, not MBTI or 16Personalities.
+  - **A visual life map:** Dharma, Artha, Kama and Moksha, with Ikigai as an alternative.
+- **d. Open, needs an owner decision: where the profile is stored.** Until then, the builder's interim default follows the no-storage promise: the profile lives in the browser for that visit only, is never sent to any server or provider, and is never saved.
