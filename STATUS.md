@@ -19,6 +19,12 @@ _Item 1 is from PROCESS.md v3 (approved by the owner 2026-10-02). Items 2-3 are 
 3. **Answer the actual decision:** V001 (remarriage under in-laws' pressure) centres grief, not the decision; it also claims the user said "householder" when they did not. V024 (why bad things happen) got a success principle. Label inferred context as inference; add paired cases.
    - **Focused fix implemented 2026-10-02:** V001, V024 and eight paired cases now pass; inferred life stage is explicitly labelled. This does not clear unrelated decision-quality failures in the spent banks.
 
+## Should-fix (from approved reviews)
+- **Source verification after blind scoring** (PROCESS_AGREEMENT_chatgpt.md, approved 2026-10-03): With sources hidden, I cannot verify grounding or whether quotations support the recommendation.
+- **Fresh evaluation versus regression** (PROCESS_AGREEMENT_chatgpt.md, approved 2026-10-03): Explicitly preserve first-run results from fresh, unexposed cases.
+- **Define failure, recovery and monitoring** (PROCESS_AGREEMENT_chatgpt.md, approved 2026-10-03): “Three failed cycles” needs a definition: failed tests, unresolved review findings, stalled work, quota exhaustion and connector outages are different events.
+- **Resolve authority and scope ambiguities** (PROCESS_AGREEMENT_chatgpt.md, approved 2026-10-03): State how approved owner decisions, PROCESS.md, CONTEXT.md, DECISIONS.md and STATUS.md are reconciled when they conflict; do not resolve conflicts merely by ne…
+
 ## Next step
 1. Resume the verse check: `python scripts/verse_check.py run`, then `list` (batches 32-39 remain).
 2. Continue must-fix 1 in small batches: the remaining per-case failures are listed in `tests/results/2026-10-02-guidance-batch.md` (situations 16, held-out v1 5, held-out v2 13). Do not weaken the gate, and do not treat spent-set reruns as fresh evidence; the next unbiased claim needs an independently written held-out set.
