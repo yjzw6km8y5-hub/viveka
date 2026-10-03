@@ -13,13 +13,13 @@
   },
   "total": 12,
   "notes": [],
-  "top": "reflect-then-choose",
-  "raw_top": "reflect-then-choose",
+  "top": "dharmic-desire-is-legitimate",
+  "raw_top": "dharmic-desire-is-legitimate",
   "outcome": "passed first time",
   "safety": null,
   "questions": [],
   "gate": [],
-  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: Reflect fully, then choose for yourself. After teaching everything, Krishna tells Arjuna: 'Reflect on it fully, then do as you choose.' The final decision is the person's own.\n  Why it fits you: For your situation (we inferred the householder stage from 'my husband'; tell us if that is wrong; this involves your husband, in-laws): addresses the kind of problem you describe; echoes your words: someone; fits the householder stage (our inference).\n  In practice: You are deciding whether to remarry. Your in-laws' objection comes from their own grief and is worth hearing, but it does not decide this for you; honouring your husband's memory and building a new life are not opposites. Your in-laws have power over your situation, so plan for how they may react and who could support you. Write the options, what each would cost and give, and what your conscience says. Then decide, and own the decision.\n\nSource text (BG.18.63): \"Thus I have taught you wisdom more secret than all secrets. Reflect on it fully, and then do as you choose.\"\nSource text (BG.6.5): \"Lift yourself up by your own effort, and do not let yourself sink. You alone are your own friend, and you alone are your own enemy.\"\n  Commentator's view - Śaṅkara (Advaita): This most secret knowledge has been told by me, the all-knowing Lord; having reflected on the whole teaching, do as you wish.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): All the knowledge seekers of liberation need, of karma yoga, the path of knowledge and bhakti yoga, has been told; reflecting on it, follow whichever suits your fitness.\n  Commentator's view - Śaṅkara (Advaita): Raise yourself out of the ocean of worldly existence to steadiness in yoga. Even a loving relative can be a tie rather than a help toward liberation, so the self alone is the true friend; and any outside enemy is ultimately of one's own making.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Reads 'self' here as the mind: a mind not attached to sense objects lifts a person up, while an attached mind drags them down. The mind alone is friend or enemy.\n  Commentator's view - Madhva (Dvaita): A brief note: the ascent to yoga has to be made by one's own effort.\n  Commentator's view - Our source has no comment from Madhva (Dvaita) on BG.18.63.\n\nHistorical example (story from the texts): Arjuna's doubts resolve. After the whole dialogue, Krishna tells Arjuna to reflect fully and choose for himself. Arjuna says his delusion is gone, he stands firm, and he will act. Lesson: Good counsel ends by returning the decision to the person; clarity is meant to end in action. Limits: Arjuna's action is going to war; the parallel is only in the structure of deciding after reflection.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Learn by bowing, asking and serving. Knowledge is gained by approaching those who have seen the truth with humility, questions and service; it is not easily understood from an ordinary teacher.\n  Source text (BG.4.34): \"Learn it by bowing down, by asking questions and by serving; the wise who have seen the truth will teach you knowledge.\"\n  When the recommended principle misleads: It is used to dismiss all guidance and tradition as irrelevant.\n\nViveka's application - One next step: Write the options, what each would cost and give, and what your conscience says. Then decide, and own the decision.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
+  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: Desire in harmony with dharma is sacred. Not all desire is to be fought: desire that does not go against dharma is itself divine.\n  Why it fits you: For your situation (we inferred the householder stage from 'my husband'; tell us if that is wrong; this involves your husband, in-laws): addresses the kind of problem you describe; echoes your words: someone; fits the householder stage (our inference).\n  In practice: You are deciding whether to remarry. Your in-laws' objection is worth hearing, but it does not decide this for you; honouring your husband's memory and building a new life are not opposites. If your in-laws have a say over your home, money or safety, plan for how they may react and who could support you. Test a desire: does it harm anyone, break a promise or cost your integrity? If not, you may pursue it with a clear conscience.\n\nSource text (BG.7.11): \"Of the strong, I am the strength that is free of desire and passion; in all beings, I am desire that is not against dharma, best of the Bharatas.\"\n  Commentator's view - Śaṅkara (Advaita): I am the strength free of craving for absent things and passion for present ones, the strength that simply sustains the body, not the strength that feeds the thirst of worldly people.\n  Commentator's view - Our source has no comment from Rāmānuja (Viśiṣṭādvaita) on BG.7.11; Madhva (Dvaita) on BG.7.11.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Unchecked desire is the inner enemy. Desire and anger, born of restlessness, cover wisdom as smoke covers fire; they sit in the senses, mind and intellect, and must be mastered.\n  Source text (BG.3.37): \"It is desire; it is anger, born of the guna of rajas. All-devouring and deeply harmful, know it to be the enemy here.\"\n  When the recommended principle misleads: It is stretched to justify desires that do harm others or betray commitments.\n\nViveka's application - One next step: Test a desire: does it harm anyone, break a promise or cost your integrity? If not, you may pursue it with a clear conscience.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
   "answer": {
    "mode": "internal",
    "question": "My husband died two years ago and I've met someone kind. My in-laws say remarrying would dishonour his memory.",
@@ -64,18 +64,18 @@
    "safety": null,
    "shortlist": [
     {
-     "id": "reflect-then-choose",
-     "score": 16.59,
-     "frame_supported": true
-    },
-    {
      "id": "dharmic-desire-is-legitimate",
-     "score": 13.99,
+     "score": 20.99,
      "frame_supported": true
     },
     {
      "id": "honour-the-grief-first",
      "score": 13.8,
+     "frame_supported": true
+    },
+    {
+     "id": "reflect-then-choose",
+     "score": 12.59,
      "frame_supported": true
     },
     {
@@ -106,21 +106,6 @@
    ],
    "comparison": [
     {
-     "principle": "reflect-then-choose",
-     "name": "Reflect fully, then choose for yourself",
-     "fit": [
-      "addresses the kind of problem you describe",
-      "echoes your words: someone",
-      "fits the householder stage (our inference)"
-     ],
-     "disagrees_with": [
-      "learn-from-those-who-know",
-      "reasoning-alone-is-not-enough"
-     ],
-     "consequence_if_followed": "Someone has gathered advice and must now decide, or is being pressured to decide someone else's way.",
-     "limits": "It is used to dismiss all guidance and tradition as irrelevant."
-    },
-    {
      "principle": "dharmic-desire-is-legitimate",
      "name": "Desire in harmony with dharma is sacred",
      "fit": [
@@ -148,15 +133,30 @@
      ],
      "consequence_if_followed": "Someone is in fresh grief or overwhelmed by feeling; the first need is to be heard, not corrected.",
      "limits": "It is used to stay in despair indefinitely without ever seeking help or perspective."
+    },
+    {
+     "principle": "reflect-then-choose",
+     "name": "Reflect fully, then choose for yourself",
+     "fit": [
+      "addresses the kind of problem you describe",
+      "echoes your words: someone",
+      "fits the householder stage (our inference)"
+     ],
+     "disagrees_with": [
+      "learn-from-those-who-know",
+      "reasoning-alone-is-not-enough"
+     ],
+     "consequence_if_followed": "Someone has gathered advice and must now decide, or is being pressured to decide someone else's way.",
+     "limits": "It is used to dismiss all guidance and tradition as irrelevant."
     }
    ],
    "recommendation": {
     "label": "Viveka's application",
-    "principle": "reflect-then-choose",
-    "name": "Reflect fully, then choose for yourself",
-    "text": "Reflect fully, then choose for yourself. After teaching everything, Krishna tells Arjuna: 'Reflect on it fully, then do as you choose.' The final decision is the person's own.",
+    "principle": "dharmic-desire-is-legitimate",
+    "name": "Desire in harmony with dharma is sacred",
+    "text": "Desire in harmony with dharma is sacred. Not all desire is to be fought: desire that does not go against dharma is itself divine.",
     "why_it_fits_you": "For your situation (we inferred the householder stage from 'my husband'; tell us if that is wrong; this involves your husband, in-laws): addresses the kind of problem you describe; echoes your words: someone; fits the householder stage (our inference).",
-    "application": "You are deciding whether to remarry. Your in-laws' objection comes from their own grief and is worth hearing, but it does not decide this for you; honouring your husband's memory and building a new life are not opposites. Your in-laws have power over your situation, so plan for how they may react and who could support you. Write the options, what each would cost and give, and what your conscience says. Then decide, and own the decision.",
+    "application": "You are deciding whether to remarry. Your in-laws' objection is worth hearing, but it does not decide this for you; honouring your husband's memory and building a new life are not opposites. If your in-laws have a say over your home, money or safety, plan for how they may react and who could support you. Test a desire: does it harm anyone, break a promise or cost your integrity? If not, you may pursue it with a clear conscience.",
     "basis_frames": [
      "remarriage"
     ]
@@ -164,85 +164,41 @@
    "sources": [
     {
      "label": "Source text",
-     "id": "BG.18.63",
-     "english": "Thus I have taught you wisdom more secret than all secrets. Reflect on it fully, and then do as you choose.",
-     "devanagari": "इति ते ज्ञानमाख्यातं गुह्याद्‌गुह्यतरं मया ।\nविमृश्यैतदशेषेण यथेच्छसि तथा कुरु ॥",
-     "review_status": "draft"
-    },
-    {
-     "label": "Source text",
-     "id": "BG.6.5",
-     "english": "Lift yourself up by your own effort, and do not let yourself sink. You alone are your own friend, and you alone are your own enemy.",
-     "devanagari": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत् ।\nआत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः ॥",
+     "id": "BG.7.11",
+     "english": "Of the strong, I am the strength that is free of desire and passion; in all beings, I am desire that is not against dharma, best of the Bharatas.",
+     "devanagari": "बलं बलवतां चाहं कामरागविवर्जितम् ।\nधर्माविरुद्धो भूतेषु कामोऽस्मि भरतर्षभ ॥",
      "review_status": "draft"
     }
    ],
    "commentary": [
     {
      "label": "Commentator's view",
-     "unit": "BG.18.63",
+     "unit": "BG.7.11",
      "school": "advaita",
      "commentator": "Śaṅkara (Advaita)",
-     "note": "This most secret knowledge has been told by me, the all-knowing Lord; having reflected on the whole teaching, do as you wish."
+     "note": "I am the strength free of craving for absent things and passion for present ones, the strength that simply sustains the body, not the strength that feeds the thirst of worldly people."
     },
     {
      "label": "Commentator's view",
-     "unit": "BG.18.63",
-     "school": "vishishtadvaita",
-     "commentator": "Rāmānuja (Viśiṣṭādvaita)",
-     "note": "All the knowledge seekers of liberation need, of karma yoga, the path of knowledge and bhakti yoga, has been told; reflecting on it, follow whichever suits your fitness."
-    },
-    {
-     "label": "Commentator's view",
-     "unit": "BG.6.5",
-     "school": "advaita",
-     "commentator": "Śaṅkara (Advaita)",
-     "note": "Raise yourself out of the ocean of worldly existence to steadiness in yoga. Even a loving relative can be a tie rather than a help toward liberation, so the self alone is the true friend; and any outside enemy is ultimately of one's own making."
-    },
-    {
-     "label": "Commentator's view",
-     "unit": "BG.6.5",
-     "school": "vishishtadvaita",
-     "commentator": "Rāmānuja (Viśiṣṭādvaita)",
-     "note": "Reads 'self' here as the mind: a mind not attached to sense objects lifts a person up, while an attached mind drags them down. The mind alone is friend or enemy."
-    },
-    {
-     "label": "Commentator's view",
-     "unit": "BG.6.5",
-     "school": "dvaita",
-     "commentator": "Madhva (Dvaita)",
-     "note": "A brief note: the ascent to yoga has to be made by one's own effort."
-    },
-    {
-     "label": "Commentator's view",
-     "missing": "Our source has no comment from Madhva (Dvaita) on BG.18.63."
+     "missing": "Our source has no comment from Rāmānuja (Viśiṣṭādvaita) on BG.7.11; Madhva (Dvaita) on BG.7.11."
     }
    ],
-   "example": {
-    "label": "Historical example (story from the texts)",
-    "id": "arjuna-resolves",
-    "title": "Arjuna's doubts resolve",
-    "event": "After the whole dialogue, Krishna tells Arjuna to reflect fully and choose for himself. Arjuna says his delusion is gone, he stands firm, and he will act.",
-    "source": "Bhagavad Gita 18.63, 18.73",
-    "lesson": "Good counsel ends by returning the decision to the person; clarity is meant to end in action.",
-    "limits": "Arjuna's action is going to war; the parallel is only in the structure of deciding after reflection.",
-    "verified": true
-   },
+   "example": null,
    "challenge": {
     "label": "Viveka's application",
-    "principle": "learn-from-those-who-know",
-    "name": "Learn by bowing, asking and serving",
-    "text": "If your conscience leans the other way, here is the other view: Learn by bowing, asking and serving. Knowledge is gained by approaching those who have seen the truth with humility, questions and service; it is not easily understood from an ordinary teacher.",
+    "principle": "desire-as-enemy",
+    "name": "Unchecked desire is the inner enemy",
+    "text": "If your conscience leans the other way, here is the other view: Unchecked desire is the inner enemy. Desire and anger, born of restlessness, cover wisdom as smoke covers fire; they sit in the senses, mind and intellect, and must be mastered.",
     "source": {
      "label": "Source text",
-     "id": "BG.4.34",
-     "english": "Learn it by bowing down, by asking questions and by serving; the wise who have seen the truth will teach you knowledge."
+     "id": "BG.3.37",
+     "english": "It is desire; it is anger, born of the guna of rajas. All-devouring and deeply harmful, know it to be the enemy here."
     },
-    "when_the_recommendation_misleads": "It is used to dismiss all guidance and tradition as irrelevant."
+    "when_the_recommendation_misleads": "It is stretched to justify desires that do harm others or betray commitments."
    },
    "next_step": {
     "label": "Viveka's application",
-    "text": "Write the options, what each would cost and give, and what your conscience says. Then decide, and own the decision."
+    "text": "Test a desire: does it harm anyone, break a promise or cost your integrity? If not, you may pursue it with a clear conscience."
    },
    "safety_footer": {
     "label": "Viveka's application",
@@ -3266,7 +3222,7 @@
   "gate": [
    "top principle delight-in-the-welfare-of-all does not answer the decision"
   ],
-  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: Delight in the welfare of all beings. The sages who reach peace delight in the welfare of all beings; even those who follow the hardest inner path are marked by this.\n  Why it fits you: For your situation (we inferred the householder stage from 'my manager'; tell us if that is wrong; this involves your manager): speaks to pride or comparison; echoes your words: make, other; fits the householder stage (our inference).\n  In practice: Your manager has power over your situation, so plan for how they may react and who could support you. When you hear of someone's success this week, send them a genuine word of congratulation.\n\nSource text (BG.5.25): \"Sages whose wrongs are worn away, whose doubts are cut through, who are self-controlled and delight in the welfare of all beings, attain the peace of Brahman.\"\nSource text (BG.12.4): \"restraining all the senses, even-minded everywhere, delighting in the welfare of all beings, they too reach me.\"\n  Commentator's view - Śaṅkara (Advaita): Renunciants of right vision, sinless and free of doubt, self-restrained and devoted to the good of all beings, which is to say non-violent, attain liberation.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Free of the opposites, minds fixed on the self, devoted to the welfare of all beings as to their own, these seers attain the bliss of Brahman.\n  Commentator's view - Madhva (Dvaita): 'Doubts cut through' means doubt and error removed; he cites a verse that one should cut them with the sword of knowledge.\n  Commentator's view - Śaṅkara (Advaita): Withdrawing the senses, even-minded at gain and loss, devoted to the good of all, they reach me; there is nothing more to say about them, since the wise are my very self (7.18).\n  Commentator's view - Our source has no comment from Rāmānuja (Viśiṣṭādvaita) on BG.12.4; Madhva (Dvaita) on BG.12.4.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Don't work for show. Action or discipline done to gain respect, honour or display is unstable and fleeting.\n  Source text (BG.17.12): \"But sacrifice offered with an eye on the reward, or for the sake of show, best of the Bharatas, know that sacrifice to be rajasic.\"\n  When the recommended principle misleads: It is used to deny one's own needs.\n\nViveka's application - One next step: When you hear of someone's success this week, send them a genuine word of congratulation.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
+  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: Delight in the welfare of all beings. The sages who reach peace delight in the welfare of all beings; even those who follow the hardest inner path are marked by this.\n  Why it fits you: For your situation (we inferred the householder stage from 'my manager'; tell us if that is wrong; this involves your manager): speaks to pride or comparison; echoes your words: make, other; fits the householder stage (our inference).\n  In practice: If your manager has a say over your home, money or safety, plan for how they may react and who could support you. When you hear of someone's success this week, send them a genuine word of congratulation.\n\nSource text (BG.5.25): \"Sages whose wrongs are worn away, whose doubts are cut through, who are self-controlled and delight in the welfare of all beings, attain the peace of Brahman.\"\nSource text (BG.12.4): \"restraining all the senses, even-minded everywhere, delighting in the welfare of all beings, they too reach me.\"\n  Commentator's view - Śaṅkara (Advaita): Renunciants of right vision, sinless and free of doubt, self-restrained and devoted to the good of all beings, which is to say non-violent, attain liberation.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Free of the opposites, minds fixed on the self, devoted to the welfare of all beings as to their own, these seers attain the bliss of Brahman.\n  Commentator's view - Madhva (Dvaita): 'Doubts cut through' means doubt and error removed; he cites a verse that one should cut them with the sword of knowledge.\n  Commentator's view - Śaṅkara (Advaita): Withdrawing the senses, even-minded at gain and loss, devoted to the good of all, they reach me; there is nothing more to say about them, since the wise are my very self (7.18).\n  Commentator's view - Our source has no comment from Rāmānuja (Viśiṣṭādvaita) on BG.12.4; Madhva (Dvaita) on BG.12.4.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Don't work for show. Action or discipline done to gain respect, honour or display is unstable and fleeting.\n  Source text (BG.17.12): \"But sacrifice offered with an eye on the reward, or for the sake of show, best of the Bharatas, know that sacrifice to be rajasic.\"\n  When the recommended principle misleads: It is used to deny one's own needs.\n\nViveka's application - One next step: When you hear of someone's success this week, send them a genuine word of congratulation.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
   "answer": {
    "mode": "internal",
    "question": "My manager makes casteist jokes about me at work and others laugh.",
@@ -3389,7 +3345,7 @@
     "name": "Delight in the welfare of all beings",
     "text": "Delight in the welfare of all beings. The sages who reach peace delight in the welfare of all beings; even those who follow the hardest inner path are marked by this.",
     "why_it_fits_you": "For your situation (we inferred the householder stage from 'my manager'; tell us if that is wrong; this involves your manager): speaks to pride or comparison; echoes your words: make, other; fits the householder stage (our inference).",
-    "application": "Your manager has power over your situation, so plan for how they may react and who could support you. When you hear of someone's success this week, send them a genuine word of congratulation.",
+    "application": "If your manager has a say over your home, money or safety, plan for how they may react and who could support you. When you hear of someone's success this week, send them a genuine word of congratulation.",
     "basis_frames": []
    },
    "sources": [
@@ -3486,7 +3442,7 @@
   "safety": null,
   "questions": [],
   "gate": [],
-  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: Fearlessness is the first of the divine qualities. Fearlessness heads the list of divine qualities; Krishna tells the frightened Arjuna not to be afraid, and the yogi sits calm and fearless.\n  Why it fits you: For your situation (you said you are 17; this involves your parents): addresses the kind of problem you describe; speaks to fear and anxiety; echoes your words: tell.\n  In practice: Your parents have power over your situation, so plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Take one small brave action today that you have been avoiding out of fear.\n\nSource text (BG.16.1): \"Fearlessness, purity of heart, steadfastness in the yoga of knowledge, generosity, self-restraint, sacrifice, study of scripture, austerity, honesty,\"\nSource text (BG.6.14): \"calm and fearless, firm in the vow of celibacy, controlling the mind and thinking of me, one should sit disciplined, intent on me.\"\n  Commentator's view - Śaṅkara (Advaita): Fearlessness is freedom from fear; purity of heart means dealing with others without deceit, trickery or falsehood; steadfastness in knowledge is firm, focused understanding of the self gained from scripture and teacher.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Fear is the distress that comes from seeing a cause of losing the wanted or meeting the unwanted; fearlessness is its absence. Generosity is giving rightly earned wealth to a worthy recipient.\n  Commentator's view - Madhva (Dvaita): This chapter shows what opposes the means to life's goals; 'austerity' here means celibacy and the like.\n  Commentator's view - Śaṅkara (Advaita): Fearless, keeping the student's vow (celibacy, serving the teacher, living on alms), with the mind withdrawn and fixed on me, the Supreme Lord.\n  Commentator's view - Our source has no comment from Rāmānuja (Viśiṣṭādvaita) on BG.6.14; Madhva (Dvaita) on BG.6.14.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Understanding dissolves fear. For one who sees the oneness of all, there is no delusion or grief; one who knows the Self no longer needs to shield themselves.\n  Source text (IsU.7): \"When, for one who knows, all beings have become the Self, what delusion, what grief can there be for one who sees oneness?\"\n  When the recommended principle misleads: It is confused with recklessness, or used to shame someone for normal fear.\n\nViveka's application - One next step: Take one small brave action today that you have been avoiding out of fear.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
+  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: Fearlessness is the first of the divine qualities. Fearlessness heads the list of divine qualities; Krishna tells the frightened Arjuna not to be afraid, and the yogi sits calm and fearless.\n  Why it fits you: For your situation (you said you are 17; this involves your parents): addresses the kind of problem you describe; speaks to fear and anxiety; echoes your words: tell.\n  In practice: If your parents have a say over your home, money or safety, plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Take one small brave action today that you have been avoiding out of fear.\n\nSource text (BG.16.1): \"Fearlessness, purity of heart, steadfastness in the yoga of knowledge, generosity, self-restraint, sacrifice, study of scripture, austerity, honesty,\"\nSource text (BG.6.14): \"calm and fearless, firm in the vow of celibacy, controlling the mind and thinking of me, one should sit disciplined, intent on me.\"\n  Commentator's view - Śaṅkara (Advaita): Fearlessness is freedom from fear; purity of heart means dealing with others without deceit, trickery or falsehood; steadfastness in knowledge is firm, focused understanding of the self gained from scripture and teacher.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Fear is the distress that comes from seeing a cause of losing the wanted or meeting the unwanted; fearlessness is its absence. Generosity is giving rightly earned wealth to a worthy recipient.\n  Commentator's view - Madhva (Dvaita): This chapter shows what opposes the means to life's goals; 'austerity' here means celibacy and the like.\n  Commentator's view - Śaṅkara (Advaita): Fearless, keeping the student's vow (celibacy, serving the teacher, living on alms), with the mind withdrawn and fixed on me, the Supreme Lord.\n  Commentator's view - Our source has no comment from Rāmānuja (Viśiṣṭādvaita) on BG.6.14; Madhva (Dvaita) on BG.6.14.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Understanding dissolves fear. For one who sees the oneness of all, there is no delusion or grief; one who knows the Self no longer needs to shield themselves.\n  Source text (IsU.7): \"When, for one who knows, all beings have become the Self, what delusion, what grief can there be for one who sees oneness?\"\n  When the recommended principle misleads: It is confused with recklessness, or used to shame someone for normal fear.\n\nViveka's application - One next step: Take one small brave action today that you have been avoiding out of fear.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
   "answer": {
    "mode": "internal",
    "question": "I'm 17 and I think I'm gay. I'm scared to tell my parents.",
@@ -3613,7 +3569,7 @@
     "name": "Fearlessness is the first of the divine qualities",
     "text": "Fearlessness is the first of the divine qualities. Fearlessness heads the list of divine qualities; Krishna tells the frightened Arjuna not to be afraid, and the yogi sits calm and fearless.",
     "why_it_fits_you": "For your situation (you said you are 17; this involves your parents): addresses the kind of problem you describe; speaks to fear and anxiety; echoes your words: tell.",
-    "application": "Your parents have power over your situation, so plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Take one small brave action today that you have been avoiding out of fear.",
+    "application": "If your parents have a say over your home, money or safety, plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Take one small brave action today that you have been avoiding out of fear.",
     "basis_frames": [
      "fear_courage"
     ]
@@ -3951,7 +3907,7 @@
   "safety": null,
   "questions": [],
   "gate": [],
-  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: Truth is the home of wisdom. Truthfulness and honesty run through every list of virtues; the Kena says truth is the very home of the highest teaching.\n  Why it fits you: For your situation (you said you are 16; this involves your mother, father): addresses the kind of problem you describe; speaks to a relationship; echoes your words: lie.\n  In practice: Your mother has power over your situation, so plan for how they may react and who could support you. Identify one area where you are not being fully honest, and take one step towards truth there.\n\nSource text (KeU.4.8): \"Austerity, self-control and work are its foundation; the Vedas are all its limbs; truth is its home.\"\nSource text (BG.16.2): \"non-violence, truthfulness, freedom from anger, renunciation, calm, not slandering others, compassion for all beings, freedom from greed, gentleness, modesty and steadiness,\"\n  Commentator's view - Śaṅkara (Advaita): Austerity and the rest purify the mind so that knowledge arises, in this life or past ones; 'and the like' includes humility and the other virtues of Gita 13.7. Truth means absence of deceit in speech, mind and body; knowledge dwells with the honest, not with the deceitful.\n  Commentator's view - Śaṅkara (Advaita): Truth is saying what is so, without unkind falsehood; freedom from anger is calming anger that arises when one is abused or struck; not slandering is not exposing others' faults.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Freedom from anger is having no change of mind that leads to harming others; compassion is being unable to bear the suffering of any being; renunciation is letting go of possessions that work against one's true good.\n  Commentator's view - Madhva (Dvaita): Slander is telling a king or others of faults in order to bring trouble on someone; steadiness is not being fickle.\n  Commentator's view - No commentary by Madhva (Dvaita) or Rāmānuja (Viśiṣṭādvaita) on the Kena Upanishad is in the library yet.\n\nHistorical example (story from the texts): Arjuna asks forgiveness for taking a friend for granted. After seeing Krishna's cosmic form, Arjuna asks forgiveness for every time he spoke carelessly to him as a mere friend, joking or disrespectful, alone or in front of others, asking him to bear with him as a father with a son, a friend with a friend. Lesson: Familiarity can make us careless with those closest to us; a specific, unguarded apology repairs it. Limits: Arjuna's apology is to God revealed; between people, apology should be mutual where both have erred, and no one should be made to grovel.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Own your words and ask forgiveness. After seeing who Krishna truly is, Arjuna asks forgiveness for every careless or disrespectful word, 'as a father bears with a son, a friend with a friend'.\n  Source text (BG.11.41): \"Whatever I said rashly, thinking of you as a friend, \"Hey Krishna! Hey Yadava! Hey friend!\", not knowing this greatness of yours, out of carelessness or out of affection,\"\n  When the recommended principle misleads: It is used to justify brutal honesty that does needless harm, or to demand disclosure that would put someone in danger.\n\nViveka's application - One next step: Identify one area where you are not being fully honest, and take one step towards truth there.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
+  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: Truth is the home of wisdom. Truthfulness and honesty run through every list of virtues; the Kena says truth is the very home of the highest teaching.\n  Why it fits you: For your situation (you said you are 16; this involves your mother, father): addresses the kind of problem you describe; speaks to a relationship; echoes your words: lie.\n  In practice: If your mother has a say over your home, money or safety, plan for how they may react and who could support you. Identify one area where you are not being fully honest, and take one step towards truth there.\n\nSource text (KeU.4.8): \"Austerity, self-control and work are its foundation; the Vedas are all its limbs; truth is its home.\"\nSource text (BG.16.2): \"non-violence, truthfulness, freedom from anger, renunciation, calm, not slandering others, compassion for all beings, freedom from greed, gentleness, modesty and steadiness,\"\n  Commentator's view - Śaṅkara (Advaita): Austerity and the rest purify the mind so that knowledge arises, in this life or past ones; 'and the like' includes humility and the other virtues of Gita 13.7. Truth means absence of deceit in speech, mind and body; knowledge dwells with the honest, not with the deceitful.\n  Commentator's view - Śaṅkara (Advaita): Truth is saying what is so, without unkind falsehood; freedom from anger is calming anger that arises when one is abused or struck; not slandering is not exposing others' faults.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Freedom from anger is having no change of mind that leads to harming others; compassion is being unable to bear the suffering of any being; renunciation is letting go of possessions that work against one's true good.\n  Commentator's view - Madhva (Dvaita): Slander is telling a king or others of faults in order to bring trouble on someone; steadiness is not being fickle.\n  Commentator's view - No commentary by Madhva (Dvaita) or Rāmānuja (Viśiṣṭādvaita) on the Kena Upanishad is in the library yet.\n\nHistorical example (story from the texts): Arjuna asks forgiveness for taking a friend for granted. After seeing Krishna's cosmic form, Arjuna asks forgiveness for every time he spoke carelessly to him as a mere friend, joking or disrespectful, alone or in front of others, asking him to bear with him as a father with a son, a friend with a friend. Lesson: Familiarity can make us careless with those closest to us; a specific, unguarded apology repairs it. Limits: Arjuna's apology is to God revealed; between people, apology should be mutual where both have erred, and no one should be made to grovel.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Own your words and ask forgiveness. After seeing who Krishna truly is, Arjuna asks forgiveness for every careless or disrespectful word, 'as a father bears with a son, a friend with a friend'.\n  Source text (BG.11.41): \"Whatever I said rashly, thinking of you as a friend, \"Hey Krishna! Hey Yadava! Hey friend!\", not knowing this greatness of yours, out of carelessness or out of affection,\"\n  When the recommended principle misleads: It is used to justify brutal honesty that does needless harm, or to demand disclosure that would put someone in danger.\n\nViveka's application - One next step: Identify one area where you are not being fully honest, and take one step towards truth there.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
   "answer": {
    "mode": "internal",
    "question": "I'm 16 and my mother asked me to lie to my father about where she goes.",
@@ -4080,7 +4036,7 @@
     "name": "Truth is the home of wisdom",
     "text": "Truth is the home of wisdom. Truthfulness and honesty run through every list of virtues; the Kena says truth is the very home of the highest teaching.",
     "why_it_fits_you": "For your situation (you said you are 16; this involves your mother, father): addresses the kind of problem you describe; speaks to a relationship; echoes your words: lie.",
-    "application": "Your mother has power over your situation, so plan for how they may react and who could support you. Identify one area where you are not being fully honest, and take one step towards truth there.",
+    "application": "If your mother has a say over your home, money or safety, plan for how they may react and who could support you. Identify one area where you are not being fully honest, and take one step towards truth there.",
     "basis_frames": [
      "honesty"
     ]
@@ -4855,7 +4811,7 @@
   "safety": null,
   "questions": [],
   "gate": [],
-  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: Free of envy. Freedom from envy and malice marks the steady person; the rajasic mind sees everyone as separate and competing.\n  Why it fits you: For your situation (you said you are 13; this involves your parents): addresses the kind of problem you describe; speaks to a relationship, pride or comparison.\n  In practice: Your parents have power over your situation, so plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Mute or step back from one source of constant comparison for a week, and see how you feel.\n\nSource text (BG.4.22): \"Content with whatever comes unsought, beyond the pairs of opposites, free of envy, the same in success and failure, such a person is not bound even when acting.\"\nSource text (BG.16.3): \"vigour, forgiveness, fortitude, purity, freedom from malice and from excessive pride: these belong to one born to the divine nature, Arjuna.\"\n  Commentator's view - Śaṅkara (Advaita): Content with what comes unasked, unshaken by heat and cold, without enmity, and even-minded whether food comes or not, such a renunciant is not bound.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Content with what comes to sustain the body, bearing heat and cold, without resentment towards others since misfortune comes from one's own karma, and even in victory or defeat, one is not bound even without the path of knowledge.\n  Commentator's view - Madhva (Dvaita): These are the marks of one whose mind is controlled.\n  Commentator's view - Śaṅkara (Advaita): Forgiveness is no inner disturbance arising when one is abused or struck, whereas freedom from anger is calming it once it has arisen; fortitude is what lifts body and senses when they sink.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Forgiveness is a mind unchanged towards others even when they cause one pain; fortitude is holding to what must be done even in great adversity.\n  Commentator's view - Madhva (Dvaita): Forgiveness is not harming one who has harmed you, together with freedom from anger.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Delight in the welfare of all beings. The sages who reach peace delight in the welfare of all beings; even those who follow the hardest inner path are marked by this.\n  Source text (BG.5.25): \"Sages whose wrongs are worn away, whose doubts are cut through, who are self-controlled and delight in the welfare of all beings, attain the peace of Brahman.\"\n  When the recommended principle misleads: It is used to dismiss real unfairness behind someone's feeling of envy.\n\nViveka's application - One next step: Mute or step back from one source of constant comparison for a week, and see how you feel.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
+  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: Free of envy. Freedom from envy and malice marks the steady person; the rajasic mind sees everyone as separate and competing.\n  Why it fits you: For your situation (you said you are 13; this involves your parents): addresses the kind of problem you describe; speaks to a relationship, pride or comparison.\n  In practice: If your parents have a say over your home, money or safety, plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Mute or step back from one source of constant comparison for a week, and see how you feel.\n\nSource text (BG.4.22): \"Content with whatever comes unsought, beyond the pairs of opposites, free of envy, the same in success and failure, such a person is not bound even when acting.\"\nSource text (BG.16.3): \"vigour, forgiveness, fortitude, purity, freedom from malice and from excessive pride: these belong to one born to the divine nature, Arjuna.\"\n  Commentator's view - Śaṅkara (Advaita): Content with what comes unasked, unshaken by heat and cold, without enmity, and even-minded whether food comes or not, such a renunciant is not bound.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Content with what comes to sustain the body, bearing heat and cold, without resentment towards others since misfortune comes from one's own karma, and even in victory or defeat, one is not bound even without the path of knowledge.\n  Commentator's view - Madhva (Dvaita): These are the marks of one whose mind is controlled.\n  Commentator's view - Śaṅkara (Advaita): Forgiveness is no inner disturbance arising when one is abused or struck, whereas freedom from anger is calming it once it has arisen; fortitude is what lifts body and senses when they sink.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Forgiveness is a mind unchanged towards others even when they cause one pain; fortitude is holding to what must be done even in great adversity.\n  Commentator's view - Madhva (Dvaita): Forgiveness is not harming one who has harmed you, together with freedom from anger.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Delight in the welfare of all beings. The sages who reach peace delight in the welfare of all beings; even those who follow the hardest inner path are marked by this.\n  Source text (BG.5.25): \"Sages whose wrongs are worn away, whose doubts are cut through, who are self-controlled and delight in the welfare of all beings, attain the peace of Brahman.\"\n  When the recommended principle misleads: It is used to dismiss real unfairness behind someone's feeling of envy.\n\nViveka's application - One next step: Mute or step back from one source of constant comparison for a week, and see how you feel.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
   "answer": {
    "mode": "internal",
    "question": "I'm 13 and my parents compare me to my cousin all the time.",
@@ -4981,7 +4937,7 @@
     "name": "Free of envy",
     "text": "Free of envy. Freedom from envy and malice marks the steady person; the rajasic mind sees everyone as separate and competing.",
     "why_it_fits_you": "For your situation (you said you are 13; this involves your parents): addresses the kind of problem you describe; speaks to a relationship, pride or comparison.",
-    "application": "Your parents have power over your situation, so plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Mute or step back from one source of constant comparison for a week, and see how you feel.",
+    "application": "If your parents have a say over your home, money or safety, plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Mute or step back from one source of constant comparison for a week, and see how you feel.",
     "basis_frames": [
      "envy"
     ]
@@ -6215,7 +6171,7 @@
   "safety": "support",
   "questions": [],
   "gate": [],
-  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application: It sounds like you are carrying a lot. If this heaviness has lasted a while, talking to someone trained to help can make a real difference; it is a sign of strength, not weakness.\n  - Emergency (police, fire, ambulance): 112 (IN)\n  - Tele-MANAS national mental health helpline (24/7, free, 20+ languages): 14416 or 1-800-891-4416 (IN)\n\nViveka's application: Eating less and less, or making yourself sick, to change your body can seriously harm your health, especially while you are still growing, even when other people say you look great. You don't have to sort this out alone. This week, tell a trusted adult who is safe for you what you told me, and ask them to help you see a doctor. It does not have to be a parent: a school counsellor, teacher, relative or family doctor all count. If you feel faint or dizzy, or your heart races or skips, get medical help today.\n  - Tele-MANAS national mental health helpline (24/7, free, 20+ languages): 14416 or 1-800-891-4416 (IN)\n  - Childline (children in need of help): 1098 (IN)\n  - 988 Suicide & Crisis Lifeline (call or text, 24/7): 988 (US)\n\nViveka's application - Recommendation: When you are lost, say so and ask. Arjuna's turning point comes when he admits his mind is confused about what is right and asks for clear guidance; learning begins with that admission.\n  Why it fits you: For your situation (you said you are 16): addresses the kind of problem you describe; echoes your words: say.\n  In practice: Write one honest sentence that starts 'I don't know how to…' and send it to one person who might help.\n\nSource text (BG.2.7): \"My nature is overcome by a pitiful weakness, and my mind is confused about what is right. I ask you: tell me clearly what is better. I am your student; I have come to you for refuge. Teach me.\"\nSource text (BG.4.34): \"Learn it by bowing down, by asking questions and by serving; the wise who have seen the truth will teach you knowledge.\"\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Summarises 2.6-2.8: Arjuna reasons that being killed by the Kauravas would be better than an unrighteous victory; then, utterly helpless, he takes refuge at Krishna's feet and asks, as his disciple, to be told what is truly good for him.\n  Commentator's view - Śaṅkara (Advaita): Approach teachers with full prostration, with questions about bondage, liberation, knowledge and ignorance, and with service; won over by such humility, they will teach you.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Though I have taught you about the self (2.17-2.39), in time learn it more clearly from the wise, through humility, questions and service.\n  Commentator's view - Madhva (Dvaita): Arjuna already has knowledge; delusion has only overpowered it.\n  Commentator's view - Our source has no comment from Śaṅkara (Advaita) on BG.2.7; Madhva (Dvaita) on BG.2.7.\n\nHistorical example (story from the texts): Arjuna lays down his bow. On the eve of battle, Arjuna sees teachers and relatives on the other side, is overcome with grief and pity, trembles, drops his bow and refuses to act. He tells Krishna his mind is confused about what is right and asks to be taught. Lesson: When duties collide, the paralysis and grief are real and are described in full; the turning point is admitting confusion and asking for help. Limits: Arjuna's dilemma is about fighting a war as a warrior. It is never an argument for violence, and most modern dilemmas have options he did not have, such as delay, mediation or leaving.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Discipline is not self-torture. Harsh austerities that torment the body, done from obstinacy or ego, or to harm another, are condemned; discipline should serve life.\n  Source text (BG.6.16): \"Yoga is not for one who eats too much, nor for one who does not eat at all; not for one who sleeps too much, Arjuna, nor for one who stays awake too long.\"\n  When the recommended principle misleads: It is used to make someone dependent on a single authority, or to hand over their judgement entirely.\n\nViveka's application - One next step: This week, tell one trusted adult who is safe for you how you have been eating, and ask them to help you book a doctor's appointment.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
+  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application: It sounds like you are carrying a lot. If this heaviness has lasted a while, talking to someone trained to help can make a real difference; it is a sign of strength, not weakness.\n  - Emergency (police, fire, ambulance): 112 (IN)\n  - Tele-MANAS national mental health helpline (24/7, free, 20+ languages): 14416 or 1-800-891-4416 (IN)\n\nViveka's application: Eating less and less, or making yourself sick, to change your body can seriously harm your health, especially while you are still growing, even when other people say you look great. You don't have to sort this out alone. Today or tomorrow, tell a trusted adult who is safe for you what you told me, and ask them to help you see a doctor soon. It does not have to be a parent: a school counsellor, teacher, relative or family doctor all count. If you feel faint or dizzy, or your heart races or skips, get medical help today.\n  - Tele-MANAS national mental health helpline (24/7, free, 20+ languages): 14416 or 1-800-891-4416 (IN)\n  - Childline (children in need of help): 1098 (IN)\n  - 988 Suicide & Crisis Lifeline (call or text, 24/7): 988 (US)\n\nViveka's application - Recommendation: When you are lost, say so and ask. Arjuna's turning point comes when he admits his mind is confused about what is right and asks for clear guidance; learning begins with that admission.\n  Why it fits you: For your situation (you said you are 16): addresses the kind of problem you describe; echoes your words: say.\n  In practice: Write one honest sentence that starts 'I don't know how to…' and send it to one person who might help.\n\nSource text (BG.2.7): \"My nature is overcome by a pitiful weakness, and my mind is confused about what is right. I ask you: tell me clearly what is better. I am your student; I have come to you for refuge. Teach me.\"\nSource text (BG.4.34): \"Learn it by bowing down, by asking questions and by serving; the wise who have seen the truth will teach you knowledge.\"\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Summarises 2.6-2.8: Arjuna reasons that being killed by the Kauravas would be better than an unrighteous victory; then, utterly helpless, he takes refuge at Krishna's feet and asks, as his disciple, to be told what is truly good for him.\n  Commentator's view - Śaṅkara (Advaita): Approach teachers with full prostration, with questions about bondage, liberation, knowledge and ignorance, and with service; won over by such humility, they will teach you.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Though I have taught you about the self (2.17-2.39), in time learn it more clearly from the wise, through humility, questions and service.\n  Commentator's view - Madhva (Dvaita): Arjuna already has knowledge; delusion has only overpowered it.\n  Commentator's view - Our source has no comment from Śaṅkara (Advaita) on BG.2.7; Madhva (Dvaita) on BG.2.7.\n\nHistorical example (story from the texts): Arjuna lays down his bow. On the eve of battle, Arjuna sees teachers and relatives on the other side, is overcome with grief and pity, trembles, drops his bow and refuses to act. He tells Krishna his mind is confused about what is right and asks to be taught. Lesson: When duties collide, the paralysis and grief are real and are described in full; the turning point is admitting confusion and asking for help. Limits: Arjuna's dilemma is about fighting a war as a warrior. It is never an argument for violence, and most modern dilemmas have options he did not have, such as delay, mediation or leaving.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Discipline is not self-torture. Harsh austerities that torment the body, done from obstinacy or ego, or to harm another, are condemned; discipline should serve life.\n  Source text (BG.6.16): \"Yoga is not for one who eats too much, nor for one who does not eat at all; not for one who sleeps too much, Arjuna, nor for one who stays awake too long.\"\n  When the recommended principle misleads: It is used to make someone dependent on a single authority, or to hand over their judgement entirely.\n\nViveka's application - One next step: Today or tomorrow, tell one trusted adult who is safe for you how you have been eating, and ask them to help you see a doctor soon.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
   "answer": {
    "mode": "internal",
    "question": "I'm 16 and I've stopped eating properly because I want to be thinner. My friends say I look great.",
@@ -6255,8 +6211,8 @@
    "protective": {
     "label": "Viveka's application",
     "need": "eating",
-    "text": "Eating less and less, or making yourself sick, to change your body can seriously harm your health, especially while you are still growing, even when other people say you look great. You don't have to sort this out alone. This week, tell a trusted adult who is safe for you what you told me, and ask them to help you see a doctor. It does not have to be a parent: a school counsellor, teacher, relative or family doctor all count. If you feel faint or dizzy, or your heart races or skips, get medical help today.",
-    "next_step": "This week, tell one trusted adult who is safe for you how you have been eating, and ask them to help you book a doctor's appointment.",
+    "text": "Eating less and less, or making yourself sick, to change your body can seriously harm your health, especially while you are still growing, even when other people say you look great. You don't have to sort this out alone. Today or tomorrow, tell a trusted adult who is safe for you what you told me, and ask them to help you see a doctor soon. It does not have to be a parent: a school counsellor, teacher, relative or family doctor all count. If you feel faint or dizzy, or your heart races or skips, get medical help today.",
+    "next_step": "Today or tomorrow, tell one trusted adult who is safe for you how you have been eating, and ask them to help you see a doctor soon.",
     "help": [
      {
       "region": "IN",
@@ -6457,7 +6413,7 @@
    },
    "next_step": {
     "label": "Viveka's application",
-    "text": "This week, tell one trusted adult who is safe for you how you have been eating, and ask them to help you book a doctor's appointment."
+    "text": "Today or tomorrow, tell one trusted adult who is safe for you how you have been eating, and ask them to help you see a doctor soon."
    },
    "safety_footer": {
     "label": "Viveka's application",

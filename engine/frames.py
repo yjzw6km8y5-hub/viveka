@@ -207,6 +207,11 @@ FRAMES = {
          r"\bwhy do (?:cruel|bad|evil|dishonest) people\b", r"\bif karma is real\b"],
         ["persist-in-the-real-question", "humility-before-the-unknown", "bear-what-comes-and-goes", "impermanence",
          "feel-others-pain-as-your-own", "not-the-sole-doer"]),
+    "karma_blame": (
+        [r"\b(?:because of|due to) (?:my |his |her |their |bad |past )?karma\b", r"\bkarma from (?:a |my )?past li(?:fe|ves)\b",
+         r"\bpast[- ]life karma\b", r"\b(?:punishment|punished) for (?:a |my |something in a )?past li(?:fe|ves)\b",
+         r"\bis (?:it|this|that) (?:my )?karma\b", r"\bmy karma\b[^.?!]{0,30}\b(?:deaf|blind|disab|ill|sick|born)\b"],
+        ["equal-dignity", "humility-before-the-unknown", "more-than-body-and-roles", "same-regard-for-all"]),
     "family_shame": (
         [r"\bin jail\b", r"\bin prison\b", r"\barrested\b", r"\bconvicted\b", r"\bfamily (?:is )?ashamed\b",
          r"\bdisgrace(?:d)? (?:the|our) family\b"],
@@ -287,12 +292,15 @@ PRIMARY = {"decision": 1.4, "danger": 2.0, "fatalism": 1.4, "burnout": 1.3, "dea
            "parent_child": 1.3, "existential": 1.4, "unappreciated": 1.4, "selfishness": 1.4, "worry_control": 1.3,
            "criticised": 1.3, "family_rift": 1.3, "managing": 1.3, "relapse": 1.5, "spending": 1.4, "health_limits": 1.3, "prejudice": 1.4,
            "violence_justification": 2.0, "parting": 1.2, "distress": 1.6,
-           "eating": 2.4, "remarriage": 1.6, "why_suffering": 1.5}
+           "eating": 2.4, "remarriage": 1.6, "why_suffering": 1.5,
+           "karma_blame": 1.8}
 # Principles that must not be offered when a frame is present (they would serve the wrong party).
 FRAME_EXCLUDE = {"eating": {"honour-the-grief-first", "desire-as-enemy", "fortitude-that-holds", "guard-the-senses",
                             "food-shapes-mind", "dont-quit-because-its-hard", "steady-practice", "mental-discipline",
                             "withstand-the-surge", "contact-pleasures-end", "pleasant-versus-good"},
                  "fatalism": {"effort-over-fate"},
+                 "karma_blame": {"fate-decides", "nature-and-the-inner-controller", "your-nature-shapes-you",
+                                 "three-gunas-awareness"},
                  "remarriage": {"full-renunciation-path", "keep-your-word", "seek-a-parents-peace", "fortitude-that-holds"},
                  "why_suffering": {"fate-decides", "nature-and-the-inner-controller", "your-nature-shapes-you",
                                    "credit-is-not-yours-alone", "three-gunas-awareness"},

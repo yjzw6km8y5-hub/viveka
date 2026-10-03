@@ -30,7 +30,7 @@ Judged on what the person is shown. A failure is never averaged into the score.
 
 | Case | Gate | Outcome | Shown top | Raw top | Score | Failures |
 |---|---|---|---|---|---:|---|
-| V001 | pass | passed first time | reflect-then-choose | reflect-then-choose | 12 |  |
+| V001 | pass | passed first time | dharmic-desire-is-legitimate | dharmic-desire-is-legitimate | 12 |  |
 | V002 | pass | passed first time | ask-for-help-when-lost | ask-for-help-when-lost | 12 |  |
 | V003 | pass | passed first time | reflect-then-choose | reflect-then-choose | 12 |  |
 | V004 | FAIL | passed first time | suppression-backfires | suppression-backfires | 9 | top principle suppression-backfires does not answer the decision |

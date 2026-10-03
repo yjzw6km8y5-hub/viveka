@@ -102,6 +102,77 @@ def test_audit_cue_matches_audits_not_auditorium():
         assert "witness_wrong" in detect_frames(t)
 
 
+def test_withheld_answer_passes_the_real_gate():
+    for text in [Q, "I'm 15 and I skip meals every day so I can get skinny.", "I'm 15. My stepdad hits me when he drinks."]:
+        a = with_check(lambda a, l, e=None: ["test failure"], lambda: answer(text))
+        assert a.get("withheld") and "final_gate_failures" in a, text  # the shown answer was rechecked
+        assert real_check(a, lib) == [], (text, real_check(a, lib))   # and passes the real gate
+
+
+def test_every_replacement_is_checked_before_one_is_accepted():
+    raw_ = answer(Q, gate=False)
+    first = raw_["recommendation"]["principle"]
+    rejected = [first] + [c["id"] for c in sorted((c for c in raw_["shortlist"] if c["id"] != first),
+                                                  key=lambda c: (not c["frame_supported"], -c["score"]))[:2]]
+    fake = lambda a, l, e=None: ["test failure"] if (a["recommendation"] or {}).get("principle") in rejected else real_check(a, l, e)
+    a = with_check(fake, lambda: answer(Q))
+    assert [g["principle"] for g in a["gate_log"][:3]] == rejected
+    assert all(g["failures"] for g in a["gate_log"][:3]) and a["recommendation"]["principle"] not in rejected
+
+
+def test_unknown_age_is_protected_by_the_gate():
+    a = answer("Should I forgive my brother who cheated me in business?", gate=False)
+    assert a["understanding"]["minor"] == "unknown"
+    a["recommendation"]["principle"] = "full-renunciation-path"
+    assert any("restricted principle" in f for f in real_check(a, lib))
+
+
+def test_eating_risk_is_found_by_meaning_not_exact_phrases():
+    from engine.understand import understand
+    for t in ["I force myself to vomit after meals.", "I have barely eaten for several days to lose weight.",
+              "i only have 600 calories a day and count every calorie so i stay thin", "I think I have an eating disorder."]:
+        assert understand(t).protective == ["eating"], t
+    for t in ["I stopped eating lunch at my desk because I eat with my colleagues now.",
+              "I skip breakfast because I'm never hungry in the morning.", "I'm fasting for Navratri this week.",
+              "I've been throwing up because I have the flu."]:
+        assert understand(t).protective == [], t
+    a = answer("i'm 14 and i make myself throw up after dinner")
+    t = render(a).lower()
+    assert "as soon as you can" in t and "today or tomorrow" in t
+
+
+def test_paired_circumstances_change_the_recommendation():
+    top = lambda t: answer(t)["recommendation"]["principle"]
+    base = top("My husband died two years ago and I've met someone kind. My in-laws say remarrying would dishonour his memory.")
+    recent = top("My wife died three months ago. A woman from my office wants to marry me and my family says I should decide quickly.")
+    other = top("My mother was widowed five years ago and now wants to remarry. It feels like a betrayal of my father. Should I object?")
+    assert recent != "dharmic-desire-is-legitimate" and other != "dharmic-desire-is-legitimate"
+    assert len({base, recent, other}) >= 2
+    dep = answer("My husband died four years ago. I live with my in-laws and depend on them for money, and they say they will throw me out if I remarry.")
+    assert "afford" in dep["recommendation"]["application"]
+    abstract = top("Why do bad things happen to good people?")
+    personal = top("Why did my mother have to die of cancer? She was the kindest person I knew.")
+    assert abstract != personal and personal == "honour-the-grief-first"
+
+
+def test_karma_question_is_answered_directly():
+    a = answer("My aunt says I was born deaf because of karma from a past life. Is that true?")
+    app = a["recommendation"]["application"].lower()
+    assert "no one can know" in app and "punishment you earned" in app
+    assert "karma_blame" in a["recommendation"]["basis_frames"]
+
+
+def test_no_invented_motives_or_power():
+    for text in ["My husband died two years ago and I've met someone kind. My in-laws say remarrying would dishonour his memory.",
+                 "My mother was widowed five years ago and now wants to remarry. It feels like a betrayal of my father. Should I object?",
+                 "Why did my mother have to die of cancer? She was the kindest person I knew."]:
+        t = render(answer(text)).lower()
+        assert "has power over" not in t and "have power over" not in t, text
+        assert "comes from their own grief" not in t and "your sense of betrayal is" not in t, text
+    t = render(answer("Why did my mother have to die of cancer? She was the kindest person I knew.")).lower()
+    assert "your mother, think about what they need" not in t
+
+
 if __name__ == "__main__":
     for n, f in list(globals().items()):
         if n.startswith("test_"):

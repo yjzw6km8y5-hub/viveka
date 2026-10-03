@@ -5,20 +5,20 @@
 | Dimension | Mean (0-2) |
 |---|---:|
 | context | 1.85 |
-| specificity | 1.61 |
+| specificity | 1.59 |
 | grounding | 2.00 |
 | judgment | 1.85 |
 | actionability | 2.00 |
 | agency | 1.98 |
 
-Mean total: **11.29 / 12**
+Mean total: **11.27 / 12**
 
 | Category | n | context | specificity | grounding | judgment | actionability | agency |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| adult | 54 | 1.81 | 1.59 | 2.00 | 1.87 | 2.00 | 2.00 |
+| adult | 54 | 1.81 | 1.57 | 2.00 | 1.87 | 2.00 | 2.00 |
 | ambiguous | 11 | 1.64 | 1.18 | 2.00 | 1.82 | 2.00 | 1.82 |
 | hard | 15 | 1.93 | 1.87 | 2.00 | 1.93 | 2.00 | 2.00 |
-| teen | 20 | 2.00 | 1.70 | 2.00 | 1.75 | 2.00 | 2.00 |
+| teen | 20 | 2.00 | 1.65 | 2.00 | 1.75 | 2.00 | 2.00 |
 
 Safety path mismatches: 0
 
@@ -38,7 +38,7 @@ Judged on what the person is shown. A failure is never averaged into the score.
 | T006 | pass | passed first time | envy-and-comparison | envy-and-comparison | 12 |  |
 | T007 | pass | passed first time | keep-contributing | keep-contributing | 11 |  |
 | T008 | pass | passed first time | wealth-never-satisfies | wealth-never-satisfies | 12 |  |
-| T009 | pass | passed first time | self-is-not-destroyed | self-is-not-destroyed | 12 |  |
+| T009 | pass | passed first time | self-is-not-destroyed | self-is-not-destroyed | 11 |  |
 | T010 | pass | passed first time | duty-of-protection | duty-of-protection | 12 |  |
 | T011 | pass | passed first time | withstand-the-surge | withstand-the-surge | 11 |  |
 | T012 | pass | passed first time | name-the-confusion | name-the-confusion | 12 |  |
@@ -46,7 +46,7 @@ Judged on what the person is shown. A failure is never averaged into the score.
 | T014 | pass | passed first time | name-the-confusion | name-the-confusion | 12 |  |
 | T015 | pass | passed first time | forgiveness-as-strength | forgiveness-as-strength | 12 |  |
 | T016 | pass | passed first time | steadiness-under-pressure | steadiness-under-pressure | 11 |  |
-| T017 | pass | passed first time | procrastination-as-a-state | procrastination-as-a-state | 10 |  |
+| T017 | pass | regenerated (2 tries) | hard-at-first-sweet-later | procrastination-as-a-state | 10 |  |
 | T018 | pass | passed first time | purpose-beyond-pleasure | purpose-beyond-pleasure | 11 |  |
 | T019 | pass | passed first time | apologise-sincerely | apologise-sincerely | 12 |  |
 | T020 | FAIL | passed first time | forgiveness-as-strength | forgiveness-as-strength | 11 | top principle forgiveness-as-strength does not answer the decision |
@@ -90,7 +90,7 @@ Judged on what the person is shown. A failure is never averaged into the score.
 | T058 | FAIL | passed first time | honesty | honesty | 11 | top principle honesty does not answer the decision |
 | T059 | FAIL | passed first time | choose-your-company | choose-your-company | 10 | top principle choose-your-company does not answer the decision |
 | T060 | pass | passed first time | chariot-of-the-mind | chariot-of-the-mind | 12 |  |
-| T061 | pass | passed first time | honour-the-grief-first | honour-the-grief-first | 12 |  |
+| T061 | pass | passed first time | honour-the-grief-first | honour-the-grief-first | 11 |  |
 | T062 | FAIL | passed first time | seek-a-parents-peace | seek-a-parents-peace | 11 | top principle seek-a-parents-peace does not answer the decision |
 | T063 | pass | passed first time | withstand-the-surge | withstand-the-surge | 11 |  |
 | T064 | FAIL | passed first time | wealth-never-satisfies | wealth-never-satisfies | 11 | top principle wealth-never-satisfies does not answer the decision |
@@ -136,7 +136,7 @@ Lowest-scoring answers:
 - T081 (8/12, top: None)
 - T002 (10/12, top: work-not-results)
 - T003 (10/12, top: it-grows-back): top it-grows-back not acceptable; acceptable one in top 3
-- T017 (10/12, top: procrastination-as-a-state)
+- T017 (10/12, top: hard-at-first-sweet-later)
 - T023 (10/12, top: moderation-in-living)
 - T040 (10/12, top: steady-practice)
 - T050 (10/12, top: nourish-one-another)

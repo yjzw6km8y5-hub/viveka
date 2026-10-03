@@ -207,11 +207,11 @@ def context_adjustments(sit, frames, excluded):
             excluded.add("dharmic-desire-is-legitimate")
         if OTHER_PERSON_REMARRYING.search(low):
             # Someone else is remarrying: their path, not the user's desire.
-            extra.update({"respect-different-paths": 8.0, "loving-without-clinging": 5.0, "own-path-over-imitation": 3.0})
+            extra.update({"respect-different-paths": 14.0, "loving-without-clinging": 6.0, "own-path-over-imitation": 3.0})
             excluded.add("dharmic-desire-is-legitimate")
         elif sit.months_since_loss is None or sit.months_since_loss >= 12:
             # Time has passed and the question is the decision itself: answer it; grief can be the other view.
-            extra.update({"reflect-then-choose": 6.0, "dharmic-desire-is-legitimate": 5.0})
+            extra.update({"dharmic-desire-is-legitimate": 12.0, "reflect-then-choose": 2.0})
     if "why_suffering" in frames and "grief" in frames:
         extra["honour-the-grief-first"] = extra.get("honour-the-grief-first", 0) + 9.0  # a personal loss: grief first
     return extra
@@ -302,6 +302,13 @@ SAFETY_PLAN = ("Your safety comes first. Quietly prepare: keep your ID, importan
                "does not have to trap you.")
 
 
+def died(person, text):
+    """True when the person is the one who died ('my mother died', 'did my mother have to die', 'his memory')."""
+    t = text.lower()
+    return bool(re.search(rf"\b{re.escape(person)}\b[^.?!]{{0,40}}\b(?:died|die|dying|passed away)\b", t) or
+                re.search(rf"\b(?:widowed|lost my|death of my)\b[^.?!]{{0,10}}\b{re.escape(person)}\b", t))
+
+
 def tailor(p, sit):
     """Viveka's application: the principle's modern application, fitted to what the person said."""
     if sit.danger:
@@ -314,12 +321,15 @@ def tailor(p, sit):
         parts.append(f"Part of this ('{c['irreversible'][0]}') is hard to undo, so take the reversible steps first.")
     if c["urgency"]:
         parts.append(f"You mention a time limit ('{c['urgency'][0]}'); decide what must be settled by then and what can wait.")
-    if c["power_imbalance"]:
-        who = c['power_imbalance'][0]
+    living = [x for x in sit.people if not died(x, sit.text)]
+    holders = [x for x in c["power_imbalance"] if x in living]
+    if holders:
+        who = holders[0]
         verb = "have" if who.endswith("s") and who != "boss" else "has"
-        parts.append(f"Your {who} {verb} power over your situation, so plan for how they may react and who could support you.")
-    elif sit.people:
-        parts.append(f"Since this involves your {sit.people[0]}, think about what they need as well as what you need.")
+        # Conditional: the person did not say this, so it is not asserted.
+        parts.append(f"If your {who} {verb} a say over your home, money or safety, plan for how they may react and who could support you.")
+    elif living:
+        parts.append(f"Since this involves your {living[0]}, think about what they need as well as what you need.")
     if c["dependency"] or c["money"]:
         parts.append("Because money or dependency is involved, check what you can afford and secure that before any big move.")
     parts.append(p["modern_application"])
@@ -330,21 +340,23 @@ PROTECTIVE = {
     "eating": {
         "minor": ("Eating less and less, or making yourself sick, to change your body can seriously harm your health, "
                   "especially while you are still growing, even when other people say you look great. You don't have to "
-                  "sort this out alone. This week, tell a trusted adult who is safe for you what you told me, and ask them "
-                  "to help you see a doctor. It does not have to be a parent: a school counsellor, teacher, relative or "
-                  "family doctor all count. If you feel faint or dizzy, or your heart races or skips, get medical help today."),
+                  "sort this out alone. Today or tomorrow, tell a trusted adult who is safe for you what you told me, and ask "
+                  "them to help you see a doctor soon. It does not have to be a parent: a school counsellor, teacher, relative "
+                  "or family doctor all count. If you feel faint or dizzy, or your heart races or skips, get medical help today."),
         "unknown": ("Restricting food or making yourself sick to change your body can seriously harm your health, even when "
                     "other people praise the weight loss. Please see a doctor soon and tell them what you told me. If you are "
-                    "under 18, also tell a trusted adult who is safe for you. If you feel faint or dizzy, or your heart races "
-                    "or skips, get medical help today."),
+                    "under 18, also tell a trusted adult who is safe for you today or tomorrow. If you feel faint or dizzy, or "
+                    "your heart races or skips, get medical help today."),
         "adult": ("Restricting food or making yourself sick to change your body can seriously harm your health, even when you "
                   "feel in control and others praise the weight loss. Please see a doctor soon and tell them what you told me; "
                   "they can check your health and refer you to someone who specialises in eating problems. If you feel faint "
                   "or dizzy, or your heart races or skips, get medical help today."),
+        "purging": (" Making yourself sick can upset the balance of salts in your body and affect your heart, so please get "
+                    "a doctor's check as soon as you can, not someday."),
         "next_step": {
-            "minor": "This week, tell one trusted adult who is safe for you how you have been eating, and ask them to help you book a doctor's appointment.",
-            "unknown": "This week, book a doctor's appointment and tell them how you have been eating; if you are under 18, tell a trusted adult who is safe for you as well.",
-            "adult": "This week, book a doctor's appointment and tell them how you have been eating.",
+            "minor": "Today or tomorrow, tell one trusted adult who is safe for you how you have been eating, and ask them to help you see a doctor soon.",
+            "unknown": "Book a doctor's appointment as soon as you can and tell them how you have been eating; if you are under 18, tell a trusted adult who is safe for you today or tomorrow.",
+            "adult": "Book a doctor's appointment this week, sooner if you are making yourself sick, and tell them how you have been eating.",
         },
     },
 }
@@ -354,7 +366,8 @@ def protective_block(sit, lib, region):
     for need in sit.protective:
         txt = PROTECTIVE[need]
         who = "minor" if sit.minor == "yes" else "adult" if sit.minor == "no" else "unknown"
-        return {"label": "Viveka's application", "need": need, "text": txt[who], "next_step": txt["next_step"][who],
+        text = txt[who] + (txt["purging"] if sit.purging else "")
+        return {"label": "Viveka's application", "need": need, "text": text, "next_step": txt["next_step"][who],
                 "help": help_lines(lib, ["distress"] + (["under18"] if sit.minor == "yes" else []), region)[:3]}
     return None
 
@@ -365,15 +378,20 @@ def decision_note(sit, frames):
     if "remarriage" in frames and not sit.danger:
         m = OTHER_PERSON_REMARRYING.search(low)
         if m:
-            return (f"This is your {m.group(1)}'s decision to make. Your sense of betrayal is part of your own grief and is "
-                    f"worth saying to them honestly, but their remarrying does not erase the person you both lost.")
+            return (f"This is your {m.group(1)}'s decision to make. What you feel is worth saying to them honestly, "
+                    f"but their remarrying does not erase the past or the person who came before.")
         if sit.months_since_loss is not None and sit.months_since_loss < 12:
             return ("Your loss is recent. A decision this big does not have to be made quickly, whoever is pressing you; "
                     "it can wait until grief has had its time.")
         spouse = "your husband's" if "husband" in low else "your wife's" if "wife" in low else "your late partner's"
         who = "Your in-laws'" if "in-laws" in sit.people else "Your family's" if "family" in low else "Other people's"
-        return (f"You are deciding whether to remarry. {who} objection comes from their own grief and is worth hearing, "
-                f"but it does not decide this for you; honouring {spouse} memory and building a new life are not opposites.")
+        return (f"You are deciding whether to remarry. {who} objection is worth hearing, but it does not decide this for "
+                f"you; honouring {spouse} memory and building a new life are not opposites.")
+    if "karma_blame" in frames:
+        return ("To answer you directly: no one can know that of any person, and Viveka will not tell you that your body or "
+                "your suffering is a punishment you earned. Some traditions do teach that past actions shape present lives, "
+                "but using that to blame someone goes against the texts' own teaching that the same Self is in every being, "
+                "worthy of equal regard.")
     if "why_suffering" in frames and "grief" not in frames:
         return ("Viveka will not tell you that suffering is a punishment someone earned. The texts give no neat formula for "
                 "why good people suffer; they ask us to keep the question honest and to act well inside it.")
@@ -630,6 +648,15 @@ def answer(question, profile=None, mode="internal", region=None, gate=True):
         out["next_step"] = {"label": "Viveka's application",
                             "text": (out["protective"] or {}).get("next_step") or
                             "Talk it through with someone you trust, or a qualified person, and try rephrasing what you are deciding."}
+        # Recheck what will actually be shown. If something is still missing (e.g. help lines),
+        # add the general support path rather than show an answer that fails the gate.
+        final = check(out, lib)
+        if final and not out["safety"]:
+            out["safety"] = {"label": "Viveka's application", "level": "support",
+                             "message": "If this is weighing on you, talking to someone trained to help can make a real difference.",
+                             "help": help_lines(lib, ["distress", "self_harm"], region)[:2]}
+            final = check(out, lib)
+        out["final_gate_failures"] = final
     return out
 
 

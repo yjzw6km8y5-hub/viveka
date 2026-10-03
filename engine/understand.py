@@ -107,14 +107,27 @@ DISTRESS = ["hopeless", "worthless", "can't go on", "nothing matters", "no point
 # Protective needs (STATUS.md must-fix 2): restricting or purging food needs a doctor and, for anyone
 # not known to be an adult, a trusted adult who is safe for them. Detected separately from distress so the
 # answer can carry concrete guidance; it also counts as distress, so gentle handling applies.
-PROTECTIVE_CUES = {
-    "eating": ["stopped eating", "not eating properly", "skip meals", "skipping meals", "starving myself",
-               "make myself sick", "make myself throw up", "making myself throw up", "making myself sick",
-               "throw up after", "throwing up after", "want to be thinner", "barely eat", "hardly eat",
-               "only eat once a day", "eat once a day", "stopped eating lunch", "not eating so i can",
-               "so i can get skinny", "to get skinny", "lose weight fast", "drop weight fast", "eating disorder",
-               "anorexi", "bulimi", "laxatives to lose", "purging"],
-}
+# Eating risk = purging, or a named eating disorder, or restricting food for weight or body reasons.
+# Restriction alone ("I stopped eating lunch at my desk", fasting for a festival) is not a protective need.
+EATING_PURGING = [r"\b(?:make|makes|making|made|force|forces|forcing|forced) (?:myself|me) (?:to )?(?:be sick|sick|throw up|vomit|puke)\b",
+                  r"\bthrow(?:ing)? up (?:after|on purpose)\b", r"\bvomit(?:ing)? (?:after|on purpose)\b",
+                  r"\bpurg(?:e|es|ing)\b", r"\blaxatives?\b[^.?!]{0,40}\b(?:lose|weight|thin|fat)\b"]
+EATING_NAMED = [r"\beating disorder\b", r"\banorexi", r"\bbulimi", r"\bbinge and purge\b"]
+EATING_RESTRICT = [r"\b(?:stopped|stop|stopping|quit) eating\b", r"\bnot eating\b", r"\bstarv(?:e|ing) myself\b",
+                   r"\b(?:skip|skips|skipping|skipped) (?:meals?|breakfast|lunch|dinner)\b",
+                   r"\b(?:barely|hardly|haven't|have not|not) (?:eat|eaten|eating)\b", r"\bonly eat (?:once|one meal)\b",
+                   r"\beat (?:once|one meal) a day\b", r"\bfasting\b", r"\b(?:under|less than|only) \d{3,4} calories\b",
+                   r"\bcount(?:ing)? every calorie\b", r"\bdrop weight fast\b", r"\blose weight fast\b"]
+EATING_MOTIVE = [r"\bthin(?:ner)?\b", r"\bskinn(?:y|ier)\b", r"\bweight\b", r"\bfat\b", r"\bmy body\b",
+                 r"\bcalories\b", r"\bslim(?:mer)?\b", r"\bmy size\b", r"\blook (?:great|good|better)\b"]
+
+
+def eating_risk(text):
+    """-> (risk, purging)"""
+    purging = any(re.search(p, text) for p in EATING_PURGING)
+    named = any(re.search(p, text) for p in EATING_NAMED)
+    restrict = any(re.search(p, text) for p in EATING_RESTRICT) and any(re.search(p, text) for p in EATING_MOTIVE)
+    return purging or named or restrict, purging
 
 MINOR_CUES = [r"\bi'?m a (?:teen|teenager|minor)\b", r"\bi am a (?:teen|teenager|minor)\b",
               r"\bin high school\b", r"\bunder 18\b", r"\bunderage\b"]
@@ -145,6 +158,7 @@ class Situation:
     life_stage_source: str = None   # "profile", "stated" or "inferred"
     life_stage_cue: str = ""        # the words the stage was read from
     protective: list = field(default_factory=list)  # e.g. ["eating"]
+    purging: bool = False
     months_since_loss: float = None
     self_harm: bool = False
     other_at_risk: bool = False
@@ -258,7 +272,8 @@ def understand(raw, profile=None):
     s.other_at_risk = _word(text, OTHER_AT_RISK)
     s.self_harm = _word(text, SELF_HARM) and not s.other_at_risk
     s.danger = _word(text, DANGER) or any(c in text for c in ("stalk", "harass", "abus"))
-    s.protective = [need for need, cues in PROTECTIVE_CUES.items() if any(c in text for c in cues)]
+    risk, s.purging = eating_risk(text)
+    s.protective = ["eating"] if risk else []
     s.distress = s.self_harm or _word(text, DISTRESS) or bool(profile.get("distress")) or bool(s.protective)
     s.months_since_loss = months_since_loss(text)
 

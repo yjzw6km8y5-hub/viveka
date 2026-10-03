@@ -22,6 +22,8 @@ PROTECTIVE_PRINCIPLES = {"eating": set(FRAMES["eating"][1])}
 # Danger is handled by the safety path; every other recognised frame (including a decision or distress)
 # is a problem the person described, and the recommendation must be backed by at least one of them.
 GENERIC_FRAMES = {"danger"}
+# Frames that name a specific question; when one is present, a broader frame is not enough.
+QUESTION_FRAMES = {"eating", "remarriage", "why_suffering", "karma_blame", "grief"}
 
 
 def check(a, lib, expect=None):
@@ -29,7 +31,7 @@ def check(a, lib, expect=None):
     fails = []
     u, safety = a["understanding"], a["safety"]
     level = safety["level"] if safety else None
-    protected = u["distress"] or u["minor"] == "yes"
+    protected = u["distress"] or u["minor"] != "no"  # unknown age is treated as a minor, as the engine does
 
     quotes = list(a["sources"]) + ([a["challenge"]["source"]] if a.get("challenge") else [])
     for q in quotes:
@@ -62,8 +64,10 @@ def check(a, lib, expect=None):
     # The recommendation must address the problem the person describes (must-fix 3), when we can tell what it is.
     described = [f for f in u.get("frames", []) if f not in GENERIC_FRAMES]
     rec = a["recommendation"] or {}
-    if described and top and level not in ("crisis", "danger") and not set(rec.get("basis_frames", [])) & set(described):
-        fails.append(f"recommendation {top} does not address the problem described ({', '.join(described)})")
+    asked = [f for f in described if f in QUESTION_FRAMES]
+    need = asked or described  # a specific question must be answered by a principle chosen for that question
+    if need and top and level not in ("crisis", "danger") and not set(rec.get("basis_frames", [])) & set(need):
+        fails.append(f"recommendation {top} does not address the problem described ({', '.join(need)})")
 
     # Never put words in the person's mouth (must-fix 3): only quote what they actually wrote.
     said = " ".join(str(rec.get(k, "")) for k in ("why_it_fits_you", "application"))
