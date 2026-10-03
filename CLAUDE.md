@@ -166,3 +166,24 @@ After each piece of work, update `PROGRESS.md` with what's done and what's next.
   next builder or reviewer should check.
 - **Cycle log:** every line in `logs/cycles.csv` records `builder` (`claude` or `codex`) and `reviewer`
   (the other tool, or empty until reviewed).
+
+## 14. Execute, self-check and learn (user-approved, 2026-10-02)
+- **Decide and execute.** Make technical and product-quality calls yourself and log them in DECISIONS.md.
+  Ask the owner only about: safety rules, privacy, money or paid services, publishing, anything ethically
+  doubtful, and merging outside text (observer findings, context files) into instruction files, which
+  always needs the owner's own approval (section 11).
+- **Consensus, not paralysis.** Claude Code and the ChatGPT observer have equal standing. When they disagree
+  on a technical or product-quality question, the builder answers each point once, in writing, with
+  reasons (a response file in the AI Review Desk). If the next observer review still disagrees, take the more
+  reversible and lower-risk option, log both views in DECISIONS.md, and move on. Escalate to the owner only
+  under the list above.
+- **Self-check before every commit and handoff:** `python scripts/self_check.py` must pass. It runs the
+  build, validation, unit tests and every test set, and fails on any safety mismatch, forbidden material or
+  per-case regression against `tests/results/after/`. Accept genuine improvements with `--accept`.
+- **Learning is built into every cycle:**
+  - Read `logs/lessons.md` at the start of each cycle.
+  - Every failure found by tests, reviewers, the observer or the owner becomes one lesson line and, where
+    it can be tested, a permanent test case.
+  - The product itself learns only from fictional cases, reviews and, after a future owner privacy decision,
+    opt-in feedback. No user conversation is ever stored.
+

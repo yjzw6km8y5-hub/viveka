@@ -2055,24 +2055,20 @@
   "scores": {
    "context": 2,
    "grounding": 2,
-   "judgment": 1,
+   "judgment": 2,
    "specificity": 2,
    "actionability": 2,
    "agency": 2
   },
-  "total": 11,
-  "notes": [
-   "top name-the-confusion not acceptable; acceptable one in top 3"
-  ],
-  "top": "name-the-confusion",
-  "raw_top": "name-the-confusion",
+  "total": 12,
+  "notes": [],
+  "top": "duty-of-protection",
+  "raw_top": "duty-of-protection",
   "outcome": "passed first time",
   "safety": null,
   "questions": [],
-  "gate": [
-   "top principle name-the-confusion does not answer the decision"
-  ],
-  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: When duties conflict, name the confusion. Arjuna's duties to family, teachers and his role collide; he says plainly that his mind is confused about what is right and asks for one clear answer. The Gita begins from that honesty.\n  Why it fits you: For your situation (we inferred the householder stage from 'my boss'; tell us if that is wrong; this involves your boss): addresses the kind of problem you describe; speaks to conflicting duties; fits the householder stage (our inference).\n  In practice: You are weighing 'do' against 'not do'. Your boss has power over your situation, so plan for how they may react and who could support you. Write each duty and to whom it is owed. Ask which can be partly met, which can wait, and which cannot be compromised.\n\nSource text (BG.2.7): \"My nature is overcome by a pitiful weakness, and my mind is confused about what is right. I ask you: tell me clearly what is better. I am your student; I have come to you for refuge. Teach me.\"\nSource text (BG.3.2): \"With words that seem mixed, you seem to confuse my mind. So tell me, decisively, the one thing by which I may reach what is best.\"\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Summarises 2.6-2.8: Arjuna reasons that being killed by the Kauravas would be better than an unrighteous victory; then, utterly helpless, he takes refuge at Krishna's feet and asks, as his disciple, to be told what is truly good for him.\n  Commentator's view - Śaṅkara (Advaita): Krishna speaks clearly, but to Arjuna's limited understanding the words seem mixed: the one who came to remove his confusion seems to add to it.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Telling him to act, the opposite of the knowledge that withdraws the senses, seems contradictory, so Arjuna asks for one unmixed teaching he can follow.\n  Commentator's view - Our source has no comment from Śaṅkara (Advaita) on BG.2.7; Madhva (Dvaita) on BG.2.7; Madhva (Dvaita) on BG.3.2.\n\nHistorical example (story from the texts): Arjuna lays down his bow. On the eve of battle, Arjuna sees teachers and relatives on the other side, is overcome with grief and pity, trembles, drops his bow and refuses to act. He tells Krishna his mind is confused about what is right and asks to be taught. Lesson: When duties collide, the paralysis and grief are real and are described in full; the turning point is admitting confusion and asking for help. Limits: Arjuna's dilemma is about fighting a war as a warrior. It is never an argument for violence, and most modern dilemmas have options he did not have, such as delay, mediation or leaving.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Reflect fully, then choose for yourself. After teaching everything, Krishna tells Arjuna: 'Reflect on it fully, then do as you choose.' The final decision is the person's own.\n  Source text (BG.18.63): \"Thus I have taught you wisdom more secret than all secrets. Reflect on it fully, and then do as you choose.\"\n  When the recommended principle misleads: It is used to look for one authority to decide everything.\n\nViveka's application - One next step: Write each duty and to whom it is owed. Ask which can be partly met, which can wait, and which cannot be compromised.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
+  "gate": [],
+  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: Dharma includes protecting the good. Whenever dharma declines, the divine acts to protect the good and restore order; righteousness is not passive.\n  Why it fits you: For your situation (we inferred the householder stage from 'my boss'; tell us if that is wrong; this involves your boss): addresses the kind of problem you describe; speaks to conflicting duties; echoes your words: report; fits the householder stage (our inference).\n  In practice: You are weighing 'do' against 'not do'. Your boss has power over your situation, so plan for how they may react and who could support you. If you witness harm, take the safest effective step: support the person, document it, and report it to someone with authority.\n\nSource text (BG.4.7): \"Whenever there is a decline of dharma, Arjuna, and a rise of adharma, then I bring myself forth.\"\n  Commentator's view - Śaṅkara (Advaita): Dharma here is the order of varnas and life-stages that brings beings prosperity and liberation; whenever it declines and adharma rises, I bring myself forth through māyā.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): There is no fixed time for my coming: whenever the dharma taught by the Vedas declines and its opposite rises, I take birth by my own will.\n  Commentator's view - Our source has no comment from Madhva (Dvaita) on BG.4.7.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Clear understanding knows when to act and when to refrain. Clear (sattvic) understanding knows when to act and when to refrain, what to fear and what not, what binds and what frees; confused understanding takes wrong for right.\n  Source text (BG.18.30): \"The understanding that knows when to act and when to refrain, what should and should not be done, what is to be feared and what is not, and what binds and what frees, son of Pritha, is sattvic.\"\n  When the recommended principle misleads: It is used to justify violence or vigilantism. Viveka applies it only to lawful, non-violent protection and reporting.\n\nViveka's application - One next step: If you witness harm, take the safest effective step: support the person, document it, and report it to someone with authority.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
   "answer": {
    "mode": "internal",
    "question": "My boss asked me to change numbers in an audit report. If I refuse I might lose my job. What should I do?",
@@ -2109,13 +2105,24 @@
     "protective": [],
     "months_since_loss": null,
     "frames": [
-     "decision"
+     "decision",
+     "witness_wrong"
     ]
    },
    "protective": null,
    "clarifying_questions": [],
    "safety": null,
    "shortlist": [
+    {
+     "id": "duty-of-protection",
+     "score": 13.37,
+     "frame_supported": true
+    },
+    {
+     "id": "clear-understanding",
+     "score": 11.9,
+     "frame_supported": true
+    },
     {
      "id": "name-the-confusion",
      "score": 10.9,
@@ -2137,27 +2144,42 @@
      "frame_supported": true
     },
     {
-     "id": "clear-understanding",
-     "score": 6.7,
+     "id": "honesty",
+     "score": 7.0,
      "frame_supported": true
     },
     {
-     "id": "duty-of-protection",
-     "score": 5.57,
-     "frame_supported": false
-    },
-    {
-     "id": "speak-the-hard-truth",
-     "score": 5.57,
-     "frame_supported": false
-    },
-    {
-     "id": "choose-again-after-delusion",
-     "score": 5.3,
+     "id": "fearlessness",
+     "score": 6.01,
      "frame_supported": true
     }
    ],
    "comparison": [
+    {
+     "principle": "duty-of-protection",
+     "name": "Dharma includes protecting the good",
+     "fit": [
+      "addresses the kind of problem you describe",
+      "speaks to conflicting duties",
+      "echoes your words: report",
+      "fits the householder stage (our inference)"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "Someone is deciding whether to speak up or act against injustice they witness.",
+     "limits": "It is used to justify violence or vigilantism. Viveka applies it only to lawful, non-violent protection and reporting."
+    },
+    {
+     "principle": "clear-understanding",
+     "name": "Clear understanding knows when to act and when to refrain",
+     "fit": [
+      "addresses the kind of problem you describe",
+      "speaks to conflicting duties",
+      "fits the householder stage (our inference)"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "A morally unclear situation, where the person cannot tell right from wrong.",
+     "limits": "It is used to label people who disagree as 'deluded'."
+    },
     {
      "principle": "name-the-confusion",
      "name": "When duties conflict, name the confusion",
@@ -2169,116 +2191,64 @@
      "disagrees_with": [],
      "consequence_if_followed": "Two obligations genuinely conflict: career versus family, loyalty versus honesty, parent versus partner.",
      "limits": "It is used to look for one authority to decide everything."
-    },
-    {
-     "principle": "reflect-then-choose",
-     "name": "Reflect fully, then choose for yourself",
-     "fit": [
-      "addresses the kind of problem you describe",
-      "speaks to conflicting duties",
-      "fits the householder stage (our inference)"
-     ],
-     "disagrees_with": [
-      "learn-from-those-who-know",
-      "reasoning-alone-is-not-enough"
-     ],
-     "consequence_if_followed": "Someone has gathered advice and must now decide, or is being pressured to decide someone else's way.",
-     "limits": "It is used to dismiss all guidance and tradition as irrelevant."
-    },
-    {
-     "principle": "weigh-consequences-and-capacity",
-     "name": "Weigh consequences, harm and your own capacity",
-     "fit": [
-      "addresses the kind of problem you describe",
-      "speaks to conflicting duties",
-      "fits the householder stage (our inference)"
-     ],
-     "disagrees_with": [
-      "work-not-results"
-     ],
-     "consequence_if_followed": "An impulsive or dramatic decision is being made without thinking through its effects.",
-     "limits": "It becomes endless deliberation that prevents any action."
     }
    ],
    "recommendation": {
     "label": "Viveka's application",
-    "principle": "name-the-confusion",
-    "name": "When duties conflict, name the confusion",
-    "text": "When duties conflict, name the confusion. Arjuna's duties to family, teachers and his role collide; he says plainly that his mind is confused about what is right and asks for one clear answer. The Gita begins from that honesty.",
-    "why_it_fits_you": "For your situation (we inferred the householder stage from 'my boss'; tell us if that is wrong; this involves your boss): addresses the kind of problem you describe; speaks to conflicting duties; fits the householder stage (our inference).",
-    "application": "You are weighing 'do' against 'not do'. Your boss has power over your situation, so plan for how they may react and who could support you. Write each duty and to whom it is owed. Ask which can be partly met, which can wait, and which cannot be compromised.",
+    "principle": "duty-of-protection",
+    "name": "Dharma includes protecting the good",
+    "text": "Dharma includes protecting the good. Whenever dharma declines, the divine acts to protect the good and restore order; righteousness is not passive.",
+    "why_it_fits_you": "For your situation (we inferred the householder stage from 'my boss'; tell us if that is wrong; this involves your boss): addresses the kind of problem you describe; speaks to conflicting duties; echoes your words: report; fits the householder stage (our inference).",
+    "application": "You are weighing 'do' against 'not do'. Your boss has power over your situation, so plan for how they may react and who could support you. If you witness harm, take the safest effective step: support the person, document it, and report it to someone with authority.",
     "basis_frames": [
-     "decision"
+     "witness_wrong"
     ]
    },
    "sources": [
     {
      "label": "Source text",
-     "id": "BG.2.7",
-     "english": "My nature is overcome by a pitiful weakness, and my mind is confused about what is right. I ask you: tell me clearly what is better. I am your student; I have come to you for refuge. Teach me.",
-     "devanagari": "कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसम्मूढचेताः ।\nयच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् ॥",
-     "review_status": "draft"
-    },
-    {
-     "label": "Source text",
-     "id": "BG.3.2",
-     "english": "With words that seem mixed, you seem to confuse my mind. So tell me, decisively, the one thing by which I may reach what is best.",
-     "devanagari": "व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥",
+     "id": "BG.4.7",
+     "english": "Whenever there is a decline of dharma, Arjuna, and a rise of adharma, then I bring myself forth.",
+     "devanagari": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत ।\nअभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ॥",
      "review_status": "draft"
     }
    ],
    "commentary": [
     {
      "label": "Commentator's view",
-     "unit": "BG.2.7",
-     "school": "vishishtadvaita",
-     "commentator": "Rāmānuja (Viśiṣṭādvaita)",
-     "note": "Summarises 2.6-2.8: Arjuna reasons that being killed by the Kauravas would be better than an unrighteous victory; then, utterly helpless, he takes refuge at Krishna's feet and asks, as his disciple, to be told what is truly good for him."
-    },
-    {
-     "label": "Commentator's view",
-     "unit": "BG.3.2",
+     "unit": "BG.4.7",
      "school": "advaita",
      "commentator": "Śaṅkara (Advaita)",
-     "note": "Krishna speaks clearly, but to Arjuna's limited understanding the words seem mixed: the one who came to remove his confusion seems to add to it."
+     "note": "Dharma here is the order of varnas and life-stages that brings beings prosperity and liberation; whenever it declines and adharma rises, I bring myself forth through māyā."
     },
     {
      "label": "Commentator's view",
-     "unit": "BG.3.2",
+     "unit": "BG.4.7",
      "school": "vishishtadvaita",
      "commentator": "Rāmānuja (Viśiṣṭādvaita)",
-     "note": "Telling him to act, the opposite of the knowledge that withdraws the senses, seems contradictory, so Arjuna asks for one unmixed teaching he can follow."
+     "note": "There is no fixed time for my coming: whenever the dharma taught by the Vedas declines and its opposite rises, I take birth by my own will."
     },
     {
      "label": "Commentator's view",
-     "missing": "Our source has no comment from Śaṅkara (Advaita) on BG.2.7; Madhva (Dvaita) on BG.2.7; Madhva (Dvaita) on BG.3.2."
+     "missing": "Our source has no comment from Madhva (Dvaita) on BG.4.7."
     }
    ],
-   "example": {
-    "label": "Historical example (story from the texts)",
-    "id": "arjuna-collapse",
-    "title": "Arjuna lays down his bow",
-    "event": "On the eve of battle, Arjuna sees teachers and relatives on the other side, is overcome with grief and pity, trembles, drops his bow and refuses to act. He tells Krishna his mind is confused about what is right and asks to be taught.",
-    "source": "Bhagavad Gita 1.28-2.8 (data/gita.json)",
-    "lesson": "When duties collide, the paralysis and grief are real and are described in full; the turning point is admitting confusion and asking for help.",
-    "limits": "Arjuna's dilemma is about fighting a war as a warrior. It is never an argument for violence, and most modern dilemmas have options he did not have, such as delay, mediation or leaving.",
-    "verified": true
-   },
+   "example": null,
    "challenge": {
     "label": "Viveka's application",
-    "principle": "reflect-then-choose",
-    "name": "Reflect fully, then choose for yourself",
-    "text": "If your conscience leans the other way, here is the other view: Reflect fully, then choose for yourself. After teaching everything, Krishna tells Arjuna: 'Reflect on it fully, then do as you choose.' The final decision is the person's own.",
+    "principle": "clear-understanding",
+    "name": "Clear understanding knows when to act and when to refrain",
+    "text": "If your conscience leans the other way, here is the other view: Clear understanding knows when to act and when to refrain. Clear (sattvic) understanding knows when to act and when to refrain, what to fear and what not, what binds and what frees; confused understanding takes wrong for right.",
     "source": {
      "label": "Source text",
-     "id": "BG.18.63",
-     "english": "Thus I have taught you wisdom more secret than all secrets. Reflect on it fully, and then do as you choose."
+     "id": "BG.18.30",
+     "english": "The understanding that knows when to act and when to refrain, what should and should not be done, what is to be feared and what is not, and what binds and what frees, son of Pritha, is sattvic."
     },
-    "when_the_recommendation_misleads": "It is used to look for one authority to decide everything."
+    "when_the_recommendation_misleads": "It is used to justify violence or vigilantism. Viveka applies it only to lawful, non-violent protection and reporting."
    },
    "next_step": {
     "label": "Viveka's application",
-    "text": "Write each duty and to whom it is owed. Ask which can be partly met, which can wait, and which cannot be compromised."
+    "text": "If you witness harm, take the safest effective step: support the person, document it, and report it to someone with authority."
    },
    "safety_footer": {
     "label": "Viveka's application",
@@ -6266,22 +6236,22 @@
    "shortlist": [
     {
      "id": "renounce-selfishness-not-the-world",
-     "score": 12.31,
+     "score": 14.71,
      "frame_supported": true
     },
     {
      "id": "two-paths-both-lead",
-     "score": 10.78,
-     "frame_supported": true
-    },
-    {
-     "id": "full-renunciation-path",
-     "score": 7.91,
+     "score": 12.78,
      "frame_supported": true
     },
     {
      "id": "hold-both-together",
-     "score": 7.7,
+     "score": 9.3,
+     "frame_supported": true
+    },
+    {
+     "id": "full-renunciation-path",
+     "score": 9.11,
      "frame_supported": true
     },
     {
@@ -6335,18 +6305,16 @@
      "limits": "It is used to dismiss genuinely contemplative vocations."
     },
     {
-     "principle": "full-renunciation-path",
-     "name": "The path of withdrawal and solitude",
+     "principle": "hold-both-together",
+     "name": "Hold action and contemplation together",
      "fit": [
       "addresses the kind of problem you describe",
       "speaks to meaning and direction",
-      "echoes your words: spiritual"
+      "fits the householder stage (our inference)"
      ],
-     "disagrees_with": [
-      "renounce-selfishness-not-the-world"
-     ],
-     "consequence_if_followed": "An adult, usually in later life, with responsibilities fulfilled or handed over, is considering a life of retreat or full-time spiritual practice.",
-     "limits": "It is presented to someone in distress, to anyone under 18, or to someone escaping responsibilities or problems. Never recommended to them."
+     "disagrees_with": [],
+     "consequence_if_followed": "Someone has swung to one extreme: all work and no reflection, or all study and no engagement.",
+     "limits": "It is used to avoid ever committing fully to anything."
     }
    ],
    "recommendation": {
@@ -6527,7 +6495,12 @@
     },
     {
      "id": "renounce-selfishness-not-the-world",
-     "score": 10.8,
+     "score": 13.2,
+     "frame_supported": true
+    },
+    {
+     "id": "two-paths-both-lead",
+     "score": 9.5,
      "frame_supported": true
     },
     {
@@ -6536,8 +6509,8 @@
      "frame_supported": false
     },
     {
-     "id": "two-paths-both-lead",
-     "score": 7.5,
+     "id": "hold-both-together",
+     "score": 7.8,
      "frame_supported": true
     },
     {
@@ -6553,11 +6526,6 @@
     {
      "id": "keep-contributing",
      "score": 7.0,
-     "frame_supported": true
-    },
-    {
-     "id": "hold-both-together",
-     "score": 6.2,
      "frame_supported": true
     }
    ],
@@ -6590,16 +6558,15 @@
      "limits": "It is used to keep someone in a harmful or dangerous situation. Leaving abuse or danger is never 'selfish'."
     },
     {
-     "principle": "pleasant-versus-good",
-     "name": "Choose the good over the merely pleasant",
+     "principle": "two-paths-both-lead",
+     "name": "Renunciation and engaged action both lead to the good, but action is easier",
      "fit": [
-      "speaks to self-control",
-      "echoes your words: spend, wise, year",
+      "addresses the kind of problem you describe",
       "fits the householder stage"
      ],
      "disagrees_with": [],
-     "consequence_if_followed": "A choice between short-term comfort and long-term wellbeing: study or scrolling, saving or spending, honesty or ease.",
-     "limits": "It makes someone distrust every enjoyable thing, or choose hardship for its own sake."
+     "consequence_if_followed": "Someone is choosing between a contemplative and an active life.",
+     "limits": "It is used to dismiss genuinely contemplative vocations."
     }
    ],
    "recommendation": {
@@ -13994,7 +13961,12 @@
     },
     {
      "id": "renounce-selfishness-not-the-world",
-     "score": 7.8,
+     "score": 10.2,
+     "frame_supported": true
+    },
+    {
+     "id": "two-paths-both-lead",
+     "score": 8.5,
      "frame_supported": true
     },
     {
@@ -14003,19 +13975,14 @@
      "frame_supported": true
     },
     {
+     "id": "hold-both-together",
+     "score": 6.8,
+     "frame_supported": true
+    },
+    {
      "id": "dont-quit-because-its-hard",
      "score": 6.67,
      "frame_supported": false
-    },
-    {
-     "id": "two-paths-both-lead",
-     "score": 6.5,
-     "frame_supported": true
-    },
-    {
-     "id": "hold-both-together",
-     "score": 5.2,
-     "frame_supported": true
     },
     {
      "id": "work-for-the-good-of-all",
@@ -20394,13 +20361,13 @@
   },
   "total": 12,
   "notes": [],
-  "top": "ask-for-help-when-lost",
-  "raw_top": "ask-for-help-when-lost",
+  "top": "renounce-selfishness-not-the-world",
+  "raw_top": "renounce-selfishness-not-the-world",
   "outcome": "passed first time",
   "safety": "support",
   "questions": [],
   "gate": [],
-  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application: It sounds like you are carrying a lot. If this heaviness has lasted a while, talking to someone trained to help can make a real difference; it is a sign of strength, not weakness.\n  - Emergency (police, fire, ambulance): 112 (IN)\n  - Tele-MANAS national mental health helpline (24/7, free, 20+ languages): 14416 or 1-800-891-4416 (IN)\n\nViveka's application - Recommendation: When you are lost, say so and ask. Arjuna's turning point comes when he admits his mind is confused about what is right and asks for clear guidance; learning begins with that admission.\n  Why it fits you: For your situation (we inferred the householder stage from 'my wife'; tell us if that is wrong; you said you are 34; this involves your wife, kids): addresses the kind of problem you describe; fits the householder stage (our inference).\n  In practice: Since this involves your wife, think about what they need as well as what you need. Write one honest sentence that starts 'I don't know how to…' and send it to one person who might help.\n\nSource text (BG.2.7): \"My nature is overcome by a pitiful weakness, and my mind is confused about what is right. I ask you: tell me clearly what is better. I am your student; I have come to you for refuge. Teach me.\"\nSource text (BG.4.34): \"Learn it by bowing down, by asking questions and by serving; the wise who have seen the truth will teach you knowledge.\"\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Summarises 2.6-2.8: Arjuna reasons that being killed by the Kauravas would be better than an unrighteous victory; then, utterly helpless, he takes refuge at Krishna's feet and asks, as his disciple, to be told what is truly good for him.\n  Commentator's view - Śaṅkara (Advaita): Approach teachers with full prostration, with questions about bondage, liberation, knowledge and ignorance, and with service; won over by such humility, they will teach you.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Though I have taught you about the self (2.17-2.39), in time learn it more clearly from the wise, through humility, questions and service.\n  Commentator's view - Madhva (Dvaita): Arjuna already has knowledge; delusion has only overpowered it.\n  Commentator's view - Our source has no comment from Śaṅkara (Advaita) on BG.2.7; Madhva (Dvaita) on BG.2.7.\n\nHistorical example (story from the texts): Arjuna lays down his bow. On the eve of battle, Arjuna sees teachers and relatives on the other side, is overcome with grief and pity, trembles, drops his bow and refuses to act. He tells Krishna his mind is confused about what is right and asks to be taught. Lesson: When duties collide, the paralysis and grief are real and are described in full; the turning point is admitting confusion and asking for help. Limits: Arjuna's dilemma is about fighting a war as a warrior. It is never an argument for violence, and most modern dilemmas have options he did not have, such as delay, mediation or leaving.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Renounce selfish intent, not your responsibilities. A true renunciant is one who does what should be done without depending on its fruit, who neither hates nor craves; what they call renunciation is giving up selfish intentions.\n  Source text (BG.6.1): \"One who does the work that should be done, without depending on its fruit, is a renunciant and a yogi; not one who merely gives up the sacred fire, nor one who gives up action.\"\n  When the recommended principle misleads: It is used to make someone dependent on a single authority, or to hand over their judgement entirely.\n\nViveka's application - One next step: Write one honest sentence that starts 'I don't know how to…' and send it to one person who might help.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
+  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application: It sounds like you are carrying a lot. If this heaviness has lasted a while, talking to someone trained to help can make a real difference; it is a sign of strength, not weakness.\n  - Emergency (police, fire, ambulance): 112 (IN)\n  - Tele-MANAS national mental health helpline (24/7, free, 20+ languages): 14416 or 1-800-891-4416 (IN)\n\nViveka's application - Recommendation: Renounce selfish intent, not your responsibilities. A true renunciant is one who does what should be done without depending on its fruit, who neither hates nor craves; what they call renunciation is giving up selfish intentions.\n  Why it fits you: For your situation (we inferred the householder stage from 'my wife'; tell us if that is wrong; you said you are 34; this involves your wife, kids): addresses the kind of problem you describe; echoes your words: think; fits the householder stage (our inference).\n  In practice: Since this involves your wife, think about what they need as well as what you need. Keep your commitments, and look for the selfish intention inside them that you could let go of instead.\n\nSource text (BG.6.1): \"One who does the work that should be done, without depending on its fruit, is a renunciant and a yogi; not one who merely gives up the sacred fire, nor one who gives up action.\"\nSource text (BG.6.2): \"What they call renunciation, know that to be yoga, son of Pandu; for no one becomes a yogi without renouncing selfish intentions.\"\n  Commentator's view - Śaṅkara (Advaita): One who does their regular duty without thirst for its fruit is both renunciant and yogi; not merely someone who has given up the sacred fires and rites.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): One who acts, not for rewards like heaven, but because worshipping the Supreme Person, our friend, is itself the goal, is both a renunciant (devoted to knowledge) and a yogi (devoted to action).\n  Commentator's view - Madhva (Dvaita): This chapter teaches the yoga of meditation, close to knowledge. Even monks have their 'fire' and rites: Brahman and its worship.\n  Commentator's view - Śaṅkara (Advaita): The true renunciation known to scripture, giving up all actions and their fruits, is likened to the yoga of action because no one becomes a yogi without giving up intentions.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): What they call the path of knowledge, know to be karma yoga itself: through reflecting on the true self, one gives up the intention of taking prakṛti to be the self.\n  Commentator's view - Madhva (Dvaita): Renunciation is contained within yoga: without giving up desire and intention, how could anyone have the means?\n\nHistorical example (story from the texts): Arjuna lays down his bow. On the eve of battle, Arjuna sees teachers and relatives on the other side, is overcome with grief and pity, trembles, drops his bow and refuses to act. He tells Krishna his mind is confused about what is right and asks to be taught. Lesson: When duties collide, the paralysis and grief are real and are described in full; the turning point is admitting confusion and asking for help. Limits: Arjuna's dilemma is about fighting a war as a warrior. It is never an argument for violence, and most modern dilemmas have options he did not have, such as delay, mediation or leaving.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: When you are lost, say so and ask. Arjuna's turning point comes when he admits his mind is confused about what is right and asks for clear guidance; learning begins with that admission.\n  Source text (BG.2.7): \"My nature is overcome by a pitiful weakness, and my mind is confused about what is right. I ask you: tell me clearly what is better. I am your student; I have come to you for refuge. Teach me.\"\n  When the recommended principle misleads: It is used to keep someone in a harmful or dangerous situation. Leaving abuse or danger is never 'selfish'.\n\nViveka's application - One next step: Keep your commitments, and look for the selfish intention inside them that you could let go of instead.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
   "answer": {
    "mode": "internal",
    "question": "I'm 34 and depressed. I'm thinking of leaving my wife and kids to become a sannyasi, just to escape.",
@@ -20458,13 +20425,18 @@
    },
    "shortlist": [
     {
+     "id": "renounce-selfishness-not-the-world",
+     "score": 12.48,
+     "frame_supported": true
+    },
+    {
      "id": "ask-for-help-when-lost",
      "score": 10.1,
      "frame_supported": true
     },
     {
-     "id": "renounce-selfishness-not-the-world",
-     "score": 10.08,
+     "id": "two-paths-both-lead",
+     "score": 9.0,
      "frame_supported": true
     },
     {
@@ -20473,18 +20445,13 @@
      "frame_supported": true
     },
     {
-     "id": "two-paths-both-lead",
-     "score": 7.0,
+     "id": "hold-both-together",
+     "score": 7.3,
      "frame_supported": true
     },
     {
      "id": "states-arise-and-pass",
      "score": 6.9,
-     "frame_supported": true
-    },
-    {
-     "id": "hold-both-together",
-     "score": 5.7,
      "frame_supported": true
     },
     {
@@ -20500,17 +20467,6 @@
    ],
    "comparison": [
     {
-     "principle": "ask-for-help-when-lost",
-     "name": "When you are lost, say so and ask",
-     "fit": [
-      "addresses the kind of problem you describe",
-      "fits the householder stage (our inference)"
-     ],
-     "disagrees_with": [],
-     "consequence_if_followed": "Someone is stuck, ashamed of not knowing, or trying to handle a crisis alone.",
-     "limits": "It is used to make someone dependent on a single authority, or to hand over their judgement entirely."
-    },
-    {
      "principle": "renounce-selfishness-not-the-world",
      "name": "Renounce selfish intent, not your responsibilities",
      "fit": [
@@ -20525,11 +20481,271 @@
      "limits": "It is used to keep someone in a harmful or dangerous situation. Leaving abuse or danger is never 'selfish'."
     },
     {
-     "principle": "honour-the-grief-first",
-     "name": "Grief is real; it is heard before it is answered",
+     "principle": "ask-for-help-when-lost",
+     "name": "When you are lost, say so and ask",
      "fit": [
       "addresses the kind of problem you describe",
       "fits the householder stage (our inference)"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "Someone is stuck, ashamed of not knowing, or trying to handle a crisis alone.",
+     "limits": "It is used to make someone dependent on a single authority, or to hand over their judgement entirely."
+    },
+    {
+     "principle": "two-paths-both-lead",
+     "name": "Renunciation and engaged action both lead to the good, but action is easier",
+     "fit": [
+      "addresses the kind of problem you describe",
+      "fits the householder stage (our inference)"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "Someone is choosing between a contemplative and an active life.",
+     "limits": "It is used to dismiss genuinely contemplative vocations."
+    }
+   ],
+   "recommendation": {
+    "label": "Viveka's application",
+    "principle": "renounce-selfishness-not-the-world",
+    "name": "Renounce selfish intent, not your responsibilities",
+    "text": "Renounce selfish intent, not your responsibilities. A true renunciant is one who does what should be done without depending on its fruit, who neither hates nor craves; what they call renunciation is giving up selfish intentions.",
+    "why_it_fits_you": "For your situation (we inferred the householder stage from 'my wife'; tell us if that is wrong; you said you are 34; this involves your wife, kids): addresses the kind of problem you describe; echoes your words: think; fits the householder stage (our inference).",
+    "application": "Since this involves your wife, think about what they need as well as what you need. Keep your commitments, and look for the selfish intention inside them that you could let go of instead.",
+    "basis_frames": [
+     "renounce_wish"
+    ]
+   },
+   "sources": [
+    {
+     "label": "Source text",
+     "id": "BG.6.1",
+     "english": "One who does the work that should be done, without depending on its fruit, is a renunciant and a yogi; not one who merely gives up the sacred fire, nor one who gives up action.",
+     "devanagari": "अनाश्रितः कर्मफलं कार्यं कर्म करोति यः ।\nस संन्यासी च योगी च न निरग्निर्न चाक्रियः ॥",
+     "review_status": "draft"
+    },
+    {
+     "label": "Source text",
+     "id": "BG.6.2",
+     "english": "What they call renunciation, know that to be yoga, son of Pandu; for no one becomes a yogi without renouncing selfish intentions.",
+     "devanagari": "यं संन्यासमिति प्राहुर्योगं तं विद्धि पाण्डव ।\nन ह्यसंन्यस्तसंकल्पो योगी भवति कश्चन ॥",
+     "review_status": "draft"
+    }
+   ],
+   "commentary": [
+    {
+     "label": "Commentator's view",
+     "unit": "BG.6.1",
+     "school": "advaita",
+     "commentator": "Śaṅkara (Advaita)",
+     "note": "One who does their regular duty without thirst for its fruit is both renunciant and yogi; not merely someone who has given up the sacred fires and rites."
+    },
+    {
+     "label": "Commentator's view",
+     "unit": "BG.6.1",
+     "school": "vishishtadvaita",
+     "commentator": "Rāmānuja (Viśiṣṭādvaita)",
+     "note": "One who acts, not for rewards like heaven, but because worshipping the Supreme Person, our friend, is itself the goal, is both a renunciant (devoted to knowledge) and a yogi (devoted to action)."
+    },
+    {
+     "label": "Commentator's view",
+     "unit": "BG.6.1",
+     "school": "dvaita",
+     "commentator": "Madhva (Dvaita)",
+     "note": "This chapter teaches the yoga of meditation, close to knowledge. Even monks have their 'fire' and rites: Brahman and its worship."
+    },
+    {
+     "label": "Commentator's view",
+     "unit": "BG.6.2",
+     "school": "advaita",
+     "commentator": "Śaṅkara (Advaita)",
+     "note": "The true renunciation known to scripture, giving up all actions and their fruits, is likened to the yoga of action because no one becomes a yogi without giving up intentions."
+    },
+    {
+     "label": "Commentator's view",
+     "unit": "BG.6.2",
+     "school": "vishishtadvaita",
+     "commentator": "Rāmānuja (Viśiṣṭādvaita)",
+     "note": "What they call the path of knowledge, know to be karma yoga itself: through reflecting on the true self, one gives up the intention of taking prakṛti to be the self."
+    },
+    {
+     "label": "Commentator's view",
+     "unit": "BG.6.2",
+     "school": "dvaita",
+     "commentator": "Madhva (Dvaita)",
+     "note": "Renunciation is contained within yoga: without giving up desire and intention, how could anyone have the means?"
+    }
+   ],
+   "example": {
+    "label": "Historical example (story from the texts)",
+    "id": "arjuna-collapse",
+    "title": "Arjuna lays down his bow",
+    "event": "On the eve of battle, Arjuna sees teachers and relatives on the other side, is overcome with grief and pity, trembles, drops his bow and refuses to act. He tells Krishna his mind is confused about what is right and asks to be taught.",
+    "source": "Bhagavad Gita 1.28-2.8 (data/gita.json)",
+    "lesson": "When duties collide, the paralysis and grief are real and are described in full; the turning point is admitting confusion and asking for help.",
+    "limits": "Arjuna's dilemma is about fighting a war as a warrior. It is never an argument for violence, and most modern dilemmas have options he did not have, such as delay, mediation or leaving.",
+    "verified": true
+   },
+   "challenge": {
+    "label": "Viveka's application",
+    "principle": "ask-for-help-when-lost",
+    "name": "When you are lost, say so and ask",
+    "text": "If your conscience leans the other way, here is the other view: When you are lost, say so and ask. Arjuna's turning point comes when he admits his mind is confused about what is right and asks for clear guidance; learning begins with that admission.",
+    "source": {
+     "label": "Source text",
+     "id": "BG.2.7",
+     "english": "My nature is overcome by a pitiful weakness, and my mind is confused about what is right. I ask you: tell me clearly what is better. I am your student; I have come to you for refuge. Teach me."
+    },
+    "when_the_recommendation_misleads": "It is used to keep someone in a harmful or dangerous situation. Leaving abuse or danger is never 'selfish'."
+   },
+   "next_step": {
+    "label": "Viveka's application",
+    "text": "Keep your commitments, and look for the selfish intention inside them that you could let go of instead."
+   },
+   "safety_footer": {
+    "label": "Viveka's application",
+    "text": "If you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123."
+   },
+   "gate_failures": []
+  }
+ },
+ {
+  "id": "T094",
+  "category": "hard",
+  "text": "Everything is fate anyway, so why even try? I feel hopeless.",
+  "scores": {
+   "context": 2,
+   "grounding": 2,
+   "judgment": 2,
+   "specificity": 1,
+   "actionability": 2,
+   "agency": 2
+  },
+  "total": 11,
+  "notes": [],
+  "top": "ask-for-help-when-lost",
+  "raw_top": "ask-for-help-when-lost",
+  "outcome": "passed first time",
+  "safety": "support",
+  "questions": [],
+  "gate": [],
+  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application: It sounds like you are carrying a lot. If this heaviness has lasted a while, talking to someone trained to help can make a real difference; it is a sign of strength, not weakness.\n  - Emergency (police, fire, ambulance): 112 (IN)\n  - Tele-MANAS national mental health helpline (24/7, free, 20+ languages): 14416 or 1-800-891-4416 (IN)\n\nViveka's application - Recommendation: When you are lost, say so and ask. Arjuna's turning point comes when he admits his mind is confused about what is right and asks for clear guidance; learning begins with that admission.\n  Why it fits you: For your situation: addresses the kind of problem you describe.\n  In practice: Write one honest sentence that starts 'I don't know how to…' and send it to one person who might help.\n\nSource text (BG.2.7): \"My nature is overcome by a pitiful weakness, and my mind is confused about what is right. I ask you: tell me clearly what is better. I am your student; I have come to you for refuge. Teach me.\"\nSource text (BG.4.34): \"Learn it by bowing down, by asking questions and by serving; the wise who have seen the truth will teach you knowledge.\"\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Summarises 2.6-2.8: Arjuna reasons that being killed by the Kauravas would be better than an unrighteous victory; then, utterly helpless, he takes refuge at Krishna's feet and asks, as his disciple, to be told what is truly good for him.\n  Commentator's view - Śaṅkara (Advaita): Approach teachers with full prostration, with questions about bondage, liberation, knowledge and ignorance, and with service; won over by such humility, they will teach you.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Though I have taught you about the self (2.17-2.39), in time learn it more clearly from the wise, through humility, questions and service.\n  Commentator's view - Madhva (Dvaita): Arjuna already has knowledge; delusion has only overpowered it.\n  Commentator's view - Our source has no comment from Śaṅkara (Advaita) on BG.2.7; Madhva (Dvaita) on BG.2.7.\n\nHistorical example (story from the texts): Arjuna lays down his bow. On the eve of battle, Arjuna sees teachers and relatives on the other side, is overcome with grief and pity, trembles, drops his bow and refuses to act. He tells Krishna his mind is confused about what is right and asks to be taught. Lesson: When duties collide, the paralysis and grief are real and are described in full; the turning point is admitting confusion and asking for help. Limits: Arjuna's dilemma is about fighting a war as a warrior. It is never an argument for violence, and most modern dilemmas have options he did not have, such as delay, mediation or leaving.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: No sincere effort is wasted. Effort towards the good is never lost, even when it falls short; a person who tries and slips comes to no ruin and can start again from where they were.\n  Source text (BG.2.40): \"On this path no effort is wasted and no harm comes from falling short. Even a little of this practice protects a person from great fear.\"\n  When the recommended principle misleads: It is used to make someone dependent on a single authority, or to hand over their judgement entirely.\n\nViveka's application - One next step: Write one honest sentence that starts 'I don't know how to…' and send it to one person who might help.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
+  "answer": {
+   "mode": "internal",
+   "question": "Everything is fate anyway, so why even try? I feel hopeless.",
+   "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
+   "understanding": {
+    "dilemma": "Everything is fate anyway, so why even try?",
+    "situations": [],
+    "people": [],
+    "options": [],
+    "obligations": [],
+    "constraints": {
+     "power_imbalance": [],
+     "dependency": [],
+     "money": [],
+     "urgency": [],
+     "irreversible": []
+    },
+    "age": null,
+    "minor": "unknown",
+    "life_stage": null,
+    "distress": true,
+    "danger": false,
+    "self_harm": false,
+    "life_stage_source": null,
+    "protective": [],
+    "months_since_loss": null,
+    "frames": [
+     "distress",
+     "fatalism"
+    ]
+   },
+   "protective": null,
+   "clarifying_questions": [],
+   "safety": {
+    "label": "Viveka's application",
+    "level": "support",
+    "message": "It sounds like you are carrying a lot. If this heaviness has lasted a while, talking to someone trained to help can make a real difference; it is a sign of strength, not weakness.",
+    "help": [
+     {
+      "region": "IN",
+      "name": "Emergency (police, fire, ambulance)",
+      "number": "112"
+     },
+     {
+      "region": "IN",
+      "name": "Tele-MANAS national mental health helpline (24/7, free, 20+ languages)",
+      "number": "14416 or 1-800-891-4416"
+     }
+    ]
+   },
+   "shortlist": [
+    {
+     "id": "ask-for-help-when-lost",
+     "score": 9.6,
+     "frame_supported": true
+    },
+    {
+     "id": "effort-never-wasted",
+     "score": 8.4,
+     "frame_supported": true
+    },
+    {
+     "id": "honour-the-grief-first",
+     "score": 8.0,
+     "frame_supported": true
+    },
+    {
+     "id": "every-reason-to-seek-is-valid",
+     "score": 7.6,
+     "frame_supported": true
+    },
+    {
+     "id": "small-practice-protects",
+     "score": 7.4,
+     "frame_supported": true
+    },
+    {
+     "id": "states-arise-and-pass",
+     "score": 6.4,
+     "frame_supported": true
+    },
+    {
+     "id": "graded-practice",
+     "score": 5.6,
+     "frame_supported": true
+    },
+    {
+     "id": "the-wish-carries-you",
+     "score": 5.05,
+     "frame_supported": true
+    }
+   ],
+   "comparison": [
+    {
+     "principle": "ask-for-help-when-lost",
+     "name": "When you are lost, say so and ask",
+     "fit": [
+      "addresses the kind of problem you describe"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "Someone is stuck, ashamed of not knowing, or trying to handle a crisis alone.",
+     "limits": "It is used to make someone dependent on a single authority, or to hand over their judgement entirely."
+    },
+    {
+     "principle": "effort-never-wasted",
+     "name": "No sincere effort is wasted",
+     "fit": [
+      "addresses the kind of problem you describe"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "Someone has failed, relapsed or fallen short and believes all their effort was for nothing.",
+     "limits": "It is used to keep pouring effort into a path that is clearly wrong for the person (sunk cost)."
+    },
+    {
+     "principle": "honour-the-grief-first",
+     "name": "Grief is real; it is heard before it is answered",
+     "fit": [
+      "addresses the kind of problem you describe"
      ],
      "disagrees_with": [
       "grief-for-the-inevitable"
@@ -20543,8 +20759,8 @@
     "principle": "ask-for-help-when-lost",
     "name": "When you are lost, say so and ask",
     "text": "When you are lost, say so and ask. Arjuna's turning point comes when he admits his mind is confused about what is right and asks for clear guidance; learning begins with that admission.",
-    "why_it_fits_you": "For your situation (we inferred the householder stage from 'my wife'; tell us if that is wrong; you said you are 34; this involves your wife, kids): addresses the kind of problem you describe; fits the householder stage (our inference).",
-    "application": "Since this involves your wife, think about what they need as well as what you need. Write one honest sentence that starts 'I don't know how to…' and send it to one person who might help.",
+    "why_it_fits_you": "For your situation: addresses the kind of problem you describe.",
+    "application": "Write one honest sentence that starts 'I don't know how to…' and send it to one person who might help.",
     "basis_frames": [
      "distress"
     ]
@@ -20611,237 +20827,19 @@
    },
    "challenge": {
     "label": "Viveka's application",
-    "principle": "renounce-selfishness-not-the-world",
-    "name": "Renounce selfish intent, not your responsibilities",
-    "text": "If your conscience leans the other way, here is the other view: Renounce selfish intent, not your responsibilities. A true renunciant is one who does what should be done without depending on its fruit, who neither hates nor craves; what they call renunciation is giving up selfish intentions.",
+    "principle": "effort-never-wasted",
+    "name": "No sincere effort is wasted",
+    "text": "If your conscience leans the other way, here is the other view: No sincere effort is wasted. Effort towards the good is never lost, even when it falls short; a person who tries and slips comes to no ruin and can start again from where they were.",
     "source": {
      "label": "Source text",
-     "id": "BG.6.1",
-     "english": "One who does the work that should be done, without depending on its fruit, is a renunciant and a yogi; not one who merely gives up the sacred fire, nor one who gives up action."
+     "id": "BG.2.40",
+     "english": "On this path no effort is wasted and no harm comes from falling short. Even a little of this practice protects a person from great fear."
     },
     "when_the_recommendation_misleads": "It is used to make someone dependent on a single authority, or to hand over their judgement entirely."
    },
    "next_step": {
     "label": "Viveka's application",
     "text": "Write one honest sentence that starts 'I don't know how to…' and send it to one person who might help."
-   },
-   "safety_footer": {
-    "label": "Viveka's application",
-    "text": "If you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123."
-   },
-   "gate_failures": []
-  }
- },
- {
-  "id": "T094",
-  "category": "hard",
-  "text": "Everything is fate anyway, so why even try? I feel hopeless.",
-  "scores": {
-   "context": 2,
-   "grounding": 2,
-   "judgment": 1,
-   "specificity": 1,
-   "actionability": 2,
-   "agency": 2
-  },
-  "total": 10,
-  "notes": [
-   "top effort-over-fate not acceptable; acceptable one in top 3"
-  ],
-  "top": "effort-over-fate",
-  "raw_top": "effort-over-fate",
-  "outcome": "passed first time",
-  "safety": "support",
-  "questions": [],
-  "gate": [
-   "top principle effort-over-fate does not answer the decision"
-  ],
-  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application: It sounds like you are carrying a lot. If this heaviness has lasted a while, talking to someone trained to help can make a real difference; it is a sign of strength, not weakness.\n  - Emergency (police, fire, ambulance): 112 (IN)\n  - Tele-MANAS national mental health helpline (24/7, free, 20+ languages): 14416 or 1-800-891-4416 (IN)\n\nViveka's application - Recommendation: Effort is the friend; laziness the enemy. Laziness is the great enemy inside the body; there is no friend like effort, and one who keeps working does not sink. Even if results follow past actions, the wise act after careful thought.\n  Why it fits you: For your situation: addresses the kind of problem you describe; echoes your words: fate.\n  In practice: Pick the one action that is fully in your hands today, and do it before anything else.\n\nSource text (NS.86): \"Laziness is the great enemy dwelling in people's own bodies. There is no friend like effort; one who keeps working does not sink.\"\nSource text (NS.98): \"Right action can make the wicked good, fools wise, enemies friends, the hidden plain, and poison nectar in a moment. Good person, worship that goddess, right action, to gain the fruit you desire; do not vainly put your trust in many virtues won with toil.\"\n  Commentator's view - No classical commentary on the Nitishataka of Bhartrihari is in the library yet.\n\nHistorical example (story from the texts): Arjuna lays down his bow. On the eve of battle, Arjuna sees teachers and relatives on the other side, is overcome with grief and pity, trembles, drops his bow and refuses to act. He tells Krishna his mind is confused about what is right and asks to be taught. Lesson: When duties collide, the paralysis and grief are real and are described in full; the turning point is admitting confusion and asking for help. Limits: Arjuna's dilemma is about fighting a war as a warrior. It is never an argument for violence, and most modern dilemmas have options he did not have, such as delay, mediation or leaving.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: When you are lost, say so and ask. Arjuna's turning point comes when he admits his mind is confused about what is right and asks for clear guidance; learning begins with that admission.\n  Source text (BG.2.7): \"My nature is overcome by a pitiful weakness, and my mind is confused about what is right. I ask you: tell me clearly what is better. I am your student; I have come to you for refuge. Teach me.\"\n  When the recommended principle misleads: It is used to blame people whose struggles come from illness, injustice or circumstances beyond their control.\n\nViveka's application - One next step: Pick the one action that is fully in your hands today, and do it before anything else.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
-  "answer": {
-   "mode": "internal",
-   "question": "Everything is fate anyway, so why even try? I feel hopeless.",
-   "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
-   "understanding": {
-    "dilemma": "Everything is fate anyway, so why even try?",
-    "situations": [],
-    "people": [],
-    "options": [],
-    "obligations": [],
-    "constraints": {
-     "power_imbalance": [],
-     "dependency": [],
-     "money": [],
-     "urgency": [],
-     "irreversible": []
-    },
-    "age": null,
-    "minor": "unknown",
-    "life_stage": null,
-    "distress": true,
-    "danger": false,
-    "self_harm": false,
-    "life_stage_source": null,
-    "protective": [],
-    "months_since_loss": null,
-    "frames": [
-     "distress",
-     "fatalism"
-    ]
-   },
-   "protective": null,
-   "clarifying_questions": [],
-   "safety": {
-    "label": "Viveka's application",
-    "level": "support",
-    "message": "It sounds like you are carrying a lot. If this heaviness has lasted a while, talking to someone trained to help can make a real difference; it is a sign of strength, not weakness.",
-    "help": [
-     {
-      "region": "IN",
-      "name": "Emergency (police, fire, ambulance)",
-      "number": "112"
-     },
-     {
-      "region": "IN",
-      "name": "Tele-MANAS national mental health helpline (24/7, free, 20+ languages)",
-      "number": "14416 or 1-800-891-4416"
-     }
-    ]
-   },
-   "shortlist": [
-    {
-     "id": "effort-over-fate",
-     "score": 9.65,
-     "frame_supported": true
-    },
-    {
-     "id": "ask-for-help-when-lost",
-     "score": 9.6,
-     "frame_supported": true
-    },
-    {
-     "id": "effort-never-wasted",
-     "score": 8.4,
-     "frame_supported": true
-    },
-    {
-     "id": "honour-the-grief-first",
-     "score": 8.0,
-     "frame_supported": true
-    },
-    {
-     "id": "every-reason-to-seek-is-valid",
-     "score": 7.6,
-     "frame_supported": true
-    },
-    {
-     "id": "small-practice-protects",
-     "score": 7.4,
-     "frame_supported": true
-    },
-    {
-     "id": "states-arise-and-pass",
-     "score": 6.4,
-     "frame_supported": true
-    },
-    {
-     "id": "graded-practice",
-     "score": 5.6,
-     "frame_supported": true
-    }
-   ],
-   "comparison": [
-    {
-     "principle": "effort-over-fate",
-     "name": "Effort is the friend; laziness the enemy",
-     "fit": [
-      "addresses the kind of problem you describe",
-      "echoes your words: fate"
-     ],
-     "disagrees_with": [
-      "fate-decides"
-     ],
-     "consequence_if_followed": "Someone is waiting for luck or fate to change their situation, or has slipped into inertia.",
-     "limits": "It is used to blame people whose struggles come from illness, injustice or circumstances beyond their control."
-    },
-    {
-     "principle": "ask-for-help-when-lost",
-     "name": "When you are lost, say so and ask",
-     "fit": [
-      "addresses the kind of problem you describe"
-     ],
-     "disagrees_with": [],
-     "consequence_if_followed": "Someone is stuck, ashamed of not knowing, or trying to handle a crisis alone.",
-     "limits": "It is used to make someone dependent on a single authority, or to hand over their judgement entirely."
-    },
-    {
-     "principle": "effort-never-wasted",
-     "name": "No sincere effort is wasted",
-     "fit": [
-      "addresses the kind of problem you describe"
-     ],
-     "disagrees_with": [],
-     "consequence_if_followed": "Someone has failed, relapsed or fallen short and believes all their effort was for nothing.",
-     "limits": "It is used to keep pouring effort into a path that is clearly wrong for the person (sunk cost)."
-    }
-   ],
-   "recommendation": {
-    "label": "Viveka's application",
-    "principle": "effort-over-fate",
-    "name": "Effort is the friend; laziness the enemy",
-    "text": "Effort is the friend; laziness the enemy. Laziness is the great enemy inside the body; there is no friend like effort, and one who keeps working does not sink. Even if results follow past actions, the wise act after careful thought.",
-    "why_it_fits_you": "For your situation: addresses the kind of problem you describe; echoes your words: fate.",
-    "application": "Pick the one action that is fully in your hands today, and do it before anything else.",
-    "basis_frames": [
-     "fatalism"
-    ]
-   },
-   "sources": [
-    {
-     "label": "Source text",
-     "id": "NS.86",
-     "english": "Laziness is the great enemy dwelling in people's own bodies. There is no friend like effort; one who keeps working does not sink.",
-     "devanagari": "आलस्यं हि मनुष्याणां शरीरस्थो महान् रिपुः।\nनास्त्युद्यमसमो बन्धुः कुर्वाणो नावसीदति ॥",
-     "review_status": "draft"
-    },
-    {
-     "label": "Source text",
-     "id": "NS.98",
-     "english": "Right action can make the wicked good, fools wise, enemies friends, the hidden plain, and poison nectar in a moment. Good person, worship that goddess, right action, to gain the fruit you desire; do not vainly put your trust in many virtues won with toil.",
-     "devanagari": "या साधूंश्च खलान्करोति विदुषो मूर्खान्हितान्द्वेषिणः प्रत्यक्षं कुरुते परोक्षममृतं हालाहलं तत्क्षणात्।\nतामाराधय सत्क्रियां भगवतीं भोक्तुं फलं वाञ्छितं हे साधो ! व्यसनैर्गुणेषु विपुलेष्वास्थां वृथा माकृथाः ॥",
-     "review_status": "draft"
-    }
-   ],
-   "commentary": [
-    {
-     "label": "Commentator's view",
-     "missing": "No classical commentary on the Nitishataka of Bhartrihari is in the library yet."
-    }
-   ],
-   "example": {
-    "label": "Historical example (story from the texts)",
-    "id": "arjuna-collapse",
-    "title": "Arjuna lays down his bow",
-    "event": "On the eve of battle, Arjuna sees teachers and relatives on the other side, is overcome with grief and pity, trembles, drops his bow and refuses to act. He tells Krishna his mind is confused about what is right and asks to be taught.",
-    "source": "Bhagavad Gita 1.28-2.8 (data/gita.json)",
-    "lesson": "When duties collide, the paralysis and grief are real and are described in full; the turning point is admitting confusion and asking for help.",
-    "limits": "Arjuna's dilemma is about fighting a war as a warrior. It is never an argument for violence, and most modern dilemmas have options he did not have, such as delay, mediation or leaving.",
-    "verified": true
-   },
-   "challenge": {
-    "label": "Viveka's application",
-    "principle": "ask-for-help-when-lost",
-    "name": "When you are lost, say so and ask",
-    "text": "If your conscience leans the other way, here is the other view: When you are lost, say so and ask. Arjuna's turning point comes when he admits his mind is confused about what is right and asks for clear guidance; learning begins with that admission.",
-    "source": {
-     "label": "Source text",
-     "id": "BG.2.7",
-     "english": "My nature is overcome by a pitiful weakness, and my mind is confused about what is right. I ask you: tell me clearly what is better. I am your student; I have come to you for refuge. Teach me."
-    },
-    "when_the_recommendation_misleads": "It is used to blame people whose struggles come from illness, injustice or circumstances beyond their control."
-   },
-   "next_step": {
-    "label": "Viveka's application",
-    "text": "Pick the one action that is fully in your hands today, and do it before anything else."
    },
    "safety_footer": {
     "label": "Viveka's application",
@@ -21598,6 +21596,7 @@
     "months_since_loss": null,
     "frames": [
      "decision",
+     "ageing",
      "death_question"
     ]
    },

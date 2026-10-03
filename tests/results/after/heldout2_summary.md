@@ -1,4 +1,4 @@
-# Test results: heldout2 (internal mode), tag after
+# Test results: heldout2 (internal mode), tag selfcheck
 
 30 situations. Automatic proxy scores, 0-2 per dimension (max 12 per answer).
 
@@ -66,7 +66,7 @@ Lowest-scoring answers:
 - V010 (8/12, top: meet-people-where-they-are): top meet-people-where-they-are not acceptable
 - V004 (9/12, top: suppression-backfires): top suppression-backfires not acceptable
 - V013 (9/12, top: fearlessness): top fearlessness not acceptable
-- V023 (9/12, top: understand-before-acting):
+- V023 (9/12, top: understand-before-acting)
 - V007 (10/12, top: wealth-never-satisfies): top wealth-never-satisfies not acceptable
 - V011 (10/12, top: trust-with-care): top trust-with-care not acceptable
 - V012 (10/12, top: apologise-sincerely): top apologise-sincerely not acceptable
@@ -74,6 +74,6 @@ Lowest-scoring answers:
 - V017 (10/12, top: wealth-never-satisfies): top wealth-never-satisfies not acceptable
 - V020 (10/12, top: chariot-of-the-mind): top chariot-of-the-mind not acceptable; acceptable one in top 3
 - V021 (10/12, top: not-knowing-is-part-of-knowing): top not-knowing-is-part-of-knowing not acceptable; acceptable one in top 3
-- V024 (10/12, top: persist-in-the-real-question):
-- V025 (10/12, top: steady-practice):
-- V006 (11/12, top: honour-the-grief-first):
+- V024 (10/12, top: persist-in-the-real-question)
+- V025 (10/12, top: steady-practice)
+- V006 (11/12, top: honour-the-grief-first)

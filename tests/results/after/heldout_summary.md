@@ -1,4 +1,4 @@
-# Test results: heldout (internal mode), tag after
+# Test results: heldout (internal mode), tag selfcheck
 
 30 situations. Automatic proxy scores, 0-2 per dimension (max 12 per answer).
 
@@ -68,12 +68,12 @@ Lowest-scoring answers:
 - H017 (10/12, top: pleasant-versus-good): top pleasant-versus-good not acceptable
 - H021 (10/12, top: guard-the-senses): top guard-the-senses not acceptable
 - H029 (10/12, top: ask-for-help-when-lost): top ask-for-help-when-lost not acceptable; acceptable one in top 3
-- H030 (10/12, top: non-violence):
-- H002 (11/12, top: guard-your-gains):
-- H006 (11/12, top: contact-pleasures-end):
-- H007 (11/12, top: more-than-body-and-roles):
-- H014 (11/12, top: give-without-expecting-return):
-- H018 (11/12, top: persist-in-the-real-question):
-- H023 (11/12, top: self-as-friend):
-- H024 (11/12, top: work-not-results):
-- H025 (11/12, top: ask-for-help-when-lost):
+- H030 (10/12, top: non-violence)
+- H002 (11/12, top: guard-your-gains)
+- H006 (11/12, top: contact-pleasures-end)
+- H007 (11/12, top: more-than-body-and-roles)
+- H014 (11/12, top: give-without-expecting-return)
+- H018 (11/12, top: persist-in-the-real-question)
+- H023 (11/12, top: self-as-friend)
+- H024 (11/12, top: work-not-results)
+- H025 (11/12, top: ask-for-help-when-lost)

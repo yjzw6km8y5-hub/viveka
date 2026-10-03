@@ -1,4 +1,4 @@
-# Test results: paired (internal mode), tag after
+# Test results: paired (internal mode), tag selfcheck
 
 14 situations. Automatic proxy scores, 0-2 per dimension (max 12 per answer).
 

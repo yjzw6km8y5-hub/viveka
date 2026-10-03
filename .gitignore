@@ -18,3 +18,6 @@ proposals/pending/
 proposals/sources/
 proposals/declined/
 proposals/state.json
+
+# Self-check runs (scripts/self_check.py); the accepted baseline is tests/results/after/
+tests/results/selfcheck/

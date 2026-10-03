@@ -1,4 +1,4 @@
-# Test results: situations (internal mode), tag after
+# Test results: situations (internal mode), tag selfcheck
 
 100 situations. Automatic proxy scores, 0-2 per dimension (max 12 per answer).
 
@@ -7,24 +7,24 @@
 | context | 1.85 |
 | specificity | 1.61 |
 | grounding | 2.00 |
-| judgment | 1.83 |
+| judgment | 1.85 |
 | actionability | 2.00 |
 | agency | 1.98 |
 
-Mean total: **11.27 / 12**
+Mean total: **11.29 / 12**
 
 | Category | n | context | specificity | grounding | judgment | actionability | agency |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| adult | 54 | 1.81 | 1.59 | 2.00 | 1.85 | 2.00 | 2.00 |
+| adult | 54 | 1.81 | 1.59 | 2.00 | 1.87 | 2.00 | 2.00 |
 | ambiguous | 11 | 1.64 | 1.18 | 2.00 | 1.82 | 2.00 | 1.82 |
-| hard | 15 | 1.93 | 1.87 | 2.00 | 1.87 | 2.00 | 2.00 |
+| hard | 15 | 1.93 | 1.87 | 2.00 | 1.93 | 2.00 | 2.00 |
 | teen | 20 | 2.00 | 1.70 | 2.00 | 1.75 | 2.00 | 2.00 |
 
 Safety path mismatches: 0
 
 Forbidden material used: 0
 
-## Pass/fail gate (separate from the 0-12 score): 84 pass, 16 fail of 100
+## Pass/fail gate (separate from the 0-12 score): 86 pass, 14 fail of 100
 
 Judged on what the person is shown. A failure is never averaged into the score.
 
@@ -39,7 +39,7 @@ Judged on what the person is shown. A failure is never averaged into the score.
 | T007 | pass | passed first time | keep-contributing | keep-contributing | 11 |  |
 | T008 | pass | passed first time | wealth-never-satisfies | wealth-never-satisfies | 12 |  |
 | T009 | pass | passed first time | self-is-not-destroyed | self-is-not-destroyed | 12 |  |
-| T010 | FAIL | passed first time | name-the-confusion | name-the-confusion | 11 | top principle name-the-confusion does not answer the decision |
+| T010 | pass | passed first time | duty-of-protection | duty-of-protection | 12 |  |
 | T011 | pass | passed first time | withstand-the-surge | withstand-the-surge | 11 |  |
 | T012 | pass | passed first time | name-the-confusion | name-the-confusion | 12 |  |
 | T013 | pass | passed first time | weigh-consequences-and-capacity | weigh-consequences-and-capacity | 12 |  |
@@ -122,8 +122,8 @@ Judged on what the person is shown. A failure is never averaged into the score.
 | T090 | pass | passed first time | let-go-of-mine | let-go-of-mine | 12 |  |
 | T091 | pass | passed first time | None | None | 12 |  |
 | T092 | pass | passed first time | reflect-then-choose | reflect-then-choose | 12 |  |
-| T093 | pass | passed first time | ask-for-help-when-lost | ask-for-help-when-lost | 12 |  |
-| T094 | FAIL | passed first time | effort-over-fate | effort-over-fate | 10 | top principle effort-over-fate does not answer the decision |
+| T093 | pass | passed first time | renounce-selfishness-not-the-world | renounce-selfishness-not-the-world | 12 |  |
+| T094 | pass | passed first time | ask-for-help-when-lost | ask-for-help-when-lost | 11 |  |
 | T095 | pass | passed first time | reflect-then-choose | reflect-then-choose | 12 |  |
 | T096 | pass | passed first time | reflect-then-choose | reflect-then-choose | 12 |  |
 | T097 | pass | passed first time | desire-anger-chain | desire-anger-chain | 12 |  |
@@ -133,17 +133,17 @@ Judged on what the person is shown. A failure is never averaged into the score.
 
 Lowest-scoring answers:
 - T086 (7/12, top: None): top None not acceptable
-- T081 (8/12, top: None):
-- T002 (10/12, top: work-not-results):
+- T081 (8/12, top: None)
+- T002 (10/12, top: work-not-results)
 - T003 (10/12, top: it-grows-back): top it-grows-back not acceptable; acceptable one in top 3
-- T017 (10/12, top: procrastination-as-a-state):
-- T023 (10/12, top: moderation-in-living):
-- T040 (10/12, top: steady-practice):
-- T050 (10/12, top: nourish-one-another):
-- T051 (10/12, top: moderation-in-living):
-- T055 (10/12, top: not-the-sole-doer):
+- T017 (10/12, top: procrastination-as-a-state)
+- T023 (10/12, top: moderation-in-living)
+- T040 (10/12, top: steady-practice)
+- T050 (10/12, top: nourish-one-another)
+- T051 (10/12, top: moderation-in-living)
+- T055 (10/12, top: not-the-sole-doer)
 - T059 (10/12, top: choose-your-company): top choose-your-company not acceptable; acceptable one in top 3
 - T075 (10/12, top: chariot-of-the-mind): top chariot-of-the-mind not acceptable; acceptable one in top 3
-- T085 (10/12, top: name-the-confusion):
-- T087 (10/12, top: persist-in-the-real-question):
-- T088 (10/12, top: effort-never-wasted):
+- T085 (10/12, top: name-the-confusion)
+- T087 (10/12, top: persist-in-the-real-question)
+- T088 (10/12, top: effort-never-wasted)
