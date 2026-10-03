@@ -1,0 +1,244 @@
+{
+ "results": [
+  {
+   "id": "NS.9",
+   "verdict": "disagree",
+   "problem": "The rendering omits nirupamarasam, which describes the bone as having incomparable flavour, in addition to saying that the dog eats it with relish.",
+   "sanskrit_says": "The dog gladly eats a meatless human bone that is worm-covered, saliva-soaked, foul-smelling and disgusting, yet of incomparable flavour; it does not heed even Indra nearby, since a petty creature does not recognize the worthlessness of its possession."
+  },
+  {
+   "id": "NS.10",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.11",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.12",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.13",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.14",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.15",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.16",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.17",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.18",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.19",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.20",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.21",
+   "verdict": "disagree",
+   "problem": "The supplied Sanskrit has vacanena, “speech” or “words,” not kavacena, “armour”; the English silently follows a different reading.",
+   "sanskrit_says": "As the text stands, it asks: “If there is forbearance, what need is there of speech?” The remaining comparisons are rendered correctly."
+  },
+  {
+   "id": "NS.22",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.23",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.24",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.25",
+   "verdict": "disagree",
+   "problem": "The English omits the epithet viṣṭapahārin, “taker-away or destroyer of the world,” applied to Hari.",
+   "sanskrit_says": "All the listed blessings are obtained when wish-granting Hari, the taker-away of the world, is pleased."
+  },
+  {
+   "id": "NS.26",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.27",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.28",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.29",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.30",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.31",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.32",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.33",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.34",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.35",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.36",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.37",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.38",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.39",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.40",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.41",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.42",
+   "verdict": "disagree",
+   "problem": "“Careless spending” merges two separate causes, tyāga and pramāda, and therefore omits their distinction.",
+   "sanskrit_says": "Wealth is ruined through relinquishing or giving it away and through negligence or carelessness."
+  },
+  {
+   "id": "NS.43",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.44",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.45",
+   "verdict": "disagree",
+   "problem": "“When full” misleadingly suggests physical satiety; sampūrṇa here contrasts with destitution and means having become prosperous or wealthy.",
+   "sanskrit_says": "A destitute person longs for a handful of barley, but after becoming prosperous regards the entire earth as no more valuable than grass."
+  },
+  {
+   "id": "NS.46",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.47",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  },
+  {
+   "id": "NS.48",
+   "verdict": "agree",
+   "problem": "",
+   "sanskrit_says": ""
+  }
+ ]
+}
