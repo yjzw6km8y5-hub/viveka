@@ -40,6 +40,14 @@ textarea{flex:1;border:0;outline:0;resize:none;min-height:44px;max-height:160px;
 .panel h2{margin:0 0 6px;font-size:20px}.panel label{display:block;margin:14px 0 6px;font-weight:600}
 .panel input,.panel select{width:100%;border:1px solid var(--line);border-radius:10px;padding:10px;background:var(--bg);color:var(--fg);font:inherit}
 .sw{display:flex;align-items:center;gap:8px;margin-top:14px}
+.steps{display:flex;gap:4px;margin:0 0 12px}.steps i{flex:1;height:4px;border-radius:9px;background:var(--line)}.steps i.on{background:var(--acc)}
+.panel{max-height:92vh;overflow:auto}.lk{margin:10px 0 0}.lk p{margin:0 0 6px;font-size:15px}.lk .sc{display:flex;gap:4px}.lk .sc button{flex:1;border:1px solid var(--line);background:var(--bg);color:var(--fg);border-radius:8px;padding:6px 0;font:inherit;font-size:13px;cursor:pointer}.lk .sc button.on{background:var(--acc);color:#fff;border-color:var(--acc)}
+.ends{display:flex;justify-content:space-between;font-size:11px;color:var(--mut);margin-top:2px}
+.tr{margin:8px 0}.tr .r{display:flex;justify-content:space-between;font-size:14px}.tr .k{height:8px;border-radius:9px;background:var(--line);overflow:hidden;margin-top:3px}.tr .k i{display:block;height:100%;background:var(--acc)}
+.map{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:10px}.tile{border:1px solid var(--line);border-radius:12px;padding:10px;background:var(--bg)}.tile b{display:block}.tile .mut{font-size:12px}
+.tile input[type=range]{width:100%;accent-color:var(--acc)}.tile .val{font-weight:700;color:var(--acc)}
+.seg{display:flex;border:1px solid var(--line);border-radius:999px;overflow:hidden;margin-top:8px}.seg button{flex:1;border:0;background:none;color:var(--fg);padding:7px;font:inherit;font-size:14px;cursor:pointer}.seg button.on{background:var(--fg);color:var(--bg)}
+.lens{background:var(--soft);border-radius:12px;padding:10px 12px;margin-top:10px;font-size:14px}.lens>b:first-child{display:block;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--mut)}
 form.case textarea,form.case input,form.case select{width:100%;border:1px solid var(--line);border-radius:10px;padding:8px;background:var(--bg);color:var(--fg);font:inherit;margin:4px 0}
 </style></head><body><div class="app">
 <header><div class="logo">V</div><h1>Viveka</h1><button class="icon" id="devbtn" hidden onclick="showCase()">Test case</button><button class="icon" onclick="openSettings()" title="Settings">⚙ Settings</button></header>
@@ -49,17 +57,13 @@ form.case textarea,form.case input,form.case select{width:100%;border:1px solid 
 <textarea id="q" rows="1" placeholder="What's on your mind?"></textarea><button class="send" onclick="send()" title="Send">➤</button></div>
 <div class="foot" id="foot">Local test page · not published · nothing you write is saved</div>
 </footer></div>
-<div class="overlay" id="onb" hidden><div class="panel">
-<h2>Before we start</h2><p class="mut">Two quick questions, so the help lines and answers fit you. Your answers stay on this device.</p>
-<label for="o_age">Your age</label><input id="o_age" type="number" min="10" max="110" placeholder="e.g. 34">
-<label for="o_country">Where are you?</label><select id="o_country"><option value="CA">Canada</option><option value="IN">India</option><option value="US">United States</option><option value="UK">United Kingdom</option><option value="">Somewhere else</option></select>
-<p class="mut" style="margin-top:14px">Coming next: a short personality check (Big Five) and a life map (Dharma, Artha, Kama, Moksha).</p>
-<div class="row"><button class="btn" onclick="saveOnb()">Start</button></div></div></div>
+<div class="overlay" id="onb" hidden><div class="panel" id="onbp"></div></div>
 <div class="overlay" id="set" hidden><div class="panel">
 <h2>Settings</h2>
 <label for="s_age">Age</label><input id="s_age" type="number" min="10" max="110">
 <label for="s_country">Country (for help lines)</label><select id="s_country"><option value="CA">Canada</option><option value="IN">India</option><option value="US">United States</option><option value="UK">United Kingdom</option><option value="">Somewhere else</option></select>
 <div class="sw"><input type="checkbox" id="s_ai"><span>AI-written answers <span class="mut">(uses Claude through the owner's subscription; your text leaves this device; testing only)</span></span></div>
+<div class="row"><button class="btn ghost" onclick="closeSettings();showProfile()">Your profile</button><button class="btn ghost" onclick="closeSettings();onb(2)">Redo personality and life map</button></div>
 <div class="row"><button class="btn" onclick="saveSettings()">Save</button><button class="btn ghost" onclick="closeSettings()">Cancel</button><button class="btn ghost" onclick="resetAll()">Forget me</button></div></div></div>
 <div class="overlay" id="casebox" hidden><div class="panel">
 <h2>Add a test case</h2><p class="mut">Developer only. A realistic situation the engine has never seen, and what a good answer must do. Scored once before anyone tunes against it.</p>
@@ -97,6 +101,7 @@ const a=await post('/answer',{q:cur.q,context:ctx,profile:profile(),ai:!!(prof&&
 a.cards.filter(c=>c.kind!=='support').forEach(card);
 let h=`<div class="opening">${esc(a.opening)}</div><p>${esc(a.body)}</p>`;
 if(a.next_step)h+=`<div class="step"><b>One next step</b>${esc(a.next_step)}</div>`;
+h+=lensNote(a.aims);
 if(a.closest)h+=`<div class="fit"><div class="lab">Closest fit</div><div><span class="tagc top">${esc(a.closest)}</span></div>${a.also.length?`<div class="lab">Also worth considering</div><div>${a.also.map(x=>`<span class="tagc">${esc(x)}</span>`).join('')}</div>`:''}</div>`;
 for(const s of a.sources)h+=`<details><summary>The text (${esc(s.id)})</summary><p>"${esc(s.english)}"</p><details><summary>Sanskrit</summary><div class="dev">${esc(s.devanagari)}</div></details></details>`;
 if(a.why)h+=`<details><summary>Why this fits you</summary><p>${esc(a.why)}</p></details>`;
@@ -106,11 +111,51 @@ if(a.example)h+=`<details><summary>A story from the texts</summary><p><b>${esc(a
 h+=`<p class="draft" style="margin-top:10px">Draft · ${a.reviewed} of ${a.sources.length} verses reviewed by a Sanskrit reader · written by ${esc(a.written_by)}</p>`;
 add(h,'v');$('foot').innerHTML='If you are in crisis or not safe: '+a.footer.map(x=>`${esc(x.name.split('(')[0].trim())} <b>${esc(x.number)}</b>`).join(' · ');cur=null}
 async function post(u,b){try{return await(await fetch(u,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(b)})).json()}catch(e){return{error:'Could not reach the local server.'}}}
-function saveOnb(){prof={age:$('o_age').value,country:$('o_country').value,ai:true};store.set(prof);$('onb').hidden=true;greet()}
+// Mini-IPIP (Donnellan et al., 2006): 20 public-domain IPIP items. r = reverse-scored.
+const IPIP=[["E","Am the life of the party."],["A","Sympathize with others' feelings."],["C","Get chores done right away."],["N","Have frequent mood swings."],["O","Have a vivid imagination."],
+["E","Don't talk a lot.",1],["A","Am not interested in other people's problems.",1],["C","Often forget to put things back in their proper place.",1],["N","Am relaxed most of the time.",1],["O","Am not interested in abstract ideas.",1],
+["E","Talk to a lot of different people at parties."],["A","Feel others' emotions."],["C","Like order."],["N","Get upset easily."],["O","Have difficulty understanding abstract ideas.",1],
+["E","Keep in the background.",1],["A","Am not really interested in others.",1],["C","Make a mess of things.",1],["N","Seldom feel blue.",1],["O","Do not have a good imagination.",1]];
+const TRAITS={O:["Openness","curious, imaginative"],C:["Conscientiousness","organised, dependable"],E:["Extraversion","outgoing, energised by people"],A:["Agreeableness","warm, cooperative"],N:["Emotional sensitivity","feels stress and ups and downs strongly"]};
+const PA=[["dharma","Dharma","duty, values, doing right by others"],["artha","Artha","work, money, security"],["kama","Kama","joy, love, beauty, pleasure"],["moksha","Moksha","inner freedom, meaning, peace"]];
+const IK=[["love","What you love","what lights you up"],["good","What you're good at","your strengths"],["need","What the world needs","how you help others"],["paid","What you can be paid for","your livelihood"]];
+let draft={};
+function onb(step){draft={...(prof||{age:'',country:'CA',ai:true}),...draft};$('onb').hidden=false;const P=$('onbp');const bar=`<div class="steps">${[1,2,3,4].map(i=>`<i class="${i<=step?'on':''}"></i>`).join('')}</div>`;
+if(step===1){P.innerHTML=`${bar}<h2>Before we start</h2><p class="mut">So the help lines and answers fit you. Everything you enter stays on this device.</p>
+<label for="o_age">Your age</label><input id="o_age" type="number" min="10" max="110" placeholder="e.g. 34" value="${esc(draft.age||'')}">
+<label for="o_country">Where are you?</label><select id="o_country">${[["CA","Canada"],["IN","India"],["US","United States"],["UK","United Kingdom"],["","Somewhere else"]].map(([v,n])=>`<option value="${v}" ${draft.country===v?'selected':''}>${n}</option>`).join('')}</select>
+<div class="row"><button class="btn" onclick="draft.age=$('o_age').value;draft.country=$('o_country').value;onb(2)">Next</button></div>`}
+if(step===2){draft.b5=draft.b5||{};P.innerHTML=`${bar}<h2>How you tend to be</h2><p class="mut">20 quick statements (a public-domain Big Five measure). How accurately does each describe you? Not a test or a diagnosis.</p>
+${IPIP.map((it,i)=>`<div class="lk"><p>I ${esc(it[1].charAt(0).toLowerCase()+it[1].slice(1))}</p><div class="sc" data-i="${i}">${[1,2,3,4,5].map(v=>`<button class="${draft.b5[i]===v?'on':''}" onclick="rate(this,${i},${v})">${v}</button>`).join('')}</div></div>`).join('')}
+<div class="ends"><span>1 = very inaccurate</span><span>5 = very accurate</span></div>
+<div class="row"><button class="btn" onclick="onb(3)">Next</button><button class="btn ghost" onclick="draft.b5=null;onb(3)">Skip</button></div><p class="mut" id="b5n"></p>`}
+if(step===3){draft.map=draft.map||{type:'pa',v:{}};const m=draft.map,L=m.type==='pa'?PA:IK;P.innerHTML=`${bar}<h2>Your life map</h2><p class="mut">How settled or fulfilled does each part of your life feel right now? 1 = not at all, 10 = completely.</p>
+<div class="seg"><button class="${m.type==='pa'?'on':''}" onclick="draft.map={type:'pa',v:{}};onb(3)">Dharma · Artha · Kama · Moksha</button><button class="${m.type==='ik'?'on':''}" onclick="draft.map={type:'ik',v:{}};onb(3)">Ikigai</button></div>
+<div class="map">${L.map(([k,n,d])=>`<div class="tile"><b>${n}</b><span class="mut">${d}</span><input type="range" min="1" max="10" value="${m.v[k]||5}" oninput="draft.map.v['${k}']=+this.value;this.nextElementSibling.textContent=this.value"><span class="val">${m.v[k]||5}</span></div>`).join('')}</div>
+<div class="row"><button class="btn" onclick="L3();onb(4)">Next</button><button class="btn ghost" onclick="draft.map=null;onb(4)">Skip</button></div>`}
+if(step===4){prof={...draft};store.set(prof);P.innerHTML=`${bar}<h2>Your profile</h2><p class="mut">Kept only on this device. It shapes how Viveka frames its suggestions, never what is true.</p>${profileHTML()}<div class="row"><button class="btn" onclick="$('onb').hidden=true;draft={};greet()">Start</button></div>`}}
+function L3(){const L=draft.map.type==='pa'?PA:IK;L.forEach(([k])=>{if(!draft.map.v[k])draft.map.v[k]=5})}
+function rate(b,i,v){draft.b5[i]=v;b.parentElement.querySelectorAll('button').forEach(x=>x.classList.toggle('on',x===b));const n=Object.keys(draft.b5).length;$('b5n').textContent=n<20?`${n} of 20 answered`:'All answered'}
+function big5(b5){if(!b5)return null;const sum={},cnt={};IPIP.forEach((it,i)=>{const v=b5[i];if(!v)return;sum[it[0]]=(sum[it[0]]||0)+(it[2]?6-v:v);cnt[it[0]]=(cnt[it[0]]||0)+1});
+const out={};for(const t in TRAITS)if(cnt[t])out[t]=Math.round(((sum[t]/cnt[t])-1)/4*100);return Object.keys(out).length?out:null}
+function profileHTML(){const p=prof||{},b=big5(p.b5),m=p.map;let h='';
+if(b)h+=`<div class="lab" style="margin-top:8px;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--mut)">How you tend to be</div>`+Object.entries(TRAITS).filter(([t])=>t in b).map(([t,[n,d]])=>`<div class="tr"><div class="r"><span>${n} <span class="mut">· ${d}</span></span><span class="mut">${b[t]<35?'lower':b[t]>65?'higher':'middle'}</span></div><div class="k"><i style="width:${b[t]}%"></i></div></div>`).join('');
+if(m){const L=m.type==='pa'?PA:IK;h+=`<div style="margin-top:12px;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--mut)">Your life map${m.type==='ik'?' (Ikigai)':''}</div><div class="map">${L.map(([k,n,d])=>`<div class="tile"><b>${n} <span class="val">${m.v[k]}/10</span></b><span class="mut">${d}</span><div class="tr"><div class="k"><i style="width:${m.v[k]*10}%"></i></div></div></div>`).join('')}</div>`}
+return h||'<p class="mut">No personality or life map answers yet.</p>'}
+function showProfile(){$('onb').hidden=false;$('onbp').innerHTML=`<h2>Your profile</h2><p class="mut">Kept only on this device.</p>${profileHTML()}<div class="row"><button class="btn" onclick="$('onb').hidden=true">Close</button><button class="btn ghost" onclick="onb(2)">Redo</button></div>`}
+// A short note computed on this device only: nothing about the profile is sent anywhere.
+function lensNote(aims){const p=prof||{},b=big5(p.b5),m=p.map,out=[];
+if(m&&aims&&aims.length){if(m.type==='pa'){const a=PA.find(x=>x[0]===aims[0]);if(a){const v=m.v[a[0]];out.push(`This touches <b>${a[1]}</b> (${a[2]}), which you rated ${v}/10${v<=4?': an area that feels unsettled, so go gently':v>=8?': a strength you can lean on':''}.`)}}
+else{const map={artha:'paid',dharma:'need',kama:'love'};const k=map[aims[0]];const a=IK.find(x=>x[0]===k);if(a)out.push(`This touches <b>${a[1]}</b>, which you rated ${m.v[k]}/10.`)}}
+if(b){if(b.C!==undefined&&b.C<35)out.push('You said routines are not your strongest suit: make the next step small and give it a time.');
+else if(b.N!==undefined&&b.N>65)out.push('You said you feel things strongly: take the next step slowly, and pause if it feels heavy.');
+else if(b.E!==undefined&&b.E<35&&aims)out.push('If talking to people drains you, a written message is a fine first step.')}
+return out.length?`<div class="lens"><b>Through your profile (on this device)</b>${out.join(' ')}</div>`:''}
+function saveOnb(){onb(2)}
 function openSettings(){const p=prof||{};$('s_age').value=p.age||'';$('s_country').value=p.country??'CA';$('s_ai').checked=!!p.ai;$('set').hidden=false}
 function closeSettings(){$('set').hidden=true}
 function saveSettings(){prof={...(prof||{}),age:$('s_age').value,country:$('s_country').value,ai:$('s_ai').checked};store.set(prof);closeSettings()}
-function resetAll(){store.clear();prof=null;closeSettings();$('onb').hidden=false}
+function resetAll(){store.clear();prof=null;draft={};closeSettings();onb(1)}
 function showCase(){$('casebox').hidden=false}
 async function addCase(e){e.preventDefault();const b={text:$('ct').value.trim(),category:$('cc').value,safety:$('cs').value||null,good_answer:$('cg').value.trim(),author:$('cn').value.trim()};
 if(!b.text||!b.good_answer||!b.author){$('cout').innerHTML='<p class="mut">Please fill in the situation, what a good answer must do, and your name.</p>';return}
@@ -120,5 +165,5 @@ if(rec){rec.stop();return}rec=new SR();rec.lang='en-IN';rec.interimResults=true;
 rec.onresult=e=>{let t='';for(const r of e.results)t+=r[0].transcript;q.value=(base?base+' ':'')+t};rec.onend=()=>{m.classList.remove('rec');rec=null};rec.onerror=()=>{m.classList.remove('rec');rec=null};
 m.classList.add('rec');$('foot').textContent="Listening… Voice is turned into text by your browser's speech service, which may send the audio to its provider.";rec.start()}
 $('q').addEventListener('keydown',e=>{if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();send()}});
-if(!prof)$('onb').hidden=false;else greet();
+if(!prof)onb(1);else greet();
 </script></body></html>

@@ -29,6 +29,9 @@ Rules:
 - Then say what you suggest and why it fits THEIR situation, in 2-4 sentences.
 - Use only facts the person stated, and never join separate facts they did not join (for example, do not assume
   the person they mention is someone they live with). If unsure, leave it out.
+- "background" holds the person's answers to quick context questions (who they live with, constraints, timing).
+  Use it only to fit the advice; never claim it is connected to their message, and do not mention it unless it
+  clearly changes the advice.
 - You may quote a passage only word for word from the English given, in double quotes, with its ID in brackets,
   e.g. "..." (BG.2.47). Never quote or paraphrase anything not given. Never invent facts about the person.
 - Mention the alternative view in one sentence, fairly.
@@ -69,7 +72,8 @@ def available():
 def material(a):
     rec = a.get("recommendation") or {}
     return {
-        "message": a.get("question", ""),
+        "message": a.get("user_message") or a.get("question", ""),
+        "background": a.get("background", []),
         "understood": {k: a["understanding"].get(k) for k in ("situations", "people", "options", "age", "frames")},
         "recommended": {"principle": rec.get("name"), "meaning": rec.get("text"), "fit": rec.get("why_it_fits_you"),
                         "application": rec.get("application")},

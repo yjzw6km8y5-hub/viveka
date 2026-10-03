@@ -114,7 +114,10 @@ def compose(q, ctx):
 
 def respond(b):
     prof, region = profile_of(b)
-    a = answer(compose(str(b.get("q", ""))[:4000], b.get("context"))[:6000], prof, mode="internal", region=region)
+    q = str(b.get("q", ""))[:4000]
+    a = answer(compose(q, b.get("context"))[:6000], prof, mode="internal", region=region)
+    a["user_message"] = q  # the AI writer sees the message and the context answers separately
+    a["background"] = [x for x in compose("", b.get("context")).split(". ") if x.strip()]
     written, note = (llm.write(a) if b.get("ai") else (None, "AI writing is off in settings"))
     rec = a.get("recommendation") or {}
     meaning = rec.get("text", "")
@@ -130,6 +133,7 @@ def respond(b):
         "body": (written or {}).get("answer") or meaning,
         "next_step": (written or {}).get("next_step") or (a.get("next_step") or {}).get("text"),
         "closest": rec.get("name"), "also": [c["name"] for c in comp[1:3]],
+        "aims": lib["principles"].get(rec.get("principle"), {}).get("aims", []),
         "why": rec.get("why_it_fits_you"), "application": rec.get("application"),
         "sources": [{"id": s["id"], "english": s["english"], "devanagari": s["devanagari"]} for s in a.get("sources", [])],
         "alternative": (written or {}).get("alternative") or (a.get("challenge") or {}).get("text"),

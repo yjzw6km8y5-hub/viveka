@@ -13,12 +13,45 @@ SHOTS = ROOT / "claude-chat" / "screenshots"
 REPO = "https://github.com/yjzw6km8y5-hub/viveka"
 RAW = "https://raw.githubusercontent.com/yjzw6km8y5-hub/viveka/main"
 
-INTERFACE = """### Screen 1: Onboarding (first visit only)
-- Panel title **Before we start**. Text: "Two quick questions, so the help lines and answers fit you. Your answers stay on this device."
-- **Your age**: number field, placeholder "e.g. 34".
-- **Where are you?**: Canada (default) / India / United States / United Kingdom / Somewhere else.
-- Note: "Coming next: a short personality check (Big Five) and a life map (Dharma, Artha, Kama, Moksha)."
-- Button **Start**. The answers are kept in the browser on this device only; nothing is sent anywhere except with each question to the local engine.
+INTERFACE = """### Screen 1: Onboarding (first visit only; four steps with a progress bar)
+1. **Before we start:** "So the help lines and answers fit you. Everything you enter stays on this device."
+   - **Your age**: number, placeholder "e.g. 34".
+   - **Where are you?**: Canada (default) / India / United States / United Kingdom / Somewhere else.
+   - **Next**.
+2. **How you tend to be:** "20 quick statements (a public-domain Big Five measure). How accurately does each describe you? Not a test or a diagnosis."
+   - The 20 Mini-IPIP statements, each with buttons 1-5 ("1 = very inaccurate", "5 = very accurate"):
+     - "I am the life of the party."
+     - "I sympathize with others' feelings."
+     - "I get chores done right away."
+     - "I have frequent mood swings."
+     - "I have a vivid imagination."
+     - "I don't talk a lot."
+     - "I am not interested in other people's problems."
+     - "I often forget to put things back in their proper place."
+     - "I am relaxed most of the time."
+     - "I am not interested in abstract ideas."
+     - "I talk to a lot of different people at parties."
+     - "I feel others' emotions."
+     - "I like order."
+     - "I get upset easily."
+     - "I have difficulty understanding abstract ideas."
+     - "I keep in the background."
+     - "I am not really interested in others."
+     - "I make a mess of things."
+     - "I seldom feel blue."
+     - "I do not have a good imagination."
+   - A counter ("N of 20 answered"). **Next** and **Skip**.
+3. **Your life map:** "How settled or fulfilled does each part of your life feel right now? 1 = not at all, 10 = completely."
+   - A switch: **Dharma · Artha · Kama · Moksha** | **Ikigai**.
+   - Four tiles, each with a 1-10 slider:
+     - Dharma "duty, values, doing right by others", Artha "work, money, security", Kama "joy, love, beauty, pleasure", Moksha "inner freedom, meaning, peace".
+     - Or, for Ikigai: "What you love", "What you're good at", "What the world needs", "What you can be paid for".
+   - **Next** and **Skip**.
+4. **Your profile:** "Kept only on this device. It shapes how Viveka frames its suggestions, never what is true."
+   - Five trait bars: Openness, Conscientiousness, Extraversion, Agreeableness, Emotional sensitivity. Each has a short description and is marked lower / middle / higher.
+   - The life map as four tiles with N/10 bars.
+   - **Start**.
+- Everything stays in the browser on this device. The profile itself is never sent to the server or to the AI.
 
 ### Screen 2: Conversation (home)
 - Header: "V" logo, **Viveka**, **⚙ Settings**. (A **Test case** button appears only with `?dev=1`.)
@@ -50,6 +83,7 @@ INTERFACE = """### Screen 1: Onboarding (first visit only)
 - **Opening:** one sentence to the person, in large text, e.g. "After a fight with someone close, it can help to look at what a true friend does."
 - **Body:** a short paragraph (AI-written from the checked passages, or Viveka's own text if AI is off or fails the check).
 - **ONE NEXT STEP:** a green box with one action.
+- **THROUGH YOUR PROFILE (ON THIS DEVICE):** a sand-coloured note worked out in the browser. For example, "This touches **Dharma** (duty, values, doing right by others), which you rated 7/10." It adds one tip from the Big Five when relevant: low conscientiousness gives "make the next step small and give it a time"; high emotional sensitivity gives "take the next step slowly…"; low extraversion gives "a written message is a fine first step".
 - **CLOSEST FIT:** the principle, as an orange tag.
 - **ALSO WORTH CONSIDERING:** one or two principles, as tags.
 - **Folded sections:**
@@ -60,6 +94,7 @@ INTERFACE = """### Screen 1: Onboarding (first visit only)
 ### Screen 5: Settings (⚙)
 - **Age**, **Country (for help lines)**.
 - **AI-written answers** checkbox, labelled "uses Claude through the owner's subscription; your text leaves this device; testing only".
+- Buttons **Your profile** (shows the profile summary) and **Redo personality and life map**.
 - Buttons **Save**, **Cancel**, **Forget me** (clears the device profile and shows onboarding again).
 
 ### Screen 6: Add a test case (developer only, `?dev=1`)

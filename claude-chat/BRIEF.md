@@ -1,6 +1,6 @@
 # Viveka: brief for the Claude planning chat
 
-_Updated 2026-10-03 01:46 Eastern Daylight Time by `scripts/brief.py` after a cycle. Repo: https://github.com/yjzw6km8y5-hub/viveka_
+_Updated 2026-10-03 01:58 Eastern Daylight Time by `scripts/brief.py` after a cycle. Repo: https://github.com/yjzw6km8y5-hub/viveka_
 
 ## Current status
 
@@ -10,7 +10,7 @@ _Updated 2026-10-03 01:46 Eastern Daylight Time by `scripts/brief.py` after a cy
 
   0. **Owner decisions of 2026-10-03, build now** (CONTEXT.md):
      - **Context-first answer flow:** before recommending, ask about who they live with, where they are and their constraints. Offer a "just answer" option. Show safety and health help at once, and never delay them.
-     - **Visual onboarding on the try-it page** (age and country done 2026-10-03; still to build):
+     - **Visual onboarding on the try-it page** (done 2026-10-03: age, country, Big Five, life map):
        - a short Big Five questionnaire, using public-domain IPIP items
        - a Dharma / Artha / Kama / Moksha life map, with Ikigai as an alternative
        - the profile stays in the browser for the visit only; never send or save it
@@ -42,11 +42,12 @@ _Updated 2026-10-03 01:46 Eastern Daylight Time by `scripts/brief.py` after a cy
 
 - **Cycles:** 6 (5 ok, 1 failed); by builder: codex 1, claude 5.
 - **Not yet reviewed by the other tool:** 0.
-- **Commits:** 37.
+- **Commits:** 38.
 - **Failed:** cycle 4, push blocked by external-transfer approval boundary; local commits ready
 
 <details><summary>Commits</summary>
 
+- 10-03 01:46  Conversation UI (owner list a-h): context questions first, one answer, onboarding, settings, closest fit, help lines by country incl. Canada, Sanskrit folded; owner decisions; brief with roadmap for review
 - 10-03 01:33  Brief also overwritten in place in AI Review Desk/Viveka/BRIEF.md for the Claude chat
 - 10-03 01:31  Verse check complete: owner review list rebuilt; brief refreshed
 - 10-03 01:30  Owner decisions of 2026-10-03 (scope later phase; context-first flow; Big Five and life-map onboarding; profile storage open); claude-chat/BRIEF.md with screenshots; verse check 39/39
@@ -89,12 +90,45 @@ _Updated 2026-10-03 01:46 Eastern Daylight Time by `scripts/brief.py` after a cy
 
 ## The interface, screen by screen
 
-### Screen 1: Onboarding (first visit only)
-- Panel title **Before we start**. Text: "Two quick questions, so the help lines and answers fit you. Your answers stay on this device."
-- **Your age**: number field, placeholder "e.g. 34".
-- **Where are you?**: Canada (default) / India / United States / United Kingdom / Somewhere else.
-- Note: "Coming next: a short personality check (Big Five) and a life map (Dharma, Artha, Kama, Moksha)."
-- Button **Start**. The answers are kept in the browser on this device only; nothing is sent anywhere except with each question to the local engine.
+### Screen 1: Onboarding (first visit only; four steps with a progress bar)
+1. **Before we start:** "So the help lines and answers fit you. Everything you enter stays on this device."
+   - **Your age**: number, placeholder "e.g. 34".
+   - **Where are you?**: Canada (default) / India / United States / United Kingdom / Somewhere else.
+   - **Next**.
+2. **How you tend to be:** "20 quick statements (a public-domain Big Five measure). How accurately does each describe you? Not a test or a diagnosis."
+   - The 20 Mini-IPIP statements, each with buttons 1-5 ("1 = very inaccurate", "5 = very accurate"):
+     - "I am the life of the party."
+     - "I sympathize with others' feelings."
+     - "I get chores done right away."
+     - "I have frequent mood swings."
+     - "I have a vivid imagination."
+     - "I don't talk a lot."
+     - "I am not interested in other people's problems."
+     - "I often forget to put things back in their proper place."
+     - "I am relaxed most of the time."
+     - "I am not interested in abstract ideas."
+     - "I talk to a lot of different people at parties."
+     - "I feel others' emotions."
+     - "I like order."
+     - "I get upset easily."
+     - "I have difficulty understanding abstract ideas."
+     - "I keep in the background."
+     - "I am not really interested in others."
+     - "I make a mess of things."
+     - "I seldom feel blue."
+     - "I do not have a good imagination."
+   - A counter ("N of 20 answered"). **Next** and **Skip**.
+3. **Your life map:** "How settled or fulfilled does each part of your life feel right now? 1 = not at all, 10 = completely."
+   - A switch: **Dharma · Artha · Kama · Moksha** | **Ikigai**.
+   - Four tiles, each with a 1-10 slider:
+     - Dharma "duty, values, doing right by others", Artha "work, money, security", Kama "joy, love, beauty, pleasure", Moksha "inner freedom, meaning, peace".
+     - Or, for Ikigai: "What you love", "What you're good at", "What the world needs", "What you can be paid for".
+   - **Next** and **Skip**.
+4. **Your profile:** "Kept only on this device. It shapes how Viveka frames its suggestions, never what is true."
+   - Five trait bars: Openness, Conscientiousness, Extraversion, Agreeableness, Emotional sensitivity. Each has a short description and is marked lower / middle / higher.
+   - The life map as four tiles with N/10 bars.
+   - **Start**.
+- Everything stays in the browser on this device. The profile itself is never sent to the server or to the AI.
 
 ### Screen 2: Conversation (home)
 - Header: "V" logo, **Viveka**, **⚙ Settings**. (A **Test case** button appears only with `?dev=1`.)
@@ -126,6 +160,7 @@ _Updated 2026-10-03 01:46 Eastern Daylight Time by `scripts/brief.py` after a cy
 - **Opening:** one sentence to the person, in large text, e.g. "After a fight with someone close, it can help to look at what a true friend does."
 - **Body:** a short paragraph (AI-written from the checked passages, or Viveka's own text if AI is off or fails the check).
 - **ONE NEXT STEP:** a green box with one action.
+- **THROUGH YOUR PROFILE (ON THIS DEVICE):** a sand-coloured note worked out in the browser. For example, "This touches **Dharma** (duty, values, doing right by others), which you rated 7/10." It adds one tip from the Big Five when relevant: low conscientiousness gives "make the next step small and give it a time"; high emotional sensitivity gives "take the next step slowly…"; low extraversion gives "a written message is a fine first step".
 - **CLOSEST FIT:** the principle, as an orange tag.
 - **ALSO WORTH CONSIDERING:** one or two principles, as tags.
 - **Folded sections:**
@@ -136,6 +171,7 @@ _Updated 2026-10-03 01:46 Eastern Daylight Time by `scripts/brief.py` after a cy
 ### Screen 5: Settings (⚙)
 - **Age**, **Country (for help lines)**.
 - **AI-written answers** checkbox, labelled "uses Claude through the owner's subscription; your text leaves this device; testing only".
+- Buttons **Your profile** (shows the profile summary) and **Redo personality and life map**.
 - Buttons **Save**, **Cancel**, **Forget me** (clears the device profile and shows onboarding again).
 
 ### Screen 6: Add a test case (developer only, `?dev=1`)
@@ -149,10 +185,12 @@ _Updated 2026-10-03 01:46 Eastern Daylight Time by `scripts/brief.py` after a cy
 
 ## Screenshots
 
-- [1-onboarding](https://raw.githubusercontent.com/yjzw6km8y5-hub/viveka/main/claude-chat/screenshots/1-onboarding.jpg)
+- [1-onboarding-profile](https://raw.githubusercontent.com/yjzw6km8y5-hub/viveka/main/claude-chat/screenshots/1-onboarding-profile.jpg)
 - [2-home](https://raw.githubusercontent.com/yjzw6km8y5-hub/viveka/main/claude-chat/screenshots/2-home.jpg)
 - [3-context-questions](https://raw.githubusercontent.com/yjzw6km8y5-hub/viveka/main/claude-chat/screenshots/3-context-questions.jpg)
 - [4-answer](https://raw.githubusercontent.com/yjzw6km8y5-hub/viveka/main/claude-chat/screenshots/4-answer.jpg)
+- [5-answer-details](https://raw.githubusercontent.com/yjzw6km8y5-hub/viveka/main/claude-chat/screenshots/5-answer-details.jpg)
+- [6-answer-phone](https://raw.githubusercontent.com/yjzw6km8y5-hub/viveka/main/claude-chat/screenshots/6-answer-phone.jpg)
 
 ## Owner decisions and what is still open
 

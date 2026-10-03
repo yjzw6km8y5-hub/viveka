@@ -192,4 +192,11 @@ After each piece of work, update `PROGRESS.md` with what's done and what's next.
   the last 24 hours of the runner log, the interface screen by screen, and links to screenshots in `claude-chat/screenshots/`.
 - Whenever the try-it page changes, update the screen-by-screen text in `scripts/brief.py` and save fresh screenshots to
   `claude-chat/screenshots/`.
+- After every UI change, take fresh screenshots in the browser pane at http://127.0.0.1:8765 and overwrite, in place,
+  `AI Review Desk/Viveka/screen1.jpg` to `screen4.jpg` with `python scripts/desk_screens.py HOME ANSWER_TOP ANSWER_DETAILS PHONE`:
+  - screen1: the home screen
+  - screen2: the top of the answer to "I had a fight with my best friend"
+  - screen3: the details of that answer
+  - screen4: any answer at phone width
+  Never delete, rename or recreate these files.
 

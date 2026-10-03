@@ -398,3 +398,10 @@ Technical choices made without asking, newest last. Format: date, decision, why.
   - **g.** The answer opens with one sentence to the person, not a principle name.
   - **h.** "Add a test case" is behind `?dev=1`.
 - **LLM rule added after the browser test:** the AI may use only facts the person stated, and must not join separate facts. It had assumed the "best friend" was a roommate.
+- **Big Five and life-map onboarding built (2026-10-03, owner decision c):**
+  - Step 2 is the 20-item Mini-IPIP (Donnellan et al., 2006). IPIP items are public domain. It is scored in the browser as 0-100 per trait and shown only as lower / middle / higher, with "Emotional sensitivity" in place of the clinical "neuroticism".
+  - Step 3 is the life map: Dharma, Artha, Kama and Moksha, or the four Ikigai circles, each rated 1-10 for how settled it feels.
+  - The profile stays on the device (owner decision). It is never sent to the server or the AI. The answer shows a "Through your profile" note worked out in the browser from the closest principle's aim (the server returns only the principle's aims) plus one Big Five tip.
+  - The profile frames suggestions and never changes which passages are true or recommended. Both questionnaire steps can be skipped.
+- **AI writer: message and context kept apart (2026-10-03).** It joined separate facts twice ("best friend" as roommate; a friend fight making "home" harder). It now gets the person's message and their context answers as separate fields, with a rule never to connect them.
+
