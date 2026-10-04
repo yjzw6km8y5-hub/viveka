@@ -63,6 +63,23 @@ def test_fresh_good_output_passes():
     in_temp_dir(check)
 
 
+def test_removed_baseline_case_fails():
+    base = {"A": {"id": "A", "gate": []}, "B": {"id": "B", "gate": []}}
+    problems, _ = self_check.compare_baseline("paired", [{"id": "A", "gate": []}], base)
+    assert problems == ["removed baseline case paired B"]
+    assert self_check.compare_baseline("paired", [{"id": "A", "gate": []}, {"id": "B", "gate": ["x"]}], base)[0]
+
+
+def test_ai_text_with_invented_number_is_rejected():
+    sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+    from engine import llm
+    a = {"understanding": {}, "sources": [], "user_message": "I fought with my friend"}
+    out = {"opening": "o", "answer": "You are 15 and alone.", "next_step": "n"}
+    assert any("number" in p for p in llm.check(out, a))
+    out["answer"] = "You fought with your friend."
+    assert not llm.check(out, a)
+
+
 if __name__ == "__main__":
     for n, f in list(globals().items()):
         if n.startswith("test_"):

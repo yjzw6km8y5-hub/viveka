@@ -63,6 +63,13 @@ Owner decisions are marked as decisions. Reviewer suggestions stay proposals unt
   - The roadmap is decided after the Claude chat reviews it.
   - Push to the project's repo is pre-approved.
 
+- **Owner decision, 2026-10-03: real-life dilemmas told as a story.**
+  - Viveka is for weighty, tangled situations with competing duties, told in full, not one-line trivial questions.
+  - The flow: listen and reflect back (only their facts, correctable), then ask 1-3 questions that would change the advice, then advise (the core dilemma, the competing pulls across Dharma / Artha / Kama / Moksha, a recommendation, the other view, one next step).
+  - "Just listen" and "Just give me advice" are always available.
+  - The tone is a wise friend who listens, never a therapist. Safety help always comes first.
+  - It replaces the earlier fixed context questions.
+
 ## Review process
 - The build-and-review loop is in PROCESS.md (v3, approved 2026-10-02).
 - Order of authority, highest first: the owner's latest approved decision, DECISIONS.md, CONTEXT.md, PROCESS.md, STATUS.md. PROGRESS.md is history only.
@@ -72,7 +79,7 @@ Owner decisions are marked as decisions. Reviewer suggestions stay proposals unt
 - Update this file only for newly confirmed owner decisions.
 
 ## Approved ideas from reviews
-- **Use a small decision-focused evaluation set alongside broad coverage: ask wheth…** (2026-10-02-16_observer_chatgpt.md, approved 2026-10-03): Use a small decision-focused evaluation set alongside broad coverage: ask whether the user can make a better next decision after the answer, which facts would…
+- **Use a small decision-focused evaluation set alongside broad coverage: ask wheth…** (2026-10-02-16_observer_chatgpt.md, approved 2026-10-03): Use a small decision-focused evaluation set alongside broad coverage: ask whether the user can make a better next decision after the answer, which facts would reverse the advice, and whether the strongest alternative was fairly represented. This is a proposed evaluation improvement, not a newly agreed owner decision.
 
 ## Approved context updates
 ### From CONTEXT_chatgpt.md (approved 2026-10-03)

@@ -49,6 +49,20 @@ def run_set(s, runner=run):
     return results, []
 
 
+def compare_baseline(s, new, base):
+    """-> (problems, notes). A baseline case missing from the new output is a problem, not a skip."""
+    problems, notes = [], []
+    for gone in sorted(set(base) - {r["id"] for r in new}):
+        problems.append(f"removed baseline case {s} {gone}")
+    for r in new:
+        b = base.get(r["id"])
+        if b and not b["gate"] and r["gate"]:
+            problems.append(f"regression {s} {r['id']}: {'; '.join(r['gate'])}")
+        elif b and b["gate"] and not r["gate"]:
+            notes.append(f"improved {s} {r['id']}")
+    return problems, notes
+
+
 def main():
     sys.stdout.reconfigure(encoding="utf-8")
     problems, notes = [], []
@@ -72,12 +86,9 @@ def main():
         base_path = ROOT / "tests/results/after" / f"{s}.json"
         if base_path.exists():
             base = {r["id"]: r for r in json.loads(base_path.read_text(encoding="utf-8"))}
-            for r in new:
-                b = base.get(r["id"])
-                if b and not b["gate"] and r["gate"]:
-                    problems.append(f"regression {s} {r['id']}: {'; '.join(r['gate'])}")
-                elif b and b["gate"] and not r["gate"]:
-                    notes.append(f"improved {s} {r['id']}")
+            p, n = compare_baseline(s, new, base)
+            problems += p
+            notes += n
         passed = sum(not r["gate"] for r in new)
         notes.append(f"{s}: gate {passed}/{len(new)} pass")
     today = datetime.date.today().isoformat()

@@ -338,7 +338,30 @@ def tailor(p, sit):
     return " ".join(parts)
 
 
+IMAGE_STEPS = {
+    "IN": "In India you can report it at cybercrime.gov.in or call the cyber crime helpline 1930.",
+    "CA": "In Canada you can report it at Cybertip.ca.",
+    "US": "In the US you can report it to the NCMEC CyberTipline.",
+    "UK": "In the UK you can report it to CEOP (the Child Exploitation and Online Protection command).",
+}
 PROTECTIVE = {
+    "image_threat": {
+        "minor": ("This is not your fault, and you are not in trouble. Please do not send any more photos and do not pay "
+                  "anything; it rarely stops the threats. Take screenshots of the messages and the account as evidence, then "
+                  "block and report the account in the app. Today, tell a trusted adult who is safe for you (a teacher, "
+                  "school counsellor or relative); they can help you report it and get it taken down."),
+        "unknown": ("This is not your fault. Please do not send any more photos and do not pay anything; it rarely stops the "
+                    "threats. Take screenshots of the messages and the account as evidence, then block and report the account "
+                    "in the app. Tell someone you trust today, and if you are under 18, a trusted adult who is safe for you."),
+        "adult": ("This is not your fault. Please do not send any more images and do not pay anything; it rarely stops the "
+                  "threats. Take screenshots of the messages and the account as evidence, then block and report the account "
+                  "in the app, and report it to the police or the national cyber crime service where you live."),
+        "next_step": {
+            "minor": "Today, show the messages to a trusted adult who is safe for you, and do not send anything more.",
+            "unknown": "Today, save the evidence, report the account, and tell someone you trust; do not send anything more.",
+            "adult": "Today, save the evidence and report the account and the threat; do not send anything more.",
+        },
+    },
     "eating": {
         "minor": ("Eating less and less, or making yourself sick, to change your body can seriously harm your health, "
                   "especially while you are still growing, even when other people say you look great. You don't have to "
@@ -368,7 +391,9 @@ def protective_block(sit, lib, region):
     for need in sit.protective:
         txt = PROTECTIVE[need]
         who = "minor" if sit.minor == "yes" else "adult" if sit.minor == "no" else "unknown"
-        text = txt[who] + (txt["purging"] if sit.purging else "")
+        text = txt[who] + (txt.get("purging", "") if sit.purging else "")
+        if need == "image_threat":
+            text += " " + " ".join(v for k, v in IMAGE_STEPS.items() if region in (None, k))
         return {"label": "Viveka's application", "need": need, "text": text, "next_step": txt["next_step"][who],
                 "help": help_lines(lib, ["distress"] + (["under18"] if sit.minor == "yes" else []), region)[:3]}
     return None
@@ -494,7 +519,8 @@ def _build(question, profile=None, mode="internal", region=None, force=None):
             "label": "Viveka's application", "level": "danger",
             "message": ("What you describe sounds unsafe. Leaving or getting away from abuse or danger is never a failure of duty, "
                         "and you do not have to handle it alone."),
-            "help": help_lines(lib, ["danger", "abuse"] + (["under18"] if sit.treat_as_minor else []), region),
+            "help": help_lines(lib, ["danger", "abuse"] + (["under18"] if sit.treat_as_minor else []) +
+                               (["self_harm"] if sit.distress else []), region),
         }
 
     if sit.distress and not out["safety"]:

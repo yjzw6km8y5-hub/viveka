@@ -1,0 +1,1402 @@
+[
+ {
+  "id": "N01",
+  "category": "adult",
+  "style": "written",
+  "words": 340,
+  "listen_seconds": 0.007,
+  "safety": null,
+  "core": [
+   "dharma",
+   "artha"
+  ],
+  "top": "resist-tempting-shortcuts",
+  "questions": [
+   "What can't change here, whatever you decide?",
+   "If nothing stood in the way, what would you choose?",
+   "If you chose one way and it went badly, could you change course later?"
+  ],
+  "reflection": "Here's what I'm hearing. This involves your papa, mother, brother and parents. Two things seem to be pulling against each other. On one side, duty to the people and values you stand by: you wrote “My father had a stroke last year and he can walk now but only slowly, and my mother has diabetes and bad knees.”. On the other, work, money and security: “About two months ago my company offered me a transfer to their Toronto office.”. You mention feeling guilty, resentful and bitter.",
+  "advice": {
+   "dilemma": "At the heart of this, Dharma (duty to the people and values you stand by) is pulling against Artha (work, money and security).",
+   "pulls": [
+    {
+     "aim": "dharma",
+     "label": "Dharma: duty to the people and values you stand by",
+     "quote": "My father had a stroke last year and he can walk now but only slowly, and my mother has diabetes and bad knees."
+    },
+    {
+     "aim": "artha",
+     "label": "Artha: work, money and security",
+     "quote": "About two months ago my company offered me a transfer to their Toronto office."
+    }
+   ],
+   "situation": [
+    {
+     "person": "papa",
+     "quote": "family and his shop, and when I ask him to take Papa to the physiotherapist he says yes and then doesn't go."
+    },
+    {
+     "person": "brother",
+     "quote": "She also says it's not fair that I carry everything while my brother does nothing."
+    },
+    {
+     "person": "parents",
+     "quote": "The problem is my parents."
+    }
+   ],
+   "closest": "Turn down the tempting substitute",
+   "also": [
+    "Seek peace with a parent's anger",
+    "You become like the company you keep"
+   ],
+   "recommendation": "Nachiketas weighs long life, wealth, power and pleasure, finds them fleeting, and lets them go; Death praises him for not taking the chain of wealth in which many sink.",
+   "application": "If your mother has a say over your home, money or safety, plan for how they may react and who could support you. Ask of the offer: in five years, which choice will I be glad I made? Then ask someone who knows you well the same question.",
+   "why": "For your situation (this involves your mother, father): speaks to money or success; echoes your words: offer, year.",
+   "other_view": "If your conscience leans the other way, here is the other view: Seek peace with a parent's anger. Offered three boons by Death, Nachiketas's first wish is that his angry father be calm, cheerful and free of anger towards him, and welcome him home.",
+   "next_step": "Ask of the offer: in five years, which choice will I be glad I made? Then ask someone who knows you well the same question.",
+   "sources": [
+    {
+     "id": "KaU.1.1.26",
+     "english": "These last only till tomorrow, Death, and they wear away the vigour of all a mortal's senses. Even a whole life is short. Keep your chariots; keep your dance and song.",
+     "devanagari": "श्वोभावा मर्त्यस्य यदन्तकैतत्\nसर्वेंद्रियाणां जरयंति तेजः ।\nअपि सर्वं जीवितमल्पमेव\nतवैव वाहास्तव नृत्यगीते ॥"
+    },
+    {
+     "id": "KaU.1.2.3",
+     "english": "But you, Nachiketas, having reflected on desires dear and lovely to look at, have let them go. You have not taken this chain of wealth in which many people sink.",
+     "devanagari": "स त्वं प्रियान्प्रियरूपांश्च कामान्\nअभिध्यायन्नचिकेतोऽत्यस्राक्षीः ।\nनैतां सृङ्कां वित्तमयीमवाप्तो\nयस्यां मज्जन्ति बहवो मनुष्याः ॥"
+    }
+   ],
+   "protective": "",
+   "text": " At the heart of this, Dharma (duty to the people and values you stand by) is pulling against Artha (work, money and security). “My father had a stroke last year and he can walk now but only slowly, and my mother has diabetes and bad knees.” “About two months ago my company offered me a transfer to their Toronto office.” “family and his shop, and when I ask him to take Papa to the physiotherapist he says yes and then doesn't go.” “She also says it's not fair that I carry everything while my brother does nothing.” “The problem is my parents.” Nachiketas weighs long life, wealth, power and pleasure, finds them fleeting, and lets them go; Death praises him for not taking the chain of wealth in which many sink. If your mother has a say over your home, money or safety, plan for how they may react and who could support you. Ask of the offer: in five years, which choice will I be glad I made? Then ask someone who knows you well the same question. If your conscience leans the other way, here is the other view: Seek peace with a parent's anger. Offered three boons by Death, Nachiketas's first wish is that his angry father be calm, cheerful and free of anger towards him, and welcome him home. Ask of the offer: in five years, which choice will I be glad I made? Then ask someone who knows you well the same question."
+  },
+  "fails": []
+ },
+ {
+  "id": "N02",
+  "category": "adult",
+  "style": "written",
+  "words": 311,
+  "listen_seconds": 0.006,
+  "safety": null,
+  "core": [
+   "artha",
+   "dharma"
+  ],
+  "top": "no-self-torture",
+  "questions": [],
+  "reflection": "Here's what I'm hearing. This involves your husband, kids, team lead and family. Two things seem to be pulling against each other. On one side, work, money and security: you wrote “I've thought about looking for another job, but every time I open the job sites I feel tired before I start, and interviews mean taking leave I can't”. On the other, duty to the people and values you stand by: “I want to protect my family and I also want some self-respect back.”. You mention feeling angry, scared, tired and alone.",
+  "advice": {
+   "dilemma": "At the heart of this, Artha (work, money and security) is pulling against Dharma (duty to the people and values you stand by).",
+   "pulls": [
+    {
+     "aim": "artha",
+     "label": "Artha: work, money and security",
+     "quote": "I've thought about looking for another job, but every time I open the job sites I feel tired before I start, and interviews mean taking leave I can't"
+    },
+    {
+     "aim": "dharma",
+     "label": "Dharma: duty to the people and values you stand by",
+     "quote": "I want to protect my family and I also want some self-respect back."
+    }
+   ],
+   "situation": [
+    {
+     "person": "husband",
+     "quote": "My husband lost his job in March and is doing some freelance work but it's irregular."
+    },
+    {
+     "person": "kids",
+     "quote": "We have two kids, 9 and 12, school fees, and the EMI on our flat."
+    },
+    {
+     "person": "team lead",
+     "quote": "says I should go to HR, but HR is the team lead's cousin, and I'm scared of being labelled difficult before appraisals."
+    },
+    {
+     "person": "family",
+     "quote": "I'm the family's main earner."
+    }
+   ],
+   "closest": "Discipline is not self-torture",
+   "also": [
+    "Moderation in eating, sleep, work and rest",
+    "When duties conflict, name the confusion"
+   ],
+   "recommendation": "Harsh austerities that torment the body, done from obstinacy or ego, or to harm another, are condemned; discipline should serve life.",
+   "application": "If a practice is hurting your body or health, stop it and speak to someone you trust or a professional. Discipline that harms you is not what this teaching asks.",
+   "why": "For your situation: addresses the kind of problem you describe; echoes your words: another, self.",
+   "other_view": "If your conscience leans the other way, here is the other view: Moderation in eating, sleep, work and rest. Discipline is not for those who overdo or underdo eating, sleep or effort; balance in daily life is what ends sorrow.",
+   "next_step": "If a practice is hurting your body or health, stop it and speak to someone you trust or a professional. Discipline that harms you is not what this teaching asks.",
+   "sources": [
+    {
+     "id": "BG.17.5",
+     "english": "Those people who practise terrible austerities not prescribed by scripture, full of hypocrisy and ego, driven by the force of desire and passion,",
+     "devanagari": "अशास्त्रविहितं घोरं तप्यन्ते ये तपो जनाः ।\nदम्भाहंकारसंयुक्ताः कामरागबलान्विताः ॥"
+    },
+    {
+     "id": "BG.17.6",
+     "english": "senselessly tormenting the elements in the body, and me too, who dwell within the body: know them to be of demonic resolve.",
+     "devanagari": "कर्षयन्तः शरीरस्थं भूतग्राममचेतसः ।\nमां चैवान्तःशरीरस्थं तान्विद्ध्यासुरनिश्चयान् ॥"
+    }
+   ],
+   "protective": "",
+   "text": " At the heart of this, Artha (work, money and security) is pulling against Dharma (duty to the people and values you stand by). “I've thought about looking for another job, but every time I open the job sites I feel tired before I start, and interviews mean taking leave I can't” “I want to protect my family and I also want some self-respect back.” “My husband lost his job in March and is doing some freelance work but it's irregular.” “We have two kids, 9 and 12, school fees, and the EMI on our flat.” “says I should go to HR, but HR is the team lead's cousin, and I'm scared of being labelled difficult before appraisals.” “I'm the family's main earner.” Harsh austerities that torment the body, done from obstinacy or ego, or to harm another, are condemned; discipline should serve life. If a practice is hurting your body or health, stop it and speak to someone you trust or a professional. Discipline that harms you is not what this teaching asks. If your conscience leans the other way, here is the other view: Moderation in eating, sleep, work and rest. Discipline is not for those who overdo or underdo eating, sleep or effort; balance in daily life is what ends sorrow. If a practice is hurting your body or health, stop it and speak to someone you trust or a professional. Discipline that harms you is not what this teaching asks."
+  },
+  "fails": []
+ },
+ {
+  "id": "N03",
+  "category": "adult",
+  "style": "written",
+  "words": 310,
+  "listen_seconds": 0.006,
+  "safety": null,
+  "core": [
+   "dharma",
+   "kama"
+  ],
+  "top": "meet-people-where-they-are",
+  "questions": [
+   "Who depends on you here, and in what way?",
+   "What have you already tried, and how did it go?",
+   "What can't change here, whatever you decide?"
+  ],
+  "reflection": "Here's what I'm hearing. This involves your parents, family, father and mother. Two things seem to be pulling against each other. On one side, duty to the people and values you stand by: you wrote “profiles' for a year, and now they have found a family they really like, a cardiologist's son, and they want us to meet next month 'just to talk'.”. On the other, love and what you want for your own life: “I love him and I can't imagine marrying someone else.”. You mention feeling humiliated and proud.",
+  "advice": {
+   "dilemma": "At the heart of this, Dharma (duty to the people and values you stand by) is pulling against Kama (love and what you want for your own life).",
+   "pulls": [
+    {
+     "aim": "dharma",
+     "label": "Dharma: duty to the people and values you stand by",
+     "quote": "profiles' for a year, and now they have found a family they really like, a cardiologist's son, and they want us to meet next month 'just to talk'."
+    },
+    {
+     "aim": "kama",
+     "label": "Kama: love and what you want for your own life",
+     "quote": "I love him and I can't imagine marrying someone else."
+    }
+   ],
+   "situation": [
+    {
+     "person": "parents",
+     "quote": "My parents want me to marry someone of their choosing."
+    },
+    {
+     "person": "family",
+     "quote": "When my cousin married outside the community, he stopped speaking to her family for five years."
+    },
+    {
+     "person": "father",
+     "quote": "a lot for my education, loans, my father worked double shifts, and I know they see my marriage as the last thing"
+    },
+    {
+     "person": "mother",
+     "quote": "My mother is softer but she follows him."
+    }
+   ],
+   "closest": "Don't unsettle others; meet them where they are",
+   "also": [
+    "Stand by your relatives",
+    "Different paths reach the same goal"
+   ],
+   "recommendation": "The wise should not unsettle those attached to their way of acting, but encourage them by example; God receives people however they approach.",
+   "application": "Since this involves your son, think about what they need as well as what you need. Instead of arguing, live the change yourself for a month and let others ask you about it.",
+   "why": "For your situation (this involves your son): speaks to a relationship; echoes your words: fami, meet, month, someone.",
+   "other_view": "If your conscience leans the other way, here is the other view: The wise are awake when the world sleeps. What is night for all beings is waking for the self-controlled; few among thousands strive for what matters most, and fewer still truly know it.",
+   "next_step": "Instead of arguing, live the change yourself for a month and let others ask you about it.",
+   "sources": [
+    {
+     "id": "BG.3.26",
+     "english": "The wise should not unsettle the minds of the unknowing who are attached to action; acting with discipline themselves, they should encourage others in all their work.",
+     "devanagari": "न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम् ।\nजोषयेत्सर्वकर्माणि विद्वान्युक्तः समाचरन् ॥"
+    },
+    {
+     "id": "BG.3.29",
+     "english": "Those deluded by the gunas of nature become attached to the workings of the gunas. One who knows the whole should not unsettle these slow people of partial knowledge.",
+     "devanagari": "प्रकृतेर्गुणसंमूढाः सज्जन्ते गुणकर्मसु ।\nतानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत् ॥"
+    }
+   ],
+   "protective": "",
+   "text": " At the heart of this, Dharma (duty to the people and values you stand by) is pulling against Kama (love and what you want for your own life). “profiles' for a year, and now they have found a family they really like, a cardiologist's son, and they want us to meet next month 'just to talk'.” “I love him and I can't imagine marrying someone else.” “My parents want me to marry someone of their choosing.” “When my cousin married outside the community, he stopped speaking to her family for five years.” “a lot for my education, loans, my father worked double shifts, and I know they see my marriage as the last thing” “My mother is softer but she follows him.” The wise should not unsettle those attached to their way of acting, but encourage them by example; God receives people however they approach. Since this involves your son, think about what they need as well as what you need. Instead of arguing, live the change yourself for a month and let others ask you about it. If your conscience leans the other way, here is the other view: The wise are awake when the world sleeps. What is night for all beings is waking for the self-controlled; few among thousands strive for what matters most, and fewer still truly know it. Instead of arguing, live the change yourself for a month and let others ask you about it."
+  },
+  "fails": []
+ },
+ {
+  "id": "N04",
+  "category": "adult",
+  "style": "written",
+  "words": 310,
+  "listen_seconds": 0.006,
+  "safety": null,
+  "core": [
+   "dharma",
+   "artha"
+  ],
+  "top": "apologise-sincerely",
+  "questions": [
+   "What have you already tried, and how did it go?",
+   "If nothing stood in the way, what would you choose?",
+   "If things go wrong, how much room do you have financially?"
+  ],
+  "reflection": "Here's what I'm hearing. This involves your amma, son, father and wife. Two things seem to be pulling against each other. On one side, duty to the people and values you stand by: you wrote “In our family, the son looks after his parents, full stop.”. On the other, work, money and security: “days a week but nights are ours, and my wife, Lakshmi, is the one who gets up most nights because I have to be at work at seven.”. You mention feeling exhausted.",
+  "advice": {
+   "dilemma": "At the heart of this, Dharma (duty to the people and values you stand by) is pulling against Artha (work, money and security).",
+   "pulls": [
+    {
+     "aim": "dharma",
+     "label": "Dharma: duty to the people and values you stand by",
+     "quote": "In our family, the son looks after his parents, full stop."
+    },
+    {
+     "aim": "artha",
+     "label": "Artha: work, money and security",
+     "quote": "days a week but nights are ours, and my wife, Lakshmi, is the one who gets up most nights because I have to be at work at seven."
+    }
+   ],
+   "situation": [
+    {
+     "person": "amma",
+     "quote": "In the beginning Amma just forgot names."
+    },
+    {
+     "person": "father",
+     "quote": "My mother has dementia, diagnosed three years ago, and she has lived with us since my father died."
+    }
+   ],
+   "closest": "Own your words and ask forgiveness",
+   "also": [
+    "Others follow what you do",
+    "Sharing understanding with care"
+   ],
+   "recommendation": "After seeing who Krishna truly is, Arjuna asks forgiveness for every careless or disrespectful word, 'as a father bears with a son, a friend with a friend'.",
+   "application": "If your parents have a say over your home, money or safety, plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Name the specific words or acts, without excuses, and ask what would help make it right.",
+   "why": "For your situation (we inferred the householder stage from 'my wife'; tell us if that is wrong; this involves your parents, wife, son): speaks to a relationship; echoes your words: after, son; fits the householder stage (our inference).",
+   "other_view": "If your conscience leans the other way, here is the other view: Others follow what you do. Whatever a respected person does, others copy; those who lead should act well and help others without unsettling them.",
+   "next_step": "Name the specific words or acts, without excuses, and ask what would help make it right.",
+   "sources": [
+    {
+     "id": "BG.11.41",
+     "english": "Whatever I said rashly, thinking of you as a friend, \"Hey Krishna! Hey Yadava! Hey friend!\", not knowing this greatness of yours, out of carelessness or out of affection,",
+     "devanagari": "सखेति मत्वा प्रसभं यदुक्तं ।\nहे कृष्ण हे यादव हे सखेति ।\nअजानता महिमानं तवेदं ।\nमया प्रमादात्प्रणयेन वापि ॥"
+    },
+    {
+     "id": "BG.11.42",
+     "english": "and whatever disrespect I showed you in jest, while playing, resting, sitting or eating, alone or in front of others, Krishna, for all that I ask your forgiveness, immeasurable one.",
+     "devanagari": "यच्चावहासार्थमसत्कृतोऽसि ।\nविहारशय्यासनभोजनेषु ।\nएकोऽथवाप्यच्युत तत्समक्षं ।\nतत्क्षामये त्वामहमप्रमेयम् ॥"
+    }
+   ],
+   "protective": "",
+   "text": " At the heart of this, Dharma (duty to the people and values you stand by) is pulling against Artha (work, money and security). “In our family, the son looks after his parents, full stop.” “days a week but nights are ours, and my wife, Lakshmi, is the one who gets up most nights because I have to be at work at seven.” “In the beginning Amma just forgot names.” “My mother has dementia, diagnosed three years ago, and she has lived with us since my father died.” After seeing who Krishna truly is, Arjuna asks forgiveness for every careless or disrespectful word, 'as a father bears with a son, a friend with a friend'. If your parents have a say over your home, money or safety, plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Name the specific words or acts, without excuses, and ask what would help make it right. If your conscience leans the other way, here is the other view: Others follow what you do. Whatever a respected person does, others copy; those who lead should act well and help others without unsettling them. Name the specific words or acts, without excuses, and ask what would help make it right."
+  },
+  "fails": [
+   "core dilemma: expected dharma/kama, found dharma/artha",
+   "advice misses specifics: care home"
+  ]
+ },
+ {
+  "id": "N05",
+  "category": "adult",
+  "style": "voice",
+  "words": 376,
+  "listen_seconds": 0.009,
+  "safety": "support",
+  "core": [
+   "artha",
+   "dharma"
+  ],
+  "top": "resist-tempting-shortcuts",
+  "questions": [
+   "If things go wrong, how much room do you have financially?",
+   "Is there a deadline, and how much time do you really have?",
+   "What have you already tried, and how did it go?"
+  ],
+  "reflection": "Here's what I'm hearing. This involves your dad, family, uncle and parents. Two things seem to be pulling against each other. On one side, work, money and security: you wrote “I really love it like it's the one thing I'm sure about in my life and he knows that but he says a nursing job is a job”. On the other, duty to the people and values you stand by: “ok so basically my dad has this textile business in Surat that his father started and it's been going down for like three years now and last month”. You mention feeling scared, used, sick and miserable.",
+  "advice": {
+   "dilemma": "At the heart of this, Artha (work, money and security) is pulling against Dharma (duty to the people and values you stand by).",
+   "pulls": [
+    {
+     "aim": "artha",
+     "label": "Artha: work, money and security",
+     "quote": "I really love it like it's the one thing I'm sure about in my life and he knows that but he says a nursing job is a job"
+    },
+    {
+     "aim": "dharma",
+     "label": "Dharma: duty to the people and values you stand by",
+     "quote": "ok so basically my dad has this textile business in Surat that his father started and it's been going down for like three years now and last month"
+    }
+   ],
+   "situation": [
+    {
+     "person": "family",
+     "quote": "and this is our family's name and forty people work there and if it closes they all lose their jobs and some"
+    },
+    {
+     "person": "uncle",
+     "quote": "I was born like Kishore uncle who basically raised me when my parents were busy and I feel sick thinking about him"
+    },
+    {
+     "person": "parents",
+     "quote": "uncle who basically raised me when my parents were busy and I feel sick thinking about him losing his job but I"
+    }
+   ],
+   "closest": "Turn down the tempting substitute",
+   "also": [
+    "Seek peace with a parent's anger",
+    "Different paths reach the same goal"
+   ],
+   "recommendation": "Nachiketas weighs long life, wealth, power and pleasure, finds them fleeting, and lets them go; Death praises him for not taking the chain of wealth in which many sink.",
+   "application": "If your father has a say over your home, money or safety, plan for how they may react and who could support you. Ask of the offer: in five years, which choice will I be glad I made? Then ask someone who knows you well the same question.",
+   "why": "For your situation (this involves your father, dad): speaks to money or success; echoes your words: know, life, year.",
+   "other_view": "If your conscience leans the other way, here is the other view: Seek peace with a parent's anger. Offered three boons by Death, Nachiketas's first wish is that his angry father be calm, cheerful and free of anger towards him, and welcome him home.",
+   "next_step": "Ask of the offer: in five years, which choice will I be glad I made? Then ask someone who knows you well the same question.",
+   "sources": [
+    {
+     "id": "KaU.1.1.26",
+     "english": "These last only till tomorrow, Death, and they wear away the vigour of all a mortal's senses. Even a whole life is short. Keep your chariots; keep your dance and song.",
+     "devanagari": "श्वोभावा मर्त्यस्य यदन्तकैतत्\nसर्वेंद्रियाणां जरयंति तेजः ।\nअपि सर्वं जीवितमल्पमेव\nतवैव वाहास्तव नृत्यगीते ॥"
+    },
+    {
+     "id": "KaU.1.2.3",
+     "english": "But you, Nachiketas, having reflected on desires dear and lovely to look at, have let them go. You have not taken this chain of wealth in which many people sink.",
+     "devanagari": "स त्वं प्रियान्प्रियरूपांश्च कामान्\nअभिध्यायन्नचिकेतोऽत्यस्राक्षीः ।\nनैतां सृङ्कां वित्तमयीमवाप्तो\nयस्यां मज्जन्ति बहवो मनुष्याः ॥"
+    }
+   ],
+   "protective": "",
+   "text": " At the heart of this, Artha (work, money and security) is pulling against Dharma (duty to the people and values you stand by). “I really love it like it's the one thing I'm sure about in my life and he knows that but he says a nursing job is a job” “ok so basically my dad has this textile business in Surat that his father started and it's been going down for like three years now and last month” “and this is our family's name and forty people work there and if it closes they all lose their jobs and some” “I was born like Kishore uncle who basically raised me when my parents were busy and I feel sick thinking about him” “uncle who basically raised me when my parents were busy and I feel sick thinking about him losing his job but I” Nachiketas weighs long life, wealth, power and pleasure, finds them fleeting, and lets them go; Death praises him for not taking the chain of wealth in which many sink. If your father has a say over your home, money or safety, plan for how they may react and who could support you. Ask of the offer: in five years, which choice will I be glad I made? Then ask someone who knows you well the same question. If your conscience leans the other way, here is the other view: Seek peace with a parent's anger. Offered three boons by Death, Nachiketas's first wish is that his angry father be calm, cheerful and free of anger towards him, and welcome him home. Ask of the offer: in five years, which choice will I be glad I made? Then ask someone who knows you well the same question."
+  },
+  "fails": [
+   "safety: expected None, got support"
+  ]
+ },
+ {
+  "id": "N06",
+  "category": "adult",
+  "style": "written",
+  "words": 382,
+  "listen_seconds": 0.007,
+  "safety": null,
+  "core": [
+   "dharma",
+   "artha"
+  ],
+  "top": "stand-by-your-relatives",
+  "questions": [
+   "Who depends on you here, and in what way?",
+   "What have you already tried, and how did it go?",
+   "Is there a deadline, and how much time do you really have?"
+  ],
+  "reflection": "Here's what I'm hearing. This involves your father, mother, sister and family. Two things seem to be pulling against each other. On one side, duty to the people and values you stand by: you wrote “I want to do my duty as executor properly, keep the family together and respect my mother, and I don't see how to do all three.”. On the other, work, money and security: “There is the ancestral house in our village in Kerala, where we all grew up, and some savings.”. You mention feeling alone and used.",
+  "advice": {
+   "dilemma": "At the heart of this, Dharma (duty to the people and values you stand by) is pulling against Artha (work, money and security).",
+   "pulls": [
+    {
+     "aim": "dharma",
+     "label": "Dharma: duty to the people and values you stand by",
+     "quote": "I want to do my duty as executor properly, keep the family together and respect my mother, and I don't see how to do all three."
+    },
+    {
+     "aim": "artha",
+     "label": "Artha: work, money and security",
+     "quote": "There is the ancestral house in our village in Kerala, where we all grew up, and some savings."
+    }
+   ],
+   "situation": [
+    {
+     "person": "father",
+     "quote": "to sleep on the verandah of that house in the summer, and my father would tell us stories about his own father."
+    },
+    {
+     "person": "sister",
+     "quote": "My elder sister wants to sell the house."
+    }
+   ],
+   "closest": "Stand by your relatives",
+   "also": [
+    "Say the unwelcome thing that helps",
+    "Forgiveness belongs to the strong"
+   ],
+   "recommendation": "Relatives can carry you across or pull you under. Help a relative who is poor, sick or struggling; share meals, talk and affection with them, not quarrels.",
+   "application": "If your mother has a say over your home, money or safety, plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Name one relative who is struggling. Do one small, concrete thing this week: a call, a meal, an errand, or an honest talk to end a quarrel.",
+   "why": "For your situation (this involves your mother): addresses the kind of problem you describe; speaks to conflicting duties, a relationship; echoes your words: fami.",
+   "other_view": "If your conscience leans the other way, here is the other view: Keep your distance from those who harm. A harmful person is to be avoided even if learned, as a snake adorned with a jewel is still dangerous; friendship with the wicked starts big and dwindles.",
+   "next_step": "Name one relative who is struggling. Do one small, concrete thing this week: a call, a meal, an errand, or an honest talk to end a quarrel.",
+   "sources": [
+    {
+     "id": "VN.7.15",
+     "english": "One who supports a relative who is poor, miserable or sick gains increase in sons and cattle, and undying fame.",
+     "devanagari": "यो ज्ञातिमनुगृह्णाति दरिद्रं दीनमातुरम् ।\nसपुत्रपशुभिर्वृद्धिं यशश्चाव्ययमश्नुते ॥"
+    },
+    {
+     "id": "VN.7.21",
+     "english": "One who seeks well-being should not make war with relatives, dear one; pleasures should be enjoyed together with relatives, bull of the Bharatas.",
+     "devanagari": "ज्ञातिभिर्विग्रहस्तात न कर्तव्यो भवार्थिना ।\nसुखानि सह भोज्यानि ज्ञातिभिर्भरतर्षभ ॥"
+    }
+   ],
+   "protective": "",
+   "text": " At the heart of this, Dharma (duty to the people and values you stand by) is pulling against Artha (work, money and security). “I want to do my duty as executor properly, keep the family together and respect my mother, and I don't see how to do all three.” “There is the ancestral house in our village in Kerala, where we all grew up, and some savings.” “to sleep on the verandah of that house in the summer, and my father would tell us stories about his own father.” “My elder sister wants to sell the house.” Relatives can carry you across or pull you under. Help a relative who is poor, sick or struggling; share meals, talk and affection with them, not quarrels. If your mother has a say over your home, money or safety, plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Name one relative who is struggling. Do one small, concrete thing this week: a call, a meal, an errand, or an honest talk to end a quarrel. If your conscience leans the other way, here is the other view: Keep your distance from those who harm. A harmful person is to be avoided even if learned, as a snake adorned with a jewel is still dangerous; friendship with the wicked starts big and dwindles. Name one relative who is struggling. Do one small, concrete thing this week: a call, a meal, an errand, or an honest talk to end a quarrel."
+  },
+  "fails": []
+ },
+ {
+  "id": "N07",
+  "category": "adult",
+  "style": "written",
+  "words": 367,
+  "listen_seconds": 0.007,
+  "safety": "support",
+  "core": [
+   "artha",
+   "dharma"
+  ],
+  "top": "wealth-never-satisfies",
+  "questions": [],
+  "reflection": "Here's what I'm hearing. This involves your children, father, parents and husband. Two things seem to be pulling against each other. On one side, work, money and security: you wrote “My salary as a bank clerk covers the house and fees but not the loan repayments, and I've started taking money from my provident fund.”. On the other, duty to the people and values you stand by: “reading about separation, but then I think about the kids and how much they love their father, and about what people will say, and about whether I'm giving”. You mention feeling tired, hopeless, drowning and sick.",
+  "advice": {
+   "dilemma": "At the heart of this, Artha (work, money and security) is pulling against Dharma (duty to the people and values you stand by).",
+   "pulls": [
+    {
+     "aim": "artha",
+     "label": "Artha: work, money and security",
+     "quote": "My salary as a bank clerk covers the house and fees but not the loan repayments, and I've started taking money from my provident fund."
+    },
+    {
+     "aim": "dharma",
+     "label": "Dharma: duty to the people and values you stand by",
+     "quote": "reading about separation, but then I think about the kids and how much they love their father, and about what people will say, and about whether I'm giving"
+    }
+   ],
+   "situation": [
+    {
+     "person": "children",
+     "quote": "whether to stay and help him get better, or protect the children and myself by separating our finances or even separating completely."
+    },
+    {
+     "person": "father",
+     "quote": "kids and how much they love their father, and about what people will say, and about whether I'm giving up on him"
+    },
+    {
+     "person": "parents",
+     "quote": "My parents don't know."
+    },
+    {
+     "person": "husband",
+     "quote": "My husband has a gambling problem."
+    }
+   ],
+   "closest": "No one is satisfied by wealth",
+   "also": [
+    "When duties conflict, name the confusion",
+    "Give because it is right to give"
+   ],
+   "recommendation": "Desire is as hard to satisfy as fire; Nachiketas observes that no one is ever satisfied by wealth.",
+   "application": "If your father has a say over your home, money or safety, plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Write down the amount that would be 'enough' and what you would do differently once you have it. Ask whether you could start some of it now.",
+   "why": "For your situation (this involves your father, kids): addresses the kind of problem you describe; speaks to money or success; echoes your words: money, start, whether.",
+   "other_view": "If your conscience leans the other way, here is the other view: When duties conflict, name the confusion. Arjuna's duties to family, teachers and his role collide; he says plainly that his mind is confused about what is right and asks for one clear answer. The Gita begins from that honesty.",
+   "next_step": "Write down the amount that would be 'enough' and what you would do differently once you have it. Ask whether you could start some of it now.",
+   "sources": [
+    {
+     "id": "KaU.1.1.27",
+     "english": "No one is satisfied by wealth. We shall have wealth if we have seen you; we shall live as long as you rule. But the boon I would choose is that one alone.",
+     "devanagari": "न वित्तेन तर्पणीयो मनुष्यो\nलप्स्यामहे वित्तमद्राक्ष्म चेत्त्वा ।\nजीविष्यामो यावदीशिष्यसि त्वं\nवरस्तु मे वरणीयः स एव ॥"
+    },
+    {
+     "id": "BG.3.39",
+     "english": "Wisdom is covered by this constant enemy of the wise, son of Kunti: by desire, which is as hard to satisfy as fire.",
+     "devanagari": "आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा ।\nकामरूपेण कौन्तेय दुष्पूरेणानलेन च ॥"
+    }
+   ],
+   "protective": "",
+   "text": " At the heart of this, Artha (work, money and security) is pulling against Dharma (duty to the people and values you stand by). “My salary as a bank clerk covers the house and fees but not the loan repayments, and I've started taking money from my provident fund.” “reading about separation, but then I think about the kids and how much they love their father, and about what people will say, and about whether I'm giving” “whether to stay and help him get better, or protect the children and myself by separating our finances or even separating completely.” “kids and how much they love their father, and about what people will say, and about whether I'm giving up on him” “My parents don't know.” “My husband has a gambling problem.” Desire is as hard to satisfy as fire; Nachiketas observes that no one is ever satisfied by wealth. If your father has a say over your home, money or safety, plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Write down the amount that would be 'enough' and what you would do differently once you have it. Ask whether you could start some of it now. If your conscience leans the other way, here is the other view: When duties conflict, name the confusion. Arjuna's duties to family, teachers and his role collide; he says plainly that his mind is confused about what is right and asks for one clear answer. The Gita begins from that honesty. Write down the amount that would be 'enough' and what you would do differently once you have it. Ask whether you could start some of it now."
+  },
+  "fails": []
+ },
+ {
+  "id": "N08",
+  "category": "adult",
+  "style": "written",
+  "words": 363,
+  "listen_seconds": 0.006,
+  "safety": null,
+  "core": [
+   "dharma",
+   "artha"
+  ],
+  "top": "use-wealth-or-lose-it",
+  "questions": [
+   "What can't change here, whatever you decide?",
+   "If nothing stood in the way, what would you choose?"
+  ],
+  "reflection": "Here's what I'm hearing. This involves your father, daughter, family and parents. Two things seem to be pulling against each other. On one side, duty to the people and values you stand by: you wrote “I have a wife and a baby daughter here, and we send money every month to my parents in Kerala, who have a loan on their house that”. On the other, work, money and security: “I'm an engineer at a construction firm in Dubai, on an employment visa that depends on this job.”. You mention feeling sick and proud.",
+  "advice": {
+   "dilemma": "At the heart of this, Dharma (duty to the people and values you stand by) is pulling against Artha (work, money and security).",
+   "pulls": [
+    {
+     "aim": "dharma",
+     "label": "Dharma: duty to the people and values you stand by",
+     "quote": "I have a wife and a baby daughter here, and we send money every month to my parents in Kerala, who have a loan on their house that"
+    },
+    {
+     "aim": "artha",
+     "label": "Artha: work, money and security",
+     "quote": "I'm an engineer at a construction firm in Dubai, on an employment visa that depends on this job."
+    }
+   ],
+   "situation": [
+    {
+     "person": "father",
+     "quote": "it had a good reputation, and my father was so proud when I got this job abroad, he told the whole family."
+    },
+    {
+     "person": "parents",
+     "quote": "here, and we send money every month to my parents in Kerala, who have a loan on their house that I'm paying."
+    }
+   ],
+   "closest": "Give it, enjoy it, or lose it",
+   "also": [
+    "No one is satisfied by wealth",
+    "Give because it is right to give"
+   ],
+   "recommendation": "Wealth has three courses: giving, enjoyment and loss; whoever neither gives nor enjoys it meets the third.",
+   "application": "If your parents have a say over your home, money or safety, plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Split what you can spare this month three ways: something to give, something to enjoy, and something to keep for a stated purpose.",
+   "why": "For your situation (this involves your parents, wife, daughter): addresses the kind of problem you describe; speaks to money or success; echoes your words: money, month.",
+   "other_view": "If your conscience leans the other way, here is the other view: No one is satisfied by wealth. Desire is as hard to satisfy as fire; Nachiketas observes that no one is ever satisfied by wealth.",
+   "next_step": "Split what you can spare this month three ways: something to give, something to enjoy, and something to keep for a stated purpose.",
+   "sources": [
+    {
+     "id": "NS.43",
+     "english": "Giving, enjoyment and loss: these are the three courses that wealth takes. Whoever neither gives nor enjoys it, theirs takes the third course.",
+     "devanagari": "दानं भोगो नाशस्तिस्रो गतयो भवन्ति वित्तस्य।\nयो न ददाति न भुङ्क्ते तस्य तृतीया गतिर्भवति ॥"
+    },
+    {
+     "id": "NS.64",
+     "english": "Giving in secret, eager welcome for anyone who comes to the house, silence after doing a kindness, speaking in the assembly of favours received, no arrogance in prosperity, talk of others free of contempt: who taught the good this hard vow, like walking on a sword's edge?",
+     "devanagari": "प्रदानं प्रच्छन्नं गृहमुपगते संभ्रमविधिः प्रियं कृत्वा मौनं सदसि कथनं चाप्युपकृतेः।\nअनुत्सेको लक्ष्म्यां निरभिभवसाराः परकथाः सतां केनोद्दिष्टं विषममसिधाराव्रतमिदम् ॥"
+    }
+   ],
+   "protective": "",
+   "text": " At the heart of this, Dharma (duty to the people and values you stand by) is pulling against Artha (work, money and security). “I have a wife and a baby daughter here, and we send money every month to my parents in Kerala, who have a loan on their house that” “I'm an engineer at a construction firm in Dubai, on an employment visa that depends on this job.” “it had a good reputation, and my father was so proud when I got this job abroad, he told the whole family.” “here, and we send money every month to my parents in Kerala, who have a loan on their house that I'm paying.” Wealth has three courses: giving, enjoyment and loss; whoever neither gives nor enjoys it meets the third. If your parents have a say over your home, money or safety, plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Split what you can spare this month three ways: something to give, something to enjoy, and something to keep for a stated purpose. If your conscience leans the other way, here is the other view: No one is satisfied by wealth. Desire is as hard to satisfy as fire; Nachiketas observes that no one is ever satisfied by wealth. Split what you can spare this month three ways: something to give, something to enjoy, and something to keep for a stated purpose."
+  },
+  "fails": [
+   "advice misses specifics: report / reports / concrete / test",
+   "advice misses specifics: building / tower / families"
+  ]
+ },
+ {
+  "id": "N09",
+  "category": "adult",
+  "style": "written",
+  "words": 374,
+  "listen_seconds": 0.007,
+  "safety": null,
+  "core": [
+   "moksha",
+   "dharma"
+  ],
+  "top": "renounce-selfishness-not-the-world",
+  "questions": [
+   "Who depends on you here, and in what way?",
+   "What can't change here, whatever you decide?",
+   "Is there a deadline, and how much time do you really have?"
+  ],
+  "reflection": "Here's what I'm hearing. This involves your wife, son, sons and father. Two things seem to be pulling against each other. On one side, inner freedom and meaning: you wrote “I go to the ghats every morning, I read the Gita and the Upanishads, and I have been spending time at an ashram near Rishikesh.”. On the other, duty to the people and values you stand by: “My elder son said I was abandoning their mother and that it was selfish.”. You mention feeling alone, hurt and regret.",
+  "advice": {
+   "dilemma": "At the heart of this, Moksha (inner freedom and meaning) is pulling against Dharma (duty to the people and values you stand by).",
+   "pulls": [
+    {
+     "aim": "moksha",
+     "label": "Moksha: inner freedom and meaning",
+     "quote": "I go to the ghats every morning, I read the Gita and the Upanishads, and I have been spending time at an ashram near Rishikesh."
+    },
+    {
+     "aim": "dharma",
+     "label": "Dharma: duty to the people and values you stand by",
+     "quote": "My elder son said I was abandoning their mother and that it was selfish."
+    }
+   ],
+   "situation": [
+    {
+     "person": "wife",
+     "quote": "Is there a way to honour my wife and my calling at the same time?"
+    },
+    {
+     "person": "sons",
+     "quote": "Our two sons are settled, one in Bangalore and one in Pune, with their own families."
+    },
+    {
+     "person": "father",
+     "quote": "wanted to become a sannyasi, but my father needed me to earn, and then I married and the children came, and I"
+    }
+   ],
+   "closest": "Renounce selfish intent, not your responsibilities",
+   "also": [
+    "Renunciation and engaged action both lead to the good, but action is easier",
+    "Be your own friend"
+   ],
+   "recommendation": "A true renunciant is one who does what should be done without depending on its fruit, who neither hates nor craves; what they call renunciation is giving up selfish intentions.",
+   "application": "If your mother has a say over your home, money or safety, plan for how they may react and who could support you. Keep your commitments, and look for the selfish intention inside them that you could let go of instead.",
+   "why": "For your situation (this involves your mother, son): addresses the kind of problem you describe; speaks to self-control, meaning and direction; echoes your words: selfish.",
+   "other_view": "If your conscience leans the other way, here is the other view: Renunciation and engaged action both lead to the good, but action is easier. Renunciation and the yoga of action both lead to the highest good, but of the two the yoga of action is better; renunciation is hard to reach without it.",
+   "next_step": "Keep your commitments, and look for the selfish intention inside them that you could let go of instead.",
+   "sources": [
+    {
+     "id": "BG.6.1",
+     "english": "One who does the work that should be done, without depending on its fruit, is a renunciant and a yogi; not one who merely gives up the sacred fire, nor one who gives up action.",
+     "devanagari": "अनाश्रितः कर्मफलं कार्यं कर्म करोति यः ।\nस संन्यासी च योगी च न निरग्निर्न चाक्रियः ॥"
+    },
+    {
+     "id": "BG.6.2",
+     "english": "What they call renunciation, know that to be yoga, son of Pandu; for no one becomes a yogi without renouncing selfish intentions.",
+     "devanagari": "यं संन्यासमिति प्राहुर्योगं तं विद्धि पाण्डव ।\nन ह्यसंन्यस्तसंकल्पो योगी भवति कश्चन ॥"
+    }
+   ],
+   "protective": "",
+   "text": " At the heart of this, Moksha (inner freedom and meaning) is pulling against Dharma (duty to the people and values you stand by). “I go to the ghats every morning, I read the Gita and the Upanishads, and I have been spending time at an ashram near Rishikesh.” “My elder son said I was abandoning their mother and that it was selfish.” “Is there a way to honour my wife and my calling at the same time?” “Our two sons are settled, one in Bangalore and one in Pune, with their own families.” “wanted to become a sannyasi, but my father needed me to earn, and then I married and the children came, and I” A true renunciant is one who does what should be done without depending on its fruit, who neither hates nor craves; what they call renunciation is giving up selfish intentions. If your mother has a say over your home, money or safety, plan for how they may react and who could support you. Keep your commitments, and look for the selfish intention inside them that you could let go of instead. If your conscience leans the other way, here is the other view: Renunciation and engaged action both lead to the good, but action is easier. Renunciation and the yoga of action both lead to the highest good, but of the two the yoga of action is better; renunciation is hard to reach without it. Keep your commitments, and look for the selfish intention inside them that you could let go of instead."
+  },
+  "fails": []
+ },
+ {
+  "id": "N10",
+  "category": "adult",
+  "style": "written",
+  "words": 363,
+  "listen_seconds": 0.006,
+  "safety": null,
+  "core": [
+   "dharma",
+   "kama"
+  ],
+  "top": "seek-a-parents-peace",
+  "questions": [
+   "Who depends on you here, and in what way?",
+   "What can't change here, whatever you decide?",
+   "If you chose one way and it went badly, could you change course later?"
+  ],
+  "reflection": "Here's what I'm hearing. This involves your daughter, family, father and mother. Two things seem to be pulling against each other. On one side, duty to the people and values you stand by: you wrote “I'm a father of two, and my elder daughter, who is 26 and works as an architect in Mumbai, told us last month that she wants to marry”. On the other, love and what you want for your own life: “My daughter says she will marry him with or without our blessing, but she wants our blessing.”. You mention feeling afraid.",
+  "advice": {
+   "dilemma": "At the heart of this, Dharma (duty to the people and values you stand by) is pulling against Kama (love and what you want for your own life).",
+   "pulls": [
+    {
+     "aim": "dharma",
+     "label": "Dharma: duty to the people and values you stand by",
+     "quote": "I'm a father of two, and my elder daughter, who is 26 and works as an architect in Mumbai, told us last month that she wants to marry"
+    },
+    {
+     "aim": "kama",
+     "label": "Kama: love and what you want for your own life",
+     "quote": "My daughter says she will marry him with or without our blessing, but she wants our blessing."
+    }
+   ],
+   "situation": [
+    {
+     "person": "family",
+     "quote": "I don't know if giving my blessing is my duty as a father or a betrayal of my own family."
+    },
+    {
+     "person": "mother",
+     "quote": "My mother, who is 80, says she wants to see my daughter married before she dies, but 'properly'."
+    }
+   ],
+   "closest": "Seek peace with a parent's anger",
+   "also": [
+    "Own your words and ask forgiveness",
+    "Steady and enthusiastic, without 'I'"
+   ],
+   "recommendation": "Offered three boons by Death, Nachiketas's first wish is that his angry father be calm, cheerful and free of anger towards him, and welcome him home.",
+   "application": "If your father has a say over your home, money or safety, plan for how they may react and who could support you. Write what you would most wish for your relationship with your parent, not what you wish they would admit. Start from that.",
+   "why": "For your situation (we inferred the householder stage from 'my daughter'; tell us if that is wrong; this involves your father, daughter): speaks to a relationship; echoes your words: father, want; fits the householder stage (our inference).",
+   "other_view": "If your conscience leans the other way, here is the other view: Own your words and ask forgiveness. After seeing who Krishna truly is, Arjuna asks forgiveness for every careless or disrespectful word, 'as a father bears with a son, a friend with a friend'.",
+   "next_step": "Write what you would most wish for your relationship with your parent, not what you wish they would admit. Start from that.",
+   "sources": [
+    {
+     "id": "KaU.1.1.10",
+     "english": "That Gautama, my father, may be calm in mind, cheerful, and free of anger towards me, O Death; that he may recognise and greet me when you send me back: this I choose as the first of the three boons.",
+     "devanagari": "शान्तसंकल्पः सुमना यथा स्याद्\nवीतमन्युर्गौतमो माऽभि मृत्यो ।\nत्वत्प्रसृष्टम् माऽभिवदेत्प्रतीत\nएतत् त्रयाणां प्रथमं वरं वृणे ॥"
+    },
+    {
+     "id": "KaU.1.1.11",
+     "english": "Auddalaki Aruni, released by me, will recognise you and be as he was before. Seeing you freed from the jaws of death, he will sleep peacefully at night, his anger gone.",
+     "devanagari": "यथा पुरस्ताद् भविता प्रतीत\nऔद्दालकिरारुणिर्मत्प्रसृष्टः ।\nसुखँ रात्रीः शयिता वीतमन्युः\nत्वां ददृशिवान्मृत्युमुखात् प्रमुक्तम् ॥"
+    }
+   ],
+   "protective": "",
+   "text": " At the heart of this, Dharma (duty to the people and values you stand by) is pulling against Kama (love and what you want for your own life). “I'm a father of two, and my elder daughter, who is 26 and works as an architect in Mumbai, told us last month that she wants to marry” “My daughter says she will marry him with or without our blessing, but she wants our blessing.” “I don't know if giving my blessing is my duty as a father or a betrayal of my own family.” “My mother, who is 80, says she wants to see my daughter married before she dies, but 'properly'.” Offered three boons by Death, Nachiketas's first wish is that his angry father be calm, cheerful and free of anger towards him, and welcome him home. If your father has a say over your home, money or safety, plan for how they may react and who could support you. Write what you would most wish for your relationship with your parent, not what you wish they would admit. Start from that. If your conscience leans the other way, here is the other view: Own your words and ask forgiveness. After seeing who Krishna truly is, Arjuna asks forgiveness for every careless or disrespectful word, 'as a father bears with a son, a friend with a friend'. Write what you would most wish for your relationship with your parent, not what you wish they would admit. Start from that."
+  },
+  "fails": []
+ },
+ {
+  "id": "N11",
+  "category": "adult",
+  "style": "voice",
+  "words": 359,
+  "listen_seconds": 0.01,
+  "safety": null,
+  "core": [
+   "artha",
+   "dharma"
+  ],
+  "top": "use-wealth-or-lose-it",
+  "questions": [
+   "Who depends on you here, and in what way?",
+   "What have you already tried, and how did it go?",
+   "What can't change here, whatever you decide?"
+  ],
+  "reflection": "Here's what I'm hearing. This involves your wife, baby, family and parents. Two things seem to be pulling against each other. On one side, work, money and security: you wrote “so I've been working at this bank for nine years good salary stable everything and for the past two years me and my friend Neha have been building”. On the other, duty to the people and values you stand by: “time by January and I really want to do it like this is the thing I've been dreaming about since college but my wife is five months pregnant”. You mention feeling scared and alone.",
+  "advice": {
+   "dilemma": "At the heart of this, Artha (work, money and security) is pulling against Dharma (duty to the people and values you stand by).",
+   "pulls": [
+    {
+     "aim": "artha",
+     "label": "Artha: work, money and security",
+     "quote": "so I've been working at this bank for nine years good salary stable everything and for the past two years me and my friend Neha have been building"
+    },
+    {
+     "aim": "dharma",
+     "label": "Dharma: duty to the people and values you stand by",
+     "quote": "time by January and I really want to do it like this is the thing I've been dreaming about since college but my wife is five months pregnant"
+    }
+   ],
+   "situation": [
+    {
+     "person": "wife",
+     "quote": "guy who chose his ego over his family we have savings for about eight months if I quit and my wife's parents"
+    },
+    {
+     "person": "baby",
+     "quote": "our first baby and she's scared she says what if it fails we have a home loan and she's going to take"
+    },
+    {
+     "person": "family",
+     "quote": "my father says a man with a family doesn't gamble and I don't think it's gambling it's a real business with real"
+    }
+   ],
+   "closest": "Give it, enjoy it, or lose it",
+   "also": [
+    "You become like the company you keep",
+    "No one is satisfied by wealth"
+   ],
+   "recommendation": "Wealth has three courses: giving, enjoyment and loss; whoever neither gives nor enjoys it meets the third.",
+   "application": "Since this involves your wife, think about what they need as well as what you need. Because money or dependency is involved, check what you can afford and secure that before any big move. Split what you can spare this month three ways: something to give, something to enjoy, and something to keep for a stated purpose.",
+   "why": "For your situation (we inferred the householder stage from 'my wife'; tell us if that is wrong; this involves your wife, friend): addresses the kind of problem you describe; speaks to money or success; echoes your words: month; fits the householder stage (our inference).",
+   "other_view": "If your conscience leans the other way, here is the other view: You become like the company you keep. Good company clears the mind, puts truth into speech and raises one's honour; the same drop of water vanishes on hot iron and becomes a pearl in a shell.",
+   "next_step": "Split what you can spare this month three ways: something to give, something to enjoy, and something to keep for a stated purpose.",
+   "sources": [
+    {
+     "id": "NS.43",
+     "english": "Giving, enjoyment and loss: these are the three courses that wealth takes. Whoever neither gives nor enjoys it, theirs takes the third course.",
+     "devanagari": "दानं भोगो नाशस्तिस्रो गतयो भवन्ति वित्तस्य।\nयो न ददाति न भुङ्क्ते तस्य तृतीया गतिर्भवति ॥"
+    },
+    {
+     "id": "NS.64",
+     "english": "Giving in secret, eager welcome for anyone who comes to the house, silence after doing a kindness, speaking in the assembly of favours received, no arrogance in prosperity, talk of others free of contempt: who taught the good this hard vow, like walking on a sword's edge?",
+     "devanagari": "प्रदानं प्रच्छन्नं गृहमुपगते संभ्रमविधिः प्रियं कृत्वा मौनं सदसि कथनं चाप्युपकृतेः।\nअनुत्सेको लक्ष्म्यां निरभिभवसाराः परकथाः सतां केनोद्दिष्टं विषममसिधाराव्रतमिदम् ॥"
+    }
+   ],
+   "protective": "",
+   "text": " At the heart of this, Artha (work, money and security) is pulling against Dharma (duty to the people and values you stand by). “so I've been working at this bank for nine years good salary stable everything and for the past two years me and my friend Neha have been building” “time by January and I really want to do it like this is the thing I've been dreaming about since college but my wife is five months pregnant” “guy who chose his ego over his family we have savings for about eight months if I quit and my wife's parents” “our first baby and she's scared she says what if it fails we have a home loan and she's going to take” “my father says a man with a family doesn't gamble and I don't think it's gambling it's a real business with real” Wealth has three courses: giving, enjoyment and loss; whoever neither gives nor enjoys it meets the third. Since this involves your wife, think about what they need as well as what you need. Because money or dependency is involved, check what you can afford and secure that before any big move. Split what you can spare this month three ways: something to give, something to enjoy, and something to keep for a stated purpose. If your conscience leans the other way, here is the other view: You become like the company you keep. Good company clears the mind, puts truth into speech and raises one's honour; the same drop of water vanishes on hot iron and becomes a pearl in a shell. Split what you can spare this month three ways: something to give, something to enjoy, and something to keep for a stated purpose."
+  },
+  "fails": []
+ },
+ {
+  "id": "N12",
+  "category": "adult",
+  "style": "written",
+  "words": 336,
+  "listen_seconds": 0.006,
+  "safety": null,
+  "core": [
+   "artha",
+   "dharma"
+  ],
+  "top": "wealth-never-satisfies",
+  "questions": [
+   "If nothing stood in the way, what would you choose?",
+   "Is there a deadline, and how much time do you really have?",
+   "Who depends on you here, and in what way?"
+  ],
+  "reflection": "Here's what I'm hearing. This involves your mother, wife, brother and brothers. Two things seem to be pulling against each other. On one side, work, money and security: you wrote “My company cut salaries by twenty percent, and I need money for my daughter's admission next year.”. On the other, duty to the people and values you stand by: “We've been friends since school, our families are close, his mother used to feed me when my own mother was in hospital.”. You mention feeling furious, ashamed, hurt and used.",
+  "advice": {
+   "dilemma": "At the heart of this, Artha (work, money and security) is pulling against Dharma (duty to the people and values you stand by).",
+   "pulls": [
+    {
+     "aim": "artha",
+     "label": "Artha: work, money and security",
+     "quote": "My company cut salaries by twenty percent, and I need money for my daughter's admission next year."
+    },
+    {
+     "aim": "dharma",
+     "label": "Dharma: duty to the people and values you stand by",
+     "quote": "We've been friends since school, our families are close, his mother used to feed me when my own mother was in hospital."
+    }
+   ],
+   "situation": [
+    {
+     "person": "wife",
+     "quote": "My wife is furious."
+    },
+    {
+     "person": "brother",
+     "quote": "My brother says cut him off completely."
+    },
+    {
+     "person": "brothers",
+     "quote": "Imran is not a bad person, he's careless with money and he probably thinks because we're like brothers I won't really mind."
+    }
+   ],
+   "closest": "No one is satisfied by wealth",
+   "also": [
+    "Act for the welfare of all",
+    "Give it, enjoy it, or lose it"
+   ],
+   "recommendation": "Desire is as hard to satisfy as fire; Nachiketas observes that no one is ever satisfied by wealth.",
+   "application": "If your mother has a say over your home, money or safety, plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Write down the amount that would be 'enough' and what you would do differently once you have it. Ask whether you could start some of it now.",
+   "why": "For your situation (we inferred the householder stage from 'my daughter'; tell us if that is wrong; this involves your mother, daughter): addresses the kind of problem you describe; speaks to money or success; echoes your words: money; fits the householder stage (our inference).",
+   "other_view": "If your conscience leans the other way, here is the other view: Act for the welfare of all. Act so as to hold the world together, delighting in the welfare of all beings, not only your own gain.",
+   "next_step": "Write down the amount that would be 'enough' and what you would do differently once you have it. Ask whether you could start some of it now.",
+   "sources": [
+    {
+     "id": "KaU.1.1.27",
+     "english": "No one is satisfied by wealth. We shall have wealth if we have seen you; we shall live as long as you rule. But the boon I would choose is that one alone.",
+     "devanagari": "न वित्तेन तर्पणीयो मनुष्यो\nलप्स्यामहे वित्तमद्राक्ष्म चेत्त्वा ।\nजीविष्यामो यावदीशिष्यसि त्वं\nवरस्तु मे वरणीयः स एव ॥"
+    },
+    {
+     "id": "BG.3.39",
+     "english": "Wisdom is covered by this constant enemy of the wise, son of Kunti: by desire, which is as hard to satisfy as fire.",
+     "devanagari": "आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा ।\nकामरूपेण कौन्तेय दुष्पूरेणानलेन च ॥"
+    }
+   ],
+   "protective": "",
+   "text": " At the heart of this, Artha (work, money and security) is pulling against Dharma (duty to the people and values you stand by). “My company cut salaries by twenty percent, and I need money for my daughter's admission next year.” “We've been friends since school, our families are close, his mother used to feed me when my own mother was in hospital.” “My wife is furious.” “My brother says cut him off completely.” “Imran is not a bad person, he's careless with money and he probably thinks because we're like brothers I won't really mind.” Desire is as hard to satisfy as fire; Nachiketas observes that no one is ever satisfied by wealth. If your mother has a say over your home, money or safety, plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Write down the amount that would be 'enough' and what you would do differently once you have it. Ask whether you could start some of it now. If your conscience leans the other way, here is the other view: Act for the welfare of all. Act so as to hold the world together, delighting in the welfare of all beings, not only your own gain. Write down the amount that would be 'enough' and what you would do differently once you have it. Ask whether you could start some of it now."
+  },
+  "fails": []
+ },
+ {
+  "id": "N13",
+  "category": "adult",
+  "style": "written",
+  "words": 357,
+  "listen_seconds": 0.006,
+  "safety": null,
+  "core": [
+   "dharma",
+   "kama"
+  ],
+  "top": "dharmic-desire-is-legitimate",
+  "questions": [
+   "Who depends on you here, and in what way?",
+   "What have you already tried, and how did it go?",
+   "What can't change here, whatever you decide?"
+  ],
+  "reflection": "Here's what I'm hearing. This involves your son, daughter, parents and children. Two things seem to be pulling against each other. On one side, duty to the people and values you stand by: you wrote “I have two children, a son who is now 12 and a daughter who is 8.”. On the other, love and what you want for your own life: “My mother-in-law has hinted that a widow remarrying 'doesn't look nice', and if I remarry I'm afraid they'll pull away from the children, who love them.”. You mention feeling afraid, alone, used and terrible.",
+  "advice": {
+   "dilemma": "At the heart of this, Dharma (duty to the people and values you stand by) is pulling against Kama (love and what you want for your own life).",
+   "pulls": [
+    {
+     "aim": "dharma",
+     "label": "Dharma: duty to the people and values you stand by",
+     "quote": "I have two children, a son who is now 12 and a daughter who is 8."
+    },
+    {
+     "aim": "kama",
+     "label": "Kama: love and what you want for your own life",
+     "quote": "My mother-in-law has hinted that a widow remarrying 'doesn't look nice', and if I remarry I'm afraid they'll pull away from the children, who love them."
+    }
+   ],
+   "situation": [
+    {
+     "person": "parents",
+     "quote": "My own parents are supportive."
+    }
+   ],
+   "closest": "Desire in harmony with dharma is sacred",
+   "also": [
+    "Reflect fully, then choose for yourself",
+    "Fearlessness is the first of the divine qualities"
+   ],
+   "recommendation": "Not all desire is to be fought: desire that does not go against dharma is itself divine.",
+   "application": "You are deciding whether to remarry. Other people's objection is worth hearing, but it does not decide this for you; honouring your late partner's memory and building a new life are not opposites. If your mother has a say over your home, money or safety, plan for how they may react and who could support you. Test a desire: does it harm anyone, break a promise or cost your integrity? If not, you may pursue it with a clear conscience.",
+   "why": "For your situation (this involves your mother, son, daughter): addresses the kind of problem you describe; echoes your words: love.",
+   "other_view": "If your conscience leans the other way, here is the other view: Unchecked desire is the inner enemy. Desire and anger, born of restlessness, cover wisdom as smoke covers fire; they sit in the senses, mind and intellect, and must be mastered.",
+   "next_step": "Test a desire: does it harm anyone, break a promise or cost your integrity? If not, you may pursue it with a clear conscience.",
+   "sources": [
+    {
+     "id": "BG.7.11",
+     "english": "Of the strong, I am the strength that is free of desire and passion; in all beings, I am desire that is not against dharma, best of the Bharatas.",
+     "devanagari": "बलं बलवतां चाहं कामरागविवर्जितम् ।\nधर्माविरुद्धो भूतेषु कामोऽस्मि भरतर्षभ ॥"
+    }
+   ],
+   "protective": "",
+   "text": " At the heart of this, Dharma (duty to the people and values you stand by) is pulling against Kama (love and what you want for your own life). “I have two children, a son who is now 12 and a daughter who is 8.” “My mother-in-law has hinted that a widow remarrying 'doesn't look nice', and if I remarry I'm afraid they'll pull away from the children, who love them.” “My own parents are supportive.” Not all desire is to be fought: desire that does not go against dharma is itself divine. You are deciding whether to remarry. Other people's objection is worth hearing, but it does not decide this for you; honouring your late partner's memory and building a new life are not opposites. If your mother has a say over your home, money or safety, plan for how they may react and who could support you. Test a desire: does it harm anyone, break a promise or cost your integrity? If not, you may pursue it with a clear conscience. If your conscience leans the other way, here is the other view: Unchecked desire is the inner enemy. Desire and anger, born of restlessness, cover wisdom as smoke covers fire; they sit in the senses, mind and intellect, and must be mastered. Test a desire: does it harm anyone, break a promise or cost your integrity? If not, you may pursue it with a clear conscience."
+  },
+  "fails": []
+ },
+ {
+  "id": "N14",
+  "category": "adult",
+  "style": "written",
+  "words": 361,
+  "listen_seconds": 0.006,
+  "safety": null,
+  "core": [
+   "dharma",
+   "artha"
+  ],
+  "top": "wealth-never-satisfies",
+  "questions": [
+   "Who depends on you here, and in what way?",
+   "What can't change here, whatever you decide?",
+   "If you chose one way and it went badly, could you change course later?"
+  ],
+  "reflection": "Here's what I'm hearing. This involves your son, wife, friend and parents. Two things seem to be pulling against each other. On one side, duty to the people and values you stand by: you wrote “I have a wife and a son in Class 10, and my salary supports my parents too.”. On the other, work, money and security: “I've thought about leaving and joining another company, but I'm 46, and I don't know if I'd find the same pay.”. You mention feeling angry and tired.",
+  "advice": {
+   "dilemma": "At the heart of this, Dharma (duty to the people and values you stand by) is pulling against Artha (work, money and security).",
+   "pulls": [
+    {
+     "aim": "dharma",
+     "label": "Dharma: duty to the people and values you stand by",
+     "quote": "I have a wife and a son in Class 10, and my salary supports my parents too."
+    },
+    {
+     "aim": "artha",
+     "label": "Artha: work, money and security",
+     "quote": "I've thought about leaving and joining another company, but I'm 46, and I don't know if I'd find the same pay."
+    }
+   ],
+   "situation": [
+    {
+     "person": "friend",
+     "quote": "A friend in HR told me that the promotion committee discussed my 'background' and whether the workers would 'accept' me."
+    }
+   ],
+   "closest": "No one is satisfied by wealth",
+   "also": [
+    "You become like the company you keep",
+    "Stand by your relatives"
+   ],
+   "recommendation": "Desire is as hard to satisfy as fire; Nachiketas observes that no one is ever satisfied by wealth.",
+   "application": "Since this involves your parents, think about what they need as well as what you need. Because money or dependency is involved, check what you can afford and secure that before any big move. Write down the amount that would be 'enough' and what you would do differently once you have it. Ask whether you could start some of it now.",
+   "why": "For your situation (you said you are 46; this involves your parents, wife, son): addresses the kind of problem you describe; speaks to money or success.",
+   "other_view": "If your conscience leans the other way, here is the other view: You become like the company you keep. Good company clears the mind, puts truth into speech and raises one's honour; the same drop of water vanishes on hot iron and becomes a pearl in a shell.",
+   "next_step": "Write down the amount that would be 'enough' and what you would do differently once you have it. Ask whether you could start some of it now.",
+   "sources": [
+    {
+     "id": "KaU.1.1.27",
+     "english": "No one is satisfied by wealth. We shall have wealth if we have seen you; we shall live as long as you rule. But the boon I would choose is that one alone.",
+     "devanagari": "न वित्तेन तर्पणीयो मनुष्यो\nलप्स्यामहे वित्तमद्राक्ष्म चेत्त्वा ।\nजीविष्यामो यावदीशिष्यसि त्वं\nवरस्तु मे वरणीयः स एव ॥"
+    },
+    {
+     "id": "BG.3.39",
+     "english": "Wisdom is covered by this constant enemy of the wise, son of Kunti: by desire, which is as hard to satisfy as fire.",
+     "devanagari": "आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा ।\nकामरूपेण कौन्तेय दुष्पूरेणानलेन च ॥"
+    }
+   ],
+   "protective": "",
+   "text": " At the heart of this, Dharma (duty to the people and values you stand by) is pulling against Artha (work, money and security). “I have a wife and a son in Class 10, and my salary supports my parents too.” “I've thought about leaving and joining another company, but I'm 46, and I don't know if I'd find the same pay.” “A friend in HR told me that the promotion committee discussed my 'background' and whether the workers would 'accept' me.” Desire is as hard to satisfy as fire; Nachiketas observes that no one is ever satisfied by wealth. Since this involves your parents, think about what they need as well as what you need. Because money or dependency is involved, check what you can afford and secure that before any big move. Write down the amount that would be 'enough' and what you would do differently once you have it. Ask whether you could start some of it now. If your conscience leans the other way, here is the other view: You become like the company you keep. Good company clears the mind, puts truth into speech and raises one's honour; the same drop of water vanishes on hot iron and becomes a pearl in a shell. Write down the amount that would be 'enough' and what you would do differently once you have it. Ask whether you could start some of it now."
+  },
+  "fails": []
+ },
+ {
+  "id": "N15",
+  "category": "adult",
+  "style": "written",
+  "words": 338,
+  "listen_seconds": 0.007,
+  "safety": "danger",
+  "core": [
+   "dharma",
+   "artha"
+  ],
+  "top": "ask-for-help-when-lost",
+  "questions": [
+   "Who depends on you here, and in what way?",
+   "What can't change here, whatever you decide?",
+   "Is there a deadline, and how much time do you really have?"
+  ],
+  "reflection": "Here's what I'm hearing. This involves your daughter, mother, father and husband. Two things seem to be pulling against each other. On one side, duty to the people and values you stand by: you wrote “My father died when I was young, and my mother raised me alone, so I don't understand why she says this.”. On the other, work, money and security: “I've also been looking up how to get a job again, I used to work in accounts.”. You mention feeling angry, ashamed, alone and used.",
+  "advice": {
+   "dilemma": "Before anything else: what you describe sounds unsafe, and your safety comes first.",
+   "pulls": [],
+   "situation": [
+    {
+     "person": "daughter",
+     "quote": "I don't know how I'd support us, or what would happen with my daughter's school, or whether he would come after us."
+    },
+    {
+     "person": "husband",
+     "quote": "My husband hits me sometimes."
+    }
+   ],
+   "closest": "When you are lost, say so and ask",
+   "also": [
+    "Reflect fully, then choose for yourself",
+    "Dharma includes protecting the good"
+   ],
+   "recommendation": "Arjuna's turning point comes when he admits his mind is confused about what is right and asks for clear guidance; learning begins with that admission.",
+   "application": "Your safety comes first. Quietly prepare: keep your ID, important papers, some money and a charged phone where you can reach them; tell one trusted person what is happening; and save a help-line number. Leaving can be planned step by step, and the help lines can advise on shelter and money, so dependence does not have to trap you. Write one honest sentence that starts 'I don't know how to…' and send it to one person who might help.",
+   "why": "For your situation (we inferred the householder stage from 'my husband'; tell us if that is wrong; this involves your mother, father, husband): addresses the kind of problem you describe; speaks to grief and loss, conflicting duties; echoes your words: alone, asham, come, don; fits the householder stage (our inference).",
+   "other_view": "If your conscience leans the other way, here is the other view: Reflect fully, then choose for yourself. After teaching everything, Krishna tells Arjuna: 'Reflect on it fully, then do as you choose.' The final decision is the person's own.",
+   "next_step": "Today, save one help-line number where it is safe to keep it, and tell one person you trust what is happening.",
+   "sources": [
+    {
+     "id": "BG.2.7",
+     "english": "My nature is overcome by a pitiful weakness, and my mind is confused about what is right. I ask you: tell me clearly what is better. I am your student; I have come to you for refuge. Teach me.",
+     "devanagari": "कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसम्मूढचेताः ।\nयच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् ॥"
+    },
+    {
+     "id": "BG.4.34",
+     "english": "Learn it by bowing down, by asking questions and by serving; the wise who have seen the truth will teach you knowledge.",
+     "devanagari": "तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया ।\nउपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः ॥"
+    }
+   ],
+   "protective": "",
+   "text": " Before anything else: what you describe sounds unsafe, and your safety comes first. “I don't know how I'd support us, or what would happen with my daughter's school, or whether he would come after us.” “My husband hits me sometimes.” Arjuna's turning point comes when he admits his mind is confused about what is right and asks for clear guidance; learning begins with that admission. Your safety comes first. Quietly prepare: keep your ID, important papers, some money and a charged phone where you can reach them; tell one trusted person what is happening; and save a help-line number. Leaving can be planned step by step, and the help lines can advise on shelter and money, so dependence does not have to trap you. Write one honest sentence that starts 'I don't know how to…' and send it to one person who might help. If your conscience leans the other way, here is the other view: Reflect fully, then choose for yourself. After teaching everything, Krishna tells Arjuna: 'Reflect on it fully, then do as you choose.' The final decision is the person's own. Today, save one help-line number where it is safe to keep it, and tell one person you trust what is happening."
+  },
+  "fails": []
+ },
+ {
+  "id": "N16",
+  "category": "teen",
+  "style": "written",
+  "words": 346,
+  "listen_seconds": 0.003,
+  "safety": null,
+  "core": [
+   "kama",
+   "dharma"
+  ],
+  "top": "meet-people-where-they-are",
+  "questions": [
+   "What have you already tried, and how did it go?",
+   "Who depends on you here, and in what way?",
+   "What can't change here, whatever you decide?"
+  ],
+  "reflection": "Here's what I'm hearing. This involves your parents, guru, dad and mom. Two things seem to be pulling against each other. On one side, love and what you want for your own life: you wrote “When I'm playing music I feel like myself.”. On the other, duty to the people and values you stand by: “Sometimes at night I play very softly so my parents don't hear, because my mother says the sound reminds her that I'm not studying.”. You mention feeling guilty, scared, hurt and stupid.",
+  "advice": {
+   "dilemma": "At the heart of this, Kama (love and what you want for your own life) is pulling against Dharma (duty to the people and values you stand by).",
+   "pulls": [
+    {
+     "aim": "kama",
+     "label": "Kama: love and what you want for your own life",
+     "quote": "When I'm playing music I feel like myself."
+    },
+    {
+     "aim": "dharma",
+     "label": "Dharma: duty to the people and values you stand by",
+     "quote": "Sometimes at night I play very softly so my parents don't hear, because my mother says the sound reminds her that I'm not studying."
+    }
+   ],
+   "situation": [
+    {
+     "person": "parents",
+     "quote": "at a college in Pune that I could apply for, the deadline is in six weeks, and I'd need my parents' signature."
+    },
+    {
+     "person": "guru",
+     "quote": "I play the sitar, I've been learning since I was seven, and my guru says I have real talent."
+    },
+    {
+     "person": "dad",
+     "quote": "They've already paid for JEE coaching, it's expensive, my dad took a loan for it."
+    },
+    {
+     "person": "mom",
+     "quote": "Every time I try to bring up music he gets this look and my mom tells me not to upset him."
+    }
+   ],
+   "closest": "Don't unsettle others; meet them where they are",
+   "also": [
+    "Seek peace with a parent's anger",
+    "Fearlessness is the first of the divine qualities"
+   ],
+   "recommendation": "The wise should not unsettle those attached to their way of acting, but encourage them by example; God receives people however they approach.",
+   "application": "If your mother has a say over your home, money or safety, plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Instead of arguing, live the change yourself for a month and let others ask you about it.",
+   "why": "For your situation (we inferred the student stage from 'studying'; tell us if that is wrong; this involves your mother, parents, guru): addresses the kind of problem you describe; speaks to a relationship; echoes your words: don; fits the student stage (our inference).",
+   "other_view": "If your conscience leans the other way, here is the other view: The wise are awake when the world sleeps. What is night for all beings is waking for the self-controlled; few among thousands strive for what matters most, and fewer still truly know it.",
+   "next_step": "Instead of arguing, live the change yourself for a month and let others ask you about it.",
+   "sources": [
+    {
+     "id": "BG.3.26",
+     "english": "The wise should not unsettle the minds of the unknowing who are attached to action; acting with discipline themselves, they should encourage others in all their work.",
+     "devanagari": "न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम् ।\nजोषयेत्सर्वकर्माणि विद्वान्युक्तः समाचरन् ॥"
+    },
+    {
+     "id": "BG.3.29",
+     "english": "Those deluded by the gunas of nature become attached to the workings of the gunas. One who knows the whole should not unsettle these slow people of partial knowledge.",
+     "devanagari": "प्रकृतेर्गुणसंमूढाः सज्जन्ते गुणकर्मसु ।\nतानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत् ॥"
+    }
+   ],
+   "protective": "",
+   "text": " At the heart of this, Kama (love and what you want for your own life) is pulling against Dharma (duty to the people and values you stand by). “When I'm playing music I feel like myself.” “Sometimes at night I play very softly so my parents don't hear, because my mother says the sound reminds her that I'm not studying.” “at a college in Pune that I could apply for, the deadline is in six weeks, and I'd need my parents' signature.” “I play the sitar, I've been learning since I was seven, and my guru says I have real talent.” “They've already paid for JEE coaching, it's expensive, my dad took a loan for it.” “Every time I try to bring up music he gets this look and my mom tells me not to upset him.” The wise should not unsettle those attached to their way of acting, but encourage them by example; God receives people however they approach. If your mother has a say over your home, money or safety, plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Instead of arguing, live the change yourself for a month and let others ask you about it. If your conscience leans the other way, here is the other view: The wise are awake when the world sleeps. What is night for all beings is waking for the self-controlled; few among thousands strive for what matters most, and fewer still truly know it. Instead of arguing, live the change yourself for a month and let others ask you about it."
+  },
+  "fails": []
+ },
+ {
+  "id": "N17",
+  "category": "teen",
+  "style": "written",
+  "words": 328,
+  "listen_seconds": 0.006,
+  "safety": null,
+  "core": [
+   "dharma",
+   "kama"
+  ],
+  "top": "fair-to-those-who-work-for-you",
+  "questions": [
+   "Who depends on you here, and in what way?",
+   "What have you already tried, and how did it go?",
+   "What can't change here, whatever you decide?"
+  ],
+  "reflection": "Here's what I'm hearing. This involves your mum, dad, sister and friends. Two things seem to be pulling against each other. On one side, duty to the people and values you stand by: you wrote “But my sister is very close to mum and she's definitely staying with her, and I don't want to be separated from my sister.”. On the other, love and what you want for your own life: “My school, my friends, my cricket team are all here.”. You mention feeling sad, lonely, alone and hurt.",
+  "advice": {
+   "dilemma": "At the heart of this, Dharma (duty to the people and values you stand by) is pulling against Kama (love and what you want for your own life).",
+   "pulls": [
+    {
+     "aim": "dharma",
+     "label": "Dharma: duty to the people and values you stand by",
+     "quote": "But my sister is very close to mum and she's definitely staying with her, and I don't want to be separated from my sister."
+    },
+    {
+     "aim": "kama",
+     "label": "Kama: love and what you want for your own life",
+     "quote": "My school, my friends, my cricket team are all here."
+    }
+   ],
+   "situation": [
+    {
+     "person": "dad",
+     "quote": "My dad is moving to Bangalore for work and my mum is staying here in Chennai."
+    }
+   ],
+   "closest": "Be fair to those who work for you",
+   "also": [
+    "Don't unsettle others; meet them where they are",
+    "Keep your distance from those who harm"
+   ],
+   "recommendation": "People stay loyal in hard times to a leader who does not rage at them and does not cut their pay to court newcomers. Plan the work and the fair wage first, then gather the right helpers.",
+   "application": "If your mum has a say over your home, money or safety, plan for how they may react and who could support you. List the people who work for or with you. Check that each is paid on time and fairly, and that you have not taken your frustration out on any of them. Fix one thing this week.",
+   "why": "For your situation (we inferred the student stage from 'my school'; tell us if that is wrong; this involves your mum, sister, team): speaks to a relationship; echoes your words: court, stay, team.",
+   "other_view": "If your conscience leans the other way, here is the other view: Don't unsettle others; meet them where they are. The wise should not unsettle those attached to their way of acting, but encourage them by example; God receives people however they approach.",
+   "next_step": "List the people who work for or with you. Check that each is paid on time and fairly, and that you have not taken your frustration out on any of them. Fix one thing this week.",
+   "sources": [
+    {
+     "id": "VN.5.20",
+     "english": "Dear one, servants trust a master who is never angry with a servant who is devoted and intent on his good, and they do not abandon him in hard times.",
+     "devanagari": "यस्तात न क्रुध्यति सर्वकालं\nभृत्यस्य भक्तस्य हिते रतस्य ।\nतस्मिन्भृत्या भर्तरि विश्वसन्ति\nन चैनमापत्सु परित्यजन्ति ॥"
+    },
+    {
+     "id": "VN.5.21",
+     "english": "One should not try to win over new outsiders by cutting off the livelihood of one's servants; deprived of what is due, even affectionate ministers abandon him.",
+     "devanagari": "न भृत्यानां वृत्ति संरोधनेन\nबाह्यं जनं सञ्जिघृक्षेदपूर्वम् ।\nत्यजन्ति ह्येनमुचितावरुद्धाः\nस्निग्धा ह्यमात्याः परिहीनभोगाः ॥"
+    }
+   ],
+   "protective": "",
+   "text": " At the heart of this, Dharma (duty to the people and values you stand by) is pulling against Kama (love and what you want for your own life). “But my sister is very close to mum and she's definitely staying with her, and I don't want to be separated from my sister.” “My school, my friends, my cricket team are all here.” “My dad is moving to Bangalore for work and my mum is staying here in Chennai.” People stay loyal in hard times to a leader who does not rage at them and does not cut their pay to court newcomers. Plan the work and the fair wage first, then gather the right helpers. If your mum has a say over your home, money or safety, plan for how they may react and who could support you. List the people who work for or with you. Check that each is paid on time and fairly, and that you have not taken your frustration out on any of them. Fix one thing this week. If your conscience leans the other way, here is the other view: Don't unsettle others; meet them where they are. The wise should not unsettle those attached to their way of acting, but encourage them by example; God receives people however they approach. List the people who work for or with you. Check that each is paid on time and fairly, and that you have not taken your frustration out on any of them. Fix one thing this week."
+  },
+  "fails": []
+ },
+ {
+  "id": "N18",
+  "category": "teen",
+  "style": "voice",
+  "words": 342,
+  "listen_seconds": 0.009,
+  "safety": null,
+  "core": [
+   "dharma",
+   "kama"
+  ],
+  "top": "apologise-sincerely",
+  "questions": [
+   "Who depends on you here, and in what way?",
+   "What have you already tried, and how did it go?",
+   "What can't change here, whatever you decide?"
+  ],
+  "reflection": "Here's what I'm hearing. This involves your parents, mom, friends and dad. Two things seem to be pulling against each other. On one side, duty to the people and values you stand by: you wrote “have anyone else to talk to because my parents would freak out and my sister is in Canada and also I lied to my mom last weekend I”. On the other, love and what you want for your own life: “like I feel like I'm changing who I am and I don't know if I'm being a baby or if they're actually not good friends and I don't”. You mention feeling guilty, stuck, used and left out.",
+  "advice": {
+   "dilemma": "At the heart of this, Dharma (duty to the people and values you stand by) is pulling against Kama (love and what you want for your own life).",
+   "pulls": [
+    {
+     "aim": "dharma",
+     "label": "Dharma: duty to the people and values you stand by",
+     "quote": "have anyone else to talk to because my parents would freak out and my sister is in Canada and also I lied to my mom last weekend I"
+    },
+    {
+     "aim": "kama",
+     "label": "Kama: love and what you want for your own life",
+     "quote": "like I feel like I'm changing who I am and I don't know if I'm being a baby or if they're actually not good friends and I don't"
+    }
+   ],
+   "situation": [
+    {
+     "person": "parents",
+     "quote": "drink honestly I just want to be with them but my parents are really strict like if they found out I was"
+    },
+    {
+     "person": "mom",
+     "quote": "parents would freak out and my sister is in Canada and also I lied to my mom last weekend I said I"
+    },
+    {
+     "person": "dad",
+     "quote": "would take my phone and probably stop me going out at all and my dad is a police officer so it's even"
+    }
+   ],
+   "closest": "Own your words and ask forgiveness",
+   "also": [
+    "Even the worst wrongdoer can change",
+    "Give because it is right to give"
+   ],
+   "recommendation": "After seeing who Krishna truly is, Arjuna asks forgiveness for every careless or disrespectful word, 'as a father bears with a son, a friend with a friend'.",
+   "application": "If your parents have a say over your home, money or safety, plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Name the specific words or acts, without excuses, and ask what would help make it right.",
+   "why": "For your situation (this involves your parents, mom, sister): addresses the kind of problem you describe; speaks to a relationship; echoes your words: friend.",
+   "other_view": "If your conscience leans the other way, here is the other view: Even the worst wrongdoer can change. Even the worst wrongdoer can cross over by knowledge; even a person of bad conduct who turns wholeheartedly to the good soon becomes righteous.",
+   "next_step": "Name the specific words or acts, without excuses, and ask what would help make it right.",
+   "sources": [
+    {
+     "id": "BG.11.41",
+     "english": "Whatever I said rashly, thinking of you as a friend, \"Hey Krishna! Hey Yadava! Hey friend!\", not knowing this greatness of yours, out of carelessness or out of affection,",
+     "devanagari": "सखेति मत्वा प्रसभं यदुक्तं ।\nहे कृष्ण हे यादव हे सखेति ।\nअजानता महिमानं तवेदं ।\nमया प्रमादात्प्रणयेन वापि ॥"
+    },
+    {
+     "id": "BG.11.42",
+     "english": "and whatever disrespect I showed you in jest, while playing, resting, sitting or eating, alone or in front of others, Krishna, for all that I ask your forgiveness, immeasurable one.",
+     "devanagari": "यच्चावहासार्थमसत्कृतोऽसि ।\nविहारशय्यासनभोजनेषु ।\nएकोऽथवाप्यच्युत तत्समक्षं ।\nतत्क्षामये त्वामहमप्रमेयम् ॥"
+    }
+   ],
+   "protective": "",
+   "text": " At the heart of this, Dharma (duty to the people and values you stand by) is pulling against Kama (love and what you want for your own life). “have anyone else to talk to because my parents would freak out and my sister is in Canada and also I lied to my mom last weekend I” “like I feel like I'm changing who I am and I don't know if I'm being a baby or if they're actually not good friends and I don't” “drink honestly I just want to be with them but my parents are really strict like if they found out I was” “parents would freak out and my sister is in Canada and also I lied to my mom last weekend I said I” “would take my phone and probably stop me going out at all and my dad is a police officer so it's even” After seeing who Krishna truly is, Arjuna asks forgiveness for every careless or disrespectful word, 'as a father bears with a son, a friend with a friend'. If your parents have a say over your home, money or safety, plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Name the specific words or acts, without excuses, and ask what would help make it right. If your conscience leans the other way, here is the other view: Even the worst wrongdoer can change. Even the worst wrongdoer can cross over by knowledge; even a person of bad conduct who turns wholeheartedly to the good soon becomes righteous. Name the specific words or acts, without excuses, and ask what would help make it right."
+  },
+  "fails": []
+ },
+ {
+  "id": "N19",
+  "category": "teen",
+  "style": "written",
+  "words": 300,
+  "listen_seconds": 0.006,
+  "safety": "danger",
+  "core": [
+   "dharma",
+   "kama"
+  ],
+  "top": "reflect-then-choose",
+  "questions": [
+   "Who depends on you here, and in what way?",
+   "What can't change here, whatever you decide?",
+   "If nothing stood in the way, what would you choose?"
+  ],
+  "reflection": "Here's what I'm hearing. This involves your parents, friends, teacher and mother. Two things seem to be pulling against each other. On one side, duty to the people and values you stand by: you wrote “My mother always says girls have to protect the family's honour.”. On the other, love and what you want for your own life: “He found my school's Instagram and some of my friends.”. You mention feeling furious, scared, ashamed and hurt.",
+  "advice": {
+   "dilemma": "Before anything else: what you describe sounds unsafe, and your safety comes first.",
+   "pulls": [],
+   "situation": [
+    {
+     "person": "parents",
+     "quote": "My parents are very traditional and I think if they found out they would be so ashamed of me."
+    },
+    {
+     "person": "teacher",
+     "quote": "There's a teacher at school I trust, she's my class teacher, but I'm scared she'll tell my parents."
+    }
+   ],
+   "closest": "Reflect fully, then choose for yourself",
+   "also": [
+    "When you are lost, say so and ask",
+    "Fearlessness is the first of the divine qualities"
+   ],
+   "recommendation": "After teaching everything, Krishna tells Arjuna: 'Reflect on it fully, then do as you choose.' The final decision is the person's own.",
+   "application": "Your safety comes first. Quietly prepare: keep your ID, important papers, some money and a charged phone where you can reach them; tell one trusted person what is happening; and save a help-line number. Leaving can be planned step by step, and the help lines can advise on shelter and money, so dependence does not have to trap you. Write the options, what each would cost and give, and what your conscience says. Then decide, and own the decision.",
+   "why": "For your situation (we inferred the student stage from 'my school'; tell us if that is wrong; you said you are 14; this involves your mother, parents, teacher): addresses the kind of problem you describe; echoes your words: else, now, says, someone; fits the student stage (our inference).",
+   "other_view": "If your conscience leans the other way, here is the other view: Learn by bowing, asking and serving. Knowledge is gained by approaching those who have seen the truth with humility, questions and service; it is not easily understood from an ordinary teacher.",
+   "next_step": "Today, save one help-line number where it is safe to keep it, and tell one person you trust what is happening.",
+   "sources": [
+    {
+     "id": "BG.18.63",
+     "english": "Thus I have taught you wisdom more secret than all secrets. Reflect on it fully, and then do as you choose.",
+     "devanagari": "इति ते ज्ञानमाख्यातं गुह्याद्‌गुह्यतरं मया ।\nविमृश्यैतदशेषेण यथेच्छसि तथा कुरु ॥"
+    },
+    {
+     "id": "VN.7.41",
+     "english": "One who knows the remedy for the future, is firm in resolve in the present, and knows what remains to be done from the past, is not deprived of his aims.",
+     "devanagari": "आयत्यां प्रतिकारज्ञस्तदात्वे दृढनिश्चयः ।\nअतीते कार्यशेषज्ञो नरोऽर्थैर्न प्रहीयते ॥"
+    }
+   ],
+   "protective": "This is not your fault, and you are not in trouble. Please do not send any more photos and do not pay anything; it rarely stops the threats. Take screenshots of the messages and the account as evidence, then block and report the account in the app. Today, tell a trusted adult who is safe for you (a teacher, school counsellor or relative); they can help you report it and get it taken down. In India you can report it at cybercrime.gov.in or call the cyber crime helpline 1930. In Canada you can report it at Cybertip.ca. In the US you can report it to the NCMEC CyberTipline. In the UK you can report it to CEOP (the Child Exploitation and Online Protection command).",
+   "text": "This is not your fault, and you are not in trouble. Please do not send any more photos and do not pay anything; it rarely stops the threats. Take screenshots of the messages and the account as evidence, then block and report the account in the app. Today, tell a trusted adult who is safe for you (a teacher, school counsellor or relative); they can help you report it and get it taken down. In India you can report it at cybercrime.gov.in or call the cyber crime helpline 1930. In Canada you can report it at Cybertip.ca. In the US you can report it to the NCMEC CyberTipline. In the UK you can report it to CEOP (the Child Exploitation and Online Protection command). Before anything else: what you describe sounds unsafe, and your safety comes first. “My parents are very traditional and I think if they found out they would be so ashamed of me.” “There's a teacher at school I trust, she's my class teacher, but I'm scared she'll tell my parents.” After teaching everything, Krishna tells Arjuna: 'Reflect on it fully, then do as you choose.' The final decision is the person's own. Your safety comes first. Quietly prepare: keep your ID, important papers, some money and a charged phone where you can reach them; tell one trusted person what is happening; and save a help-line number. Leaving can be planned step by step, and the help lines can advise on shelter and money, so dependence does not have to trap you. Write the options, what each would cost and give, and what your conscience says. Then decide, and own the decision. If your conscience leans the other way, here is the other view: Learn by bowing, asking and serving. Knowledge is gained by approaching those who have seen the truth with humility, questions and service; it is not easily understood from an ordinary teacher. Today, save one help-line number where it is safe to keep it, and tell one person you trust what is happening."
+  },
+  "fails": []
+ },
+ {
+  "id": "N20",
+  "category": "teen",
+  "style": "written",
+  "words": 332,
+  "listen_seconds": 0.004,
+  "safety": "support",
+  "core": [
+   "artha",
+   "dharma"
+  ],
+  "top": "ask-for-help-when-lost",
+  "questions": [
+   "If things go wrong, how much room do you have financially?",
+   "Who depends on you here, and in what way?",
+   "What have you already tried, and how did it go?"
+  ],
+  "reflection": "Here's what I'm hearing. This involves your mother, teacher, friend and dad. Two things seem to be pulling against each other. On one side, work, money and security: you wrote “There's a big competition in three months, the one that can get me a place in a national academy.”. On the other, duty to the people and values you stand by: “My mother has started saying the same thing and making comments about what I eat in front of the whole family.”. You mention feeling scared, tired, cold and dizzy.",
+  "advice": {
+   "dilemma": "At the heart of this, Artha (work, money and security) is pulling against Dharma (duty to the people and values you stand by).",
+   "pulls": [
+    {
+     "aim": "artha",
+     "label": "Artha: work, money and security",
+     "quote": "There's a big competition in three months, the one that can get me a place in a national academy."
+    },
+    {
+     "aim": "dharma",
+     "label": "Dharma: duty to the people and values you stand by",
+     "quote": "My mother has started saying the same thing and making comments about what I eat in front of the whole family."
+    }
+   ],
+   "situation": [
+    {
+     "person": "teacher",
+     "quote": "I don't want to disappoint my teacher or my mother, and I don't want to give up the competition."
+    },
+    {
+     "person": "friend",
+     "quote": "I don't know who to believe, my teacher, my mother, my friend or myself."
+    },
+    {
+     "person": "dad",
+     "quote": "My dad is away working in the Gulf and only calls on weekends."
+    }
+   ],
+   "closest": "When you are lost, say so and ask",
+   "also": [
+    "You are more than your body and roles",
+    "Even a little practice protects"
+   ],
+   "recommendation": "Arjuna's turning point comes when he admits his mind is confused about what is right and asks for clear guidance; learning begins with that admission.",
+   "application": "If your mother has a say over your home, money or safety, plan for how they may react and who could support you. Write one honest sentence that starts 'I don't know how to…' and send it to one person who might help.",
+   "why": "For your situation (you said you are 16; this involves your mother, dad, friend): addresses the kind of problem you describe; echoes your words: don, know, lost, right.",
+   "other_view": "If your conscience leans the other way, here is the other view: You are more than your body and roles. The self passes through childhood, youth and old age without being any of them; the body is the field, and you are its knower.",
+   "next_step": "Today or tomorrow, tell one trusted adult who is safe for you how you have been eating, and ask them to help you see a doctor soon.",
+   "sources": [
+    {
+     "id": "BG.2.7",
+     "english": "My nature is overcome by a pitiful weakness, and my mind is confused about what is right. I ask you: tell me clearly what is better. I am your student; I have come to you for refuge. Teach me.",
+     "devanagari": "कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसम्मूढचेताः ।\nयच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् ॥"
+    },
+    {
+     "id": "BG.4.34",
+     "english": "Learn it by bowing down, by asking questions and by serving; the wise who have seen the truth will teach you knowledge.",
+     "devanagari": "तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया ।\nउपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः ॥"
+    }
+   ],
+   "protective": "Eating less and less, or making yourself sick, to change your body can seriously harm your health, especially while you are still growing, even when other people say you look great. You don't have to sort this out alone. Today or tomorrow, tell a trusted adult who is safe for you what you told me, and ask them to help you see a doctor soon. It does not have to be a parent: a school counsellor, teacher, relative or family doctor all count. If you feel faint or dizzy, or your heart races or skips, get medical help today.",
+   "text": "Eating less and less, or making yourself sick, to change your body can seriously harm your health, especially while you are still growing, even when other people say you look great. You don't have to sort this out alone. Today or tomorrow, tell a trusted adult who is safe for you what you told me, and ask them to help you see a doctor soon. It does not have to be a parent: a school counsellor, teacher, relative or family doctor all count. If you feel faint or dizzy, or your heart races or skips, get medical help today. At the heart of this, Artha (work, money and security) is pulling against Dharma (duty to the people and values you stand by). “There's a big competition in three months, the one that can get me a place in a national academy.” “My mother has started saying the same thing and making comments about what I eat in front of the whole family.” “I don't want to disappoint my teacher or my mother, and I don't want to give up the competition.” “I don't know who to believe, my teacher, my mother, my friend or myself.” “My dad is away working in the Gulf and only calls on weekends.” Arjuna's turning point comes when he admits his mind is confused about what is right and asks for clear guidance; learning begins with that admission. If your mother has a say over your home, money or safety, plan for how they may react and who could support you. Write one honest sentence that starts 'I don't know how to…' and send it to one person who might help. If your conscience leans the other way, here is the other view: You are more than your body and roles. The self passes through childhood, youth and old age without being any of them; the body is the field, and you are its knower. Today or tomorrow, tell one trusted adult who is safe for you how you have been eating, and ask them to help you see a doctor soon."
+  },
+  "fails": []
+ }
+]

@@ -30,7 +30,7 @@ details details{border:0;padding:4px 0 0}details details summary{font-weight:500
 .thinking{display:flex;gap:6px;align-items:center}.dot{width:7px;height:7px;border-radius:50%;background:var(--mut);animation:b 1.2s infinite}.dot:nth-child(2){animation-delay:.2s}.dot:nth-child(3){animation-delay:.4s}@keyframes b{0%,80%,100%{opacity:.25}40%{opacity:1}}
 footer{position:sticky;bottom:0;background:var(--bg);padding:10px 16px 14px;border-top:1px solid var(--line)}
 .ask{display:flex;gap:8px;align-items:flex-end;background:var(--card);border:1px solid var(--line);border-radius:18px;padding:8px;box-shadow:var(--shadow)}
-textarea{flex:1;border:0;outline:0;resize:none;min-height:44px;max-height:160px;background:transparent;color:var(--fg);font:inherit;font-size:16px;padding:8px}
+textarea{flex:1;border:0;outline:0;resize:none;min-height:56px;max-height:45vh;line-height:1.5;background:transparent;color:var(--fg);font:inherit;font-size:16px;padding:8px}
 .mic{width:40px;height:40px;border-radius:50%;border:1px solid var(--line);background:var(--card);cursor:pointer;display:grid;place-items:center;flex:none}.mic.rec{background:var(--warn);border-color:var(--warn)}.mic svg{width:18px;height:18px;fill:var(--fg)}.mic.rec svg{fill:#fff}
 .send{width:40px;height:40px;border-radius:50%;background:var(--acc);border:0;color:#fff;font-size:18px;cursor:pointer;flex:none}
 .foot{font-size:12px;color:var(--mut);margin-top:8px}
@@ -48,13 +48,21 @@ textarea{flex:1;border:0;outline:0;resize:none;min-height:44px;max-height:160px;
 .tile input[type=range]{width:100%;accent-color:var(--acc)}.tile .val{font-weight:700;color:var(--acc)}
 .seg{display:flex;border:1px solid var(--line);border-radius:999px;overflow:hidden;margin-top:8px}.seg button{flex:1;border:0;background:none;color:var(--fg);padding:7px;font:inherit;font-size:14px;cursor:pointer}.seg button.on{background:var(--fg);color:var(--bg)}
 .lens{background:var(--soft);border-radius:12px;padding:10px 12px;margin-top:10px;font-size:14px}.lens>b:first-child{display:block;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--mut)}
+.me{white-space:pre-wrap;max-height:40vh;overflow:auto}
+.modes{display:flex;gap:6px;margin-bottom:8px;flex-wrap:wrap}.mode{border:1px solid var(--line);background:var(--card);color:var(--fg);border-radius:999px;padding:6px 12px;font:inherit;font-size:14px;cursor:pointer}.mode.on{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.pulls{display:grid;grid-template-columns:1fr auto 1fr;gap:8px;margin:10px 0}.pull{border:1px solid var(--line);border-radius:12px;padding:10px;background:var(--bg);font-size:15px}.pull b{display:block;color:var(--acc);font-size:13px;letter-spacing:.04em;text-transform:uppercase}.vs{align-self:center;font-size:20px;color:var(--mut)}
+@media (max-width:520px){.pulls{grid-template-columns:1fr}.vs{justify-self:center}}
+.qs{margin:8px 0 0;padding-left:20px}.qs li{margin:6px 0;font-weight:600}.heart{font-weight:600;margin:10px 0 4px}
+.linkbtn{background:none;border:0;color:var(--acc);font:inherit;font-size:14px;cursor:pointer;padding:0;text-decoration:underline;margin-top:8px}
+.mic.paused{background:var(--soft)}.wc{float:right}
 form.case textarea,form.case input,form.case select{width:100%;border:1px solid var(--line);border-radius:10px;padding:8px;background:var(--bg);color:var(--fg);font:inherit;margin:4px 0}
 </style></head><body><div class="app">
 <header><div class="logo">V</div><h1>Viveka</h1><button class="icon" id="devbtn" hidden onclick="showCase()">Test case</button><button class="icon" onclick="openSettings()" title="Settings">⚙ Settings</button></header>
 <div id="thread"></div>
 <footer>
-<div class="ask"><button class="mic" id="mic" title="Speak" onclick="talk()"><svg viewBox="0 0 24 24"><path d="M12 14a3 3 0 0 0 3-3V5a3 3 0 1 0-6 0v6a3 3 0 0 0 3 3zm5-3a5 5 0 0 1-10 0H5a7 7 0 0 0 6 6.92V21h2v-3.08A7 7 0 0 0 19 11h-2z"/></svg></button>
-<textarea id="q" rows="1" placeholder="What's on your mind?"></textarea><button class="send" onclick="send()" title="Send">➤</button></div>
+<div class="modes" id="modes" hidden><button class="mode" id="m_listen" onclick="toggleListen()">Just listen</button><button class="mode" onclick="adviseNow()">Just give me advice</button></div>
+<div class="ask"><button class="mic" id="mic" title="Speak (tap again to pause)" onclick="talk()"><svg viewBox="0 0 24 24"><path d="M12 14a3 3 0 0 0 3-3V5a3 3 0 1 0-6 0v6a3 3 0 0 0 3 3zm5-3a5 5 0 0 1-10 0H5a7 7 0 0 0 6 6.92V21h2v-3.08A7 7 0 0 0 19 11h-2z"/></svg></button>
+<textarea id="q" rows="2" placeholder="Tell me what's going on. Take your time; the whole story helps."></textarea><button class="send" onclick="send()" title="Send (Ctrl+Enter)">➤</button></div>
 <div class="foot" id="foot">Local test page · not published · nothing you write is saved</div>
 </footer></div>
 <div class="overlay" id="onb" hidden><div class="panel" id="onbp"></div></div>
@@ -76,40 +84,56 @@ form.case textarea,form.case input,form.case select{width:100%;border:1px solid 
 const $=id=>document.getElementById(id), esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const store={get(){try{return JSON.parse(localStorage.getItem('viveka_profile')||'null')}catch(e){return null}},set(v){try{localStorage.setItem('viveka_profile',JSON.stringify(v))}catch(e){}},clear(){try{localStorage.removeItem('viveka_profile')}catch(e){}}};
 let prof=store.get()||null; const DEV=new URLSearchParams(location.search).has('dev'); if(DEV)$('devbtn').hidden=false;
-const EX=["I'm nervous about my exam tomorrow","I had a fight with my best friend","Should I take the new job or stay?","I can't get myself to start working"];
+const EX=["I need to move abroad for my career, but my parents back home depend on me, and my brother isn't stepping up.",
+"My colleagues walk all over me at work, and I'm the family's main earner, so I can't just quit.",
+"My parents want me to marry someone of their choosing; I'm seeing someone else.",
+"My mother has dementia and my wife says we can't care for her at home anymore, but I'm the only son.",
+"My son wants to leave his job to start a business, and my husband says we should stop supporting him."];
 function profile(){return prof?{age:prof.age,country:prof.country}:{}}
-function add(html,cls){const d=document.createElement('div');d.className='msg '+cls;d.innerHTML=html;$('thread').appendChild(d);d.scrollIntoView({behavior:'smooth',block:'end'});return d}
+function add(html,cls){const d=document.createElement('div');d.className='msg '+cls;d.innerHTML=html;$('thread').appendChild(d);d.scrollIntoView({behavior:'smooth',block:'start'});return d}
 function helps(h){return h&&h.length?'<ul>'+h.map(x=>`<li>${esc(x.name)}: <b>${esc(x.number)}</b></li>`).join('')+'</ul>':''}
 function card(c){return add(`<div class="t">${esc(c.title)}</div><p>${esc(c.text)}</p>${helps(c.help)}`,'v alert')}
-function greet(){$('thread').innerHTML='';const d=add(`<p>Hello. Tell me what's on your mind, in your own words. I'll ask a few questions first, then suggest one way forward.</p><div class="chips">${EX.map(e=>`<button class="opt" onclick="pick(this)">${esc(e)}</button>`).join('')}</div>`,'v');}
-function pick(b){$('q').value=b.textContent;send()}
-let cur=null;
-async function send(){const q=$('q').value.trim();if(!q)return;$('q').value='';add(esc(q),'me');cur={q,ctx:{}};
-const t=await post('/triage',{q,profile:profile()});if(t.error){add(esc(t.error),'v');return}
-t.cards.forEach(card);
-if(t.final){if(t.next_step)add(`<div class="step"><b>Right now</b>${esc(t.next_step)}</div>`,'v');return}
-const qs=t.questions.map(x=>x.free?`<div class="q"><b>${esc(x.text)}</b><input data-q="${x.id}" placeholder="Type a short answer (optional)"></div>`:
-`<div class="q"><b>${esc(x.text)}</b><div class="opts" data-q="${x.id}" data-multi="${x.multi?1:0}">${x.options.map(o=>`<button class="opt" onclick="choose(this)">${esc(o)}</button>`).join('')}</div></div>`).join('');
-cur.box=add(`<p>${esc(t.reflection)} Before I suggest anything, a few quick questions:</p>${qs}<div class="row"><button class="btn" onclick="go(false)">Continue</button><button class="btn ghost" onclick="go(true)">Just answer</button></div>`,'v');
-cur.reflection=t.reflection}
-function choose(b){const g=b.parentElement;if(g.dataset.multi!=='1')g.querySelectorAll('.opt').forEach(x=>x.classList.remove('on'));b.classList.toggle('on')}
-async function go(skip){if(!cur||cur.sent)return;cur.sent=true;const ctx={};
-if(!skip){cur.box.querySelectorAll('.opts').forEach(g=>{const on=[...g.querySelectorAll('.opt.on')].map(x=>x.textContent);if(on.length)ctx[g.dataset.q]=g.dataset.multi==='1'?on:on[0]});cur.box.querySelectorAll('input[data-q]').forEach(i=>{if(i.value.trim())ctx[i.dataset.q]=i.value.trim()})}
-cur.box.querySelectorAll('button').forEach(b=>b.disabled=true);
-const wait=add(`<p>${esc(cur.reflection)} Let me think this through carefully${prof&&prof.ai?' (this can take up to a minute)':''}.</p><div class="thinking"><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>`,'v');
-const a=await post('/answer',{q:cur.q,context:ctx,profile:profile(),ai:!!(prof&&prof.ai)});wait.remove();if(a.error){add(esc(a.error),'v');return}
-a.cards.filter(c=>c.kind!=='support').forEach(card);
-let h=`<div class="opening">${esc(a.opening)}</div><p>${esc(a.body)}</p>`;
+const dstore={get(){try{return sessionStorage.getItem('viveka_draft')||''}catch(e){return''}},set(v){try{sessionStorage.setItem('viveka_draft',v)}catch(e){}}};
+let conv={messages:[],asked:[],rounds:0,listen:false,shown:new Set()};
+function greet(){$('thread').innerHTML='';conv={messages:[],asked:[],rounds:0,listen:false,shown:new Set()};$('modes').hidden=true;
+add(`<p><b>Tell me what's going on.</b> Take your time; the whole story helps: the people involved, what's pulling you in different directions, and how you feel. You can type or tap the mic and speak.</p><p class="mut">Or start from one of these:</p><div class="chips">${EX.map(e=>`<button class="opt" onclick="pick(this)">${esc(e)}</button>`).join('')}</div>`,'v')}
+function pick(b){$('q').value=b.textContent;grow();$('q').focus()}
+function grow(){const q=$('q');q.style.height='auto';q.style.height=Math.min(q.scrollHeight,window.innerHeight*.45)+'px';const n=q.value.trim()?q.value.trim().split(/\s+/).length:0;
+if(!rec)$('foot').innerHTML=n?`<span class="wc">${n} words</span>Ctrl+Enter or ➤ to send · nothing you write is saved`:'Local test page · not published · nothing you write is saved'}
+function pullsHTML(p){return p&&p.length===2?`<div class="pulls"><div class="pull"><b>${esc(p[0].aim)}</b>“${esc(p[0].quote)}”</div><div class="vs">⇄</div><div class="pull"><b>${esc(p[1].aim)}</b>“${esc(p[1].quote)}”</div></div>`:''}
+async function send(){if(rec&&recOn)talk();const text=$('q').value.trim();if(!text)return;$('q').value='';dstore.set('');grow();
+add(esc(text),'me');conv.messages.push(text);$('modes').hidden=false;$('q').placeholder='Reply here, in your own words…';await turn()}
+function showCards(cards){(cards||[]).forEach(c=>{const k=c.kind+c.title;if(!conv.shown.has(k)){conv.shown.add(k);card(c)}})}
+async function turn(){const t=await post('/turn',{messages:conv.messages,asked:conv.asked,rounds:conv.rounds,mode:conv.listen?'listen':'auto',profile:profile()});
+if(t.error){add(esc(t.error),'v');return}showCards(t.cards);
+if(t.kind==='crisis'){if(t.next_step)add(`<div class="step"><b>Right now</b>${esc(t.next_step)}</div>`,'v');return}
+conv.reflection=t.reflection;
+const fix=`<button class="linkbtn" onclick="notRight()">That's not quite right</button>`;
+if(t.kind==='listen'){add(`<p>${esc(t.reflection)}</p>${pullsHTML(t.pulls)}<p>${esc(t.ack)}</p>${fix}`,'v');return}
+if(t.kind==='ask'){conv.asked.push(...t.questions.map(q=>q.slot));conv.rounds++;
+add(`<p>${esc(t.reflection)}</p>${pullsHTML(t.pulls)}<p>To give you advice that fits, ${t.questions.length>1?'a few things would help':'one thing would help'}:</p><ol class="qs">${t.questions.map(q=>`<li>${esc(q.text)}</li>`).join('')}</ol><p class="mut">Answer below in your own words, or tap “Just give me advice”.</p>${fix}`,'v');return}
+await advise()}
+function notRight(){$('q').placeholder="What did I get wrong? Tell me, and I'll listen again.";$('q').focus()}
+function toggleListen(){conv.listen=!conv.listen;$('m_listen').classList.toggle('on',conv.listen);$('m_listen').textContent=conv.listen?'Listening only (tap to stop)':'Just listen'}
+async function adviseNow(){if(!conv.messages.length){$('q').focus();return}if(conv.listen)toggleListen();await advise()}
+async function advise(){const ai=!!(prof&&prof.ai);
+const wait=add(`<p>${esc(conv.reflection||'Thank you for telling me all of this.')}</p><p>I'm thinking this through carefully${ai?' (this can take about a minute)':''}.</p><div class="thinking"><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>`,'v');
+const a=await post('/advise',{messages:conv.messages,profile:profile(),ai});wait.remove();if(a.error){add(esc(a.error),'v');return}
+showCards(a.cards.filter(c=>c.kind!=='support'));conv.rounds=99;
+let h=`<div class="opening">${esc(a.opening)}</div>`;
+if(a.dilemma)h+=`<div class="heart">${esc(a.dilemma)}</div>`;
+h+=pullsHTML(a.pulls);
+h+=`<p>${esc(a.recommendation)}</p>${a.application?`<p>${esc(a.application)}</p>`:''}`;
+if(a.why)h+=`<p class="mut">${esc(a.why)}</p>`;
 if(a.next_step)h+=`<div class="step"><b>One next step</b>${esc(a.next_step)}</div>`;
 h+=lensNote(a.aims);
 if(a.closest)h+=`<div class="fit"><div class="lab">Closest fit</div><div><span class="tagc top">${esc(a.closest)}</span></div>${a.also.length?`<div class="lab">Also worth considering</div><div>${a.also.map(x=>`<span class="tagc">${esc(x)}</span>`).join('')}</div>`:''}</div>`;
+if(a.other_view)h+=`<details><summary>The strongest other view</summary><p>${esc(a.other_view)}</p>${a.alternative_source?`<p class="mut">"${esc(a.alternative_source.english)}" (${esc(a.alternative_source.id)})</p>`:''}</details>`;
+if(a.situation&&a.situation.length)h+=`<details><summary>What I took from your story</summary>${a.situation.map(x=>`<p class="mut">“${esc(x.quote)}”</p>`).join('')}</details>`;
 for(const s of a.sources)h+=`<details><summary>The text (${esc(s.id)})</summary><p>"${esc(s.english)}"</p><details><summary>Sanskrit</summary><div class="dev">${esc(s.devanagari)}</div></details></details>`;
-if(a.why)h+=`<details><summary>Why this fits you</summary><p>${esc(a.why)}</p></details>`;
-if(a.alternative)h+=`<details><summary>The other view</summary><p>${esc(a.alternative)}</p>${a.alternative_source?`<p class="mut">"${esc(a.alternative_source.english)}" (${esc(a.alternative_source.id)})</p>`:''}</details>`;
 const cm=a.commentary||[];if(cm.length)h+=`<details><summary>What the commentators say</summary>${cm.map(c=>`<p class="mut">${c.note?`<b>${esc(c.commentator)}:</b> ${esc(c.note)}`:esc(c.missing)}</p>`).join('')}</details>`;
-if(a.example)h+=`<details><summary>A story from the texts</summary><p><b>${esc(a.example.title)}.</b> ${esc(a.example.lesson)}</p><p class="mut">Limits: ${esc(a.example.limits)}</p></details>`;
-h+=`<p class="draft" style="margin-top:10px">Draft · ${a.reviewed} of ${a.sources.length} verses reviewed by a Sanskrit reader · written by ${esc(a.written_by)}</p>`;
-add(h,'v');$('foot').innerHTML='If you are in crisis or not safe: '+a.footer.map(x=>`${esc(x.name.split('(')[0].trim())} <b>${esc(x.number)}</b>`).join(' · ');cur=null}
+h+=`<p class="draft" style="margin-top:10px">Draft · ${a.reviewed} of ${a.sources.length} verses reviewed by a Sanskrit reader · written by ${esc(a.written_by)}</p><p class="mut">Tell me more below, or ask about any part of this.</p>`;
+add(h,'v');$('foot').innerHTML='If you are in crisis or not safe: '+a.footer.map(x=>`${esc(x.name.split('(')[0].trim())} <b>${esc(x.number)}</b>`).join(' · ')}
 async function post(u,b){try{return await(await fetch(u,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(b)})).json()}catch(e){return{error:'Could not reach the local server.'}}}
 // Mini-IPIP (Donnellan et al., 2006): 20 public-domain IPIP items. r = reverse-scored.
 const IPIP=[["E","Am the life of the party."],["A","Sympathize with others' feelings."],["C","Get chores done right away."],["N","Have frequent mood swings."],["O","Have a vivid imagination."],
@@ -160,10 +184,18 @@ function showCase(){$('casebox').hidden=false}
 async function addCase(e){e.preventDefault();const b={text:$('ct').value.trim(),category:$('cc').value,safety:$('cs').value||null,good_answer:$('cg').value.trim(),author:$('cn').value.trim()};
 if(!b.text||!b.good_answer||!b.author){$('cout').innerHTML='<p class="mut">Please fill in the situation, what a good answer must do, and your name.</p>';return}
 const a=await post('/case',b);$('cout').innerHTML=a.error?esc(a.error):`<p class="mut">Saved as ${esc(a.id)} · ${esc(a.count)} so far.</p>`;if(!a.error){$('ct').value='';$('cg').value=''}}
-let rec=null;function talk(){const SR=window.SpeechRecognition||window.webkitSpeechRecognition;const m=$('mic');if(!SR){alert('Voice input is not supported in this browser. Try Chrome or Edge.');return}
-if(rec){rec.stop();return}rec=new SR();rec.lang='en-IN';rec.interimResults=true;const q=$('q'),base=q.value;
-rec.onresult=e=>{let t='';for(const r of e.results)t+=r[0].transcript;q.value=(base?base+' ':'')+t};rec.onend=()=>{m.classList.remove('rec');rec=null};rec.onerror=()=>{m.classList.remove('rec');rec=null};
-m.classList.add('rec');$('foot').textContent="Listening… Voice is turned into text by your browser's speech service, which may send the audio to its provider.";rec.start()}
-$('q').addEventListener('keydown',e=>{if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();send()}});
+let rec=null,recOn=false;
+function talk(){const SR=window.SpeechRecognition||window.webkitSpeechRecognition;const m=$('mic');if(!SR){alert('Voice input is not supported in this browser. Try Chrome or Edge.');return}
+if(recOn){recOn=false;m.classList.remove('rec');m.classList.add('paused');m.title='Tap to resume';try{rec.stop()}catch(e){}$('foot').textContent='Paused. Edit the text if you like, tap the mic to carry on, or send when ready.';return}
+recOn=true;m.classList.remove('paused');m.classList.add('rec');m.title='Tap to pause';
+$('foot').textContent="Listening… tap the mic to pause. Voice is turned into text by your browser's speech service, which may send the audio to its provider.";
+const start=()=>{rec=new SR();rec.lang='en-IN';rec.continuous=true;rec.interimResults=true;let base=$('q').value;
+rec.onresult=e=>{let interim='';for(let i=e.resultIndex;i<e.results.length;i++){const r=e.results[i];if(r.isFinal)base+=(base&&!/\s$/.test(base)?' ':'')+r[0].transcript.trim();else interim+=r[0].transcript}
+$('q').value=base+(interim?' '+interim:'');grow();dstore.set(base)};
+rec.onerror=e=>{if(e.error==='not-allowed'||e.error==='service-not-allowed'){recOn=false;m.classList.remove('rec')}};
+rec.onend=()=>{if(recOn)start();else rec=null};rec.start()};start()}
+$('q').addEventListener('input',()=>{grow();dstore.set($('q').value)});
+$('q').addEventListener('keydown',e=>{if(e.key==='Enter'&&(e.ctrlKey||e.metaKey)){e.preventDefault();send()}});
+const saved=dstore.get();if(saved){$('q').value=saved;setTimeout(grow,0)}
 if(!prof)onb(1);else greet();
 </script></body></html>

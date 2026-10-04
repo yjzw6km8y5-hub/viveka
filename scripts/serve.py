@@ -21,6 +21,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 from engine import llm  # noqa: E402
+from engine import narrative as N  # noqa: E402
 from engine.core import SITUATION_LABEL, answer, help_lines, load_library  # noqa: E402
 
 PAGE = Path(__file__).with_name("serve_page.html")
@@ -147,6 +148,66 @@ def respond(b):
     }
 
 
+ACK = ("Thank you for telling me all of this. I'm listening, and there's no rush. Say more whenever you're ready, "
+       "or tap \"Just give me advice\" when you want my view.")
+
+
+def story_of(b):
+    return "\n\n".join(str(m) for m in (b.get("messages") or []) if str(m).strip())[:200000]
+
+
+def turn(b):
+    """A listening turn: safety first, then reflect back and ask what would change the advice (or just listen).
+    Deterministic and fast; nothing is sent to any model."""
+    prof, region = profile_of(b)
+    story = story_of(b)
+    whole = answer(story, prof, mode="internal", region=region)
+    cards = safety_cards(whole)
+    if (whole.get("safety") or {}).get("level") == "crisis":
+        return {"kind": "crisis", "cards": cards, "next_step": (whole.get("next_step") or {}).get("text")}
+    an = N.analyse(story)
+    refl = N.reflection(an)
+    if N.check_reflection(refl, story):  # never show a reflection that is not in their words
+        refl = {"text": "Here's what I'm hearing. Thank you for telling me this.", "people": [], "pulls": [], "feelings": []}
+    out = {"cards": cards, "reflection": refl["text"], "pulls": refl["pulls"], "people": refl["people"]}
+    if b.get("mode") == "listen":
+        return dict(out, kind="listen", ack=ACK)
+    asked = list(b.get("asked") or [])
+    qs = N.followups(an, asked, int(b.get("rounds") or 0))
+    if N.check_questions(qs, asked, an):
+        qs = []
+    return dict(out, kind="ask" if qs else "ready", questions=qs)
+
+
+def advise_story(b):
+    prof, region = profile_of(b)
+    story = story_of(b)
+    a, an, whole = N.advise(story, prof, region)
+    adv = N.compose_advice(a, an)
+    lib = load_library()
+    written, note = (llm.write_story(adv, an, a, story) if b.get("ai") else (None, "AI writing is off in settings"))
+    problems = N.check_advice(a, an, adv["text"] + " " + " ".join((written or {}).values()), lib)
+    minor = a["understanding"].get("minor") != "no"
+    return {
+        "notice": a["notice"], "cards": safety_cards(whole if (whole.get("safety") or {}).get("level") in ("crisis", "danger") else a),
+        "opening": (written or {}).get("opening") or "Thank you for trusting me with all of this. Here's how I see it.",
+        "dilemma": (written or {}).get("dilemma") or adv["dilemma"], "pulls": adv["pulls"], "situation": adv["situation"],
+        "recommendation": (written or {}).get("recommendation") or adv["recommendation"],
+        "application": "" if written else adv["application"],
+        "why": (written or {}).get("why") or adv["why"],
+        "other_view": (written or {}).get("other_view") or adv["other_view"],
+        "next_step": (written or {}).get("next_step") or adv["next_step"],
+        "closest": adv["closest"], "also": adv["also"],
+        "aims": lib["principles"].get((a.get("recommendation") or {}).get("principle"), {}).get("aims", []),
+        "sources": adv["sources"], "commentary": a.get("commentary", []),
+        "alternative_source": (a.get("challenge") or {}).get("source"),
+        "written_by": "AI, from the passages and your story, then checked" if written else "Viveka" + (f" ({note})" if b.get("ai") else ""),
+        "gate": problems, "reviewed": sum(lib["units"].get(s["id"], {}).get("review_status") in ("reviewed", "approved")
+                                          for s in adv["sources"]),
+        "footer": help_lines(lib, ["self_harm", "danger"] + (["under18"] if minor else []), region),
+    }
+
+
 class Handler(BaseHTTPRequestHandler):
     def log_message(self, *a):  # no request logging: questions are never written anywhere
         pass
@@ -168,12 +229,16 @@ class Handler(BaseHTTPRequestHandler):
 
     def body(self):
         n = int(self.headers.get("Content-Length", 0))
-        return json.loads(self.rfile.read(min(n, 30000)) or b"{}")
+        return json.loads(self.rfile.read(min(n, 400000)) or b"{}")  # long stories: 5,000+ words
 
     def do_POST(self):
         try:
             b = self.body()
-            if self.path == "/triage":
+            if self.path == "/turn":
+                self.send(200, json.dumps(turn(b), ensure_ascii=False, default=str))
+            elif self.path == "/advise":
+                self.send(200, json.dumps(advise_story(b), ensure_ascii=False, default=str))
+            elif self.path == "/triage":
                 self.send(200, json.dumps(triage(b), ensure_ascii=False, default=str))
             elif self.path == "/answer":
                 self.send(200, json.dumps(respond(b), ensure_ascii=False, default=str))

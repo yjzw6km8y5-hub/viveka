@@ -58,7 +58,7 @@ def check(a, lib, expect=None):
     for need in u.get("protective") or []:
         if level != "crisis" and not a.get("protective"):
             fails.append(f"protective need ({need}) without protective guidance")
-        if level not in ("crisis", "danger") and top and top not in PROTECTIVE_PRINCIPLES.get(need, ()):
+        if level not in ("crisis", "danger") and top and need in PROTECTIVE_PRINCIPLES and top not in PROTECTIVE_PRINCIPLES[need]:
             fails.append(f"protective need ({need}) answered with an unrelated principle: {top}")
 
     # The recommendation must address the problem the person describes (must-fix 3), when we can tell what it is.

@@ -94,7 +94,9 @@ DANGER = ["hits me", "hit me", "beats me", "beat me", "beating", "abuse", "abusi
           "nudes", "blackmail", "sextortion", "embarrassing photo", "private photo", "intimate photo", "leaked my",
           "takes my pension", "takes my money", "takes all my money", "dowry", "sexually harass", "send me back",
           "threatening to post", "won't let me leave", "took my passport", "locked in", "grooming", "followed me home",
-          "will hurt me", "hurt me if", "going to hurt me", "threatens to hurt", "threatened to hurt", "controls what i eat"]
+          "will hurt me", "hurt me if", "going to hurt me", "threatens to hurt", "threatened to hurt", "controls what i eat",
+          "if i don't send", "he will post", "she will post", "they will post", "post the one", "post my photo",
+          "post the photo", "share my photos", "private ones"]
 DISTRESS = ["hopeless", "worthless", "can't go on", "nothing matters", "no point in anything",
             "everything feels pointless", "everything is pointless", "pointless lately", "don't feel anything",
             "do not feel anything", "feel nothing", "empty inside", "i deserve it", "i deserve this", "deserve to suffer",
@@ -119,6 +121,15 @@ EATING_RESTRICT = [r"\b(?:stopped|stop|stopping|quit) eating\b", r"\bnot eating\
                    r"\bcount(?:ing)? every calorie\b", r"\bdrop weight fast\b", r"\blose weight fast\b"]
 EATING_MOTIVE = [r"\bthin(?:ner)?\b", r"\bskinn(?:y|ier)\b", r"\bweight\b", r"\bfat\b", r"\bmy body\b",
                  r"\bcalories\b", r"\bslim(?:mer)?\b", r"\bmy size\b", r"\blook (?:great|good|better)\b"]
+
+
+IMAGE_THREAT = [r"\b(?:post|share|send|leak|show)\w*\b[^.?!]{0,40}\b(?:photos?|pictures?|pics|images?|videos?|the one i sent)\b"
+                r"[^.?!]{0,60}\b(?:if i don'?t|unless|or else|to people|to my|to everyone)",
+                r"\bif i don'?t send\b", r"\bsextort", r"\bblackmail\w*\b[^.?!]{0,40}\b(?:photos?|pictures?|pics|images?|videos?)"]
+
+
+def image_threat(text):
+    return any(re.search(p, text) for p in IMAGE_THREAT)
 
 
 def eating_risk(text):
@@ -240,6 +251,35 @@ def months_since_loss(text):
     return None
 
 
+NEGATED_DANGER = re.compile(r"\b(?:not|never|isn't|is not|wasn't|was not|doesn't|does not|didn't|did not)\s+"
+                            r"(?:\w+\s+){0,2}(?:violent|abusive|hit|hits|beat|beats|hurt|hurts|threaten\w*)\b")
+FIRST_PERSON = re.compile(r"\b(?:i|i'm|im|i've|i'd|me|myself)\b")
+SPECIFIC_PERSON = re.compile(r"\b(?:my \w+|he|she|his|her|friend|brother|sister|son|daughter|cousin|classmate)\b")
+GENERIC_PEOPLE = re.compile(r"\b(?:some|many|other|people|girls|boys|kids|others|they say)\b")
+
+
+def own_distress(text):
+    """Distress cues count when they are about the person. In short messages any cue counts (as before);
+    in long stories a cue must sit near 'I', 'me' or 'myself', so 'my wife is exhausted' is not the user's distress."""
+    if len(text.split()) <= 120:
+        return _word(text, DISTRESS)
+    for c in DISTRESS:
+        for m in re.finditer(r"(?<![a-z])" + re.escape(c.strip()) + r"(?![a-z])", text):
+            if FIRST_PERSON.search(text[max(0, m.start() - 50):m.start()]):
+                return True
+    return False
+
+
+def other_person_at_risk(text):
+    """'Someone else may hurt themselves' needs a specific person ('my friend', 'she'), not a general remark."""
+    for c in OTHER_AT_RISK:
+        for m in re.finditer(r"(?<![a-z])" + re.escape(c.strip()) + r"(?![a-z])", text):
+            before = text[max(0, m.start() - 60):m.start()]
+            if c.strip().startswith(("my friend", "friend")) or (SPECIFIC_PERSON.search(before) and not GENERIC_PEOPLE.search(before)):
+                return True
+    return False
+
+
 def understand(raw, profile=None):
     profile = profile or {}
     text = " " + raw.lower().replace("’", "'") + " "
@@ -286,12 +326,13 @@ def understand(raw, profile=None):
                 s.life_stage_source = "stated" if any(re.search(p, text) for p in STATED_STAGE_CUES) else "inferred"
                 break
 
-    s.other_at_risk = _word(text, OTHER_AT_RISK)
+    s.other_at_risk = other_person_at_risk(text)
     s.self_harm = _word(text, SELF_HARM) and not s.other_at_risk
-    s.danger = _word(text, DANGER) or any(c in text for c in ("stalk", "harass", "abus"))
+    dtext = NEGATED_DANGER.sub(" ", text)  # "he's not violent" is not a danger cue
+    s.danger = _word(dtext, DANGER) or any(c in dtext for c in ("stalk", "harass", "abus"))
     risk, s.purging = eating_risk(text)
-    s.protective = ["eating"] if risk else []
-    s.distress = s.self_harm or _word(text, DISTRESS) or bool(profile.get("distress")) or bool(s.protective) \
+    s.protective = (["eating"] if risk else []) + (["image_threat"] if image_threat(text) else [])
+    s.distress = s.self_harm or own_distress(text) or bool(profile.get("distress")) or bool(s.protective) \
         or eating_distress(text)
     s.months_since_loss = months_since_loss(text)
 

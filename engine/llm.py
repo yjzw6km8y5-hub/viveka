@@ -43,10 +43,95 @@ Reply with JSON only: {"opening": "one sentence to the person", "answer": "2-4 s
 "alternative": "one sentence", "next_step": "one sentence"}"""
 
 
+STORY_SYSTEM = """You write advice for Viveka, a guide for people facing tangled real-life dilemmas, using verified passages from
+Indian wisdom texts. You are like a wise friend who listens well: warm, plain, unhurried. You are not a therapist,
+guru or deity: no therapy, diagnosis or medical advice, and never speak as Krishna or any god.
+
+You receive JSON: the person's story, the core dilemma Viveka found (two pulls among Dharma / Artha / Kama / Moksha,
+each with the person's own words), the people involved, the recommended principle, passages (IDs and exact English),
+the strongest other view, one next step, and any safety or health note.
+
+Rules:
+- Use only facts in the story. Never invent, assume or join facts the person did not join. If unsure, leave it out.
+- Refer to their specifics (the people, the situation) so it is clearly about THEIR life, not generic.
+- You may quote a passage only word for word from the English given, in double quotes, with its ID in brackets.
+  You may also quote the person's own words exactly. Never quote anything else.
+- Never say suffering is deserved or a punishment. Never recommend renunciation or abandoning responsibilities.
+- If a safety or health note is given, put safety first and do not soften it.
+
+Reply with JSON only:
+{"opening": "one warm sentence to the person, acknowledging what they carry",
+ "dilemma": "one sentence naming the core dilemma in their terms",
+ "recommendation": "2-4 sentences: what you suggest and how, specific to them",
+ "why": "1-2 sentences: why this fits their situation",
+ "other_view": "one sentence: the strongest other view, fairly",
+ "next_step": "one concrete step they can take this week"}"""
+STORY_KEYS = ("opening", "dilemma", "recommendation", "why", "other_view", "next_step")
+
+
+def write_story(adv, an, a, story, timeout=150):
+    """LLM wording for the story flow. -> (dict or None, note). Never raises. Not used for crisis answers."""
+    if (a.get("safety") or {}).get("level") == "crisis":
+        return None, "not used for this kind of answer"
+    if not available():
+        return None, "AI writer not available on this PC"
+    words = story.split()
+    mat = {"story": " ".join(words[:3000]), "dilemma_found": adv["dilemma"],
+           "pulls": [{"aim": p["aim"], "their_words": p["quote"]} for p in adv["pulls"]], "people": an["people"],
+           "recommended": {"principle": adv["closest"], "meaning": adv["recommendation"], "application": adv["application"]},
+           "passages": [{"id": s["id"], "english": s["english"]} for s in adv["sources"]],
+           "other_view": adv["other_view"], "next_step": adv["next_step"],
+           "safety_note": (a.get("safety") or {}).get("message"), "health_note": adv.get("protective")}
+    exe = shutil.which("claude") or shutil.which("claude.cmd")
+    sp = tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8")
+    try:
+        sp.write(STORY_SYSTEM)
+        sp.close()
+        r = subprocess.run([exe, "-p", "--model", "haiku", "--no-session-persistence", "--tools", "",
+                            "--system-prompt-file", sp.name, "--output-format", "text"],
+                           input=json.dumps(mat, ensure_ascii=False), capture_output=True, text=True,
+                           encoding="utf-8", timeout=timeout)
+        out = parse(r.stdout, STORY_KEYS)
+    except Exception as e:
+        return None, f"AI writer failed ({type(e).__name__}); showing Viveka's own text"
+    finally:
+        os.unlink(sp.name)
+    if not out:
+        return None, "AI writer gave no usable answer; showing Viveka's own text"
+    probs = check_story(out, adv, an, story)
+    if probs:
+        return None, "AI text rejected by the check (" + "; ".join(probs) + "); showing Viveka's own text"
+    return out, "written by AI from the passages and your story, then checked"
+
+
+def check_story(out, adv, an, story):
+    probs = []
+    for k in ("opening", "recommendation", "next_step"):
+        if not isinstance(out.get(k), str) or not out[k].strip():
+            probs.append(f"missing {k}")
+    text = " ".join(str(out.get(k, "")) for k in STORY_KEYS)
+    allowed = [s["english"] for s in adv["sources"]]
+    for q in re.findall(r"“([^”]{12,})”|\"([^\"]{12,})\"", text):
+        q = (q[0] or q[1]).strip().rstrip(".,;")
+        if not any(q in e for e in allowed) and q not in story:
+            probs.append("quote not found word for word in the passages or the story")
+    for vid in re.findall(r"\b(?:BG|KaU|KeU|IsU|NS|VN)\.[\d.]+\d\b", text):
+        if vid not in {s["id"] for s in adv["sources"]}:
+            probs.append(f"cites a passage it was not given: {vid}")
+    if re.search(r"\b(?:deserve[ds]?|punish(?:ed|ment))\b", text, re.I):
+        probs.append("talks about deserving or punishment")
+    if re.search(r"\b(?:I am Krishna|I, Krishna|as your god)\b", text, re.I):
+        probs.append("speaks as a deity")
+    low = text.lower()
+    if an["people"] and not any(re.search(rf"\b{re.escape(p)}\b", low) for p in an["people"]):
+        probs.append("does not refer to the people in the story")
+    return probs
+
+
 KEYS = ("opening", "answer", "quote_ids", "alternative", "next_step")
 
 
-def parse(raw):
+def parse(raw, keys=None):
     """The model's JSON, or the same fields read key by key when it left straight quotes inside a string."""
     m = re.search(r"\{.*\}", raw or "", re.S)
     if not m:
@@ -56,8 +141,9 @@ def parse(raw):
     except ValueError:
         pass
     out, body = {}, m.group(0)
-    for k in KEYS:
-        nxt = "|".join(re.escape(x) for x in KEYS if x != k)
+    keys = keys or KEYS
+    for k in keys:
+        nxt = "|".join(re.escape(x) for x in keys if x != k)
         f = re.search(rf'"{k}"\s*:\s*(\[.*?\]|".*?")\s*(?:,\s*"(?:{nxt})"\s*:|\}}\s*$)', body, re.S)
         if f:
             v = f.group(1)
@@ -74,7 +160,7 @@ def material(a):
     return {
         "message": a.get("user_message") or a.get("question", ""),
         "background": a.get("background", []),
-        "understood": {k: a["understanding"].get(k) for k in ("situations", "people", "options", "age", "frames")},
+        "understood": {k: a["understanding"].get(k) for k in ("situations", "people", "options", "frames")},
         "recommended": {"principle": rec.get("name"), "meaning": rec.get("text"), "fit": rec.get("why_it_fits_you"),
                         "application": rec.get("application")},
         "passages": [{"id": s["id"], "english": s["english"]} for s in a.get("sources", [])],
@@ -103,6 +189,10 @@ def check(out, a):
             probs.append(f"cites a passage it was not given: {vid}")
     if re.search(r"\b(?:deserve[ds]?|punish(?:ed|ment))\b", text, re.I) and "punishment you earned" not in (a.get("recommendation") or {}).get("application", ""):
         probs.append("talks about deserving or punishment")
+    given = json.dumps(material(a), ensure_ascii=False)
+    for n in set(re.findall(r"\b\d+\b", re.sub(r"\b(?:BG|KaU|KeU|IsU|NS|VN)\.[\d.]+\d\b", "", text))):
+        if not re.search(rf"\b{n}\b", given):  # a number (age, year, count) the material never contained
+            probs.append(f"states a number not in the given material: {n}")
     if re.search(r"\b(?:I am Krishna|I, Krishna|as your god)\b", text, re.I):
         probs.append("speaks as a deity")
     return probs

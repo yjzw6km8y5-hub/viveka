@@ -412,7 +412,14 @@ def cmd_approve(args):
         target, heading = TARGETS[m["kind"]]
         if m["kind"] in ("must-fix", "should-fix", "idea"):
             na = re.search(r"(?:Next action|Proposed action):\s*(.+)", body)
-            text = first_sentence(na.group(1), 400) if na else m["summary"]
+            if na:
+                text = first_sentence(na.group(1), 400)
+            elif m["summary"].endswith("…"):  # the summary is cut short: use the full text from the body
+                stem = m["summary"][:-1][:40].lower()
+                para = next((p for p in re.split(r"\n\s*\n", body) if stem in p.lower()), m["summary"])
+                text = re.sub(r"\s+", " ", para).strip()
+            else:
+                text = m["summary"]
             insert_under(ROOT / target, heading, f"- **{m['title']}** ({src}, approved {today}): {text}")
             touched.add(target)
         elif m["kind"] == "context":

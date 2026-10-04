@@ -405,3 +405,26 @@ Technical choices made without asking, newest last. Format: date, decision, why.
   - The profile frames suggestions and never changes which passages are true or recommended. Both questionnaire steps can be skipped.
 - **AI writer: message and context kept apart (2026-10-03).** It joined separate facts twice ("best friend" as roommate; a friend fight making "home" harder). It now gets the person's message and their context answers as separate fields, with a rule never to connect them.
 
+## 2026-10-03: Owner decision: Viveka is for real-life dilemmas told as a story
+- **Who it is for:** people facing weighty, tangled situations with competing duties, told as a story about family, work, history and feelings (e.g. moving abroad for a career while parents depend on them; colleagues walking over the family's main earner; parents choosing a spouse while they see someone else). One-line trivial issues are not the target. **This replaces UI fix 3a** (the fixed three context questions).
+- **Input:**
+  - A large text area that grows as they type, allowing at least 5,000 words.
+  - Voice as a main input: long recordings that can be paused and resumed, the text appearing as they speak and editable before sending.
+  - An opening prompt that invites the whole story.
+  - The draft is kept in the browser for the visit only.
+  - Example dilemmas in place of the trivial examples.
+- **Flow (a conversation thread):**
+  - **Listen first:** reflect back the people, the duties pulling against each other and the feelings, using only what they wrote, with "That's not quite right" to correct it.
+  - **Then ask:** 1-3 follow-up questions at a time, only ones that would change the advice, stopping once there is enough.
+  - **Then advise:** the core dilemma, the competing pulls (Dharma / Artha / Kama / Moksha) in their specifics, the recommendation and why, the strongest other view, and one next step.
+  - A reply box on every turn, with "Just listen" and "Just give me advice" available at any time.
+- **Tone:** warm, plain and unhurried, like a wise friend who listens well. Never a therapist, and no therapy, diagnosis or medical advice. Safety and health help still shows first whenever risk is detected.
+- **Speed:** listening turns (reflection and questions) within about 10 seconds; the full advice may take longer, with a calm waiting state.
+- **Tests:**
+  - 20 long-narrative development cases (300-1,500 words, 5 of them teen, some in voice style).
+  - Gate checks: the reflection uses only their facts; the advice addresses the central dilemma, not a side detail; it refers to their specifics; follow-up questions are relevant and never repeated.
+  - Results per case, with the first run kept separate from reruns.
+
+## 2026-10-03 Review of cycle 8 (builder)
+- Decision: age removed from AI material; AI check rejects numbers not in the material; removed baseline cases fail self-check; truncated proposal merges use full body text.
+- Open conflict: owner decision "profile never sent to the server" vs. the local server using age/country for under-18 gating and help lines. Kept (127.0.0.1 only, safety first); a browser-side gate is the proper fix.
