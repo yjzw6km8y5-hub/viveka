@@ -1,6 +1,6 @@
 # Viveka: brief for the Claude planning chat
 
-_Updated 2026-10-04 00:32 Eastern Daylight Time by `scripts/brief.py` after a cycle. Repo: https://github.com/yjzw6km8y5-hub/viveka_
+_Updated 2026-10-04 01:46 Eastern Daylight Time by `scripts/brief.py` after a cycle. Repo: https://github.com/yjzw6km8y5-hub/viveka_
 
 ## Current status
 
@@ -40,21 +40,16 @@ _Updated 2026-10-04 00:32 Eastern Daylight Time by `scripts/brief.py` after a cy
 
 ## Runner log, last 24 hours
 
-- **Cycles:** 0 (0 ok, 0 failed); by builder: .
-- **Not yet reviewed by the other tool:** 0.
-- **Commits:** 9.
+- **Cycles:** 1 (1 ok, 0 failed); by builder: claude 1.
+- **Not yet reviewed by the other tool:** 1.
+- **Commits:** 4.
 
 <details><summary>Commits</summary>
 
+- 10-04 01:38  Remove stray scratch scripts; ignore scratch_*.py so the build leaves a clean tree
+- 10-04 00:32  Cycle 10: new frames (identity loss, credit taken, preparing for death), family-care and family-rift fixes; situations gate 91/100
 - 10-03 23:37  Fix cycle-8 review findings: no age to AI writer, invented-number check, removed-baseline check, full proposal merge text
 - 10-03 01:58  Big Five (Mini-IPIP) and life-map onboarding, kept on the device; profile note; AI writer keeps message and context apart; Desk screenshots tool
-- 10-03 01:46  Conversation UI (owner list a-h): context questions first, one answer, onboarding, settings, closest fit, help lines by country incl. Canada, Sanskrit folded; owner decisions; brief with roadmap for review
-- 10-03 01:33  Brief also overwritten in place in AI Review Desk/Viveka/BRIEF.md for the Claude chat
-- 10-03 01:31  Verse check complete: owner review list rebuilt; brief refreshed
-- 10-03 01:30  Owner decisions of 2026-10-03 (scope later phase; context-first flow; Big Five and life-map onboarding; profile storage open); claude-chat/BRIEF.md with screenshots; verse check 39/39
-- 10-03 01:20  Visual try-it page with voice input; LLM writing step (RAG on existing subscription, checked before shown); friend-fight detection; UI screenshots for review
-- 10-03 00:49  Local try-it page (scripts/serve.py) with an 'Add a test case' form for the independent test set
-- 10-03 00:47  Merge owner-approved proposals [10, 13, 14, 18, 20, 22, 23]; rejected [2, 3, 4, 5, 6, 7, 9, 12, 15, 16, 17, 19, 21]
 
 </details>
 

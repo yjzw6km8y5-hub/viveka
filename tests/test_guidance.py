@@ -114,6 +114,8 @@ def test_cycle10_frames_fire_on_their_cues_and_not_on_nearby_text():
     assert "identity_loss" in detect_frames("I don't know who I am without my job.")
     assert "prepare_for_death" in detect_frames("I'm 70 and want to prepare for death peacefully.")
     assert "prepare_for_death" not in detect_frames("I want to prepare for my exam.")
+    assert "identity_loss" not in detect_frames("My identity was stolen and the bank wants documents.")
+    assert "prepare_for_death" not in detect_frames("I loved my last years at school.")
 
 
 def test_withheld_answer_passes_the_real_gate():

@@ -183,13 +183,13 @@ FRAMES = {
          r"\bmorning practice\b"],
         ["steady-practice", "restless-mind-can-be-trained", "graded-practice", "inward-meditation", "small-practice-protects"]),
     "identity_loss": (
-        [r"\bwho i am without\b", r"\bdon't know who i am\b", r"\bi feel useless\b", r"\bidentity\b"],
+        [r"\bwho i am without\b", r"\bdon't know who i am\b", r"\bi feel useless\b", r"\bmy identity (?:is|was) (?:gone|lost|tied)\b", r"\bsense of identity\b", r"\blost my identity\b"],
         ["more-than-body-and-roles", "self-as-friend", "effort-never-wasted", "evenness-in-success-and-failure"]),
     "credit_taken": (
         [r"\btook (?:all )?(?:the )?credit\b", r"\bstole my (?:idea|work|credit)\b", r"\btakes? credit for\b"],
         ["speech-without-harm", "three-gates", "calm-before-clarity", "honesty", "desire-anger-chain"]),
     "prepare_for_death": (
-        [r"\bprepare (?:for death|to die)\b", r"\bdie peacefully\b", r"\bmy last years\b"],
+        [r"\bprepare (?:for death|to die)\b", r"\bdie peacefully\b", r"\bmy last years (?:of life|alive)\b", r"\bspend my last years\b(?![^.?!]{0,20}\b(?:at|in) (?:school|college|university)\b)"],
         ["mortality-is-certain", "keep-contributing", "knowledge-handed-down", "know-it-in-this-life", "turn-inward"]),
     "family_rift": (
         [r"\b(?:brother|sister|siblings?|cousins?|uncle|aunt|in-laws?)\b[^.?!]{0,40}\b(?:fight|fought|quarrel|not speaking|stopped speaking|property|inheritance|dispute|rift|share)\b",
