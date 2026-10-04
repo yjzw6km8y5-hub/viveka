@@ -107,6 +107,15 @@ def test_audit_cue_matches_audits_not_auditorium():
         assert "witness_wrong" in detect_frames(t)
 
 
+def test_cycle10_frames_fire_on_their_cues_and_not_on_nearby_text():
+    from engine.frames import detect_frames
+    assert "credit_taken" in detect_frames("My colleague took credit for my project.")
+    assert "credit_taken" not in detect_frames("I gave my colleague credit for the project.")
+    assert "identity_loss" in detect_frames("I don't know who I am without my job.")
+    assert "prepare_for_death" in detect_frames("I'm 70 and want to prepare for death peacefully.")
+    assert "prepare_for_death" not in detect_frames("I want to prepare for my exam.")
+
+
 def test_withheld_answer_passes_the_real_gate():
     for text in [Q, "I'm 15 and I skip meals every day so I can get skinny.", "I'm 15. My stepdad hits me when he drinks."]:
         a = with_check(reject_all_but_withheld, lambda: answer(text))

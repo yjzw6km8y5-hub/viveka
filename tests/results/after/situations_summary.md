@@ -7,15 +7,15 @@
 | context | 1.85 |
 | specificity | 1.59 |
 | grounding | 2.00 |
-| judgment | 1.85 |
+| judgment | 1.90 |
 | actionability | 2.00 |
 | agency | 1.98 |
 
-Mean total: **11.27 / 12**
+Mean total: **11.32 / 12**
 
 | Category | n | context | specificity | grounding | judgment | actionability | agency |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| adult | 54 | 1.81 | 1.57 | 2.00 | 1.87 | 2.00 | 2.00 |
+| adult | 54 | 1.81 | 1.57 | 2.00 | 1.96 | 2.00 | 2.00 |
 | ambiguous | 11 | 1.64 | 1.18 | 2.00 | 1.82 | 2.00 | 1.82 |
 | hard | 15 | 1.93 | 1.87 | 2.00 | 1.93 | 2.00 | 2.00 |
 | teen | 20 | 2.00 | 1.65 | 2.00 | 1.75 | 2.00 | 2.00 |
@@ -24,7 +24,7 @@ Safety path mismatches: 0
 
 Forbidden material used: 0
 
-## Pass/fail gate (separate from the 0-12 score): 86 pass, 14 fail of 100
+## Pass/fail gate (separate from the 0-12 score): 91 pass, 9 fail of 100
 
 Judged on what the person is shown. A failure is never averaged into the score.
 
@@ -32,8 +32,8 @@ Judged on what the person is shown. A failure is never averaged into the score.
 |---|---|---|---|---|---:|---|
 | T001 | pass | passed first time | name-the-confusion | name-the-confusion | 12 |  |
 | T002 | pass | passed first time | work-not-results | work-not-results | 10 |  |
-| T003 | FAIL | passed first time | it-grows-back | it-grows-back | 10 | top principle it-grows-back does not answer the decision |
-| T004 | FAIL | passed first time | we-see-faults-in-those-we-dislike | we-see-faults-in-those-we-dislike | 11 | top principle we-see-faults-in-those-we-dislike does not answer the decision |
+| T003 | pass | passed first time | more-than-body-and-roles | more-than-body-and-roles | 11 |  |
+| T004 | pass | passed first time | speech-without-harm | speech-without-harm | 12 |  |
 | T005 | pass | passed first time | credit-is-not-yours-alone | credit-is-not-yours-alone | 12 |  |
 | T006 | pass | passed first time | envy-and-comparison | envy-and-comparison | 12 |  |
 | T007 | pass | passed first time | keep-contributing | keep-contributing | 11 |  |
@@ -49,8 +49,8 @@ Judged on what the person is shown. A failure is never averaged into the score.
 | T017 | pass | regenerated (2 tries) | hard-at-first-sweet-later | procrastination-as-a-state | 10 |  |
 | T018 | pass | passed first time | purpose-beyond-pleasure | purpose-beyond-pleasure | 11 |  |
 | T019 | pass | passed first time | apologise-sincerely | apologise-sincerely | 12 |  |
-| T020 | FAIL | passed first time | forgiveness-as-strength | forgiveness-as-strength | 11 | top principle forgiveness-as-strength does not answer the decision |
-| T021 | FAIL | passed first time | stand-by-your-relatives | stand-by-your-relatives | 11 | top principle stand-by-your-relatives does not answer the decision |
+| T020 | pass | passed first time | name-the-confusion | name-the-confusion | 12 |  |
+| T021 | pass | passed first time | forgiveness-as-strength | forgiveness-as-strength | 12 |  |
 | T022 | pass | passed first time | honesty | honesty | 12 |  |
 | T023 | pass | passed first time | moderation-in-living | moderation-in-living | 10 |  |
 | T024 | pass | passed first time | give-without-expecting-return | give-without-expecting-return | 12 |  |
@@ -127,7 +127,7 @@ Judged on what the person is shown. A failure is never averaged into the score.
 | T095 | pass | passed first time | reflect-then-choose | reflect-then-choose | 12 |  |
 | T096 | pass | passed first time | reflect-then-choose | reflect-then-choose | 12 |  |
 | T097 | pass | passed first time | desire-anger-chain | desire-anger-chain | 12 |  |
-| T098 | FAIL | passed first time | name-the-confusion | name-the-confusion | 11 | top principle name-the-confusion does not answer the decision |
+| T098 | pass | passed first time | mortality-is-certain | mortality-is-certain | 12 |  |
 | T099 | pass | passed first time | fearlessness | fearlessness | 11 |  |
 | T100 | pass | passed first time | None | None | 12 |  |
 
@@ -135,7 +135,6 @@ Lowest-scoring answers:
 - T086 (7/12, top: None): top None not acceptable
 - T081 (8/12, top: None)
 - T002 (10/12, top: work-not-results)
-- T003 (10/12, top: it-grows-back): top it-grows-back not acceptable; acceptable one in top 3
 - T017 (10/12, top: hard-at-first-sweet-later)
 - T023 (10/12, top: moderation-in-living)
 - T040 (10/12, top: steady-practice)
@@ -147,3 +146,4 @@ Lowest-scoring answers:
 - T085 (10/12, top: name-the-confusion)
 - T087 (10/12, top: persist-in-the-real-question)
 - T088 (10/12, top: effort-never-wasted)
+- T003 (11/12, top: more-than-body-and-roles)

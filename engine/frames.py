@@ -182,11 +182,20 @@ FRAMES = {
         [r"\bmeditat", r"\bmy mind wanders\b", r"\bmind keeps wandering\b", r"\bcan't concentrate\b", r"\bjapa\b",
          r"\bmorning practice\b"],
         ["steady-practice", "restless-mind-can-be-trained", "graded-practice", "inward-meditation", "small-practice-protects"]),
+    "identity_loss": (
+        [r"\bwho i am without\b", r"\bdon't know who i am\b", r"\bi feel useless\b", r"\bidentity\b"],
+        ["more-than-body-and-roles", "self-as-friend", "effort-never-wasted", "evenness-in-success-and-failure"]),
+    "credit_taken": (
+        [r"\btook (?:all )?(?:the )?credit\b", r"\bstole my (?:idea|work|credit)\b", r"\btakes? credit for\b"],
+        ["speech-without-harm", "three-gates", "calm-before-clarity", "honesty", "desire-anger-chain"]),
+    "prepare_for_death": (
+        [r"\bprepare (?:for death|to die)\b", r"\bdie peacefully\b", r"\bmy last years\b"],
+        ["mortality-is-certain", "keep-contributing", "knowledge-handed-down", "know-it-in-this-life", "turn-inward"]),
     "family_rift": (
         [r"\b(?:brother|sister|siblings?|cousins?|uncle|aunt|in-laws?)\b[^.?!]{0,40}\b(?:fight|fought|quarrel|not speaking|stopped speaking|property|inheritance|dispute|rift|share)\b",
          r"\bfamily (?:feud|rift|dispute|quarrel)\b", r"\bproperty dispute\b", r"\bancestral (?:home|house|land|property)\b"],
-        ["stand-by-your-relatives", "speak-the-hard-truth", "forgiveness-as-strength", "we-see-faults-in-those-we-dislike",
-         "golden-rule"]),
+        ["forgiveness-as-strength", "speech-without-harm", "stand-by-your-relatives", "speak-the-hard-truth",
+         "we-see-faults-in-those-we-dislike", "golden-rule"]),
     "managing": (
         [r"\bmy (?:team|employees|staff|direct reports|workers)\b", r"\bi manage\b", r"\bas a manager\b",
          r"\b(?:hire|fire|let go of) (?:someone|him|her|them|an employee)\b", r"\bmy (?:maid|driver|cook|helper)\b"],
@@ -294,9 +303,12 @@ PRIMARY = {"decision": 1.4, "danger": 2.0, "fatalism": 1.4, "burnout": 1.3, "dea
            "criticised": 1.3, "family_rift": 1.3, "managing": 1.3, "relapse": 1.5, "spending": 1.4, "health_limits": 1.3, "prejudice": 1.4,
            "violence_justification": 2.0, "parting": 1.2, "distress": 1.6,
            "eating": 2.4, "remarriage": 1.6, "why_suffering": 1.5,
-           "karma_blame": 1.8}
+           "karma_blame": 1.8, "family_care": 1.4, "identity_loss": 1.6, "credit_taken": 1.6,
+           "prepare_for_death": 1.7}
 # Principles that must not be offered when a frame is present (they would serve the wrong party).
-FRAME_EXCLUDE = {"eating": {"honour-the-grief-first", "desire-as-enemy", "fortitude-that-holds", "guard-the-senses",
+FRAME_EXCLUDE = {"family_rift": {"stand-by-your-relatives"},
+                 "family_care": {"forgiveness-as-strength", "keep-distance-from-harmful-people"},
+                 "eating": {"honour-the-grief-first", "desire-as-enemy", "fortitude-that-holds", "guard-the-senses",
                             "food-shapes-mind", "dont-quit-because-its-hard", "steady-practice", "mental-discipline",
                             "withstand-the-surge", "contact-pleasures-end", "pleasant-versus-good"},
                  "fatalism": {"effort-over-fate"},

@@ -1,6 +1,6 @@
 # Viveka: brief for the Claude planning chat
 
-_Updated 2026-10-03 01:58 Eastern Daylight Time by `scripts/brief.py` after a cycle. Repo: https://github.com/yjzw6km8y5-hub/viveka_
+_Updated 2026-10-04 00:32 Eastern Daylight Time by `scripts/brief.py` after a cycle. Repo: https://github.com/yjzw6km8y5-hub/viveka_
 
 ## Current status
 
@@ -30,7 +30,7 @@ _Updated 2026-10-03 01:58 Eastern Daylight Time by `scripts/brief.py` after a cy
 | Niti texts (8 planned) | 2 of 8 done; paused | 75% |
 | Sanskrit review by the owner | 0 of 1539 verses reviewed | 100% |
 | Codex verse check | 39 of 39 batches | 0% |
-| Guidance gate, dev set | 86 of 100 pass (builder-written; not independent) | 14% |
+| Guidance gate, dev set | 91 of 100 pass (builder-written; not independent) | 9% |
 | Guidance gate, held-out v1 | 25 of 30 pass (builder-written; not independent) | 17% |
 | Guidance gate, held-out v2 | 17 of 30 pass (builder-written; not independent) | 43% |
 | Guidance gate, paired cases | 14 of 14 pass (builder-written; not independent) | 0% |
@@ -40,13 +40,14 @@ _Updated 2026-10-03 01:58 Eastern Daylight Time by `scripts/brief.py` after a cy
 
 ## Runner log, last 24 hours
 
-- **Cycles:** 6 (5 ok, 1 failed); by builder: codex 1, claude 5.
+- **Cycles:** 0 (0 ok, 0 failed); by builder: .
 - **Not yet reviewed by the other tool:** 0.
-- **Commits:** 38.
-- **Failed:** cycle 4, push blocked by external-transfer approval boundary; local commits ready
+- **Commits:** 9.
 
 <details><summary>Commits</summary>
 
+- 10-03 23:37  Fix cycle-8 review findings: no age to AI writer, invented-number check, removed-baseline check, full proposal merge text
+- 10-03 01:58  Big Five (Mini-IPIP) and life-map onboarding, kept on the device; profile note; AI writer keeps message and context apart; Desk screenshots tool
 - 10-03 01:46  Conversation UI (owner list a-h): context questions first, one answer, onboarding, settings, closest fit, help lines by country incl. Canada, Sanskrit folded; owner decisions; brief with roadmap for review
 - 10-03 01:33  Brief also overwritten in place in AI Review Desk/Viveka/BRIEF.md for the Claude chat
 - 10-03 01:31  Verse check complete: owner review list rebuilt; brief refreshed
@@ -54,37 +55,6 @@ _Updated 2026-10-03 01:58 Eastern Daylight Time by `scripts/brief.py` after a cy
 - 10-03 01:20  Visual try-it page with voice input; LLM writing step (RAG on existing subscription, checked before shown); friend-fight detection; UI screenshots for review
 - 10-03 00:49  Local try-it page (scripts/serve.py) with an 'Add a test case' form for the independent test set
 - 10-03 00:47  Merge owner-approved proposals [10, 13, 14, 18, 20, 22, 23]; rejected [2, 3, 4, 5, 6, 7, 9, 12, 15, 16, 17, 19, 21]
-- 10-02 23:08  Codex review cycle 9 follow-up
-- 10-02 23:04  Log cycle 9 (fixes for Codex review of cycle 8)
-- 10-02 23:03  Fix Codex review of cycle 8: final fallback fails closed, eating distress by meaning
-- 10-02 22:59  Codex review cycle 8 engine fixes
-- 10-02 22:54  Fix Codex review of the engine batch: recheck withheld answers, question-specific gate, karma answer, no invented power or motives, meaning-based eating risk, unknown age protected
-- 10-02 22:49  Codex review cycle 7 fixes
-- 10-02 22:44  Log cycle 7 (fixes for Codex review of Claude)
-- 10-02 22:44  Fix Codex review findings: fail-closed self-check, bounded audit cue, remove scratch helper
-- 10-02 22:37  Codex review of Claude guidance and self-check changes
-- 10-02 22:02  Self-check script, lessons log, CLAUDE.md section 14 (execute, consensus, learn); handoff note
-- 10-02 20:29  Frame cue fixes for wrong-principle gate failures (situations 86/100 pass)
-- 10-02 20:19  Claude review of Codex cycle 4 (PASS); cycle log; verse check 31/39 batches and owner list; next steps
-- 10-02 18:46  Record blocked push in Codex handoff
-- 10-02 18:45  Log Codex cycle for Claude review
-- 10-02 18:44  Focused gate retries and decision-specific guidance
-- 10-02 17:32  Verse check: first results and owner review list (safety-flagged + 5% sample; Codex disagreements added as batches finish)
-- 10-02 17:31  Builder handoff rules (AGENTS.md, CLAUDE.md section 13, PROCESS.md); builder/reviewer in cycle log and Health; independent Codex verse check; exact-version check before approval
-- 10-02 17:27  Wire gate into answer(), fix minor flag, nonzero exit on gate failure; keep exact review versions by hash; gate unit tests; cycle 3 review response
-- 10-02 17:19  Add recommendation pass/fail gate and report it per test case; ignore stray scratch file
-- 10-02 17:03  Adopt PROCESS.md v3 (owner approved, 7230 bytes): version-bound approvals with hashes; recommendation pass/fail gate is must-fix 1
-- 10-02 16:59  Adopt PROCESS.md v2 (owner approved); APPROVALS.md log; health check in 8 PM summary; cycle log, pause rule and order of authority
-- 10-02 16:50  Owner approval gate for outside input: proposals/, scripts/proposals.py, CLAUDE.md section 11
-- 10-02 16:46  Add CONTEXT.md (merged reviewer context) and observer must-fix items in STATUS.md (approved by owner)
-- 10-02 16:19  Start perspectives: action vs renunciation (draft) with validator checks
-- 10-02 15:25  Back out Chanakya Niti (text queue paused after the Katha); builder response to review cycle 1; build and validate (allow-incomplete) pass
-- 10-02 15:18  Chanakya Niti: source snapshot, parser, registry and copyright entry (343 verses built)
-- 10-02 15:15  Add STATUS.md control file for the AI Project Runner; log decision
-- 10-02 10:31  Vidura Niti complete (557 verses); 7 new principles; family-rift and managing frames; commentary danda fix
-- 10-02 10:10  Nitishataka complete (109 verses); 9 Niti principles; fatalism flag; nukta transliteration
-- 10-02 10:02  Held-out v2 results, always-on safety footer, safety cue fixes, blind comparison tooling
-- 10-02 09:57  Answer-engine prototype, 100 test situations, held-out set, examples; honest test log
 
 </details>
 
