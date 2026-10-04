@@ -5,6 +5,7 @@ __pycache__/
 
 # Scratch script that could not be deleted in a cycle
 scripts/_q.py
+scratch_*.py
 
 # Google Drive and OS artefacts
 desktop.ini
