@@ -124,6 +124,18 @@ def test_took_without_asking_frame_fires_on_family_money_only():
     assert "took_without_asking" in detect_frames("I spent my dad's money on game purchases using his card.")
     assert "took_without_asking" not in detect_frames("I took money from the bank to pay my loan.")
     assert "took_without_asking" not in detect_frames("She hasn't noticed my new haircut.")
+    assert "took_without_asking" not in detect_frames("I am using my dad's card with permission.")
+    assert "took_without_asking" not in detect_frames("I spent my mother's money as she asked.")
+    assert "took_without_asking" not in detect_frames("I am using her card to pay for the trip.")
+
+
+def test_took_without_asking_end_to_end_recommends_restitution():
+    a = answer("I took money from my mom's purse. She hasn't noticed. I have some pocket money and a loan to repay.")
+    text = str(a).lower()
+    assert "took_without_asking" in a["understanding"]["frames"]
+    assert "repay it" in text and "check what you can afford" not in text
+    ids = str(a.get("recommended", a)).lower()
+    assert "wealth-never-satisfies" not in ids and "do-not-covet" not in ids
 
 
 def test_withheld_answer_passes_the_real_gate():

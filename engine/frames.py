@@ -189,8 +189,8 @@ FRAMES = {
         [r"\btook (?:all )?(?:the )?credit\b", r"\bstole my (?:idea|work|credit)\b", r"\btakes? credit for\b"],
         ["speech-without-harm", "three-gates", "calm-before-clarity", "honesty", "desire-anger-chain"]),
     "took_without_asking": (
-        [r"\b(?:took|taken|stole|spent|using)\b[^.?!]{0,30}\b(?:mom's|mum's|mother's|dad's|father's|parents'|my parents'?|his|her)\b[^.?!]{0,30}\b(?:money|purse|wallet|card)\b",
-         r"\btook money from (?:my )?(?:mom|mum|mother|dad|father|parents)\b"],
+        [r"\b(?:took|taken|stole|spent|using)\b(?![^.?!]*\b(?:permission|allowed|(?:she|he|they) (?:asked|told|let)|as (?:she|he|they) asked|let me)\b)[^.?!]{0,30}\b(?:mom's|mum's|mother's|dad's|father's|parents'|my parents'?)\b[^.?!]{0,30}\b(?:money|purse|wallet|card)\b",
+         r"\btook money from (?:my )?(?:mom|mum|mother|dad|father|parents)\b(?![^.?!]*\b(?:permission|asked|allowed)\b)"],
         ["apologise-sincerely", "honesty", "even-the-wrongdoer-can-cross", "knowledge-purifies"]),
     "prepare_for_death": (
         [r"\bprepare (?:for death|to die)\b", r"\bdie peacefully\b", r"\bmy last years (?:of life|alive)\b", r"\bspend my last years\b(?![^.?!]{0,20}\b(?:at|in) (?:school|college|university)\b)"],

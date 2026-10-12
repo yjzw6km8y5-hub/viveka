@@ -311,7 +311,7 @@ def died(person, text):
                 re.search(rf"\b(?:widowed|lost my|death of my)\b[^.?!]{{0,10}}\b{re.escape(person)}\b", t))
 
 
-def tailor(p, sit):
+def tailor(p, sit, frames=()):
     """Viveka's application: the principle's modern application, fitted to what the person said."""
     if sit.danger:
         return SAFETY_PLAN + " " + p["modern_application"]
@@ -332,7 +332,7 @@ def tailor(p, sit):
         parts.append(f"If your {who} {verb} a say over your home, money or safety, plan for how they may react and who could support you.")
     elif living:
         parts.append(f"Since this involves your {living[0]}, think about what they need as well as what you need.")
-    if c["dependency"] or c["money"]:
+    if (c["dependency"] or c["money"]) and "took_without_asking" not in frames:
         parts.append("Because money or dependency is involved, check what you can afford and secure that before any big move.")
     parts.append(p["modern_application"])
     return " ".join(parts)
@@ -419,6 +419,9 @@ def decision_note(sit, frames):
                 "your suffering is a punishment you earned. Some traditions do teach that past actions shape present lives, "
                 "but using that to blame someone goes against the texts' own teaching that the same Self is in every being, "
                 "worthy of equal regard.")
+    if "took_without_asking" in frames and not sit.danger:
+        return ("To answer you directly: take what you took back to where it belongs, or repay it, and tell the person "
+                "yourself before they find out. Owning it plainly matters more than how small it was.")
     if "why_suffering" in frames and "grief" not in frames:
         return ("Viveka will not tell you that suffering is a punishment someone earned. The texts give no neat formula for "
                 "why good people suffer; they ask us to keep the question honest and to act well inside it.")
@@ -577,7 +580,7 @@ def _build(question, profile=None, mode="internal", region=None, force=None):
         "label": "Viveka's application", "principle": bp["id"], "name": bp["name"],
         "text": f"{bp['name']}. {bp['meaning']}",
         "why_it_fits_you": (f"For your situation ({person}): " if person else "For your situation: ") + why + ".",
-        "application": " ".join(x for x in (decision_note(sit, frames), tailor(bp, sit)) if x),
+        "application": " ".join(x for x in (decision_note(sit, frames), tailor(bp, sit, frames)) if x),
         "basis_frames": basis(bp["id"]),
     }
 
