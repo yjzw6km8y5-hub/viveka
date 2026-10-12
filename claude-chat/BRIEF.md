@@ -1,6 +1,6 @@
 # Viveka: brief for the Claude planning chat
 
-_Updated 2026-10-04 01:46 Eastern Daylight Time by `scripts/brief.py` after a cycle. Repo: https://github.com/yjzw6km8y5-hub/viveka_
+_Updated 2026-10-11 23:21 Eastern Daylight Time by `scripts/brief.py` after a cycle. Repo: https://github.com/yjzw6km8y5-hub/viveka_
 
 ## Current status
 
@@ -30,9 +30,9 @@ _Updated 2026-10-04 01:46 Eastern Daylight Time by `scripts/brief.py` after a cy
 | Niti texts (8 planned) | 2 of 8 done; paused | 75% |
 | Sanskrit review by the owner | 0 of 1539 verses reviewed | 100% |
 | Codex verse check | 39 of 39 batches | 0% |
-| Guidance gate, dev set | 91 of 100 pass (builder-written; not independent) | 9% |
+| Guidance gate, dev set | 92 of 100 pass (builder-written; not independent) | 8% |
 | Guidance gate, held-out v1 | 25 of 30 pass (builder-written; not independent) | 17% |
-| Guidance gate, held-out v2 | 17 of 30 pass (builder-written; not independent) | 43% |
+| Guidance gate, held-out v2 | 18 of 30 pass (builder-written; not independent) | 40% |
 | Guidance gate, paired cases | 14 of 14 pass (builder-written; not independent) | 0% |
 | Independent test set (30 wanted) | 0 written by the owner; ChatGPT's 30 requested | 100% |
 | Blind comparison vs a general assistant | not started (needs baseline answers) | 100% |
@@ -42,14 +42,11 @@ _Updated 2026-10-04 01:46 Eastern Daylight Time by `scripts/brief.py` after a cy
 
 - **Cycles:** 1 (1 ok, 0 failed); by builder: claude 1.
 - **Not yet reviewed by the other tool:** 1.
-- **Commits:** 4.
+- **Commits:** 1.
 
 <details><summary>Commits</summary>
 
-- 10-04 01:38  Remove stray scratch scripts; ignore scratch_*.py so the build leaves a clean tree
-- 10-04 00:32  Cycle 10: new frames (identity loss, credit taken, preparing for death), family-care and family-rift fixes; situations gate 91/100
-- 10-03 23:37  Fix cycle-8 review findings: no age to AI writer, invented-number check, removed-baseline check, full proposal merge text
-- 10-03 01:58  Big Five (Mini-IPIP) and life-map onboarding, kept on the device; profile note; AI writer keeps message and context apart; Desk screenshots tool
+- 10-11 23:21  Cycle 11: took_without_asking frame; situations gate 92/100, heldout2 18/30
 
 </details>
 
