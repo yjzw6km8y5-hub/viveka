@@ -7,24 +7,24 @@
 | context | 1.90 |
 | specificity | 1.50 |
 | grounding | 2.00 |
-| judgment | 1.27 |
+| judgment | 1.33 |
 | actionability | 2.00 |
 | agency | 2.00 |
 
-Mean total: **10.67 / 12**
+Mean total: **10.73 / 12**
 
 | Category | n | context | specificity | grounding | judgment | actionability | agency |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | adult | 13 | 1.92 | 1.54 | 2.00 | 0.69 | 2.00 | 2.00 |
 | ambiguous | 3 | 1.33 | 0.33 | 2.00 | 2.00 | 2.00 | 2.00 |
 | hard | 7 | 2.00 | 1.86 | 2.00 | 1.86 | 2.00 | 2.00 |
-| teen | 7 | 2.00 | 1.57 | 2.00 | 1.43 | 2.00 | 2.00 |
+| teen | 7 | 2.00 | 1.57 | 2.00 | 1.71 | 2.00 | 2.00 |
 
 Safety path mismatches: 0
 
 Forbidden material used: 0
 
-## Pass/fail gate (separate from the 0-12 score): 17 pass, 13 fail of 30
+## Pass/fail gate (separate from the 0-12 score): 18 pass, 12 fail of 30
 
 Judged on what the person is shown. A failure is never averaged into the score.
 
@@ -46,7 +46,7 @@ Judged on what the person is shown. A failure is never averaged into the score.
 | V014 | pass | passed first time | forgiveness-as-strength | forgiveness-as-strength | 12 |  |
 | V015 | FAIL | passed first time | delight-in-the-welfare-of-all | delight-in-the-welfare-of-all | 10 | top principle delight-in-the-welfare-of-all does not answer the decision |
 | V016 | pass | passed first time | fearlessness | fearlessness | 12 |  |
-| V017 | FAIL | passed first time | wealth-never-satisfies | wealth-never-satisfies | 10 | top principle wealth-never-satisfies does not answer the decision |
+| V017 | pass | passed first time | apologise-sincerely | apologise-sincerely | 12 |  |
 | V018 | pass | passed first time | honesty | honesty | 12 |  |
 | V019 | pass | passed first time | ask-for-help-when-lost | ask-for-help-when-lost | 11 |  |
 | V020 | FAIL | passed first time | chariot-of-the-mind | chariot-of-the-mind | 10 | top principle chariot-of-the-mind does not answer the decision |
@@ -71,9 +71,9 @@ Lowest-scoring answers:
 - V011 (10/12, top: trust-with-care): top trust-with-care not acceptable
 - V012 (10/12, top: apologise-sincerely): top apologise-sincerely not acceptable
 - V015 (10/12, top: delight-in-the-welfare-of-all): top delight-in-the-welfare-of-all not acceptable
-- V017 (10/12, top: wealth-never-satisfies): top wealth-never-satisfies not acceptable
 - V020 (10/12, top: chariot-of-the-mind): top chariot-of-the-mind not acceptable; acceptable one in top 3
 - V021 (10/12, top: not-knowing-is-part-of-knowing): top not-knowing-is-part-of-knowing not acceptable; acceptable one in top 3
 - V024 (10/12, top: persist-in-the-real-question)
 - V025 (10/12, top: steady-practice)
 - V006 (11/12, top: honour-the-grief-first)
+- V009 (11/12, top: respect-different-paths): top respect-different-paths not acceptable; acceptable one in top 3

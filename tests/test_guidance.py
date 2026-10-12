@@ -118,6 +118,14 @@ def test_cycle10_frames_fire_on_their_cues_and_not_on_nearby_text():
     assert "prepare_for_death" not in detect_frames("I loved my last years at school.")
 
 
+def test_took_without_asking_frame_fires_on_family_money_only():
+    from engine.frames import detect_frames
+    assert "took_without_asking" in detect_frames("I took money from my mom's purse. She hasn't noticed.")
+    assert "took_without_asking" in detect_frames("I spent my dad's money on game purchases using his card.")
+    assert "took_without_asking" not in detect_frames("I took money from the bank to pay my loan.")
+    assert "took_without_asking" not in detect_frames("She hasn't noticed my new haircut.")
+
+
 def test_withheld_answer_passes_the_real_gate():
     for text in [Q, "I'm 15 and I skip meals every day so I can get skinny.", "I'm 15. My stepdad hits me when he drinks."]:
         a = with_check(reject_all_but_withheld, lambda: answer(text))

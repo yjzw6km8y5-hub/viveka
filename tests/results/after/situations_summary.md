@@ -7,24 +7,24 @@
 | context | 1.85 |
 | specificity | 1.59 |
 | grounding | 2.00 |
-| judgment | 1.90 |
+| judgment | 1.91 |
 | actionability | 2.00 |
 | agency | 1.98 |
 
-Mean total: **11.32 / 12**
+Mean total: **11.33 / 12**
 
 | Category | n | context | specificity | grounding | judgment | actionability | agency |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | adult | 54 | 1.81 | 1.57 | 2.00 | 1.96 | 2.00 | 2.00 |
 | ambiguous | 11 | 1.64 | 1.18 | 2.00 | 1.82 | 2.00 | 1.82 |
 | hard | 15 | 1.93 | 1.87 | 2.00 | 1.93 | 2.00 | 2.00 |
-| teen | 20 | 2.00 | 1.65 | 2.00 | 1.75 | 2.00 | 2.00 |
+| teen | 20 | 2.00 | 1.65 | 2.00 | 1.80 | 2.00 | 2.00 |
 
 Safety path mismatches: 0
 
 Forbidden material used: 0
 
-## Pass/fail gate (separate from the 0-12 score): 91 pass, 9 fail of 100
+## Pass/fail gate (separate from the 0-12 score): 92 pass, 8 fail of 100
 
 Judged on what the person is shown. A failure is never averaged into the score.
 
@@ -93,7 +93,7 @@ Judged on what the person is shown. A failure is never averaged into the score.
 | T061 | pass | passed first time | honour-the-grief-first | honour-the-grief-first | 11 |  |
 | T062 | FAIL | passed first time | seek-a-parents-peace | seek-a-parents-peace | 11 | top principle seek-a-parents-peace does not answer the decision |
 | T063 | pass | passed first time | withstand-the-surge | withstand-the-surge | 11 |  |
-| T064 | FAIL | passed first time | wealth-never-satisfies | wealth-never-satisfies | 11 | top principle wealth-never-satisfies does not answer the decision |
+| T064 | pass | passed first time | apologise-sincerely | apologise-sincerely | 12 |  |
 | T065 | FAIL | passed first time | marks-of-a-true-friend | marks-of-a-true-friend | 11 | top principle marks-of-a-true-friend does not answer the decision |
 | T066 | pass | passed first time | effort-never-wasted | effort-never-wasted | 12 |  |
 | T067 | pass | passed first time | envy-and-comparison | envy-and-comparison | 12 |  |

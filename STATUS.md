@@ -41,6 +41,7 @@ and `PROGRESS.md`). Items that need a human reader of Sanskrit are listed at the
 - After each change: `build_gita.py`, then `validate.py --allow-incomplete`.
 
 ## Done recently
+- Cycle 11: situations gate 92/100, heldout2 18/30 from the `took_without_asking` frame.
 - Cycle 10: situations gate 91/100 (was 86) from new frames; no regressions.
 - Focused guidance batch: gate regeneration/clarification/withholding, V028 protective guidance, V001/V024 decision fixes, 14 paired cases, tagged before/after evidence, and exact-version proposal tests. Focused paired gate: 14/14 pass; broader spent-bank failures remain visible.
 - `data/perspectives/` started with action vs renunciation (draft); validator checks it. Next topics: grief and death, anger, duty vs family, success and ego. Then wire perspectives into the engine's recommend step.
@@ -50,6 +51,7 @@ and `PROGRESS.md`). Items that need a human reader of Sanskrit are listed at the
 
 ## Handoff
 _Newest note first. Each tool ends its turn with a note here (CLAUDE.md section 13)._
+- 2026-10-11, builder: claude. Cycle 11: new frame `took_without_asking` (taking or spending a parent's money) sends T064 and V017 to apology and honesty, not wealth; narrow cues and a negative test. Situations gate 92/100, heldout2 18/30 (T064, V017 fixed; spent-set rerun, regression evidence only); no regressions. Tests: build_gita, validate --allow-incomplete, self_check pass. **Needs review by Codex:** engine/frames.py `took_without_asking`. Left: T037, T020/T098 wording, other spent-bank failures.
 - 2026-10-04 02:00 -04:00, builder: claude. Fixed review `202610040537-viveka-cycle10.md`: narrowed `identity_loss` and `prepare_for_death` cues (no bare "identity" or "my last years"), added negative tests, corrected the cycle 10 row in `logs/cycles.csv` (time, commit 2e4a7a4), refreshed the brief. Tests: build_gita and validate --allow-incomplete pass; `scripts/self_check.py` PASSED (situations 91/100, heldout 25/30, heldout2 17/30, paired 14/14). Open: T020/T098 application wording still reads poorly (finding 2); needs semantic assertions. Commit: see git log. **Next reviewer check:** engine/frames.py cues, T020/T098 output.
 - 2026-10-04, builder: claude. Fixed the cycle failure ("uncommitted changes after build"): deleted untracked scratch_fix.py and scratch_probe.py and ignored `scratch_*.py`. The build leaves the tree clean. No other work. Cycle 10 still needs Codex review (engine/frames.py).
 - 2026-10-04, builder: claude. Cycle 10: situations gate 86 to 91 of 100 (T003, T004, T020, T021, T098 fixed) via three new frames (`identity_loss`, `credit_taken`, `prepare_for_death`), family_care weight and exclusions, family_rift reorder. No regressions (heldout 25/30, heldout2 17/30, paired 14/14); new frame test added. Spent-set rerun, so regression evidence only. Left: T037 (its expectation excludes speak-the-hard-truth, arguably too narrow), 10 other situations, heldout and heldout2 failures. **Needs review by Codex** (engine/frames.py).
