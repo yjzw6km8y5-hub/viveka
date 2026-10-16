@@ -192,6 +192,10 @@ FRAMES = {
         [r"\b(?:took|taken|stole|spent|using)\b(?![^.?!]*\b(?:permission|allowed|(?:she|he|they) (?:asked|told|let)|as (?:she|he|they) asked|let me)\b)[^.?!]{0,30}\b(?:mom's|mum's|mother's|dad's|father's|parents'|my parents'?)\b[^.?!]{0,30}\b(?:money|purse|wallet|card)\b",
          r"\btook money from (?:my )?(?:mom|mum|mother|dad|father|parents)\b(?![^.?!]*\b(?:permission|asked|allowed)\b)"],
         ["apologise-sincerely", "honesty", "even-the-wrongdoer-can-cross", "knowledge-purifies"]),
+    "parent_conflict": (
+        [r"\b(?:fight(?:ing)?|fought|argu(?:e|es|ed|ing)|quarrel(?:s|ing|led)?|clash(?:es|ed|ing)?) with my (?:father|mother|dad|mom|mum|parents?)\b"],
+        ["seek-a-parents-peace", "calm-before-clarity", "speech-without-harm", "meet-people-where-they-are",
+         "forgiveness-as-strength"]),
     "prepare_for_death": (
         [r"\bprepare (?:for death|to die)\b", r"\bdie peacefully\b", r"\bmy last years (?:of life|alive)\b", r"\bspend my last years\b(?![^.?!]{0,20}\b(?:at|in) (?:school|college|university)\b)"],
         ["mortality-is-certain", "keep-contributing", "knowledge-handed-down", "know-it-in-this-life", "turn-inward"]),
@@ -308,7 +312,7 @@ PRIMARY = {"decision": 1.4, "danger": 2.0, "fatalism": 1.4, "burnout": 1.3, "dea
            "violence_justification": 2.0, "parting": 1.2, "distress": 1.6,
            "eating": 2.4, "remarriage": 1.6, "why_suffering": 1.5,
            "karma_blame": 1.8, "family_care": 1.4, "identity_loss": 1.6, "credit_taken": 1.6,
-           "prepare_for_death": 1.7, "took_without_asking": 1.7}
+           "prepare_for_death": 1.7, "took_without_asking": 1.7, "parent_conflict": 1.6}
 # Principles that must not be offered when a frame is present (they would serve the wrong party).
 FRAME_EXCLUDE = {"took_without_asking": {"wealth-never-satisfies", "resist-tempting-shortcuts", "do-not-covet"},
                  "family_rift": {"stand-by-your-relatives"},

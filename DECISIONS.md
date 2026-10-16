@@ -425,6 +425,10 @@ Technical choices made without asking, newest last. Format: date, decision, why.
   - Gate checks: the reflection uses only their facts; the advice addresses the central dilemma, not a side detail; it refers to their specifics; follow-up questions are relevant and never repeated.
   - Results per case, with the first run kept separate from reruns.
 
+## 2026-10-16 Cycle 12: parent_conflict frame (builder)
+- Decision: new frame `parent_conflict` (fighting or arguing with a parent) sends T086 to peace-seeking and calm speech, not a clarifying question. Narrow cue; the danger path still overrides.
+- Why: the sentence has enough to answer. Spent-set rerun, regression evidence only.
+
 ## 2026-10-03 Review of cycle 8 (builder)
 - Decision: age removed from AI material; AI check rejects numbers not in the material; removed baseline cases fail self-check; truncated proposal merges use full body text.
 - Open conflict: owner decision "profile never sent to the server" vs. the local server using age/country for under-18 gating and help lines. Kept (127.0.0.1 only, safety first); a browser-side gate is the proper fix.

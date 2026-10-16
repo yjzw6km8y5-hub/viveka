@@ -138,6 +138,14 @@ def test_took_without_asking_end_to_end_recommends_restitution():
     assert "wealth-never-satisfies" not in ids and "do-not-covet" not in ids
 
 
+def test_parent_conflict_frame_fires_on_fights_with_a_parent_only():
+    from engine.frames import detect_frames
+    assert "parent_conflict" in detect_frames("I'm tired of fighting with my father.")
+    assert "parent_conflict" in detect_frames("I argued with my parents last night.")
+    assert "parent_conflict" not in detect_frames("My father fought in the war.")
+    assert "parent_conflict" not in detect_frames("I am fighting with my landlord.")
+
+
 def test_withheld_answer_passes_the_real_gate():
     for text in [Q, "I'm 15 and I skip meals every day so I can get skinny.", "I'm 15. My stepdad hits me when he drinks."]:
         a = with_check(reject_all_but_withheld, lambda: answer(text))

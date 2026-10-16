@@ -71,12 +71,17 @@
    "shortlist": [
     {
      "id": "name-the-confusion",
-     "score": 16.4,
+     "score": 18.8,
      "frame_supported": true
     },
     {
      "id": "reflect-then-choose",
-     "score": 12.0,
+     "score": 13.2,
+     "frame_supported": true
+    },
+    {
+     "id": "work-for-the-good-of-all",
+     "score": 11.0,
      "frame_supported": true
     },
     {
@@ -100,14 +105,9 @@
      "frame_supported": false
     },
     {
-     "id": "work-for-the-good-of-all",
-     "score": 9.0,
+     "id": "reciprocity",
+     "score": 9.6,
      "frame_supported": true
-    },
-    {
-     "id": "keep-your-word",
-     "score": 8.26,
-     "frame_supported": false
     }
    ],
    "comparison": [
@@ -137,15 +137,15 @@
      "limits": "It is used to dismiss all guidance and tradition as irrelevant."
     },
     {
-     "principle": "own-path-over-imitation",
-     "name": "Your own path, imperfect, over someone else's",
+     "principle": "work-for-the-good-of-all",
+     "name": "Act for the welfare of all",
      "fit": [
       "addresses the kind of problem you describe",
-      "speaks to conflicting duties"
+      "speaks to money or success, a relationship"
      ],
      "disagrees_with": [],
-     "consequence_if_followed": "Someone is copying a path (career, lifestyle) because it looks impressive on others, against their own nature and responsibilities.",
-     "limits": "It is used to keep people in roles assigned by caste, gender or family against their will. Traditionally the verse spoke of social duty; Viveka never uses it to confine anyone."
+     "consequence_if_followed": "Choosing between a narrow personal gain and something that serves the wider community.",
+     "limits": "It is used to demand self-sacrifice from people who are already over-giving or neglecting their own basic needs."
     }
    ],
    "recommendation": {
@@ -483,24 +483,20 @@
   "scores": {
    "context": 2,
    "grounding": 2,
-   "judgment": 1,
+   "judgment": 2,
    "specificity": 1,
    "actionability": 2,
    "agency": 2
   },
-  "total": 10,
-  "notes": [
-   "top it-grows-back not acceptable; acceptable one in top 3"
-  ],
-  "top": "it-grows-back",
-  "raw_top": "it-grows-back",
+  "total": 11,
+  "notes": [],
+  "top": "more-than-body-and-roles",
+  "raw_top": "more-than-body-and-roles",
   "outcome": "passed first time",
   "safety": null,
   "questions": [],
-  "gate": [
-   "top principle it-grows-back does not answer the decision"
-  ],
-  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: A cut tree grows again. A tree that is cut grows again, and the waning moon fills again; reflecting on this, the good are not crushed by misfortune.\n  Why it fits you: For your situation (we inferred the householder stage from 'my job'; tell us if that is wrong): addresses the kind of problem you describe; speaks to a setback; echoes your words: after; fits the householder stage (our inference).\n  In practice: Recall one earlier time you recovered from something you thought would break you. Write down what helped then.\n\nSource text (NS.87): \"A tree, though cut, grows again; the moon, though waning, fills again. Reflecting on this, the good are not tormented by misfortune.\"\nSource text (NS.106): \"Even when a steadfast person is ill-treated, the qualities of steadfastness cannot be wiped away; even when a fire is turned upside down, its flame never goes downward.\"\n  Commentator's view - No classical commentary on the Nitishataka of Bhartrihari is in the library yet.\n\nHistorical example (story from the texts): What happens to one who tries and fails?. Arjuna asks what becomes of someone with faith who strives but falls short, fearing they perish 'like a scattered cloud'. Krishna answers that no one who does good comes to ruin; they begin again from where they were. Lesson: Voicing the fear of failure invites a better answer than silent dread; effort carries forward. Limits: Krishna's answer speaks of future births; the modern application is narrower: skills and character built by effort remain even when a result fails.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: No sincere effort is wasted. Effort towards the good is never lost, even when it falls short; a person who tries and slips comes to no ruin and can start again from where they were.\n  Source text (BG.2.40): \"On this path no effort is wasted and no harm comes from falling short. Even a little of this practice protects a person from great fear.\"\n  When the recommended principle misleads: It is used to rush someone through grief, or to deny that some losses are permanent.\n\nViveka's application - One next step: Recall one earlier time you recovered from something you thought would break you. Write down what helped then.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
+  "gate": [],
+  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: You are more than your body and roles. The self passes through childhood, youth and old age without being any of them; the body is the field, and you are its knower.\n  Why it fits you: For your situation (we inferred the householder stage from 'my job'; tell us if that is wrong): addresses the kind of problem you describe; speaks to meaning and direction; echoes your words: job, without; fits the householder stage (our inference).\n  In practice: Write 'I am…' ten times, then cross out every answer that could be taken away. Notice what remains.\n\nSource text (BG.13.1): \"This body, son of Kunti, is called the field; the one who knows it is called the knower of the field by those who know these things.\"\nSource text (BG.13.29): \"One who sees that all actions are done entirely by nature, and that the self is not the doer, truly sees.\"\n  Commentator's view - Śaṅkara (Advaita): The body is called the field because it is protected from harm, because it decays, or because the fruits of action grow in it like crops in a field.\n  Commentator's view - Madhva (Dvaita): This chapter gathers up and distinguishes the knowledge, the knowable, the field and the person spoken of earlier.\n  Commentator's view - Śaṅkara (Advaita): Prakṛti is the Lord's three-guna māyā; it alone, transformed into body and senses, performs all actions of speech, mind and body.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): One who sees all actions as done by prakṛti (13.20), and the self as not the doer but of the nature of knowledge, sees rightly.\n  Commentator's view - Madhva (Dvaita): And sees the self as not the doer.\n  Commentator's view - Our source has no comment from Rāmānuja (Viśiṣṭādvaita) on BG.13.1.\n\nHistorical example (story from the texts): What happens to one who tries and fails?. Arjuna asks what becomes of someone with faith who strives but falls short, fearing they perish 'like a scattered cloud'. Krishna answers that no one who does good comes to ruin; they begin again from where they were. Lesson: Voicing the fear of failure invites a better answer than silent dread; effort carries forward. Limits: Krishna's answer speaks of future births; the modern application is narrower: skills and character built by effort remain even when a result fails.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: No sincere effort is wasted. Effort towards the good is never lost, even when it falls short; a person who tries and slips comes to no ruin and can start again from where they were.\n  Source text (BG.2.40): \"On this path no effort is wasted and no harm comes from falling short. Even a little of this practice protects a person from great fear.\"\n  When the recommended principle misleads: It is used to neglect the body or dismiss real limitations.\n\nViveka's application - One next step: Write 'I am…' ten times, then cross out every answer that could be taken away. Notice what remains.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
   "answer": {
    "mode": "internal",
    "question": "I was laid off at 45 after twenty years. I feel useless and I don't know who I am without my job.",
@@ -531,7 +527,8 @@
     "protective": [],
     "months_since_loss": null,
     "frames": [
-     "failure"
+     "failure",
+     "identity_loss"
     ]
    },
    "protective": null,
@@ -539,22 +536,32 @@
    "safety": null,
    "shortlist": [
     {
+     "id": "more-than-body-and-roles",
+     "score": 15.62,
+     "frame_supported": true
+    },
+    {
+     "id": "effort-never-wasted",
+     "score": 14.9,
+     "frame_supported": true
+    },
+    {
+     "id": "self-as-friend",
+     "score": 14.5,
+     "frame_supported": true
+    },
+    {
+     "id": "evenness-in-success-and-failure",
+     "score": 10.3,
+     "frame_supported": true
+    },
+    {
      "id": "it-grows-back",
      "score": 9.07,
      "frame_supported": true
     },
     {
-     "id": "effort-never-wasted",
-     "score": 8.5,
-     "frame_supported": true
-    },
-    {
      "id": "graded-practice",
-     "score": 6.5,
-     "frame_supported": true
-    },
-    {
-     "id": "self-as-friend",
      "score": 6.5,
      "frame_supported": true
     },
@@ -567,31 +574,21 @@
      "id": "skill-in-action",
      "score": 6.02,
      "frame_supported": false
-    },
-    {
-     "id": "more-than-body-and-roles",
-     "score": 6.02,
-     "frame_supported": false
-    },
-    {
-     "id": "the-wish-carries-you",
-     "score": 5.61,
-     "frame_supported": false
     }
    ],
    "comparison": [
     {
-     "principle": "it-grows-back",
-     "name": "A cut tree grows again",
+     "principle": "more-than-body-and-roles",
+     "name": "You are more than your body and roles",
      "fit": [
       "addresses the kind of problem you describe",
-      "speaks to a setback",
-      "echoes your words: after",
+      "speaks to meaning and direction",
+      "echoes your words: job, without",
       "fits the householder stage (our inference)"
      ],
      "disagrees_with": [],
-     "consequence_if_followed": "After a loss, failure or setback, when someone fears they will never recover.",
-     "limits": "It is used to rush someone through grief, or to deny that some losses are permanent."
+     "consequence_if_followed": "Someone's identity has collapsed with a role: a job lost, children leaving, an illness, retirement.",
+     "limits": "It is used to neglect the body or dismiss real limitations."
     },
     {
      "principle": "effort-never-wasted",
@@ -606,49 +603,87 @@
      "limits": "It is used to keep pouring effort into a path that is clearly wrong for the person (sunk cost)."
     },
     {
-     "principle": "graded-practice",
-     "name": "If you can't do the highest, do the next",
+     "principle": "self-as-friend",
+     "name": "Be your own friend",
      "fit": [
       "addresses the kind of problem you describe",
       "speaks to a setback, meaning and direction",
       "fits the householder stage (our inference)"
      ],
-     "disagrees_with": [],
-     "consequence_if_followed": "Someone feels they are failing at their ideal and are tempted to give up entirely.",
-     "limits": "It is used to settle for less when someone could do more."
+     "disagrees_with": [
+      "not-the-sole-doer",
+      "your-nature-shapes-you"
+     ],
+     "consequence_if_followed": "Someone is waiting for rescue and needs to reclaim some agency, gently.",
+     "limits": "It is used to blame someone who is depressed, grieving or overwhelmed for 'not lifting themselves'. For anyone in distress, present it only as kindness to oneself, alongside real support."
     }
    ],
    "recommendation": {
     "label": "Viveka's application",
-    "principle": "it-grows-back",
-    "name": "A cut tree grows again",
-    "text": "A cut tree grows again. A tree that is cut grows again, and the waning moon fills again; reflecting on this, the good are not crushed by misfortune.",
-    "why_it_fits_you": "For your situation (we inferred the householder stage from 'my job'; tell us if that is wrong): addresses the kind of problem you describe; speaks to a setback; echoes your words: after; fits the householder stage (our inference).",
-    "application": "Recall one earlier time you recovered from something you thought would break you. Write down what helped then.",
+    "principle": "more-than-body-and-roles",
+    "name": "You are more than your body and roles",
+    "text": "You are more than your body and roles. The self passes through childhood, youth and old age without being any of them; the body is the field, and you are its knower.",
+    "why_it_fits_you": "For your situation (we inferred the householder stage from 'my job'; tell us if that is wrong): addresses the kind of problem you describe; speaks to meaning and direction; echoes your words: job, without; fits the householder stage (our inference).",
+    "application": "Write 'I am…' ten times, then cross out every answer that could be taken away. Notice what remains.",
     "basis_frames": [
-     "failure"
+     "identity_loss"
     ]
    },
    "sources": [
     {
      "label": "Source text",
-     "id": "NS.87",
-     "english": "A tree, though cut, grows again; the moon, though waning, fills again. Reflecting on this, the good are not tormented by misfortune.",
-     "devanagari": "छिन्नोऽपि रोहति तरुः क्षीणोऽप्युपचीयते पुनश्चन्द्रः।\nइति विमृशन्तः सन्तः संतप्यन्ते न ते विपदा ॥",
+     "id": "BG.13.1",
+     "english": "This body, son of Kunti, is called the field; the one who knows it is called the knower of the field by those who know these things.",
+     "devanagari": "इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते ।\nएतद्यो वेत्ति तं प्राहुः क्षेत्रज्ञ इति तद्विदः ॥",
      "review_status": "draft"
     },
     {
      "label": "Source text",
-     "id": "NS.106",
-     "english": "Even when a steadfast person is ill-treated, the qualities of steadfastness cannot be wiped away; even when a fire is turned upside down, its flame never goes downward.",
-     "devanagari": "कदर्थितस्यापि हि धैर्यवृत्तेर्न शक्यते धैर्यगुणाः प्रमार्ष्टुम्।\nअधोमुखस्यापि कृतस्य वह्नेर्नाधः शिखा याति कदाचिदेव ॥",
+     "id": "BG.13.29",
+     "english": "One who sees that all actions are done entirely by nature, and that the self is not the doer, truly sees.",
+     "devanagari": "प्रकृत्यैव च कर्माणि क्रियमाणानि सर्वशः ।\nयः पश्यति तथात्मानमकर्तारं स पश्यति ॥",
      "review_status": "draft"
     }
    ],
    "commentary": [
     {
      "label": "Commentator's view",
-     "missing": "No classical commentary on the Nitishataka of Bhartrihari is in the library yet."
+     "unit": "BG.13.1",
+     "school": "advaita",
+     "commentator": "Śaṅkara (Advaita)",
+     "note": "The body is called the field because it is protected from harm, because it decays, or because the fruits of action grow in it like crops in a field."
+    },
+    {
+     "label": "Commentator's view",
+     "unit": "BG.13.1",
+     "school": "dvaita",
+     "commentator": "Madhva (Dvaita)",
+     "note": "This chapter gathers up and distinguishes the knowledge, the knowable, the field and the person spoken of earlier."
+    },
+    {
+     "label": "Commentator's view",
+     "unit": "BG.13.29",
+     "school": "advaita",
+     "commentator": "Śaṅkara (Advaita)",
+     "note": "Prakṛti is the Lord's three-guna māyā; it alone, transformed into body and senses, performs all actions of speech, mind and body."
+    },
+    {
+     "label": "Commentator's view",
+     "unit": "BG.13.29",
+     "school": "vishishtadvaita",
+     "commentator": "Rāmānuja (Viśiṣṭādvaita)",
+     "note": "One who sees all actions as done by prakṛti (13.20), and the self as not the doer but of the nature of knowledge, sees rightly."
+    },
+    {
+     "label": "Commentator's view",
+     "unit": "BG.13.29",
+     "school": "dvaita",
+     "commentator": "Madhva (Dvaita)",
+     "note": "And sees the self as not the doer."
+    },
+    {
+     "label": "Commentator's view",
+     "missing": "Our source has no comment from Rāmānuja (Viśiṣṭādvaita) on BG.13.1."
     }
    ],
    "example": {
@@ -671,11 +706,11 @@
      "id": "BG.2.40",
      "english": "On this path no effort is wasted and no harm comes from falling short. Even a little of this practice protects a person from great fear."
     },
-    "when_the_recommendation_misleads": "It is used to rush someone through grief, or to deny that some losses are permanent."
+    "when_the_recommendation_misleads": "It is used to neglect the body or dismiss real limitations."
    },
    "next_step": {
     "label": "Viveka's application",
-    "text": "Recall one earlier time you recovered from something you thought would break you. Write down what helped then."
+    "text": "Write 'I am…' ten times, then cross out every answer that could be taken away. Notice what remains."
    },
    "safety_footer": {
     "label": "Viveka's application",
@@ -692,24 +727,20 @@
   "scores": {
    "context": 2,
    "grounding": 2,
-   "judgment": 1,
+   "judgment": 2,
    "specificity": 2,
    "actionability": 2,
    "agency": 2
   },
-  "total": 11,
-  "notes": [
-   "top we-see-faults-in-those-we-dislike not acceptable; acceptable one in top 3"
-  ],
-  "top": "we-see-faults-in-those-we-dislike",
-  "raw_top": "we-see-faults-in-those-we-dislike",
+  "total": 12,
+  "notes": [],
+  "top": "speech-without-harm",
+  "raw_top": "speech-without-harm",
   "outcome": "passed first time",
   "safety": null,
   "questions": [],
-  "gate": [
-   "top principle we-see-faults-in-those-we-dislike does not answer the decision"
-  ],
-  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: Dislike colours what we see. Someone we dislike never seems good, clever or learned; we see good deeds in those we like and bad ones in those we dislike.\n  Why it fits you: For your situation (this involves your colleague): addresses the kind of problem you describe; speaks to anger, pride or comparison; echoes your words: front.\n  In practice: Since this involves your colleague, think about what they need as well as what you need. Write down three things the person you dislike has done well. If you cannot, ask someone neutral. Then judge the one action in front of you on its own.\n\nSource text (VN.7.4): \"One who is disliked is not thought good, nor intelligent, nor learned. In the one we like we see good deeds; in the one we dislike, bad ones, Bharata.\"\nSource text (VN.5.43): \"The ill-natured do not wish to learn others' virtues as much as the evil-minded wish to learn their faults.\"\n  Commentator's view - No classical commentary on the Vidura Niti is in the library yet.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: From dwelling comes desire; from desire, anger. Dwelling on something breeds attachment, then desire, then anger when it is blocked, then confusion and the loss of judgement.\n  Source text (BG.2.62): \"When a person dwells on the objects of the senses, attachment to them arises; from attachment comes desire, and from desire comes anger.\"\n  When the recommended principle misleads: It is used to dismiss real harm someone has done as 'just your bias'.\n\nViveka's application - One next step: Write down three things the person you dislike has done well. If you cannot, ask someone neutral. Then judge the one action in front of you on its own.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
+  "gate": [],
+  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: Speak truthfully, kindly and helpfully. The discipline of speech is speech that causes no distress and is true, pleasant and beneficial.\n  Why it fits you: For your situation (this involves your colleague): addresses the kind of problem you describe; speaks to anger, a relationship.\n  In practice: Since this involves your colleague, think about what they need as well as what you need. Run what you plan to say through three filters: is it true, is it kind in how it is said, and does it help?\n\nSource text (BG.17.15): \"Speech that causes no distress, that is true, pleasant and beneficial, and the regular study of scripture: this is called austerity of speech.\"\nSource text (BG.16.2): \"non-violence, truthfulness, freedom from anger, renunciation, calm, not slandering others, compassion for all beings, freedom from greed, gentleness, modesty and steadiness,\"\n  Commentator's view - Śaṅkara (Advaita): Speech must cause no distress and be true, pleasant and beneficial together; if any one of these is missing, it is not austerity of speech.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Words that do not upset others and are true, pleasant and beneficial, together with the practice of reciting scripture, are austerity of speech.\n  Commentator's view - Śaṅkara (Advaita): Truth is saying what is so, without unkind falsehood; freedom from anger is calming anger that arises when one is abused or struck; not slandering is not exposing others' faults.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Freedom from anger is having no change of mind that leads to harming others; compassion is being unable to bear the suffering of any being; renunciation is letting go of possessions that work against one's true good.\n  Commentator's view - Madhva (Dvaita): Slander is telling a king or others of faults in order to bring trouble on someone; steadiness is not being fickle.\n  Commentator's view - Our source has no comment from Madhva (Dvaita) on BG.17.15.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Say the unwelcome thing that helps. Pleasant talkers are easy to find; rare is the person who says what is unpleasant but good for you, and rarer still the one who listens. Even wise words fail when spoken at the wrong time.\n  Source text (VN.5.14): \"People who always speak pleasantly are easy to find, king; but rare are both the speaker and the hearer of what is unpleasant yet beneficial.\"\n  When the recommended principle misleads: It is used to avoid ever saying a necessary hard truth. Truth comes first in the list.\n\nViveka's application - One next step: Run what you plan to say through three filters: is it true, is it kind in how it is said, and does it help?\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
   "answer": {
    "mode": "internal",
    "question": "My colleague took credit for my project in front of the director. I'm so angry I want to confront him publicly.",
@@ -743,7 +774,8 @@
     "protective": [],
     "months_since_loss": null,
     "frames": [
-     "anger"
+     "anger",
+     "credit_taken"
     ]
    },
    "protective": null,
@@ -751,13 +783,33 @@
    "safety": null,
    "shortlist": [
     {
+     "id": "speech-without-harm",
+     "score": 16.6,
+     "frame_supported": true
+    },
+    {
+     "id": "three-gates",
+     "score": 14.0,
+     "frame_supported": true
+    },
+    {
+     "id": "desire-anger-chain",
+     "score": 11.2,
+     "frame_supported": true
+    },
+    {
+     "id": "honesty",
+     "score": 8.8,
+     "frame_supported": true
+    },
+    {
      "id": "we-see-faults-in-those-we-dislike",
      "score": 8.65,
      "frame_supported": true
     },
     {
-     "id": "desire-anger-chain",
-     "score": 8.0,
+     "id": "calm-before-clarity",
+     "score": 8.4,
      "frame_supported": true
     },
     {
@@ -769,40 +821,32 @@
      "id": "withstand-the-surge",
      "score": 7.0,
      "frame_supported": true
-    },
-    {
-     "id": "speech-without-harm",
-     "score": 7.0,
-     "frame_supported": true
-    },
-    {
-     "id": "honour-and-dishonour-alike",
-     "score": 6.65,
-     "frame_supported": false
-    },
-    {
-     "id": "let-go-of-mine",
-     "score": 6.65,
-     "frame_supported": false
-    },
-    {
-     "id": "forgiveness-as-strength",
-     "score": 6.65,
-     "frame_supported": false
     }
    ],
    "comparison": [
     {
-     "principle": "we-see-faults-in-those-we-dislike",
-     "name": "Dislike colours what we see",
+     "principle": "speech-without-harm",
+     "name": "Speak truthfully, kindly and helpfully",
      "fit": [
       "addresses the kind of problem you describe",
-      "speaks to anger, pride or comparison",
-      "echoes your words: front"
+      "speaks to anger, a relationship"
+     ],
+     "disagrees_with": [
+      "speak-the-hard-truth"
+     ],
+     "consequence_if_followed": "Someone has to deliver hard news, give feedback, or is tempted to say something cruel.",
+     "limits": "It is used to avoid ever saying a necessary hard truth. Truth comes first in the list."
+    },
+    {
+     "principle": "three-gates",
+     "name": "Desire, anger and greed: the three gates of harm",
+     "fit": [
+      "addresses the kind of problem you describe",
+      "speaks to anger"
      ],
      "disagrees_with": [],
-     "consequence_if_followed": "Someone is judging a person they resent, such as a rival, an in-law or an ex, and wants to know if they are being fair.",
-     "limits": "It is used to dismiss real harm someone has done as 'just your bias'."
+     "consequence_if_followed": "Someone is about to act out of rage, lust or greed and wants a quick check.",
+     "limits": "It is used to condemn a person rather than an action or a state."
     },
     {
      "principle": "desire-anger-chain",
@@ -814,68 +858,93 @@
      "disagrees_with": [],
      "consequence_if_followed": "Anger, obsession, cravings or rumination are escalating, and the person wants to see where it starts.",
      "limits": "It is used to shame normal wishes or to tell someone their justified anger at injustice is merely a defect."
-    },
-    {
-     "principle": "seek-a-parents-peace",
-     "name": "Seek peace with a parent's anger",
-     "fit": [
-      "speaks to anger, a relationship",
-      "echoes your words: angry"
-     ],
-     "disagrees_with": [],
-     "consequence_if_followed": "A strained relationship with a parent, where one wants reconciliation.",
-     "limits": "It is used to tell a young person to appease a parent who is abusive or dangerous. Safety comes first, and leaving danger is always supported."
     }
    ],
    "recommendation": {
     "label": "Viveka's application",
-    "principle": "we-see-faults-in-those-we-dislike",
-    "name": "Dislike colours what we see",
-    "text": "Dislike colours what we see. Someone we dislike never seems good, clever or learned; we see good deeds in those we like and bad ones in those we dislike.",
-    "why_it_fits_you": "For your situation (this involves your colleague): addresses the kind of problem you describe; speaks to anger, pride or comparison; echoes your words: front.",
-    "application": "Since this involves your colleague, think about what they need as well as what you need. Write down three things the person you dislike has done well. If you cannot, ask someone neutral. Then judge the one action in front of you on its own.",
+    "principle": "speech-without-harm",
+    "name": "Speak truthfully, kindly and helpfully",
+    "text": "Speak truthfully, kindly and helpfully. The discipline of speech is speech that causes no distress and is true, pleasant and beneficial.",
+    "why_it_fits_you": "For your situation (this involves your colleague): addresses the kind of problem you describe; speaks to anger, a relationship.",
+    "application": "Since this involves your colleague, think about what they need as well as what you need. Run what you plan to say through three filters: is it true, is it kind in how it is said, and does it help?",
     "basis_frames": [
-     "anger"
+     "anger",
+     "credit_taken"
     ]
    },
    "sources": [
     {
      "label": "Source text",
-     "id": "VN.7.4",
-     "english": "One who is disliked is not thought good, nor intelligent, nor learned. In the one we like we see good deeds; in the one we dislike, bad ones, Bharata.",
-     "devanagari": "द्वेष्यो न साधुर्भवति न मेधावी न पण्डितः ।\nप्रिये शुभानि कर्माणि द्वेष्ये पापानि भारत ॥",
+     "id": "BG.17.15",
+     "english": "Speech that causes no distress, that is true, pleasant and beneficial, and the regular study of scripture: this is called austerity of speech.",
+     "devanagari": "अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत् ।\nस्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते ॥",
      "review_status": "draft"
     },
     {
      "label": "Source text",
-     "id": "VN.5.43",
-     "english": "The ill-natured do not wish to learn others' virtues as much as the evil-minded wish to learn their faults.",
-     "devanagari": "न तथेच्छन्त्यकल्याणाः परेषां वेदितुं गुणान् ।\nयथैषां ज्ञातुमिच्छन्ति नैर्गुण्यं पापचेतसः ॥",
+     "id": "BG.16.2",
+     "english": "non-violence, truthfulness, freedom from anger, renunciation, calm, not slandering others, compassion for all beings, freedom from greed, gentleness, modesty and steadiness,",
+     "devanagari": "अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम् ।\nदया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम् ॥",
      "review_status": "draft"
     }
    ],
    "commentary": [
     {
      "label": "Commentator's view",
-     "missing": "No classical commentary on the Vidura Niti is in the library yet."
+     "unit": "BG.17.15",
+     "school": "advaita",
+     "commentator": "Śaṅkara (Advaita)",
+     "note": "Speech must cause no distress and be true, pleasant and beneficial together; if any one of these is missing, it is not austerity of speech."
+    },
+    {
+     "label": "Commentator's view",
+     "unit": "BG.17.15",
+     "school": "vishishtadvaita",
+     "commentator": "Rāmānuja (Viśiṣṭādvaita)",
+     "note": "Words that do not upset others and are true, pleasant and beneficial, together with the practice of reciting scripture, are austerity of speech."
+    },
+    {
+     "label": "Commentator's view",
+     "unit": "BG.16.2",
+     "school": "advaita",
+     "commentator": "Śaṅkara (Advaita)",
+     "note": "Truth is saying what is so, without unkind falsehood; freedom from anger is calming anger that arises when one is abused or struck; not slandering is not exposing others' faults."
+    },
+    {
+     "label": "Commentator's view",
+     "unit": "BG.16.2",
+     "school": "vishishtadvaita",
+     "commentator": "Rāmānuja (Viśiṣṭādvaita)",
+     "note": "Freedom from anger is having no change of mind that leads to harming others; compassion is being unable to bear the suffering of any being; renunciation is letting go of possessions that work against one's true good."
+    },
+    {
+     "label": "Commentator's view",
+     "unit": "BG.16.2",
+     "school": "dvaita",
+     "commentator": "Madhva (Dvaita)",
+     "note": "Slander is telling a king or others of faults in order to bring trouble on someone; steadiness is not being fickle."
+    },
+    {
+     "label": "Commentator's view",
+     "missing": "Our source has no comment from Madhva (Dvaita) on BG.17.15."
     }
    ],
    "example": null,
    "challenge": {
     "label": "Viveka's application",
-    "principle": "desire-anger-chain",
-    "name": "From dwelling comes desire; from desire, anger",
-    "text": "If your conscience leans the other way, here is the other view: From dwelling comes desire; from desire, anger. Dwelling on something breeds attachment, then desire, then anger when it is blocked, then confusion and the loss of judgement.",
+    "principle": "speak-the-hard-truth",
+    "name": "Say the unwelcome thing that helps",
+    "text": "If your conscience leans the other way, here is the other view: Say the unwelcome thing that helps. Pleasant talkers are easy to find; rare is the person who says what is unpleasant but good for you, and rarer still the one who listens. Even wise words fail when spoken at the wrong time.",
     "source": {
      "label": "Source text",
-     "id": "BG.2.62",
-     "english": "When a person dwells on the objects of the senses, attachment to them arises; from attachment comes desire, and from desire comes anger."
+     "id": "VN.5.14",
+     "english": "People who always speak pleasantly are easy to find, king; but rare are both the speaker and the hearer of what is unpleasant yet beneficial."
     },
-    "when_the_recommendation_misleads": "It is used to dismiss real harm someone has done as 'just your bias'."
+    "when_the_recommendation_misleads": "It is used to avoid ever saying a necessary hard truth. Truth comes first in the list."
    },
    "next_step": {
     "label": "Viveka's application",
-    "text": "Write down three things the person you dislike has done well. If you cannot, ask someone neutral. Then judge the one action in front of you on its own."
+    "text": "Run what you plan to say through three filters: is it true, is it kind in how it is said, and does it help?"
    },
    "safety_footer": {
     "label": "Viveka's application",
@@ -3236,7 +3305,7 @@
   "safety": null,
   "questions": [],
   "gate": [],
-  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: Forgiveness belongs to the strong. Forgiveness, fortitude and freedom from malice are listed among the divine qualities, alongside vigour.\n  Why it fits you: For your situation (this involves your father, brother): addresses the kind of problem you describe; speaks to a relationship; echoes your words: forgive.\n  In practice: Since this involves your father, think about what they need as well as what you need. Decide separately: (1) do I want to release this resentment for my own peace? (2) do I want this person back in my life, and on what terms?\n\nSource text (BG.16.3): \"vigour, forgiveness, fortitude, purity, freedom from malice and from excessive pride: these belong to one born to the divine nature, Arjuna.\"\nSource text (BG.12.13): \"One who bears no hatred towards any being, who is friendly and compassionate, free of possessiveness and ego, the same in pain and pleasure, and forgiving,\"\n  Commentator's view - Śaṅkara (Advaita): Forgiveness is no inner disturbance arising when one is abused or struck, whereas freedom from anger is calming it once it has arisen; fortitude is what lifts body and senses when they sink.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Forgiveness is a mind unchanged towards others even when they cause one pain; fortitude is holding to what must be done even in great adversity.\n  Commentator's view - Madhva (Dvaita): Forgiveness is not harming one who has harmed you, together with freedom from anger.\n  Commentator's view - Śaṅkara (Advaita): Hating no being, not even one who causes them pain, since they see all beings as the self; friendly, compassionate to those who suffer, free of 'mine' and of ego.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Bearing no hatred even towards those who hate and harm them, reflecting that these beings are moved by the Lord in keeping with their own faults; friendly towards them, and compassionate when they suffer.\n  Commentator's view - Our source has no comment from Madhva (Dvaita) on BG.12.13.\n\nHistorical example (story from the texts): Arjuna asks forgiveness for taking a friend for granted. After seeing Krishna's cosmic form, Arjuna asks forgiveness for every time he spoke carelessly to him as a mere friend, joking or disrespectful, alone or in front of others, asking him to bear with him as a father with a son, a friend with a friend. Lesson: Familiarity can make us careless with those closest to us; a specific, unguarded apology repairs it. Limits: Arjuna's apology is to God revealed; between people, apology should be mutual where both have erred, and no one should be made to grovel.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Stand by your relatives. Relatives can carry you across or pull you under. Help a relative who is poor, sick or struggling; share meals, talk and affection with them, not quarrels.\n  Source text (VN.7.15): \"One who supports a relative who is poor, miserable or sick gains increase in sons and cattle, and undying fame.\"\n  When the recommended principle misleads: It is used to demand immediate forgiveness from someone who was harmed, or to restore access to someone dangerous. Forgiving is not the same as reconciling.\n\nViveka's application - One next step: Decide separately: (1) do I want to release this resentment for my own peace? (2) do I want this person back in my life, and on what terms?\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
+  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: Forgiveness belongs to the strong. Forgiveness, fortitude and freedom from malice are listed among the divine qualities, alongside vigour.\n  Why it fits you: For your situation (this involves your father, brother): addresses the kind of problem you describe; speaks to a relationship; echoes your words: forgive.\n  In practice: Since this involves your father, think about what they need as well as what you need. Decide separately: (1) do I want to release this resentment for my own peace? (2) do I want this person back in my life, and on what terms?\n\nSource text (BG.16.3): \"vigour, forgiveness, fortitude, purity, freedom from malice and from excessive pride: these belong to one born to the divine nature, Arjuna.\"\nSource text (BG.12.13): \"One who bears no hatred towards any being, who is friendly and compassionate, free of possessiveness and ego, the same in pain and pleasure, and forgiving,\"\n  Commentator's view - Śaṅkara (Advaita): Forgiveness is no inner disturbance arising when one is abused or struck, whereas freedom from anger is calming it once it has arisen; fortitude is what lifts body and senses when they sink.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Forgiveness is a mind unchanged towards others even when they cause one pain; fortitude is holding to what must be done even in great adversity.\n  Commentator's view - Madhva (Dvaita): Forgiveness is not harming one who has harmed you, together with freedom from anger.\n  Commentator's view - Śaṅkara (Advaita): Hating no being, not even one who causes them pain, since they see all beings as the self; friendly, compassionate to those who suffer, free of 'mine' and of ego.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Bearing no hatred even towards those who hate and harm them, reflecting that these beings are moved by the Lord in keeping with their own faults; friendly towards them, and compassionate when they suffer.\n  Commentator's view - Our source has no comment from Madhva (Dvaita) on BG.12.13.\n\nHistorical example (story from the texts): Arjuna asks forgiveness for taking a friend for granted. After seeing Krishna's cosmic form, Arjuna asks forgiveness for every time he spoke carelessly to him as a mere friend, joking or disrespectful, alone or in front of others, asking him to bear with him as a father with a son, a friend with a friend. Lesson: Familiarity can make us careless with those closest to us; a specific, unguarded apology repairs it. Limits: Arjuna's apology is to God revealed; between people, apology should be mutual where both have erred, and no one should be made to grovel.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Speak truthfully, kindly and helpfully. The discipline of speech is speech that causes no distress and is true, pleasant and beneficial.\n  Source text (BG.17.15): \"Speech that causes no distress, that is true, pleasant and beneficial, and the regular study of scripture: this is called austerity of speech.\"\n  When the recommended principle misleads: It is used to demand immediate forgiveness from someone who was harmed, or to restore access to someone dangerous. Forgiving is not the same as reconciling.\n\nViveka's application - One next step: Decide separately: (1) do I want to release this resentment for my own peace? (2) do I want this person back in my life, and on what terms?\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
   "answer": {
    "mode": "internal",
    "question": "My brother cheated me out of my share of our father's property. I can't forgive him.",
@@ -3281,16 +3350,11 @@
    "shortlist": [
     {
      "id": "forgiveness-as-strength",
-     "score": 15.85,
+     "score": 18.45,
      "frame_supported": true
     },
     {
-     "id": "stand-by-your-relatives",
-     "score": 12.05,
-     "frame_supported": true
-    },
-    {
-     "id": "speak-the-hard-truth",
+     "id": "speech-without-harm",
      "score": 8.5,
      "frame_supported": true
     },
@@ -3307,6 +3371,11 @@
     {
      "id": "keep-distance-from-harmful-people",
      "score": 6.0,
+     "frame_supported": true
+    },
+    {
+     "id": "speak-the-hard-truth",
+     "score": 5.9,
      "frame_supported": true
     },
     {
@@ -3334,31 +3403,28 @@
      "limits": "It is used to demand immediate forgiveness from someone who was harmed, or to restore access to someone dangerous. Forgiving is not the same as reconciling."
     },
     {
-     "principle": "stand-by-your-relatives",
-     "name": "Stand by your relatives",
-     "fit": [
-      "addresses the kind of problem you describe",
-      "speaks to a relationship",
-      "echoes your words: share"
-     ],
-     "disagrees_with": [
-      "keep-distance-from-harmful-people"
-     ],
-     "consequence_if_followed": "Someone faces a family rift, an inheritance or support dispute, or a relative in need, and wonders how much they owe.",
-     "limits": "It is used to keep someone in contact with an abusive or dangerous relative, or to demand support that a person cannot give. Safety comes first."
-    },
-    {
-     "principle": "speak-the-hard-truth",
-     "name": "Say the unwelcome thing that helps",
+     "principle": "speech-without-harm",
+     "name": "Speak truthfully, kindly and helpfully",
      "fit": [
       "addresses the kind of problem you describe",
       "speaks to a relationship"
      ],
      "disagrees_with": [
-      "speech-without-harm"
+      "speak-the-hard-truth"
      ],
-     "consequence_if_followed": "Someone must give or hear honest feedback, warn a friend, boss or relative, or is avoiding a conversation because it will be uncomfortable.",
-     "limits": "It is used to excuse cruelty or bluntness for its own sake, or to press a point when the moment is wrong or the person is in crisis."
+     "consequence_if_followed": "Someone has to deliver hard news, give feedback, or is tempted to say something cruel.",
+     "limits": "It is used to avoid ever saying a necessary hard truth. Truth comes first in the list."
+    },
+    {
+     "principle": "apologise-sincerely",
+     "name": "Own your words and ask forgiveness",
+     "fit": [
+      "speaks to a relationship",
+      "echoes your words: father, forgive"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "Someone realises they have taken a person for granted or spoken carelessly.",
+     "limits": "It is used to force an apology from someone who did nothing wrong."
     }
    ],
    "recommendation": {
@@ -3442,13 +3508,13 @@
    },
    "challenge": {
     "label": "Viveka's application",
-    "principle": "stand-by-your-relatives",
-    "name": "Stand by your relatives",
-    "text": "If your conscience leans the other way, here is the other view: Stand by your relatives. Relatives can carry you across or pull you under. Help a relative who is poor, sick or struggling; share meals, talk and affection with them, not quarrels.",
+    "principle": "speech-without-harm",
+    "name": "Speak truthfully, kindly and helpfully",
+    "text": "If your conscience leans the other way, here is the other view: Speak truthfully, kindly and helpfully. The discipline of speech is speech that causes no distress and is true, pleasant and beneficial.",
     "source": {
      "label": "Source text",
-     "id": "VN.7.15",
-     "english": "One who supports a relative who is poor, miserable or sick gains increase in sons and cattle, and undying fame."
+     "id": "BG.17.15",
+     "english": "Speech that causes no distress, that is true, pleasant and beneficial, and the regular study of scripture: this is called austerity of speech."
     },
     "when_the_recommendation_misleads": "It is used to demand immediate forgiveness from someone who was harmed, or to restore access to someone dangerous. Forgiving is not the same as reconciling."
    },
@@ -4368,24 +4434,20 @@
   "scores": {
    "context": 2,
    "grounding": 2,
-   "judgment": 1,
+   "judgment": 2,
    "specificity": 2,
    "actionability": 2,
    "agency": 2
   },
-  "total": 11,
-  "notes": [
-   "top forgiveness-as-strength not acceptable; acceptable one in top 3"
-  ],
-  "top": "forgiveness-as-strength",
-  "raw_top": "forgiveness-as-strength",
+  "total": 12,
+  "notes": [],
+  "top": "name-the-confusion",
+  "raw_top": "name-the-confusion",
   "outcome": "passed first time",
   "safety": null,
   "questions": [],
-  "gate": [
-   "top principle forgiveness-as-strength does not answer the decision"
-  ],
-  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: Forgiveness belongs to the strong. Forgiveness, fortitude and freedom from malice are listed among the divine qualities, alongside vigour.\n  Why it fits you: For your situation (this involves your mother): addresses the kind of problem you describe; speaks to anger, a relationship; echoes your words: resent.\n  In practice: If your mother has a say over your home, money or safety, plan for how they may react and who could support you. Decide separately: (1) do I want to release this resentment for my own peace? (2) do I want this person back in my life, and on what terms?\n\nSource text (BG.16.3): \"vigour, forgiveness, fortitude, purity, freedom from malice and from excessive pride: these belong to one born to the divine nature, Arjuna.\"\nSource text (BG.12.13): \"One who bears no hatred towards any being, who is friendly and compassionate, free of possessiveness and ego, the same in pain and pleasure, and forgiving,\"\n  Commentator's view - Śaṅkara (Advaita): Forgiveness is no inner disturbance arising when one is abused or struck, whereas freedom from anger is calming it once it has arisen; fortitude is what lifts body and senses when they sink.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Forgiveness is a mind unchanged towards others even when they cause one pain; fortitude is holding to what must be done even in great adversity.\n  Commentator's view - Madhva (Dvaita): Forgiveness is not harming one who has harmed you, together with freedom from anger.\n  Commentator's view - Śaṅkara (Advaita): Hating no being, not even one who causes them pain, since they see all beings as the self; friendly, compassionate to those who suffer, free of 'mine' and of ego.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Bearing no hatred even towards those who hate and harm them, reflecting that these beings are moved by the Lord in keeping with their own faults; friendly towards them, and compassionate when they suffer.\n  Commentator's view - Our source has no comment from Madhva (Dvaita) on BG.12.13.\n\nHistorical example (story from the texts): Arjuna asks forgiveness for taking a friend for granted. After seeing Krishna's cosmic form, Arjuna asks forgiveness for every time he spoke carelessly to him as a mere friend, joking or disrespectful, alone or in front of others, asking him to bear with him as a father with a son, a friend with a friend. Lesson: Familiarity can make us careless with those closest to us; a specific, unguarded apology repairs it. Limits: Arjuna's apology is to God revealed; between people, apology should be mutual where both have erred, and no one should be made to grovel.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Bear no hatred; be friendly and compassionate. The devotee dear to God bears no hatred towards any being, is friendly and compassionate, free of possessiveness and ego, and forgiving.\n  Source text (BG.12.13): \"One who bears no hatred towards any being, who is friendly and compassionate, free of possessiveness and ego, the same in pain and pleasure, and forgiving,\"\n  When the recommended principle misleads: It is used to demand immediate forgiveness from someone who was harmed, or to restore access to someone dangerous. Forgiving is not the same as reconciling.\n\nViveka's application - One next step: Decide separately: (1) do I want to release this resentment for my own peace? (2) do I want this person back in my life, and on what terms?\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
+  "gate": [],
+  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: When duties conflict, name the confusion. Arjuna's duties to family, teachers and his role collide; he says plainly that his mind is confused about what is right and asks for one clear answer. The Gita begins from that honesty.\n  Why it fits you: For your situation (this involves your mother): addresses the kind of problem you describe.\n  In practice: If your mother has a say over your home, money or safety, plan for how they may react and who could support you. Write each duty and to whom it is owed. Ask which can be partly met, which can wait, and which cannot be compromised.\n\nSource text (BG.2.7): \"My nature is overcome by a pitiful weakness, and my mind is confused about what is right. I ask you: tell me clearly what is better. I am your student; I have come to you for refuge. Teach me.\"\nSource text (BG.3.2): \"With words that seem mixed, you seem to confuse my mind. So tell me, decisively, the one thing by which I may reach what is best.\"\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Summarises 2.6-2.8: Arjuna reasons that being killed by the Kauravas would be better than an unrighteous victory; then, utterly helpless, he takes refuge at Krishna's feet and asks, as his disciple, to be told what is truly good for him.\n  Commentator's view - Śaṅkara (Advaita): Krishna speaks clearly, but to Arjuna's limited understanding the words seem mixed: the one who came to remove his confusion seems to add to it.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Telling him to act, the opposite of the knowledge that withdraws the senses, seems contradictory, so Arjuna asks for one unmixed teaching he can follow.\n  Commentator's view - Our source has no comment from Śaṅkara (Advaita) on BG.2.7; Madhva (Dvaita) on BG.2.7; Madhva (Dvaita) on BG.3.2.\n\nHistorical example (story from the texts): Arjuna lays down his bow. On the eve of battle, Arjuna sees teachers and relatives on the other side, is overcome with grief and pity, trembles, drops his bow and refuses to act. He tells Krishna his mind is confused about what is right and asks to be taught. Lesson: When duties collide, the paralysis and grief are real and are described in full; the turning point is admitting confusion and asking for help. Limits: Arjuna's dilemma is about fighting a war as a warrior. It is never an argument for violence, and most modern dilemmas have options he did not have, such as delay, mediation or leaving.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Bear no hatred; be friendly and compassionate. The devotee dear to God bears no hatred towards any being, is friendly and compassionate, free of possessiveness and ego, and forgiving.\n  Source text (BG.12.13): \"One who bears no hatred towards any being, who is friendly and compassionate, free of possessiveness and ego, the same in pain and pleasure, and forgiving,\"\n  When the recommended principle misleads: It is used to look for one authority to decide everything.\n\nViveka's application - One next step: Write each duty and to whom it is owed. Ask which can be partly met, which can wait, and which cannot be compromised.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
   "answer": {
    "mode": "internal",
    "question": "I look after my mother who has dementia. I'm exhausted and sometimes I resent her, then I feel guilty.",
@@ -4430,8 +4492,8 @@
    "safety": null,
    "shortlist": [
     {
-     "id": "forgiveness-as-strength",
-     "score": 12.25,
+     "id": "name-the-confusion",
+     "score": 13.6,
      "frame_supported": true
     },
     {
@@ -4440,13 +4502,8 @@
      "frame_supported": true
     },
     {
-     "id": "name-the-confusion",
-     "score": 11.2,
-     "frame_supported": true
-    },
-    {
-     "id": "keep-distance-from-harmful-people",
-     "score": 8.0,
+     "id": "work-for-the-good-of-all",
+     "score": 9.0,
      "frame_supported": true
     },
     {
@@ -4455,8 +4512,8 @@
      "frame_supported": true
     },
     {
-     "id": "work-for-the-good-of-all",
-     "score": 7.0,
+     "id": "reciprocity",
+     "score": 7.6,
      "frame_supported": true
     },
     {
@@ -4465,23 +4522,26 @@
      "frame_supported": true
     },
     {
-     "id": "reciprocity",
+     "id": "same-regard-for-all",
      "score": 6.0,
+     "frame_supported": true
+    },
+    {
+     "id": "reflect-then-choose",
+     "score": 5.77,
      "frame_supported": true
     }
    ],
    "comparison": [
     {
-     "principle": "forgiveness-as-strength",
-     "name": "Forgiveness belongs to the strong",
+     "principle": "name-the-confusion",
+     "name": "When duties conflict, name the confusion",
      "fit": [
-      "addresses the kind of problem you describe",
-      "speaks to anger, a relationship",
-      "echoes your words: resent"
+      "addresses the kind of problem you describe"
      ],
      "disagrees_with": [],
-     "consequence_if_followed": "Someone is deciding whether to forgive a family member, friend or colleague.",
-     "limits": "It is used to demand immediate forgiveness from someone who was harmed, or to restore access to someone dangerous. Forgiving is not the same as reconciling."
+     "consequence_if_followed": "Two obligations genuinely conflict: career versus family, loyalty versus honesty, parent versus partner.",
+     "limits": "It is used to look for one authority to decide everything."
     },
     {
      "principle": "no-hatred",
@@ -4496,14 +4556,248 @@
      "limits": "It is used to pressure a victim to drop justified anger or to stay in contact with an abuser."
     },
     {
-     "principle": "name-the-confusion",
-     "name": "When duties conflict, name the confusion",
+     "principle": "work-for-the-good-of-all",
+     "name": "Act for the welfare of all",
      "fit": [
-      "addresses the kind of problem you describe"
+      "addresses the kind of problem you describe",
+      "speaks to a relationship"
      ],
      "disagrees_with": [],
-     "consequence_if_followed": "Two obligations genuinely conflict: career versus family, loyalty versus honesty, parent versus partner.",
-     "limits": "It is used to look for one authority to decide everything."
+     "consequence_if_followed": "Choosing between a narrow personal gain and something that serves the wider community.",
+     "limits": "It is used to demand self-sacrifice from people who are already over-giving or neglecting their own basic needs."
+    }
+   ],
+   "recommendation": {
+    "label": "Viveka's application",
+    "principle": "name-the-confusion",
+    "name": "When duties conflict, name the confusion",
+    "text": "When duties conflict, name the confusion. Arjuna's duties to family, teachers and his role collide; he says plainly that his mind is confused about what is right and asks for one clear answer. The Gita begins from that honesty.",
+    "why_it_fits_you": "For your situation (this involves your mother): addresses the kind of problem you describe.",
+    "application": "If your mother has a say over your home, money or safety, plan for how they may react and who could support you. Write each duty and to whom it is owed. Ask which can be partly met, which can wait, and which cannot be compromised.",
+    "basis_frames": [
+     "family_care",
+     "burnout"
+    ]
+   },
+   "sources": [
+    {
+     "label": "Source text",
+     "id": "BG.2.7",
+     "english": "My nature is overcome by a pitiful weakness, and my mind is confused about what is right. I ask you: tell me clearly what is better. I am your student; I have come to you for refuge. Teach me.",
+     "devanagari": "कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसम्मूढचेताः ।\nयच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् ॥",
+     "review_status": "draft"
+    },
+    {
+     "label": "Source text",
+     "id": "BG.3.2",
+     "english": "With words that seem mixed, you seem to confuse my mind. So tell me, decisively, the one thing by which I may reach what is best.",
+     "devanagari": "व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥",
+     "review_status": "draft"
+    }
+   ],
+   "commentary": [
+    {
+     "label": "Commentator's view",
+     "unit": "BG.2.7",
+     "school": "vishishtadvaita",
+     "commentator": "Rāmānuja (Viśiṣṭādvaita)",
+     "note": "Summarises 2.6-2.8: Arjuna reasons that being killed by the Kauravas would be better than an unrighteous victory; then, utterly helpless, he takes refuge at Krishna's feet and asks, as his disciple, to be told what is truly good for him."
+    },
+    {
+     "label": "Commentator's view",
+     "unit": "BG.3.2",
+     "school": "advaita",
+     "commentator": "Śaṅkara (Advaita)",
+     "note": "Krishna speaks clearly, but to Arjuna's limited understanding the words seem mixed: the one who came to remove his confusion seems to add to it."
+    },
+    {
+     "label": "Commentator's view",
+     "unit": "BG.3.2",
+     "school": "vishishtadvaita",
+     "commentator": "Rāmānuja (Viśiṣṭādvaita)",
+     "note": "Telling him to act, the opposite of the knowledge that withdraws the senses, seems contradictory, so Arjuna asks for one unmixed teaching he can follow."
+    },
+    {
+     "label": "Commentator's view",
+     "missing": "Our source has no comment from Śaṅkara (Advaita) on BG.2.7; Madhva (Dvaita) on BG.2.7; Madhva (Dvaita) on BG.3.2."
+    }
+   ],
+   "example": {
+    "label": "Historical example (story from the texts)",
+    "id": "arjuna-collapse",
+    "title": "Arjuna lays down his bow",
+    "event": "On the eve of battle, Arjuna sees teachers and relatives on the other side, is overcome with grief and pity, trembles, drops his bow and refuses to act. He tells Krishna his mind is confused about what is right and asks to be taught.",
+    "source": "Bhagavad Gita 1.28-2.8 (data/gita.json)",
+    "lesson": "When duties collide, the paralysis and grief are real and are described in full; the turning point is admitting confusion and asking for help.",
+    "limits": "Arjuna's dilemma is about fighting a war as a warrior. It is never an argument for violence, and most modern dilemmas have options he did not have, such as delay, mediation or leaving.",
+    "verified": true
+   },
+   "challenge": {
+    "label": "Viveka's application",
+    "principle": "no-hatred",
+    "name": "Bear no hatred; be friendly and compassionate",
+    "text": "If your conscience leans the other way, here is the other view: Bear no hatred; be friendly and compassionate. The devotee dear to God bears no hatred towards any being, is friendly and compassionate, free of possessiveness and ego, and forgiving.",
+    "source": {
+     "label": "Source text",
+     "id": "BG.12.13",
+     "english": "One who bears no hatred towards any being, who is friendly and compassionate, free of possessiveness and ego, the same in pain and pleasure, and forgiving,"
+    },
+    "when_the_recommendation_misleads": "It is used to look for one authority to decide everything."
+   },
+   "next_step": {
+    "label": "Viveka's application",
+    "text": "Write each duty and to whom it is owed. Ask which can be partly met, which can wait, and which cannot be compromised."
+   },
+   "safety_footer": {
+    "label": "Viveka's application",
+    "text": "If you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123."
+   },
+   "gate_failures": [],
+   "displayable": true
+  }
+ },
+ {
+  "id": "T021",
+  "category": "adult",
+  "text": "My siblings and I are fighting over our parents' inheritance. It's tearing the family apart.",
+  "scores": {
+   "context": 2,
+   "grounding": 2,
+   "judgment": 2,
+   "specificity": 2,
+   "actionability": 2,
+   "agency": 2
+  },
+  "total": 12,
+  "notes": [],
+  "top": "forgiveness-as-strength",
+  "raw_top": "forgiveness-as-strength",
+  "outcome": "passed first time",
+  "safety": null,
+  "questions": [],
+  "gate": [],
+  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: Forgiveness belongs to the strong. Forgiveness, fortitude and freedom from malice are listed among the divine qualities, alongside vigour.\n  Why it fits you: For your situation (this involves your parents): addresses the kind of problem you describe; speaks to a relationship; echoes your words: fami.\n  In practice: If your parents have a say over your home, money or safety, plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Decide separately: (1) do I want to release this resentment for my own peace? (2) do I want this person back in my life, and on what terms?\n\nSource text (BG.16.3): \"vigour, forgiveness, fortitude, purity, freedom from malice and from excessive pride: these belong to one born to the divine nature, Arjuna.\"\nSource text (BG.12.13): \"One who bears no hatred towards any being, who is friendly and compassionate, free of possessiveness and ego, the same in pain and pleasure, and forgiving,\"\n  Commentator's view - Śaṅkara (Advaita): Forgiveness is no inner disturbance arising when one is abused or struck, whereas freedom from anger is calming it once it has arisen; fortitude is what lifts body and senses when they sink.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Forgiveness is a mind unchanged towards others even when they cause one pain; fortitude is holding to what must be done even in great adversity.\n  Commentator's view - Madhva (Dvaita): Forgiveness is not harming one who has harmed you, together with freedom from anger.\n  Commentator's view - Śaṅkara (Advaita): Hating no being, not even one who causes them pain, since they see all beings as the self; friendly, compassionate to those who suffer, free of 'mine' and of ego.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Bearing no hatred even towards those who hate and harm them, reflecting that these beings are moved by the Lord in keeping with their own faults; friendly towards them, and compassionate when they suffer.\n  Commentator's view - Our source has no comment from Madhva (Dvaita) on BG.12.13.\n\nHistorical example (story from the texts): Arjuna asks forgiveness for taking a friend for granted. After seeing Krishna's cosmic form, Arjuna asks forgiveness for every time he spoke carelessly to him as a mere friend, joking or disrespectful, alone or in front of others, asking him to bear with him as a father with a son, a friend with a friend. Lesson: Familiarity can make us careless with those closest to us; a specific, unguarded apology repairs it. Limits: Arjuna's apology is to God revealed; between people, apology should be mutual where both have erred, and no one should be made to grovel.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Speak truthfully, kindly and helpfully. The discipline of speech is speech that causes no distress and is true, pleasant and beneficial.\n  Source text (BG.17.15): \"Speech that causes no distress, that is true, pleasant and beneficial, and the regular study of scripture: this is called austerity of speech.\"\n  When the recommended principle misleads: It is used to demand immediate forgiveness from someone who was harmed, or to restore access to someone dangerous. Forgiving is not the same as reconciling.\n\nViveka's application - One next step: Decide separately: (1) do I want to release this resentment for my own peace? (2) do I want this person back in my life, and on what terms?\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
+  "answer": {
+   "mode": "internal",
+   "question": "My siblings and I are fighting over our parents' inheritance. It's tearing the family apart.",
+   "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
+   "understanding": {
+    "dilemma": "My siblings and I are fighting over our parents' inheritance.",
+    "situations": [
+     "relationships_forgiveness",
+     "success_wealth"
+    ],
+    "people": [
+     "parents"
+    ],
+    "options": [],
+    "obligations": [],
+    "constraints": {
+     "power_imbalance": [
+      "parents"
+     ],
+     "dependency": [],
+     "money": [
+      "rent"
+     ],
+     "urgency": [],
+     "irreversible": []
+    },
+    "age": null,
+    "minor": "unknown",
+    "life_stage": null,
+    "distress": false,
+    "danger": false,
+    "self_harm": false,
+    "life_stage_source": null,
+    "protective": [],
+    "months_since_loss": null,
+    "frames": [
+     "money",
+     "family_rift"
+    ]
+   },
+   "protective": null,
+   "clarifying_questions": [],
+   "safety": null,
+   "shortlist": [
+    {
+     "id": "forgiveness-as-strength",
+     "score": 11.52,
+     "frame_supported": true
+    },
+    {
+     "id": "speech-without-harm",
+     "score": 8.5,
+     "frame_supported": true
+    },
+    {
+     "id": "wealth-never-satisfies",
+     "score": 8.0,
+     "frame_supported": true
+    },
+    {
+     "id": "use-wealth-or-lose-it",
+     "score": 7.0,
+     "frame_supported": true
+    },
+    {
+     "id": "lead-by-example",
+     "score": 6.77,
+     "frame_supported": false
+    },
+    {
+     "id": "give-without-expecting-return",
+     "score": 6.0,
+     "frame_supported": true
+    },
+    {
+     "id": "lasting-versus-passing-treasure",
+     "score": 6.0,
+     "frame_supported": true
+    },
+    {
+     "id": "speak-the-hard-truth",
+     "score": 5.9,
+     "frame_supported": true
+    }
+   ],
+   "comparison": [
+    {
+     "principle": "forgiveness-as-strength",
+     "name": "Forgiveness belongs to the strong",
+     "fit": [
+      "addresses the kind of problem you describe",
+      "speaks to a relationship",
+      "echoes your words: fami"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "Someone is deciding whether to forgive a family member, friend or colleague.",
+     "limits": "It is used to demand immediate forgiveness from someone who was harmed, or to restore access to someone dangerous. Forgiving is not the same as reconciling."
+    },
+    {
+     "principle": "speech-without-harm",
+     "name": "Speak truthfully, kindly and helpfully",
+     "fit": [
+      "addresses the kind of problem you describe",
+      "speaks to a relationship"
+     ],
+     "disagrees_with": [
+      "speak-the-hard-truth"
+     ],
+     "consequence_if_followed": "Someone has to deliver hard news, give feedback, or is tempted to say something cruel.",
+     "limits": "It is used to avoid ever saying a necessary hard truth. Truth comes first in the list."
+    },
+    {
+     "principle": "wealth-never-satisfies",
+     "name": "No one is satisfied by wealth",
+     "fit": [
+      "addresses the kind of problem you describe",
+      "speaks to money or success"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "Someone is sacrificing health, relationships or integrity for ever more money or status.",
+     "limits": "It is used to dismiss real poverty or the legitimate need for financial security."
     }
    ],
    "recommendation": {
@@ -4511,10 +4805,10 @@
     "principle": "forgiveness-as-strength",
     "name": "Forgiveness belongs to the strong",
     "text": "Forgiveness belongs to the strong. Forgiveness, fortitude and freedom from malice are listed among the divine qualities, alongside vigour.",
-    "why_it_fits_you": "For your situation (this involves your mother): addresses the kind of problem you describe; speaks to anger, a relationship; echoes your words: resent.",
-    "application": "If your mother has a say over your home, money or safety, plan for how they may react and who could support you. Decide separately: (1) do I want to release this resentment for my own peace? (2) do I want this person back in my life, and on what terms?",
+    "why_it_fits_you": "For your situation (this involves your parents): addresses the kind of problem you describe; speaks to a relationship; echoes your words: fami.",
+    "application": "If your parents have a say over your home, money or safety, plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Decide separately: (1) do I want to release this resentment for my own peace? (2) do I want this person back in my life, and on what terms?",
     "basis_frames": [
-     "hurt_by_someone"
+     "family_rift"
     ]
    },
    "sources": [
@@ -4586,228 +4880,19 @@
    },
    "challenge": {
     "label": "Viveka's application",
-    "principle": "no-hatred",
-    "name": "Bear no hatred; be friendly and compassionate",
-    "text": "If your conscience leans the other way, here is the other view: Bear no hatred; be friendly and compassionate. The devotee dear to God bears no hatred towards any being, is friendly and compassionate, free of possessiveness and ego, and forgiving.",
+    "principle": "speech-without-harm",
+    "name": "Speak truthfully, kindly and helpfully",
+    "text": "If your conscience leans the other way, here is the other view: Speak truthfully, kindly and helpfully. The discipline of speech is speech that causes no distress and is true, pleasant and beneficial.",
     "source": {
      "label": "Source text",
-     "id": "BG.12.13",
-     "english": "One who bears no hatred towards any being, who is friendly and compassionate, free of possessiveness and ego, the same in pain and pleasure, and forgiving,"
+     "id": "BG.17.15",
+     "english": "Speech that causes no distress, that is true, pleasant and beneficial, and the regular study of scripture: this is called austerity of speech."
     },
     "when_the_recommendation_misleads": "It is used to demand immediate forgiveness from someone who was harmed, or to restore access to someone dangerous. Forgiving is not the same as reconciling."
    },
    "next_step": {
     "label": "Viveka's application",
     "text": "Decide separately: (1) do I want to release this resentment for my own peace? (2) do I want this person back in my life, and on what terms?"
-   },
-   "safety_footer": {
-    "label": "Viveka's application",
-    "text": "If you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123."
-   },
-   "gate_failures": [],
-   "displayable": true
-  }
- },
- {
-  "id": "T021",
-  "category": "adult",
-  "text": "My siblings and I are fighting over our parents' inheritance. It's tearing the family apart.",
-  "scores": {
-   "context": 2,
-   "grounding": 2,
-   "judgment": 1,
-   "specificity": 2,
-   "actionability": 2,
-   "agency": 2
-  },
-  "total": 11,
-  "notes": [
-   "top stand-by-your-relatives not acceptable; acceptable one in top 3"
-  ],
-  "top": "stand-by-your-relatives",
-  "raw_top": "stand-by-your-relatives",
-  "outcome": "passed first time",
-  "safety": null,
-  "questions": [],
-  "gate": [
-   "top principle stand-by-your-relatives does not answer the decision"
-  ],
-  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: Stand by your relatives. Relatives can carry you across or pull you under. Help a relative who is poor, sick or struggling; share meals, talk and affection with them, not quarrels.\n  Why it fits you: For your situation (this involves your parents): addresses the kind of problem you describe; speaks to a relationship; echoes your words: fami, inheritance.\n  In practice: If your parents have a say over your home, money or safety, plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Name one relative who is struggling. Do one small, concrete thing this week: a call, a meal, an errand, or an honest talk to end a quarrel.\n\nSource text (VN.7.15): \"One who supports a relative who is poor, miserable or sick gains increase in sons and cattle, and undying fame.\"\nSource text (VN.7.21): \"One who seeks well-being should not make war with relatives, dear one; pleasures should be enjoyed together with relatives, bull of the Bharatas.\"\n  Commentator's view - No classical commentary on the Vidura Niti is in the library yet.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Keep your distance from those who harm. A harmful person is to be avoided even if learned, as a snake adorned with a jewel is still dangerous; friendship with the wicked starts big and dwindles.\n  Source text (NS.53): \"A wicked person should be avoided, even if adorned with learning. Is a snake adorned with a jewel any less frightening?\"\n  When the recommended principle misleads: It is used to keep someone in contact with an abusive or dangerous relative, or to demand support that a person cannot give. Safety comes first.\n\nViveka's application - One next step: Name one relative who is struggling. Do one small, concrete thing this week: a call, a meal, an errand, or an honest talk to end a quarrel.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
-  "answer": {
-   "mode": "internal",
-   "question": "My siblings and I are fighting over our parents' inheritance. It's tearing the family apart.",
-   "notice": "DRAFT: internal test answer using unreviewed material. Not for users.",
-   "understanding": {
-    "dilemma": "My siblings and I are fighting over our parents' inheritance.",
-    "situations": [
-     "relationships_forgiveness",
-     "success_wealth"
-    ],
-    "people": [
-     "parents"
-    ],
-    "options": [],
-    "obligations": [],
-    "constraints": {
-     "power_imbalance": [
-      "parents"
-     ],
-     "dependency": [],
-     "money": [
-      "rent"
-     ],
-     "urgency": [],
-     "irreversible": []
-    },
-    "age": null,
-    "minor": "unknown",
-    "life_stage": null,
-    "distress": false,
-    "danger": false,
-    "self_harm": false,
-    "life_stage_source": null,
-    "protective": [],
-    "months_since_loss": null,
-    "frames": [
-     "money",
-     "family_rift"
-    ]
-   },
-   "protective": null,
-   "clarifying_questions": [],
-   "safety": null,
-   "shortlist": [
-    {
-     "id": "stand-by-your-relatives",
-     "score": 14.17,
-     "frame_supported": true
-    },
-    {
-     "id": "forgiveness-as-strength",
-     "score": 8.92,
-     "frame_supported": true
-    },
-    {
-     "id": "speak-the-hard-truth",
-     "score": 8.5,
-     "frame_supported": true
-    },
-    {
-     "id": "wealth-never-satisfies",
-     "score": 8.0,
-     "frame_supported": true
-    },
-    {
-     "id": "use-wealth-or-lose-it",
-     "score": 7.0,
-     "frame_supported": true
-    },
-    {
-     "id": "lead-by-example",
-     "score": 6.77,
-     "frame_supported": false
-    },
-    {
-     "id": "give-without-expecting-return",
-     "score": 6.0,
-     "frame_supported": true
-    },
-    {
-     "id": "lasting-versus-passing-treasure",
-     "score": 6.0,
-     "frame_supported": true
-    }
-   ],
-   "comparison": [
-    {
-     "principle": "stand-by-your-relatives",
-     "name": "Stand by your relatives",
-     "fit": [
-      "addresses the kind of problem you describe",
-      "speaks to a relationship",
-      "echoes your words: fami, inheritance"
-     ],
-     "disagrees_with": [
-      "keep-distance-from-harmful-people"
-     ],
-     "consequence_if_followed": "Someone faces a family rift, an inheritance or support dispute, or a relative in need, and wonders how much they owe.",
-     "limits": "It is used to keep someone in contact with an abusive or dangerous relative, or to demand support that a person cannot give. Safety comes first."
-    },
-    {
-     "principle": "forgiveness-as-strength",
-     "name": "Forgiveness belongs to the strong",
-     "fit": [
-      "addresses the kind of problem you describe",
-      "speaks to a relationship",
-      "echoes your words: fami"
-     ],
-     "disagrees_with": [],
-     "consequence_if_followed": "Someone is deciding whether to forgive a family member, friend or colleague.",
-     "limits": "It is used to demand immediate forgiveness from someone who was harmed, or to restore access to someone dangerous. Forgiving is not the same as reconciling."
-    },
-    {
-     "principle": "speak-the-hard-truth",
-     "name": "Say the unwelcome thing that helps",
-     "fit": [
-      "addresses the kind of problem you describe",
-      "speaks to a relationship"
-     ],
-     "disagrees_with": [
-      "speech-without-harm"
-     ],
-     "consequence_if_followed": "Someone must give or hear honest feedback, warn a friend, boss or relative, or is avoiding a conversation because it will be uncomfortable.",
-     "limits": "It is used to excuse cruelty or bluntness for its own sake, or to press a point when the moment is wrong or the person is in crisis."
-    }
-   ],
-   "recommendation": {
-    "label": "Viveka's application",
-    "principle": "stand-by-your-relatives",
-    "name": "Stand by your relatives",
-    "text": "Stand by your relatives. Relatives can carry you across or pull you under. Help a relative who is poor, sick or struggling; share meals, talk and affection with them, not quarrels.",
-    "why_it_fits_you": "For your situation (this involves your parents): addresses the kind of problem you describe; speaks to a relationship; echoes your words: fami, inheritance.",
-    "application": "If your parents have a say over your home, money or safety, plan for how they may react and who could support you. Because money or dependency is involved, check what you can afford and secure that before any big move. Name one relative who is struggling. Do one small, concrete thing this week: a call, a meal, an errand, or an honest talk to end a quarrel.",
-    "basis_frames": [
-     "family_rift"
-    ]
-   },
-   "sources": [
-    {
-     "label": "Source text",
-     "id": "VN.7.15",
-     "english": "One who supports a relative who is poor, miserable or sick gains increase in sons and cattle, and undying fame.",
-     "devanagari": "यो ज्ञातिमनुगृह्णाति दरिद्रं दीनमातुरम् ।\nसपुत्रपशुभिर्वृद्धिं यशश्चाव्ययमश्नुते ॥",
-     "review_status": "draft"
-    },
-    {
-     "label": "Source text",
-     "id": "VN.7.21",
-     "english": "One who seeks well-being should not make war with relatives, dear one; pleasures should be enjoyed together with relatives, bull of the Bharatas.",
-     "devanagari": "ज्ञातिभिर्विग्रहस्तात न कर्तव्यो भवार्थिना ।\nसुखानि सह भोज्यानि ज्ञातिभिर्भरतर्षभ ॥",
-     "review_status": "draft"
-    }
-   ],
-   "commentary": [
-    {
-     "label": "Commentator's view",
-     "missing": "No classical commentary on the Vidura Niti is in the library yet."
-    }
-   ],
-   "example": null,
-   "challenge": {
-    "label": "Viveka's application",
-    "principle": "keep-distance-from-harmful-people",
-    "name": "Keep your distance from those who harm",
-    "text": "If your conscience leans the other way, here is the other view: Keep your distance from those who harm. A harmful person is to be avoided even if learned, as a snake adorned with a jewel is still dangerous; friendship with the wicked starts big and dwindles.",
-    "source": {
-     "label": "Source text",
-     "id": "NS.53",
-     "english": "A wicked person should be avoided, even if adorned with learning. Is a snake adorned with a jewel any less frightening?"
-    },
-    "when_the_recommendation_misleads": "It is used to keep someone in contact with an abusive or dangerous relative, or to demand support that a person cannot give. Safety comes first."
-   },
-   "next_step": {
-    "label": "Viveka's application",
-    "text": "Name one relative who is struggling. Do one small, concrete thing this week: a call, a meal, an errand, or an honest talk to end a quarrel."
    },
    "safety_footer": {
     "label": "Viveka's application",
@@ -14436,24 +14521,20 @@
   "scores": {
    "context": 2,
    "grounding": 2,
-   "judgment": 1,
+   "judgment": 2,
    "specificity": 2,
    "actionability": 2,
    "agency": 2
   },
-  "total": 11,
-  "notes": [
-   "top wealth-never-satisfies not acceptable; acceptable one in top 3"
-  ],
-  "top": "wealth-never-satisfies",
-  "raw_top": "wealth-never-satisfies",
+  "total": 12,
+  "notes": [],
+  "top": "apologise-sincerely",
+  "raw_top": "apologise-sincerely",
   "outcome": "passed first time",
   "safety": null,
   "questions": [],
-  "gate": [
-   "top principle wealth-never-satisfies does not answer the decision"
-  ],
-  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: No one is satisfied by wealth. Desire is as hard to satisfy as fire; Nachiketas observes that no one is ever satisfied by wealth.\n  Why it fits you: For your situation (you said you are 16; this involves your mom): addresses the kind of problem you describe; speaks to money or success; echoes your words: money.\n  In practice: Since this involves your mom, think about what they need as well as what you need. Because money or dependency is involved, check what you can afford and secure that before any big move. Write down the amount that would be 'enough' and what you would do differently once you have it. Ask whether you could start some of it now.\n\nSource text (KaU.1.1.27): \"No one is satisfied by wealth. We shall have wealth if we have seen you; we shall live as long as you rule. But the boon I would choose is that one alone.\"\nSource text (BG.3.39): \"Wisdom is covered by this constant enemy of the wise, son of Kunti: by desire, which is as hard to satisfy as fire.\"\n  Commentator's view - Śaṅkara (Advaita): No one in the world is ever seen to be satisfied by gaining wealth. Having met Death, wealth and life will come anyway; the only boon worth choosing is knowledge of the Self.\n  Commentator's view - Śaṅkara (Advaita): Desire is the constant enemy of the wise in particular: the wise know beforehand that it leads to harm, while the fool sees it as a friend until the suffering comes.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Desire covers the self's knowledge by producing infatuation with objects, and it can never be satisfied.\n  Commentator's view - Madhva (Dvaita): Even knowledge gained from scripture fails to reveal the Supreme directly when covered by desire; desire is hard to fill and never says 'enough'.\n  Commentator's view - No commentary by Madhva (Dvaita) or Rāmānuja (Viśiṣṭādvaita) on the Katha Upanishad is in the library yet.\n\nHistorical example (story from the texts): Arjuna asks forgiveness for taking a friend for granted. After seeing Krishna's cosmic form, Arjuna asks forgiveness for every time he spoke carelessly to him as a mere friend, joking or disrespectful, alone or in front of others, asking him to bear with him as a father with a son, a friend with a friend. Lesson: Familiarity can make us careless with those closest to us; a specific, unguarded apology repairs it. Limits: Arjuna's apology is to God revealed; between people, apology should be mutual where both have erred, and no one should be made to grovel.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Own your words and ask forgiveness. After seeing who Krishna truly is, Arjuna asks forgiveness for every careless or disrespectful word, 'as a father bears with a son, a friend with a friend'.\n  Source text (BG.11.41): \"Whatever I said rashly, thinking of you as a friend, \"Hey Krishna! Hey Yadava! Hey friend!\", not knowing this greatness of yours, out of carelessness or out of affection,\"\n  When the recommended principle misleads: It is used to dismiss real poverty or the legitimate need for financial security.\n\nViveka's application - One next step: Write down the amount that would be 'enough' and what you would do differently once you have it. Ask whether you could start some of it now.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
+  "gate": [],
+  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: Own your words and ask forgiveness. After seeing who Krishna truly is, Arjuna asks forgiveness for every careless or disrespectful word, 'as a father bears with a son, a friend with a friend'.\n  Why it fits you: For your situation (you said you are 16; this involves your mom): addresses the kind of problem you describe; speaks to a relationship.\n  In practice: To answer you directly: take what you took back to where it belongs, or repay it, and tell the person yourself before they find out. Owning it plainly matters more than how small it was. Since this involves your mom, think about what they need as well as what you need. Name the specific words or acts, without excuses, and ask what would help make it right.\n\nSource text (BG.11.41): \"Whatever I said rashly, thinking of you as a friend, \"Hey Krishna! Hey Yadava! Hey friend!\", not knowing this greatness of yours, out of carelessness or out of affection,\"\nSource text (BG.11.42): \"and whatever disrespect I showed you in jest, while playing, resting, sitting or eating, alone or in front of others, Krishna, for all that I ask your forgiveness, immeasurable one.\"\n  Commentator's view - Śaṅkara (Advaita): Thinking of you as a friend my own age, I spoke rashly, not knowing your greatness as the Lord with the universal form.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Not knowing your infinite power and your being the self and creator of all, out of confusion or long familiarity I treated you as 'my companion'.\n  Commentator's view - Śaṅkara (Advaita): Whatever disrespect I showed you in jest, during play, rest, sitting or meals, in private or in company, I beg your forgiveness.\n  Commentator's view - Our source has no comment from Madhva (Dvaita) on BG.11.41; Rāmānuja (Viśiṣṭādvaita) on BG.11.42; Madhva (Dvaita) on BG.11.42.\n\nHistorical example (story from the texts): Arjuna asks forgiveness for taking a friend for granted. After seeing Krishna's cosmic form, Arjuna asks forgiveness for every time he spoke carelessly to him as a mere friend, joking or disrespectful, alone or in front of others, asking him to bear with him as a father with a son, a friend with a friend. Lesson: Familiarity can make us careless with those closest to us; a specific, unguarded apology repairs it. Limits: Arjuna's apology is to God revealed; between people, apology should be mutual where both have erred, and no one should be made to grovel.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Truth is the home of wisdom. Truthfulness and honesty run through every list of virtues; the Kena says truth is the very home of the highest teaching.\n  Source text (KeU.4.8): \"Austerity, self-control and work are its foundation; the Vedas are all its limbs; truth is its home.\"\n  When the recommended principle misleads: It is used to force an apology from someone who did nothing wrong.\n\nViveka's application - One next step: Name the specific words or acts, without excuses, and ask what would help make it right.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
   "answer": {
    "mode": "internal",
    "question": "I'm 16 and I took money from my mom's purse. She hasn't noticed. I feel awful.",
@@ -14489,7 +14570,8 @@
     "months_since_loss": null,
     "frames": [
      "i_hurt_someone",
-     "money"
+     "money",
+     "took_without_asking"
     ]
    },
    "protective": null,
@@ -14497,13 +14579,23 @@
    "safety": null,
    "shortlist": [
     {
-     "id": "wealth-never-satisfies",
-     "score": 9.92,
+     "id": "apologise-sincerely",
+     "score": 20.0,
      "frame_supported": true
     },
     {
-     "id": "apologise-sincerely",
-     "score": 9.8,
+     "id": "honesty",
+     "score": 14.4,
+     "frame_supported": true
+    },
+    {
+     "id": "even-the-wrongdoer-can-cross",
+     "score": 13.3,
+     "frame_supported": true
+    },
+    {
+     "id": "knowledge-purifies",
+     "score": 10.3,
      "frame_supported": true
     },
     {
@@ -14522,34 +14614,12 @@
      "frame_supported": true
     },
     {
-     "id": "even-the-wrongdoer-can-cross",
-     "score": 6.5,
-     "frame_supported": true
-    },
-    {
      "id": "lasting-versus-passing-treasure",
      "score": 6.0,
-     "frame_supported": true
-    },
-    {
-     "id": "honesty",
-     "score": 5.9,
      "frame_supported": true
     }
    ],
    "comparison": [
-    {
-     "principle": "wealth-never-satisfies",
-     "name": "No one is satisfied by wealth",
-     "fit": [
-      "addresses the kind of problem you describe",
-      "speaks to money or success",
-      "echoes your words: money"
-     ],
-     "disagrees_with": [],
-     "consequence_if_followed": "Someone is sacrificing health, relationships or integrity for ever more money or status.",
-     "limits": "It is used to dismiss real poverty or the legitimate need for financial security."
-    },
     {
      "principle": "apologise-sincerely",
      "name": "Own your words and ask forgiveness",
@@ -14562,77 +14632,80 @@
      "limits": "It is used to force an apology from someone who did nothing wrong."
     },
     {
-     "principle": "use-wealth-or-lose-it",
-     "name": "Give it, enjoy it, or lose it",
+     "principle": "honesty",
+     "name": "Truth is the home of wisdom",
      "fit": [
       "addresses the kind of problem you describe",
-      "speaks to money or success",
-      "echoes your words: money"
+      "speaks to a relationship"
      ],
      "disagrees_with": [],
-     "consequence_if_followed": "Someone is hoarding out of fear, or unsure what their money is for.",
-     "limits": "It is used to discourage prudent saving for real needs, or to justify reckless spending."
+     "consequence_if_followed": "Someone is tempted to lie, cover up, or present a false image.",
+     "limits": "It is used to justify brutal honesty that does needless harm, or to demand disclosure that would put someone in danger."
+    },
+    {
+     "principle": "even-the-wrongdoer-can-cross",
+     "name": "Even the worst wrongdoer can change",
+     "fit": [
+      "addresses the kind of problem you describe"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "Someone is crushed by guilt or shame and believes they are beyond redemption.",
+     "limits": "It is used to excuse continuing harm, or to skip apology and repair to those who were hurt."
     }
    ],
    "recommendation": {
     "label": "Viveka's application",
-    "principle": "wealth-never-satisfies",
-    "name": "No one is satisfied by wealth",
-    "text": "No one is satisfied by wealth. Desire is as hard to satisfy as fire; Nachiketas observes that no one is ever satisfied by wealth.",
-    "why_it_fits_you": "For your situation (you said you are 16; this involves your mom): addresses the kind of problem you describe; speaks to money or success; echoes your words: money.",
-    "application": "Since this involves your mom, think about what they need as well as what you need. Because money or dependency is involved, check what you can afford and secure that before any big move. Write down the amount that would be 'enough' and what you would do differently once you have it. Ask whether you could start some of it now.",
+    "principle": "apologise-sincerely",
+    "name": "Own your words and ask forgiveness",
+    "text": "Own your words and ask forgiveness. After seeing who Krishna truly is, Arjuna asks forgiveness for every careless or disrespectful word, 'as a father bears with a son, a friend with a friend'.",
+    "why_it_fits_you": "For your situation (you said you are 16; this involves your mom): addresses the kind of problem you describe; speaks to a relationship.",
+    "application": "To answer you directly: take what you took back to where it belongs, or repay it, and tell the person yourself before they find out. Owning it plainly matters more than how small it was. Since this involves your mom, think about what they need as well as what you need. Name the specific words or acts, without excuses, and ask what would help make it right.",
     "basis_frames": [
-     "money"
+     "i_hurt_someone",
+     "took_without_asking"
     ]
    },
    "sources": [
     {
      "label": "Source text",
-     "id": "KaU.1.1.27",
-     "english": "No one is satisfied by wealth. We shall have wealth if we have seen you; we shall live as long as you rule. But the boon I would choose is that one alone.",
-     "devanagari": "न वित्तेन तर्पणीयो मनुष्यो\nलप्स्यामहे वित्तमद्राक्ष्म चेत्त्वा ।\nजीविष्यामो यावदीशिष्यसि त्वं\nवरस्तु मे वरणीयः स एव ॥",
+     "id": "BG.11.41",
+     "english": "Whatever I said rashly, thinking of you as a friend, \"Hey Krishna! Hey Yadava! Hey friend!\", not knowing this greatness of yours, out of carelessness or out of affection,",
+     "devanagari": "सखेति मत्वा प्रसभं यदुक्तं ।\nहे कृष्ण हे यादव हे सखेति ।\nअजानता महिमानं तवेदं ।\nमया प्रमादात्प्रणयेन वापि ॥",
      "review_status": "draft"
     },
     {
      "label": "Source text",
-     "id": "BG.3.39",
-     "english": "Wisdom is covered by this constant enemy of the wise, son of Kunti: by desire, which is as hard to satisfy as fire.",
-     "devanagari": "आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा ।\nकामरूपेण कौन्तेय दुष्पूरेणानलेन च ॥",
+     "id": "BG.11.42",
+     "english": "and whatever disrespect I showed you in jest, while playing, resting, sitting or eating, alone or in front of others, Krishna, for all that I ask your forgiveness, immeasurable one.",
+     "devanagari": "यच्चावहासार्थमसत्कृतोऽसि ।\nविहारशय्यासनभोजनेषु ।\nएकोऽथवाप्यच्युत तत्समक्षं ।\nतत्क्षामये त्वामहमप्रमेयम् ॥",
      "review_status": "draft"
     }
    ],
    "commentary": [
     {
      "label": "Commentator's view",
-     "unit": "KaU.1.1.27",
+     "unit": "BG.11.41",
      "school": "advaita",
      "commentator": "Śaṅkara (Advaita)",
-     "note": "No one in the world is ever seen to be satisfied by gaining wealth. Having met Death, wealth and life will come anyway; the only boon worth choosing is knowledge of the Self."
+     "note": "Thinking of you as a friend my own age, I spoke rashly, not knowing your greatness as the Lord with the universal form."
     },
     {
      "label": "Commentator's view",
-     "unit": "BG.3.39",
-     "school": "advaita",
-     "commentator": "Śaṅkara (Advaita)",
-     "note": "Desire is the constant enemy of the wise in particular: the wise know beforehand that it leads to harm, while the fool sees it as a friend until the suffering comes."
-    },
-    {
-     "label": "Commentator's view",
-     "unit": "BG.3.39",
+     "unit": "BG.11.41",
      "school": "vishishtadvaita",
      "commentator": "Rāmānuja (Viśiṣṭādvaita)",
-     "note": "Desire covers the self's knowledge by producing infatuation with objects, and it can never be satisfied."
+     "note": "Not knowing your infinite power and your being the self and creator of all, out of confusion or long familiarity I treated you as 'my companion'."
     },
     {
      "label": "Commentator's view",
-     "unit": "BG.3.39",
-     "school": "dvaita",
-     "commentator": "Madhva (Dvaita)",
-     "note": "Even knowledge gained from scripture fails to reveal the Supreme directly when covered by desire; desire is hard to fill and never says 'enough'."
+     "unit": "BG.11.42",
+     "school": "advaita",
+     "commentator": "Śaṅkara (Advaita)",
+     "note": "Whatever disrespect I showed you in jest, during play, rest, sitting or meals, in private or in company, I beg your forgiveness."
     },
     {
      "label": "Commentator's view",
-     "missing": "No commentary by Madhva (Dvaita) or Rāmānuja (Viśiṣṭādvaita) on the Katha Upanishad is in the library yet."
+     "missing": "Our source has no comment from Madhva (Dvaita) on BG.11.41; Rāmānuja (Viśiṣṭādvaita) on BG.11.42; Madhva (Dvaita) on BG.11.42."
     }
    ],
    "example": {
@@ -14647,19 +14720,19 @@
    },
    "challenge": {
     "label": "Viveka's application",
-    "principle": "apologise-sincerely",
-    "name": "Own your words and ask forgiveness",
-    "text": "If your conscience leans the other way, here is the other view: Own your words and ask forgiveness. After seeing who Krishna truly is, Arjuna asks forgiveness for every careless or disrespectful word, 'as a father bears with a son, a friend with a friend'.",
+    "principle": "honesty",
+    "name": "Truth is the home of wisdom",
+    "text": "If your conscience leans the other way, here is the other view: Truth is the home of wisdom. Truthfulness and honesty run through every list of virtues; the Kena says truth is the very home of the highest teaching.",
     "source": {
      "label": "Source text",
-     "id": "BG.11.41",
-     "english": "Whatever I said rashly, thinking of you as a friend, \"Hey Krishna! Hey Yadava! Hey friend!\", not knowing this greatness of yours, out of carelessness or out of affection,"
+     "id": "KeU.4.8",
+     "english": "Austerity, self-control and work are its foundation; the Vedas are all its limbs; truth is its home."
     },
-    "when_the_recommendation_misleads": "It is used to dismiss real poverty or the legitimate need for financial security."
+    "when_the_recommendation_misleads": "It is used to force an apology from someone who did nothing wrong."
    },
    "next_step": {
     "label": "Viveka's application",
-    "text": "Write down the amount that would be 'enough' and what you would do differently once you have it. Ask whether you could start some of it now."
+    "text": "Name the specific words or acts, without excuses, and ask what would help make it right."
    },
    "safety_footer": {
     "label": "Viveka's application",
@@ -21717,24 +21790,20 @@
   "scores": {
    "context": 2,
    "grounding": 2,
-   "judgment": 1,
+   "judgment": 2,
    "specificity": 2,
    "actionability": 2,
    "agency": 2
   },
-  "total": 11,
-  "notes": [
-   "top name-the-confusion not acceptable; acceptable one in top 3"
-  ],
-  "top": "name-the-confusion",
-  "raw_top": "name-the-confusion",
+  "total": 12,
+  "notes": [],
+  "top": "mortality-is-certain",
+  "raw_top": "mortality-is-certain",
   "outcome": "passed first time",
   "safety": null,
   "questions": [],
-  "gate": [
-   "top principle name-the-confusion does not answer the decision"
-  ],
-  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: When duties conflict, name the confusion. Arjuna's duties to family, teachers and his role collide; he says plainly that his mind is confused about what is right and asks for one clear answer. The Gita begins from that honesty.\n  Why it fits you: For your situation (you said you are 70): addresses the kind of problem you describe; speaks to conflicting duties.\n  In practice: You are weighing 'spend my last years' against 'not spend my last years'. Write each duty and to whom it is owed. Ask which can be partly met, which can wait, and which cannot be compromised.\n\nSource text (BG.2.7): \"My nature is overcome by a pitiful weakness, and my mind is confused about what is right. I ask you: tell me clearly what is better. I am your student; I have come to you for refuge. Teach me.\"\nSource text (BG.3.2): \"With words that seem mixed, you seem to confuse my mind. So tell me, decisively, the one thing by which I may reach what is best.\"\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Summarises 2.6-2.8: Arjuna reasons that being killed by the Kauravas would be better than an unrighteous victory; then, utterly helpless, he takes refuge at Krishna's feet and asks, as his disciple, to be told what is truly good for him.\n  Commentator's view - Śaṅkara (Advaita): Krishna speaks clearly, but to Arjuna's limited understanding the words seem mixed: the one who came to remove his confusion seems to add to it.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Telling him to act, the opposite of the knowledge that withdraws the senses, seems contradictory, so Arjuna asks for one unmixed teaching he can follow.\n  Commentator's view - Our source has no comment from Śaṅkara (Advaita) on BG.2.7; Madhva (Dvaita) on BG.2.7; Madhva (Dvaita) on BG.3.2.\n\nHistorical example (story from the texts): Arjuna lays down his bow. On the eve of battle, Arjuna sees teachers and relatives on the other side, is overcome with grief and pity, trembles, drops his bow and refuses to act. He tells Krishna his mind is confused about what is right and asks to be taught. Lesson: When duties collide, the paralysis and grief are real and are described in full; the turning point is admitting confusion and asking for help. Limits: Arjuna's dilemma is about fighting a war as a warrior. It is never an argument for violence, and most modern dilemmas have options he did not have, such as delay, mediation or leaving.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Hold on to the question that matters. Offered every pleasure to drop his question about what lies beyond death, Nachiketas refuses: no other teacher equals Death, and no other boon equals this one.\n  Source text (KaU.1.1.20): \"There is this doubt about a person who has died: some say 'he is', others say 'he is not'. Taught by you, I would know this. This is the third of my boons.\"\n  When the recommended principle misleads: It is used to look for one authority to decide everything.\n\nViveka's application - One next step: Write each duty and to whom it is owed. Ask which can be partly met, which can wait, and which cannot be compromised.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
+  "gate": [],
+  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: Remember mortality. The body will end in ashes; at the end, the seeker asks the mind to remember what was done, and mortals ripen like grain.\n  Why it fits you: For your situation (you said you are 70): addresses the kind of problem you describe; echoes your words: death, year.\n  In practice: You are weighing 'spend my last years' against 'not spend my last years'. Ask: if I had one year, what would I stop doing, and what would I start?\n\nSource text (IsU.17): \"Now let my breath go to the immortal wind, and let this body end in ashes. Om. O mind, remember! Remember what was done! O mind, remember! Remember what was done!\"\nSource text (KaU.1.1.6): \"Look back at how those before us acted; look around at how others act now. A mortal ripens like grain, and like grain is born again.\"\n  Commentator's view - Śaṅkara (Advaita): Spoken by one about to die: let my breath give up its individual limits and enter the cosmic, immortal air, and let this body, offered in the fire, end in ashes. 'Mind' (kratu) is Agni as resolve, asked to remember all the meditation and action done since childhood; the repetition shows earnestness.\n  Commentator's view - Śaṅkara (Advaita): Consider how your forefathers acted and how good people act now: none made their word false, and no one becomes ageless by breaking it. Mortals ripen and die like grain and are born again, so keep your truth and send me to Yama. The father sent him, and Yama was away for three nights.\n  Commentator's view - No commentary by Madhva (Dvaita) or Rāmānuja (Viśiṣṭādvaita) on the Isha Upanishad is in the library yet.\n  Commentator's view - No commentary by Madhva (Dvaita) or Rāmānuja (Viśiṣṭādvaita) on the Katha Upanishad is in the library yet.\n\nHistorical example (story from the texts): A seeker's prayer at the end of life. The Isha closes with the prayer of a seeker facing death: uncover the truth hidden by the golden lid, let breath return to the wind and the body to ashes, and remember what was done; lead us by the good path. Lesson: Facing the end, the seeker turns to truth, remembers their life honestly, and asks to be led on the good path. Limits: This is for adults reflecting on mortality or accompanying the dying; never for anyone in distress or under 18.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Keep acting even when you have nothing to gain. Even one who needs nothing keeps acting, because others follow and the world is held together by such action.\n  Source text (BG.3.22): \"Son of Pritha, there is nothing in the three worlds that I must do, nothing I lack or need to gain; and yet I keep on acting.\"\n  When the recommended principle misleads: It is brought up with someone grieving, frightened, in distress or under 18. Restricted.\n\nViveka's application - One next step: Ask: if I had one year, what would I stop doing, and what would I start?\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
   "answer": {
    "mode": "internal",
    "question": "I'm 70 and I want to prepare for death peacefully. How should I spend my last years?",
@@ -21770,13 +21839,29 @@
     "frames": [
      "decision",
      "ageing",
-     "death_question"
+     "death_question",
+     "prepare_for_death"
     ]
    },
    "protective": null,
    "clarifying_questions": [],
    "safety": null,
    "shortlist": [
+    {
+     "id": "mortality-is-certain",
+     "score": 17.06,
+     "frame_supported": true
+    },
+    {
+     "id": "keep-contributing",
+     "score": 14.5,
+     "frame_supported": true
+    },
+    {
+     "id": "knowledge-handed-down",
+     "score": 10.8,
+     "frame_supported": true
+    },
     {
      "id": "name-the-confusion",
      "score": 10.4,
@@ -21801,140 +21886,118 @@
      "id": "reflect-then-choose",
      "score": 9.0,
      "frame_supported": true
-    },
-    {
-     "id": "mortality-is-certain",
-     "score": 6.86,
-     "frame_supported": true
-    },
-    {
-     "id": "pleasant-versus-good",
-     "score": 6.83,
-     "frame_supported": false
-    },
-    {
-     "id": "act-so-you-wont-regret",
-     "score": 6.52,
-     "frame_supported": true
     }
    ],
    "comparison": [
     {
-     "principle": "name-the-confusion",
-     "name": "When duties conflict, name the confusion",
+     "principle": "mortality-is-certain",
+     "name": "Remember mortality",
      "fit": [
       "addresses the kind of problem you describe",
-      "speaks to conflicting duties"
+      "echoes your words: death, year"
      ],
      "disagrees_with": [],
-     "consequence_if_followed": "Two obligations genuinely conflict: career versus family, loyalty versus honesty, parent versus partner.",
-     "limits": "It is used to look for one authority to decide everything."
+     "consequence_if_followed": "An adult wants perspective on priorities, using awareness of death to choose what matters.",
+     "limits": "It is brought up with someone grieving, frightened, in distress or under 18. Restricted."
     },
     {
-     "principle": "persist-in-the-real-question",
-     "name": "Hold on to the question that matters",
+     "principle": "keep-contributing",
+     "name": "Keep acting even when you have nothing to gain",
      "fit": [
-      "addresses the kind of problem you describe",
-      "speaks to self-control",
-      "echoes your words: death"
-     ],
-     "disagrees_with": [
-      "faith-and-doubt"
-     ],
-     "consequence_if_followed": "Someone is being distracted or bought off from pursuing what truly matters to them.",
-     "limits": "It turns into stubbornness about a question that has been answered."
-    },
-    {
-     "principle": "self-is-not-destroyed",
-     "name": "The self is not destroyed when the body dies",
-     "fit": [
-      "addresses the kind of problem you describe",
-      "echoes your words: death"
+      "addresses the kind of problem you describe"
      ],
      "disagrees_with": [],
-     "consequence_if_followed": "An adult mourning a death seeks consolation that the one they lost is not simply gone.",
-     "limits": "It is used to make death seem harmless, to justify violence, or near anyone at risk of self-harm. It also says nothing about how to live with the absence. Restricted for under-18s and anyone in distress."
+     "consequence_if_followed": "After retirement, success or financial security, someone wonders why they should keep contributing.",
+     "limits": "It denies people well-earned rest, or pressures elders who have little energy left."
+    },
+    {
+     "principle": "knowledge-handed-down",
+     "name": "Wisdom is lost unless it is passed on",
+     "fit": [
+      "addresses the kind of problem you describe"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "An elder or experienced person wonders whether to pass on what they know.",
+     "limits": "It is used to insist that only one lineage holds the truth."
     }
    ],
    "recommendation": {
     "label": "Viveka's application",
-    "principle": "name-the-confusion",
-    "name": "When duties conflict, name the confusion",
-    "text": "When duties conflict, name the confusion. Arjuna's duties to family, teachers and his role collide; he says plainly that his mind is confused about what is right and asks for one clear answer. The Gita begins from that honesty.",
-    "why_it_fits_you": "For your situation (you said you are 70): addresses the kind of problem you describe; speaks to conflicting duties.",
-    "application": "You are weighing 'spend my last years' against 'not spend my last years'. Write each duty and to whom it is owed. Ask which can be partly met, which can wait, and which cannot be compromised.",
+    "principle": "mortality-is-certain",
+    "name": "Remember mortality",
+    "text": "Remember mortality. The body will end in ashes; at the end, the seeker asks the mind to remember what was done, and mortals ripen like grain.",
+    "why_it_fits_you": "For your situation (you said you are 70): addresses the kind of problem you describe; echoes your words: death, year.",
+    "application": "You are weighing 'spend my last years' against 'not spend my last years'. Ask: if I had one year, what would I stop doing, and what would I start?",
     "basis_frames": [
-     "decision"
+     "death_question",
+     "prepare_for_death"
     ]
    },
    "sources": [
     {
      "label": "Source text",
-     "id": "BG.2.7",
-     "english": "My nature is overcome by a pitiful weakness, and my mind is confused about what is right. I ask you: tell me clearly what is better. I am your student; I have come to you for refuge. Teach me.",
-     "devanagari": "कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसम्मूढचेताः ।\nयच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् ॥",
+     "id": "IsU.17",
+     "english": "Now let my breath go to the immortal wind, and let this body end in ashes. Om. O mind, remember! Remember what was done! O mind, remember! Remember what was done!",
+     "devanagari": "वायुरनिलममृतमथेदं भस्मांतँ शरीरम् ।\nॐ क्रतो स्मर कृतँ स्मर क्रतो स्मर कृतँ स्मर ॥",
      "review_status": "draft"
     },
     {
      "label": "Source text",
-     "id": "BG.3.2",
-     "english": "With words that seem mixed, you seem to confuse my mind. So tell me, decisively, the one thing by which I may reach what is best.",
-     "devanagari": "व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥",
+     "id": "KaU.1.1.6",
+     "english": "Look back at how those before us acted; look around at how others act now. A mortal ripens like grain, and like grain is born again.",
+     "devanagari": "अनुपश्य यथा पूर्वे प्रतिपश्य तथाऽपरे ।\nसस्यमिव मर्त्यः पच्यते सस्यमिवाजायते पुनः ॥",
      "review_status": "draft"
     }
    ],
    "commentary": [
     {
      "label": "Commentator's view",
-     "unit": "BG.2.7",
-     "school": "vishishtadvaita",
-     "commentator": "Rāmānuja (Viśiṣṭādvaita)",
-     "note": "Summarises 2.6-2.8: Arjuna reasons that being killed by the Kauravas would be better than an unrighteous victory; then, utterly helpless, he takes refuge at Krishna's feet and asks, as his disciple, to be told what is truly good for him."
-    },
-    {
-     "label": "Commentator's view",
-     "unit": "BG.3.2",
+     "unit": "IsU.17",
      "school": "advaita",
      "commentator": "Śaṅkara (Advaita)",
-     "note": "Krishna speaks clearly, but to Arjuna's limited understanding the words seem mixed: the one who came to remove his confusion seems to add to it."
+     "note": "Spoken by one about to die: let my breath give up its individual limits and enter the cosmic, immortal air, and let this body, offered in the fire, end in ashes. 'Mind' (kratu) is Agni as resolve, asked to remember all the meditation and action done since childhood; the repetition shows earnestness."
     },
     {
      "label": "Commentator's view",
-     "unit": "BG.3.2",
-     "school": "vishishtadvaita",
-     "commentator": "Rāmānuja (Viśiṣṭādvaita)",
-     "note": "Telling him to act, the opposite of the knowledge that withdraws the senses, seems contradictory, so Arjuna asks for one unmixed teaching he can follow."
+     "unit": "KaU.1.1.6",
+     "school": "advaita",
+     "commentator": "Śaṅkara (Advaita)",
+     "note": "Consider how your forefathers acted and how good people act now: none made their word false, and no one becomes ageless by breaking it. Mortals ripen and die like grain and are born again, so keep your truth and send me to Yama. The father sent him, and Yama was away for three nights."
     },
     {
      "label": "Commentator's view",
-     "missing": "Our source has no comment from Śaṅkara (Advaita) on BG.2.7; Madhva (Dvaita) on BG.2.7; Madhva (Dvaita) on BG.3.2."
+     "missing": "No commentary by Madhva (Dvaita) or Rāmānuja (Viśiṣṭādvaita) on the Isha Upanishad is in the library yet."
+    },
+    {
+     "label": "Commentator's view",
+     "missing": "No commentary by Madhva (Dvaita) or Rāmānuja (Viśiṣṭādvaita) on the Katha Upanishad is in the library yet."
     }
    ],
    "example": {
     "label": "Historical example (story from the texts)",
-    "id": "arjuna-collapse",
-    "title": "Arjuna lays down his bow",
-    "event": "On the eve of battle, Arjuna sees teachers and relatives on the other side, is overcome with grief and pity, trembles, drops his bow and refuses to act. He tells Krishna his mind is confused about what is right and asks to be taught.",
-    "source": "Bhagavad Gita 1.28-2.8 (data/gita.json)",
-    "lesson": "When duties collide, the paralysis and grief are real and are described in full; the turning point is admitting confusion and asking for help.",
-    "limits": "Arjuna's dilemma is about fighting a war as a warrior. It is never an argument for violence, and most modern dilemmas have options he did not have, such as delay, mediation or leaving.",
+    "id": "isha-dying-prayer",
+    "title": "A seeker's prayer at the end of life",
+    "event": "The Isha closes with the prayer of a seeker facing death: uncover the truth hidden by the golden lid, let breath return to the wind and the body to ashes, and remember what was done; lead us by the good path.",
+    "source": "Isha Upanishad 15-18",
+    "lesson": "Facing the end, the seeker turns to truth, remembers their life honestly, and asks to be led on the good path.",
+    "limits": "This is for adults reflecting on mortality or accompanying the dying; never for anyone in distress or under 18.",
     "verified": true
    },
    "challenge": {
     "label": "Viveka's application",
-    "principle": "persist-in-the-real-question",
-    "name": "Hold on to the question that matters",
-    "text": "If your conscience leans the other way, here is the other view: Hold on to the question that matters. Offered every pleasure to drop his question about what lies beyond death, Nachiketas refuses: no other teacher equals Death, and no other boon equals this one.",
+    "principle": "keep-contributing",
+    "name": "Keep acting even when you have nothing to gain",
+    "text": "If your conscience leans the other way, here is the other view: Keep acting even when you have nothing to gain. Even one who needs nothing keeps acting, because others follow and the world is held together by such action.",
     "source": {
      "label": "Source text",
-     "id": "KaU.1.1.20",
-     "english": "There is this doubt about a person who has died: some say 'he is', others say 'he is not'. Taught by you, I would know this. This is the third of my boons."
+     "id": "BG.3.22",
+     "english": "Son of Pritha, there is nothing in the three worlds that I must do, nothing I lack or need to gain; and yet I keep on acting."
     },
-    "when_the_recommendation_misleads": "It is used to look for one authority to decide everything."
+    "when_the_recommendation_misleads": "It is brought up with someone grieving, frightened, in distress or under 18. Restricted."
    },
    "next_step": {
     "label": "Viveka's application",
-    "text": "Write each duty and to whom it is owed. Ask which can be partly met, which can wait, and which cannot be compromised."
+    "text": "Ask: if I had one year, what would I stop doing, and what would I start?"
    },
    "safety_footer": {
     "label": "Viveka's application",
