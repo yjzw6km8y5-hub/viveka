@@ -144,6 +144,17 @@ def test_parent_conflict_frame_fires_on_fights_with_a_parent_only():
     assert "parent_conflict" in detect_frames("I argued with my parents last night.")
     assert "parent_conflict" not in detect_frames("My father fought in the war.")
     assert "parent_conflict" not in detect_frames("I am fighting with my landlord.")
+    for t in ["I had a fight with my father.", "He fights with my father.", "I quarreled with my mother.", "I quarrelled with my mum."]:
+        assert "parent_conflict" in detect_frames(t), t
+
+
+def test_parent_conflict_end_to_end_peace_but_danger_overrides():
+    a = answer("I had a fight with my father and I feel awful.")
+    assert a["recommendation"]["principle"] == "seek-a-parents-peace"
+    d = answer("I fought with my father last night, he hits me when drunk.")
+    assert d["safety"]["level"] == "danger" and "1098" in render(d)
+    assert d["recommendation"]["principle"] not in {"seek-a-parents-peace", "forgiveness-as-strength"}
+    assert "get away" in d["safety"]["message"] or "getting away" in d["safety"]["message"]
 
 
 def test_withheld_answer_passes_the_real_gate():

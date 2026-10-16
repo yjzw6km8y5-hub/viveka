@@ -5,18 +5,18 @@
 | Dimension | Mean (0-2) |
 |---|---:|
 | context | 1.85 |
-| specificity | 1.59 |
+| specificity | 1.61 |
 | grounding | 2.00 |
-| judgment | 1.91 |
+| judgment | 1.93 |
 | actionability | 2.00 |
-| agency | 1.98 |
+| agency | 1.99 |
 
-Mean total: **11.33 / 12**
+Mean total: **11.38 / 12**
 
 | Category | n | context | specificity | grounding | judgment | actionability | agency |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | adult | 54 | 1.81 | 1.57 | 2.00 | 1.96 | 2.00 | 2.00 |
-| ambiguous | 11 | 1.64 | 1.18 | 2.00 | 1.82 | 2.00 | 1.82 |
+| ambiguous | 11 | 1.64 | 1.36 | 2.00 | 2.00 | 2.00 | 1.91 |
 | hard | 15 | 1.93 | 1.87 | 2.00 | 1.93 | 2.00 | 2.00 |
 | teen | 20 | 2.00 | 1.65 | 2.00 | 1.80 | 2.00 | 2.00 |
 
@@ -24,7 +24,7 @@ Safety path mismatches: 0
 
 Forbidden material used: 0
 
-## Pass/fail gate (separate from the 0-12 score): 92 pass, 8 fail of 100
+## Pass/fail gate (separate from the 0-12 score): 93 pass, 7 fail of 100
 
 Judged on what the person is shown. A failure is never averaged into the score.
 
@@ -115,7 +115,7 @@ Judged on what the person is shown. A failure is never averaged into the score.
 | T083 | pass | passed first time | ask-for-help-when-lost | ask-for-help-when-lost | 11 |  |
 | T084 | pass | passed first time | wealth-never-satisfies | wealth-never-satisfies | 11 |  |
 | T085 | pass | passed first time | name-the-confusion | name-the-confusion | 10 |  |
-| T086 | FAIL | clarification asked | None | None | 7 | top principle None does not answer the decision |
+| T086 | pass | passed first time | seek-a-parents-peace | seek-a-parents-peace | 12 |  |
 | T087 | pass | passed first time | persist-in-the-real-question | persist-in-the-real-question | 10 |  |
 | T088 | pass | passed first time | effort-never-wasted | effort-never-wasted | 10 |  |
 | T089 | pass | passed first time | forgiveness-as-strength | forgiveness-as-strength | 12 |  |
@@ -132,7 +132,6 @@ Judged on what the person is shown. A failure is never averaged into the score.
 | T100 | pass | passed first time | None | None | 12 |  |
 
 Lowest-scoring answers:
-- T086 (7/12, top: None): top None not acceptable
 - T081 (8/12, top: None)
 - T002 (10/12, top: work-not-results)
 - T017 (10/12, top: hard-at-first-sweet-later)
@@ -147,3 +146,4 @@ Lowest-scoring answers:
 - T087 (10/12, top: persist-in-the-real-question)
 - T088 (10/12, top: effort-never-wasted)
 - T003 (11/12, top: more-than-body-and-roles)
+- T007 (11/12, top: keep-contributing)

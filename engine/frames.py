@@ -193,7 +193,7 @@ FRAMES = {
          r"\btook money from (?:my )?(?:mom|mum|mother|dad|father|parents)\b(?![^.?!]*\b(?:permission|asked|allowed)\b)"],
         ["apologise-sincerely", "honesty", "even-the-wrongdoer-can-cross", "knowledge-purifies"]),
     "parent_conflict": (
-        [r"\b(?:fight(?:ing)?|fought|argu(?:e|es|ed|ing)|quarrel(?:s|ing|led)?|clash(?:es|ed|ing)?) with my (?:father|mother|dad|mom|mum|parents?)\b"],
+        [r"\b(?:fight(?:s|ing)?|fought|argu(?:e|es|ed|ing)|quarrel(?:s|ing|led|ed)?|clash(?:es|ed|ing)?) with my (?:father|mother|dad|mom|mum|parents?)\b"],
         ["seek-a-parents-peace", "calm-before-clarity", "speech-without-harm", "meet-people-where-they-are",
          "forgiveness-as-strength"]),
     "prepare_for_death": (
