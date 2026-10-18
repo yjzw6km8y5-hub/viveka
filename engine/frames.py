@@ -197,7 +197,7 @@ FRAMES = {
         ["seek-a-parents-peace", "calm-before-clarity", "speech-without-harm", "meet-people-where-they-are",
          "forgiveness-as-strength"]),
     "being_bullied": (
-        [r"\b(?:bully|bullies|bullied|bullying) (?:me|him|her)\b",
+        [r"\b(?:bully|bullies|bullied|bullying) me\b",
          r"\b(?:kids|people|classmates|students|boys|girls) (?:at school )?(?:bully|bullied|pick on|tease|mock) me\b",
          r"\bi(?: am|'m|'ve been| have been) (?:being )?bullied\b", r"\bpick(?:s|ed)? on me\b"],
         ["ask-for-help-when-lost", "fearlessness", "honour-and-dishonour-alike", "duty-of-protection"]),

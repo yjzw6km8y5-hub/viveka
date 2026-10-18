@@ -266,11 +266,21 @@ def test_being_bullied_frame_fires_on_being_targeted_only():
     assert "being_bullied" in detect_frames("I am being bullied by older boys.")
     assert "being_bullied" not in detect_frames("I saw a bully hit a boy and I want to report it.")
     assert "being_bullied" not in detect_frames("My boss is a bully to the interns.")
+    for t in ["I bully him and I want to stop.", "She bullies her classmates.", "They bullied him last year."]:
+        assert "being_bullied" not in detect_frames(t), t
 
 
 def test_being_bullied_end_to_end_seeks_help_not_honesty():
     a = answer("I'm 14 and some kids at school bully me every day. I don't want to tell my parents.")
-    assert a["recommendation"]["principle"] in ("ask-for-help-when-lost", "fearlessness", "honour-and-dishonour-alike", "duty-of-protection")
+    rec = a["recommendation"]
+    assert "being_bullied" in rec["basis_frames"]
+    assert rec["principle"] in ("ask-for-help-when-lost", "fearlessness", "honour-and-dishonour-alike", "duty-of-protection")
+    assert rec["principle"] not in ("honesty", "keep-distance-from-harmful-people", "forgiveness-as-strength")
+    t = render(a).lower()
+    assert "trusted adult" in t or "teacher" in t or "counsellor" in t or "counselor" in t
+    d = answer("I'm 14 and some kids at school bully me and last week they hit me and threatened to hurt me badly.")
+    td = render(d).lower()
+    assert "never a failure of duty" in td and "childline" in td or "kids help phone" in td
 
 
 if __name__ == "__main__":
