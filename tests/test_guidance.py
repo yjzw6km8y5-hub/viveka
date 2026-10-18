@@ -260,6 +260,19 @@ def test_no_invented_motives_or_power():
     assert "your mother, think about what they need" not in t
 
 
+def test_being_bullied_frame_fires_on_being_targeted_only():
+    from engine.frames import detect_frames
+    assert "being_bullied" in detect_frames("I'm 14 and some kids at school bully me every day.")
+    assert "being_bullied" in detect_frames("I am being bullied by older boys.")
+    assert "being_bullied" not in detect_frames("I saw a bully hit a boy and I want to report it.")
+    assert "being_bullied" not in detect_frames("My boss is a bully to the interns.")
+
+
+def test_being_bullied_end_to_end_seeks_help_not_honesty():
+    a = answer("I'm 14 and some kids at school bully me every day. I don't want to tell my parents.")
+    assert a["recommendation"]["principle"] in ("ask-for-help-when-lost", "fearlessness", "honour-and-dishonour-alike", "duty-of-protection")
+
+
 if __name__ == "__main__":
     for n, f in list(globals().items()):
         if n.startswith("test_"):

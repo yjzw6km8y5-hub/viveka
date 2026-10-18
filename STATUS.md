@@ -41,6 +41,7 @@ and `PROGRESS.md`). Items that need a human reader of Sanskrit are listed at the
 - After each change: `build_gita.py`, then `validate.py --allow-incomplete`.
 
 ## Done recently
+- Cycle 13: situations gate 94/100 from the `being_bullied` frame (T058).
 - Cycle 12: situations gate 93/100 from the `parent_conflict` frame (T086).
 - Cycle 11: situations gate 92/100, heldout2 18/30 from the `took_without_asking` frame.
 - Cycle 10: situations gate 91/100 (was 86) from new frames; no per-case regressions in self_check (re-run after review fixes).
@@ -52,6 +53,7 @@ and `PROGRESS.md`). Items that need a human reader of Sanskrit are listed at the
 
 ## Handoff
 _Newest note first. Each tool ends its turn with a note here (CLAUDE.md section 13)._
+- 2026-10-17, builder: claude. Cycle 13: new frame `being_bullied` (being bullied at school; excludes honesty) fixes T058; situations gate 94/100, heldout 25/30, heldout2 18/30, paired 14/14 (spent-set rerun, regression evidence only). Tests: build_gita, validate --allow-incomplete, self_check pass. **Needs review by Codex:** engine/frames.py `being_bullied`. Left: T037, T029, T059, T062, T065, T075, other spent-bank failures.
 - 2026-10-16 04:30 -04:00, builder: claude. Fixed review `202610160418-viveka-cycle12.md`: widened `parent_conflict` cues (fights, quarreled), added end-to-end tests incl. danger override, regenerated tests/results (situations 93/100, T086 passes), accepted baseline. Commit: see git log. Cycle 12: new frame `parent_conflict` (fighting or arguing with a parent) fixes T086; situations gate 93/100, heldout 25/30, heldout2 18/30, paired 14/14; no per-case regressions (spent-set rerun, regression evidence only). Tests: build_gita, validate --allow-incomplete, self_check pass. **Needs review by Codex:** engine/frames.py `parent_conflict`. Left: T037 (expectation too narrow), T029, T058, T059, T062, T065, T075, other spent-bank failures.
 - 2026-10-11, builder: claude. Cycle 11: new frame `took_without_asking` (taking or spending a parent's money) sends T064 and V017 to apology and honesty, not wealth; narrow cues and a negative test. Situations gate 92/100, heldout2 18/30 (T064, V017 fixed; spent-set rerun, regression evidence only); no per-case regressions in self_check (re-run after review fixes). Tests: build_gita, validate --allow-incomplete, self_check pass. **Needs review by Codex:** engine/frames.py `took_without_asking`. Left: T037, T020/T098 wording, other spent-bank failures.
 - 2026-10-04 02:00 -04:00, builder: claude. Fixed review `202610040537-viveka-cycle10.md`: narrowed `identity_loss` and `prepare_for_death` cues (no bare "identity" or "my last years"), added negative tests, corrected the cycle 10 row in `logs/cycles.csv` (time, commit 2e4a7a4), refreshed the brief. Tests: build_gita and validate --allow-incomplete pass; `scripts/self_check.py` PASSED (situations 91/100, heldout 25/30, heldout2 17/30, paired 14/14). Open: T020/T098 application wording still reads poorly (finding 2); needs semantic assertions. Commit: see git log. **Next reviewer check:** engine/frames.py cues, T020/T098 output.

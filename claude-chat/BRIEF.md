@@ -1,6 +1,6 @@
 # Viveka: brief for the Claude planning chat
 
-_Updated 2026-10-16 00:36 Eastern Daylight Time by `scripts/brief.py` after a cycle. Repo: https://github.com/yjzw6km8y5-hub/viveka_
+_Updated 2026-10-17 21:18 Eastern Daylight Time by `scripts/brief.py` after a cycle. Repo: https://github.com/yjzw6km8y5-hub/viveka_
 
 ## Current status
 
@@ -42,11 +42,10 @@ _Updated 2026-10-16 00:36 Eastern Daylight Time by `scripts/brief.py` after a cy
 
 - **Cycles:** 1 (1 ok, 0 failed); by builder: claude 1.
 - **Not yet reviewed by the other tool:** 1.
-- **Commits:** 1.
+- **Commits:** 0.
 
 <details><summary>Commits</summary>
 
-- 10-16 00:27  Cycle 12: parent_conflict frame; situations gate 93/100
 
 </details>
 
