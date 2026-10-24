@@ -1,6 +1,6 @@
 # Viveka: brief for the Claude planning chat
 
-_Updated 2026-10-17 21:18 Eastern Daylight Time by `scripts/brief.py` after a cycle. Repo: https://github.com/yjzw6km8y5-hub/viveka_
+_Updated 2026-10-22 22:04 Eastern Daylight Time by `scripts/brief.py` after a cycle. Repo: https://github.com/yjzw6km8y5-hub/viveka_
 
 ## Current status
 
@@ -30,7 +30,7 @@ _Updated 2026-10-17 21:18 Eastern Daylight Time by `scripts/brief.py` after a cy
 | Niti texts (8 planned) | 2 of 8 done; paused | 75% |
 | Sanskrit review by the owner | 0 of 1539 verses reviewed | 100% |
 | Codex verse check | 39 of 39 batches | 0% |
-| Guidance gate, dev set | 93 of 100 pass (builder-written; not independent) | 7% |
+| Guidance gate, dev set | 95 of 100 pass (builder-written; not independent) | 5% |
 | Guidance gate, held-out v1 | 25 of 30 pass (builder-written; not independent) | 17% |
 | Guidance gate, held-out v2 | 18 of 30 pass (builder-written; not independent) | 40% |
 | Guidance gate, paired cases | 14 of 14 pass (builder-written; not independent) | 0% |

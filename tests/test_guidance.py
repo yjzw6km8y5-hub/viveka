@@ -283,6 +283,14 @@ def test_being_bullied_end_to_end_seeks_help_not_honesty():
     assert "never a failure of duty" in td and "childline" in td or "kids help phone" in td
 
 
+def test_peer_pressure_frame_fires_on_pressure_to_drink_or_smoke_only():
+    from engine.frames import detect_frames
+    assert "peer_pressure" in detect_frames("I'm 17 and my friends keep pressuring me to drink at parties.")
+    assert "peer_pressure" in detect_frames("There is peer pressure at school to vape.")
+    for t in ["My friends invited me to a party and I am nervous.", "I drink too much coffee and want to focus."]:
+        assert "peer_pressure" not in detect_frames(t), t
+
+
 if __name__ == "__main__":
     for n, f in list(globals().items()):
         if n.startswith("test_"):

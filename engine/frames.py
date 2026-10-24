@@ -201,6 +201,11 @@ FRAMES = {
          r"\b(?:kids|people|classmates|students|boys|girls) (?:at school )?(?:bully|bullied|pick on|tease|mock) me\b",
          r"\bi(?: am|'m|'ve been| have been) (?:being )?bullied\b", r"\bpick(?:s|ed)? on me\b"],
         ["ask-for-help-when-lost", "fearlessness", "honour-and-dishonour-alike", "duty-of-protection"]),
+    "peer_pressure": (
+        [r"\b(?:friends|classmates|everyone|people|they)\b[^.?!]{0,30}\b(?:pressur\w*|push\w*|urg\w*)\b[^.?!]{0,30}\b(?:me )?(?:to )?(?:drink|smoke|vape|try drugs|do drugs)\b",
+         r"\bpeer pressure\b", r"\bfit in\b[^.?!]{0,60}\b(?:drink|smoke|vape|drugs)\b",
+         r"\bpressur\w* me to (?:drink|smoke|vape|try)\b"],
+        ["independent-of-the-crowd", "own-path-over-imitation", "pleasant-versus-good", "withstand-the-surge"]),
     "prepare_for_death": (
         [r"\bprepare (?:for death|to die)\b", r"\bdie peacefully\b", r"\bmy last years (?:of life|alive)\b", r"\bspend my last years\b(?![^.?!]{0,20}\b(?:at|in) (?:school|college|university)\b)"],
         ["mortality-is-certain", "keep-contributing", "knowledge-handed-down", "know-it-in-this-life", "turn-inward"]),
@@ -317,7 +322,7 @@ PRIMARY = {"decision": 1.4, "danger": 2.0, "fatalism": 1.4, "burnout": 1.3, "dea
            "violence_justification": 2.0, "parting": 1.2, "distress": 1.6,
            "eating": 2.4, "remarriage": 1.6, "why_suffering": 1.5,
            "karma_blame": 1.8, "family_care": 1.4, "identity_loss": 1.6, "credit_taken": 1.6,
-           "prepare_for_death": 1.7, "took_without_asking": 1.7, "parent_conflict": 1.6, "being_bullied": 1.7}
+           "prepare_for_death": 1.7, "took_without_asking": 1.7, "parent_conflict": 1.6, "being_bullied": 1.7, "peer_pressure": 1.8}
 # Principles that must not be offered when a frame is present (they would serve the wrong party).
 FRAME_EXCLUDE = {"being_bullied": {"honesty", "keep-distance-from-harmful-people", "forgiveness-as-strength"},
 "took_without_asking": {"wealth-never-satisfies", "resist-tempting-shortcuts", "do-not-covet"},

@@ -13429,24 +13429,20 @@
   "scores": {
    "context": 2,
    "grounding": 2,
-   "judgment": 1,
+   "judgment": 2,
    "specificity": 1,
    "actionability": 2,
    "agency": 2
   },
-  "total": 10,
-  "notes": [
-   "top choose-your-company not acceptable; acceptable one in top 3"
-  ],
-  "top": "choose-your-company",
-  "raw_top": "choose-your-company",
+  "total": 11,
+  "notes": [],
+  "top": "independent-of-the-crowd",
+  "raw_top": "independent-of-the-crowd",
   "outcome": "passed first time",
   "safety": null,
   "questions": [],
-  "gate": [
-   "top principle choose-your-company does not answer the decision"
-  ],
-  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: You become like the company you keep. Good company clears the mind, puts truth into speech and raises one's honour; the same drop of water vanishes on hot iron and becomes a pearl in a shell.\n  Why it fits you: For your situation (you said you are 17): addresses the kind of problem you describe; speaks to a relationship; echoes your words: friend.\n  In practice: List the five people you spend most time with. For each, ask whether you are clearer, kinder and more honest after time with them. Spend a little more time with those who raise you up.\n\nSource text (NS.23): \"It removes dullness of mind, sprinkles truth on speech, raises one's honour, drives away wrongdoing, clears the heart and spreads one's good name in every direction: tell me, what does the company of good people not do for a person?\"\nSource text (NS.67): \"On red-hot iron, a drop of water leaves not even a trace; on a lotus leaf, the same drop shines like a pearl; falling into a sea-shell at the right season, it becomes a pearl. As a rule, low, middling and high qualities come from the company one keeps.\"\n  Commentator's view - No classical commentary on the Nitishataka of Bhartrihari is in the library yet.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: The wise are awake when the world sleeps. What is night for all beings is waking for the self-controlled; few among thousands strive for what matters most, and fewer still truly know it.\n  Source text (BG.2.69): \"What is night for all beings is the time of waking for the self-controlled; and when other beings are awake, that is night for the sage who truly sees.\"\n  When the recommended principle misleads: It is used to look down on people, or to cut off someone who simply needs help.\n\nViveka's application - One next step: List the five people you spend most time with. For each, ask whether you are clearer, kinder and more honest after time with them. Spend a little more time with those who raise you up.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
+  "gate": [],
+  "rendered": "[DRAFT: internal test answer using unreviewed material. Not for users.]\n\nViveka's application - Recommendation: The wise are awake when the world sleeps. What is night for all beings is waking for the self-controlled; few among thousands strive for what matters most, and fewer still truly know it.\n  Why it fits you: For your situation (you said you are 17): addresses the kind of problem you describe.\n  In practice: Write down one value you hold that your group does not. Decide one way to keep it this week without fighting the group.\n\nSource text (BG.2.69): \"What is night for all beings is the time of waking for the self-controlled; and when other beings are awake, that is night for the sage who truly sees.\"\nSource text (BG.7.3): \"Among thousands of people, hardly one strives for perfection; and among those who strive and succeed, hardly one knows me as I truly am.\"\n  Commentator's view - Śaṅkara (Advaita): Among thousands, one strives for perfection; and of those who strive, who are already accomplished in a sense, only one knows me truly.\n  Commentator's view - Rāmānuja (Viśiṣṭādvaita): Among thousands fit for scripture, few strive all the way to perfection; among those, few know me and strive through me; and among thousands who know me, hardly one knows me as I truly am.\n  Commentator's view - Madhva (Dvaita): Shows how rare this knowledge is.\n  Commentator's view - Our source has no comment from Śaṅkara (Advaita) on BG.2.69; Rāmānuja (Viśiṣṭādvaita) on BG.2.69; Madhva (Dvaita) on BG.2.69.\n\nViveka's application - Strongest alternative: If your conscience leans the other way, here is the other view: Don't unsettle others; meet them where they are. The wise should not unsettle those attached to their way of acting, but encourage them by example; God receives people however they approach.\n  Source text (BG.3.26): \"The wise should not unsettle the minds of the unknowing who are attached to action; acting with discipline themselves, they should encourage others in all their work.\"\n  When the recommended principle misleads: It turns into contempt for other people or a feeling of superiority.\n\nViveka's application - One next step: Write down one value you hold that your group does not. Decide one way to keep it this week without fighting the group.\n\nIf you are in crisis, thinking of harming yourself, or not safe where you are, please contact a help line or someone you trust now. In India: 112 (emergency), 14416 (Tele-MANAS, 24/7). Children: 1098. Women: 181. US: 988. UK: 116 123.",
   "answer": {
    "mode": "internal",
    "question": "I'm 17 and my friends keep pressuring me to drink at parties. I don't want to but I want to fit in.",
@@ -13484,19 +13480,24 @@
    "safety": null,
    "shortlist": [
     {
-     "id": "choose-your-company",
-     "score": 8.49,
+     "id": "independent-of-the-crowd",
+     "score": 10.8,
      "frame_supported": true
     },
     {
-     "id": "independent-of-the-crowd",
-     "score": 6.0,
+     "id": "pleasant-versus-good",
+     "score": 7.2,
      "frame_supported": true
     },
     {
      "id": "meet-people-where-they-are",
      "score": 5.5,
      "frame_supported": false
+    },
+    {
+     "id": "withstand-the-surge",
+     "score": 5.4,
+     "frame_supported": true
     },
     {
      "id": "friend-of-all-beings",
@@ -13509,34 +13510,17 @@
      "frame_supported": false
     },
     {
+     "id": "choose-your-company",
+     "score": 3.49,
+     "frame_supported": false
+    },
+    {
      "id": "marks-of-a-true-friend",
-     "score": 3.49,
-     "frame_supported": false
-    },
-    {
-     "id": "speak-the-hard-truth",
-     "score": 3.49,
-     "frame_supported": false
-    },
-    {
-     "id": "trust-with-care",
      "score": 3.49,
      "frame_supported": false
     }
    ],
    "comparison": [
-    {
-     "principle": "choose-your-company",
-     "name": "You become like the company you keep",
-     "fit": [
-      "addresses the kind of problem you describe",
-      "speaks to a relationship",
-      "echoes your words: friend"
-     ],
-     "disagrees_with": [],
-     "consequence_if_followed": "Someone is choosing friends, a peer group, a workplace or a partner's circle, or noticing how others are shaping them.",
-     "limits": "It is used to look down on people, or to cut off someone who simply needs help."
-    },
     {
      "principle": "independent-of-the-crowd",
      "name": "The wise are awake when the world sleeps",
@@ -13548,6 +13532,16 @@
      ],
      "consequence_if_followed": "Someone is under peer pressure to follow what everyone around them values.",
      "limits": "It turns into contempt for other people or a feeling of superiority."
+    },
+    {
+     "principle": "pleasant-versus-good",
+     "name": "Choose the good over the merely pleasant",
+     "fit": [
+      "addresses the kind of problem you describe"
+     ],
+     "disagrees_with": [],
+     "consequence_if_followed": "A choice between short-term comfort and long-term wellbeing: study or scrolling, saving or spending, honesty or ease.",
+     "limits": "It makes someone distrust every enjoyable thing, or choose hardship for its own sake."
     },
     {
      "principle": "meet-people-where-they-are",
@@ -13565,11 +13559,11 @@
    ],
    "recommendation": {
     "label": "Viveka's application",
-    "principle": "choose-your-company",
-    "name": "You become like the company you keep",
-    "text": "You become like the company you keep. Good company clears the mind, puts truth into speech and raises one's honour; the same drop of water vanishes on hot iron and becomes a pearl in a shell.",
-    "why_it_fits_you": "For your situation (you said you are 17): addresses the kind of problem you describe; speaks to a relationship; echoes your words: friend.",
-    "application": "List the five people you spend most time with. For each, ask whether you are clearer, kinder and more honest after time with them. Spend a little more time with those who raise you up.",
+    "principle": "independent-of-the-crowd",
+    "name": "The wise are awake when the world sleeps",
+    "text": "The wise are awake when the world sleeps. What is night for all beings is waking for the self-controlled; few among thousands strive for what matters most, and fewer still truly know it.",
+    "why_it_fits_you": "For your situation (you said you are 17): addresses the kind of problem you describe.",
+    "application": "Write down one value you hold that your group does not. Decide one way to keep it this week without fighting the group.",
     "basis_frames": [
      "peer_pressure"
     ]
@@ -13577,41 +13571,62 @@
    "sources": [
     {
      "label": "Source text",
-     "id": "NS.23",
-     "english": "It removes dullness of mind, sprinkles truth on speech, raises one's honour, drives away wrongdoing, clears the heart and spreads one's good name in every direction: tell me, what does the company of good people not do for a person?",
-     "devanagari": "जाड्यं धियो हरति सिञ्चति वाचि सत्यं मानोन्नतिं दिशति पापमपाकरोति।\nचेतः प्रसादयति दिक्षु तनोति कीर्तिं सत्संगतिः कथय किं न करोति पुंसाम् ॥",
+     "id": "BG.2.69",
+     "english": "What is night for all beings is the time of waking for the self-controlled; and when other beings are awake, that is night for the sage who truly sees.",
+     "devanagari": "या निशा सर्वभूतानां तस्यां जागर्ति संयमी ।\nयस्यां जाग्रति भूतानि सा निशा पश्यतो मुनेः ॥",
      "review_status": "draft"
     },
     {
      "label": "Source text",
-     "id": "NS.67",
-     "english": "On red-hot iron, a drop of water leaves not even a trace; on a lotus leaf, the same drop shines like a pearl; falling into a sea-shell at the right season, it becomes a pearl. As a rule, low, middling and high qualities come from the company one keeps.",
-     "devanagari": "संतप्तायसि संस्थितस्य पयसो नामाऽपि न ज्ञायते मुक्ताकारतया तदेव नलिनीपत्रस्थितं राजते।\nस्वात्यां सागरशुक्तिमध्यपतितं तन्मौक्तिकं जायते प्रायेणाधममध्यमोत्तमगुणः संसर्गतो जायते ॥",
+     "id": "BG.7.3",
+     "english": "Among thousands of people, hardly one strives for perfection; and among those who strive and succeed, hardly one knows me as I truly am.",
+     "devanagari": "मनुष्याणां सहस्रेषु कश्चिद्यतति सिद्धये ।\nयततामपि सिद्धानां कश्चिन्मां वेत्ति तत्त्वतः ॥",
      "review_status": "draft"
     }
    ],
    "commentary": [
     {
      "label": "Commentator's view",
-     "missing": "No classical commentary on the Nitishataka of Bhartrihari is in the library yet."
+     "unit": "BG.7.3",
+     "school": "advaita",
+     "commentator": "Śaṅkara (Advaita)",
+     "note": "Among thousands, one strives for perfection; and of those who strive, who are already accomplished in a sense, only one knows me truly."
+    },
+    {
+     "label": "Commentator's view",
+     "unit": "BG.7.3",
+     "school": "vishishtadvaita",
+     "commentator": "Rāmānuja (Viśiṣṭādvaita)",
+     "note": "Among thousands fit for scripture, few strive all the way to perfection; among those, few know me and strive through me; and among thousands who know me, hardly one knows me as I truly am."
+    },
+    {
+     "label": "Commentator's view",
+     "unit": "BG.7.3",
+     "school": "dvaita",
+     "commentator": "Madhva (Dvaita)",
+     "note": "Shows how rare this knowledge is."
+    },
+    {
+     "label": "Commentator's view",
+     "missing": "Our source has no comment from Śaṅkara (Advaita) on BG.2.69; Rāmānuja (Viśiṣṭādvaita) on BG.2.69; Madhva (Dvaita) on BG.2.69."
     }
    ],
    "example": null,
    "challenge": {
     "label": "Viveka's application",
-    "principle": "independent-of-the-crowd",
-    "name": "The wise are awake when the world sleeps",
-    "text": "If your conscience leans the other way, here is the other view: The wise are awake when the world sleeps. What is night for all beings is waking for the self-controlled; few among thousands strive for what matters most, and fewer still truly know it.",
+    "principle": "meet-people-where-they-are",
+    "name": "Don't unsettle others; meet them where they are",
+    "text": "If your conscience leans the other way, here is the other view: Don't unsettle others; meet them where they are. The wise should not unsettle those attached to their way of acting, but encourage them by example; God receives people however they approach.",
     "source": {
      "label": "Source text",
-     "id": "BG.2.69",
-     "english": "What is night for all beings is the time of waking for the self-controlled; and when other beings are awake, that is night for the sage who truly sees."
+     "id": "BG.3.26",
+     "english": "The wise should not unsettle the minds of the unknowing who are attached to action; acting with discipline themselves, they should encourage others in all their work."
     },
-    "when_the_recommendation_misleads": "It is used to look down on people, or to cut off someone who simply needs help."
+    "when_the_recommendation_misleads": "It turns into contempt for other people or a feeling of superiority."
    },
    "next_step": {
     "label": "Viveka's application",
-    "text": "List the five people you spend most time with. For each, ask whether you are clearer, kinder and more honest after time with them. Spend a little more time with those who raise you up."
+    "text": "Write down one value you hold that your group does not. Decide one way to keep it this week without fighting the group."
    },
    "safety_footer": {
     "label": "Viveka's application",

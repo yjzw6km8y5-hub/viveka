@@ -6229,8 +6229,7 @@
     "months_since_loss": null,
     "frames": [
      "eating",
-     "distress",
-     "peer_pressure"
+     "distress"
     ]
    },
    "protective": {
@@ -6296,11 +6295,6 @@
      "frame_supported": true
     },
     {
-     "id": "choose-your-company",
-     "score": 8.49,
-     "frame_supported": true
-    },
-    {
      "id": "states-arise-and-pass",
      "score": 8.01,
      "frame_supported": true
@@ -6314,6 +6308,11 @@
      "id": "speak-the-hard-truth",
      "score": 6.63,
      "frame_supported": false
+    },
+    {
+     "id": "every-reason-to-seek-is-valid",
+     "score": 6.33,
+     "frame_supported": true
     }
    ],
    "comparison": [

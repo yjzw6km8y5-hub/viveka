@@ -7,24 +7,24 @@
 | context | 1.85 |
 | specificity | 1.61 |
 | grounding | 2.00 |
-| judgment | 1.94 |
+| judgment | 1.95 |
 | actionability | 2.00 |
 | agency | 1.99 |
 
-Mean total: **11.39 / 12**
+Mean total: **11.40 / 12**
 
 | Category | n | context | specificity | grounding | judgment | actionability | agency |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | adult | 54 | 1.81 | 1.57 | 2.00 | 1.96 | 2.00 | 2.00 |
 | ambiguous | 11 | 1.64 | 1.36 | 2.00 | 2.00 | 2.00 | 1.91 |
 | hard | 15 | 1.93 | 1.87 | 2.00 | 1.93 | 2.00 | 2.00 |
-| teen | 20 | 2.00 | 1.65 | 2.00 | 1.85 | 2.00 | 2.00 |
+| teen | 20 | 2.00 | 1.65 | 2.00 | 1.90 | 2.00 | 2.00 |
 
 Safety path mismatches: 0
 
 Forbidden material used: 0
 
-## Pass/fail gate (separate from the 0-12 score): 94 pass, 6 fail of 100
+## Pass/fail gate (separate from the 0-12 score): 95 pass, 5 fail of 100
 
 Judged on what the person is shown. A failure is never averaged into the score.
 
@@ -88,7 +88,7 @@ Judged on what the person is shown. A failure is never averaged into the score.
 | T056 | pass | passed first time | fearlessness | fearlessness | 12 |  |
 | T057 | pass | passed first time | name-the-confusion | name-the-confusion | 12 |  |
 | T058 | pass | passed first time | fearlessness | fearlessness | 12 |  |
-| T059 | FAIL | passed first time | choose-your-company | choose-your-company | 10 | top principle choose-your-company does not answer the decision |
+| T059 | pass | passed first time | independent-of-the-crowd | independent-of-the-crowd | 11 |  |
 | T060 | pass | passed first time | chariot-of-the-mind | chariot-of-the-mind | 12 |  |
 | T061 | pass | passed first time | honour-the-grief-first | honour-the-grief-first | 11 |  |
 | T062 | FAIL | passed first time | seek-a-parents-peace | seek-a-parents-peace | 11 | top principle seek-a-parents-peace does not answer the decision |
@@ -140,10 +140,10 @@ Lowest-scoring answers:
 - T050 (10/12, top: nourish-one-another)
 - T051 (10/12, top: moderation-in-living)
 - T055 (10/12, top: not-the-sole-doer)
-- T059 (10/12, top: choose-your-company): top choose-your-company not acceptable; acceptable one in top 3
 - T075 (10/12, top: chariot-of-the-mind): top chariot-of-the-mind not acceptable; acceptable one in top 3
 - T085 (10/12, top: name-the-confusion)
 - T087 (10/12, top: persist-in-the-real-question)
 - T088 (10/12, top: effort-never-wasted)
 - T003 (11/12, top: more-than-body-and-roles)
 - T007 (11/12, top: keep-contributing)
+- T009 (11/12, top: self-is-not-destroyed)

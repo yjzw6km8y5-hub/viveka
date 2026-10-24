@@ -41,6 +41,7 @@ and `PROGRESS.md`). Items that need a human reader of Sanskrit are listed at the
 - After each change: `build_gita.py`, then `validate.py --allow-incomplete`.
 
 ## Done recently
+- Cycle 14: situations gate 95/100 from the `peer_pressure` frame (T059).
 - Cycle 13: situations gate 94/100 from the `being_bullied` frame (T058).
 - Cycle 12: situations gate 93/100 from the `parent_conflict` frame (T086).
 - Cycle 11: situations gate 92/100, heldout2 18/30 from the `took_without_asking` frame.
@@ -53,6 +54,8 @@ and `PROGRESS.md`). Items that need a human reader of Sanskrit are listed at the
 
 ## Handoff
 _Newest note first. Each tool ends its turn with a note here (CLAUDE.md section 13)._
+- 2026-10-23, builder: claude. Committed the uncommitted cycle-14 work (peer_pressure frame, regenerated results) left by the failed cycle. Tests: build_gita, validate --allow-incomplete, self_check pass. Next reviewer check: engine/frames.py peer_pressure.
+- 2026-10-22, builder: claude. Cycle 14: new frame `peer_pressure` (friends pressuring to drink, smoke or vape) fixes T059; situations gate 95/100, heldout 25/30, heldout2 18/30, paired 14/14 (spent-set rerun, regression evidence only). Tests: build_gita, validate --allow-incomplete, self_check pass. **Needs review by Codex:** engine/frames.py `peer_pressure`. Left: T037, T029, T062, T065, T075, other spent-bank failures.
 - 2026-10-17 20:00 -04:00, builder: claude. Fixed review 202610180108-viveka-cycle13: being_bullied cue now targets only "bully me" (no him/her), added negative actor tests, stronger end-to-end and danger-override tests, regenerated and accepted tests/results/after (situations 94/100, T058 passes). Commit: see git log. Tests: build_gita, validate --allow-incomplete, self_check pass. Next reviewer check: engine/frames.py being_bullied.
 - 2026-10-17, builder: claude. Cycle 13: new frame `being_bullied` (being bullied at school; excludes honesty) fixes T058; situations gate 94/100, heldout 25/30, heldout2 18/30, paired 14/14 (spent-set rerun, regression evidence only). Tests: build_gita, validate --allow-incomplete, self_check pass. **Needs review by Codex:** engine/frames.py `being_bullied`. Left: T037, T029, T059, T062, T065, T075, other spent-bank failures.
 - 2026-10-16 04:30 -04:00, builder: claude. Fixed review `202610160418-viveka-cycle12.md`: widened `parent_conflict` cues (fights, quarreled), added end-to-end tests incl. danger override, regenerated tests/results (situations 93/100, T086 passes), accepted baseline. Commit: see git log. Cycle 12: new frame `parent_conflict` (fighting or arguing with a parent) fixes T086; situations gate 93/100, heldout 25/30, heldout2 18/30, paired 14/14; no per-case regressions (spent-set rerun, regression evidence only). Tests: build_gita, validate --allow-incomplete, self_check pass. **Needs review by Codex:** engine/frames.py `parent_conflict`. Left: T037 (expectation too narrow), T029, T058, T059, T062, T065, T075, other spent-bank failures.
